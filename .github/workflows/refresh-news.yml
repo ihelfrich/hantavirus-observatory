@@ -35,5 +35,10 @@ jobs:
           else
             git add news.json
             git commit -m "chore(news): refresh cached feed [skip ci]"
-            git push
+            # Rebase on any commits that landed while we were fetching, then push
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep 3
+            done
           fi
