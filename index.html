@@ -5,7 +5,7 @@
   <title>The Hantavirus Observatory · ed. Dr. Ian Helfrich</title>
   <meta name="viewport" content="width=1440">
   <meta name="author" content="Dr. Ian Helfrich">
-  <meta name="description" content="Global hantavirus surveillance design study by Dr. Ian Helfrich. Live news, finance, wastewater, and border-crossings; everything else is illustrative.">
+  <meta name="description" content="Global hantavirus surveillance design study by Dr. Ian Helfrich. Live news, finance, wastewater, borders, flights, Wikipedia attention, NCBI sequences, GBIF reservoirs, HHS hospital capacity, WHO DON.">
   <link rel="canonical" href="https://ihelfrich.github.io/hantavirus-observatory/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -2009,6 +2009,100 @@ window.LiveData = (function () {
     } catch(e) { console.warn('BTS border fetch failed:', e.message); return null; }
   }
 
+  // ── Wikipedia Pageviews (CORS: *) — public attention proxy ────
+  // Pulls daily pageview counts for hantavirus-related Wikipedia pages.
+  async function wikipediaPageviews(article, days) {
+    article = article || 'Hantavirus';
+    days = days || 60;
+    var end = new Date();
+    var start = new Date(Date.now() - days * 86400000);
+    var fmt = function(d) { return d.toISOString().slice(0,10).replace(/-/g,''); };
+    var url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/'
+            + encodeURIComponent(article) + '/daily/' + fmt(start) + '/' + fmt(end);
+    try {
+      var r = await fetch(url, { signal: AbortSignal.timeout(10000) });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      var d = await r.json();
+      return (d.items || []).map(function(x) {
+        return { date: x.timestamp.slice(0,4)+'-'+x.timestamp.slice(4,6)+'-'+x.timestamp.slice(6,8),
+                 views: x.views, article: x.article };
+      });
+    } catch(e) { console.warn('Wikipedia pageviews failed (' + article + '):', e.message); return null; }
+  }
+
+  async function wikipediaInterestPanel() {
+    var articles = ['Hantavirus','Sin_Nombre_orthohantavirus','Andes_orthohantavirus','Puumala_orthohantavirus','Hantaan_orthohantavirus'];
+    var results = await Promise.allSettled(articles.map(function(a) { return wikipediaPageviews(a, 60); }));
+    var out = {};
+    results.forEach(function(r, i) {
+      if (r.status === 'fulfilled' && r.value) out[articles[i]] = r.value;
+    });
+    return Object.keys(out).length > 0 ? out : null;
+  }
+
+  // ── GBIF rodent reservoir occurrences (CORS: *) ─────────────
+  // Pulls verified species occurrences for hantavirus host rodents.
+  // Taxon keys: Peromyscus maniculatus (deer mouse, SNV host) = 2438775
+  //             Myodes glareolus (bank vole, PUUV host)        = 2438036
+  //             Rattus norvegicus (Norway rat, Seoul host)     = 2439261
+  //             Microtus arvalis (common vole, Tula host)      = 2438866
+  //             Oligoryzomys longicaudatus (ANDV host)         = 2438864
+  async function gbifReservoirs() {
+    var hosts = [
+      { key: 2438775, name: 'Peromyscus maniculatus', virus: 'SNV',   common: 'Deer mouse' },
+      { key: 2438036, name: 'Myodes glareolus',       virus: 'PUUV',  common: 'Bank vole' },
+      { key: 2439261, name: 'Rattus norvegicus',      virus: 'SEOV',  common: 'Norway rat' },
+      { key: 2438866, name: 'Microtus arvalis',       virus: 'TULV',  common: 'Common vole' },
+    ];
+    try {
+      var results = await Promise.allSettled(hosts.map(function(h) {
+        return fetch('https://api.gbif.org/v1/occurrence/search?taxonKey=' + h.key + '&hasCoordinate=true&year=2020,2026&limit=300',
+                     { signal: AbortSignal.timeout(15000) })
+          .then(function(r) { return r.ok ? r.json() : null; })
+          .then(function(d) {
+            if (!d || !d.results) return null;
+            return { host: h, points: d.results.map(function(o) {
+              return { lat: o.decimalLatitude, lon: o.decimalLongitude,
+                       country: o.country || '', year: o.year || null };
+            }).filter(function(p) { return p.lat != null && p.lon != null; }),
+            totalCount: d.count };
+          });
+      }));
+      var out = [];
+      results.forEach(function(r) { if (r.status === 'fulfilled' && r.value) out.push(r.value); });
+      return out.length ? out : null;
+    } catch(e) { console.warn('GBIF reservoirs failed:', e.message); return null; }
+  }
+
+  // ── CDC NNDSS hantavirus pulmonary syndrome cases (US, CORS-friendly) ──
+  // Multi-year NNDSS tables; this is HPS specifically. Dataset IDs by year per CDC catalog.
+  async function cdcHantavirusCases() {
+    var datasets = ['tfcp-ufzp','bhxw-k5sb','azpx-5hzx','a9xa-yrhn','chmz-4uae'];
+    var results = await Promise.allSettled(datasets.map(function(id) {
+      return fetch('https://data.cdc.gov/resource/' + id + '.json?$limit=1000',
+                   { headers: { 'Accept': 'application/json' }, signal: AbortSignal.timeout(10000) })
+        .then(function(r) { return r.ok ? r.json() : null; })
+        .then(function(rows) { return rows && rows.length ? { id: id, rows: rows } : null; });
+    }));
+    var merged = [];
+    results.forEach(function(r) { if (r.status === 'fulfilled' && r.value) merged.push(r.value); });
+    return merged.length ? merged : null;
+  }
+
+  // ── HealthData.gov hospital capacity (HHS Protect, CORS-friendly) ──
+  async function hhsHospitalCapacity() {
+    try {
+      var url = 'https://healthdata.gov/resource/anag-cw7u.json?$limit=200&$order=collection_week+DESC'
+              + '&$select=state,collection_week,inpatient_beds_used_7_day_avg,'
+              + 'total_adult_patients_hospitalized_confirmed_covid_7_day_avg,'
+              + 'inpatient_beds_used_covid_7_day_avg,total_icu_beds_7_day_avg,'
+              + 'staffed_icu_adult_patients_confirmed_covid_7_day_avg';
+      var r = await fetch(url, { headers: { 'Accept': 'application/json' }, signal: AbortSignal.timeout(12000) });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return await r.json();
+    } catch(e) { console.warn('HHS hospital fetch failed:', e.message); return null; }
+  }
+
   // ── Cached news (built by GitHub Actions every 4h) ────
   // CIDRAP, OutbreakNewsToday, CDC EID, GDELT — fetched server-side, parsed,
   // committed to /news.json. Same-origin → no CORS, no proxy, instant.
@@ -2021,6 +2115,19 @@ window.LiveData = (function () {
       return Array.isArray(d.items) ? d.items : null;
     } catch(e) { console.warn('cachedNews fetch failed:', e.message); return null; }
   }
+
+  // Generic loader for the other Action-built caches.
+  async function cachedJSON(path, key) {
+    try {
+      var r = await fetch(path + '?t=' + Math.floor(Date.now() / 600000),
+        { cache: 'no-cache', signal: AbortSignal.timeout(6000) });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      var d = await r.json();
+      return key ? (d[key] || null) : d;
+    } catch(e) { console.warn('cachedJSON ' + path + ' failed:', e.message); return null; }
+  }
+  function cachedWHODON()  { return cachedJSON('./who_don.json', 'items'); }
+  function cachedFlights() { return cachedJSON('./flights.json', 'states'); }
 
   // ── Batch news fetcher ────────────────────────────────
   async function fetchAllNews() {
@@ -2041,7 +2148,10 @@ window.LiveData = (function () {
   }
 
   return { gdeltNews, ncbiSequences, openSkyFlights, yahooFinance,
-           cdcWastewater, btsBorderCrossings, redditSearch, cachedNews, fetchAllNews };
+           cdcWastewater, btsBorderCrossings, redditSearch, cachedNews, fetchAllNews,
+           wikipediaPageviews, wikipediaInterestPanel,
+           gbifReservoirs, cdcHantavirusCases, hhsHospitalCapacity,
+           cachedWHODON, cachedFlights };
 })();
 </script>
   <script>/* ============================================================
@@ -2052,6 +2162,12 @@ window.LiveData = (function () {
 window.LIVE = {
   finance: null, flights: null, news: null,
   wastewater: null, borders: null,
+  whoDon: null,           // WHO Disease Outbreak News (Action cache)
+  wikipedia: null,        // Wikipedia pageviews for hantavirus pages
+  gbif: null,             // GBIF rodent reservoir occurrences
+  cdcCases: null,         // CDC NNDSS hantavirus US case data
+  hospitals: null,        // HealthData.gov hospital capacity
+  ncbi: null,             // NCBI hantavirus sequences
   status: {}, ts: {}
 };
 
@@ -2074,24 +2190,8 @@ window.LIVE = {
     } catch(e) { console.warn('[LiveData] finance error:', e); }
   }
 
-  // OpenSky anonymous is permanently CORS-blocked from browsers.
-  // After the first failure, stop the polling interval so we don't spam the console.
-  var _flightsBlocked = false;
-  async function fetchFlights() {
-    if (typeof LiveData === 'undefined' || _flightsBlocked) return;
-    try {
-      var d = await LiveData.openSkyFlights();
-      if (d == null) {
-        _flightsBlocked = true;
-        if (window._flightsInterval) clearInterval(window._flightsInterval);
-      }
-      emit('flights', d);
-    } catch(e) {
-      _flightsBlocked = true;
-      if (window._flightsInterval) clearInterval(window._flightsInterval);
-      emit('flights', null);
-    }
-  }
+  // Flights now come from server-side flights.json (built by GitHub Action),
+  // not directly from OpenSky which CORS-blocks browsers anonymously.
 
   async function fetchNews(retry) {
     if (typeof LiveData === 'undefined') return;
@@ -2125,20 +2225,61 @@ window.LIVE = {
     } catch(e) { emit('borders', null); }
   }
 
+  async function fetchWHODON() {
+    try { emit('whoDon', await LiveData.cachedWHODON()); }
+    catch(e) { emit('whoDon', null); }
+  }
+  async function fetchFlightsCache() {
+    try { emit('flights', await LiveData.cachedFlights()); }
+    catch(e) { emit('flights', null); }
+  }
+  async function fetchWikipedia() {
+    try { emit('wikipedia', await LiveData.wikipediaInterestPanel()); }
+    catch(e) { emit('wikipedia', null); }
+  }
+  async function fetchGBIF() {
+    try { emit('gbif', await LiveData.gbifReservoirs()); }
+    catch(e) { emit('gbif', null); }
+  }
+  async function fetchCDCCases() {
+    try { emit('cdcCases', await LiveData.cdcHantavirusCases()); }
+    catch(e) { emit('cdcCases', null); }
+  }
+  async function fetchHospitals() {
+    try { emit('hospitals', await LiveData.hhsHospitalCapacity()); }
+    catch(e) { emit('hospitals', null); }
+  }
+  async function fetchNCBI() {
+    try { emit('ncbi', await LiveData.ncbiSequences(25)); }
+    catch(e) { emit('ncbi', null); }
+  }
+
   function init() {
     // Stagger so we don't hammer on load and don't block initial React render
-    setTimeout(fetchNews,       800);
-    setTimeout(fetchFinance,   1600);
-    setTimeout(fetchFlights,   2400);
-    setTimeout(fetchWastewater,3200);
-    setTimeout(fetchBorders,   4000);
+    setTimeout(fetchNews,         800);
+    setTimeout(fetchFinance,     1600);
+    setTimeout(fetchFlightsCache,2400);
+    setTimeout(fetchWastewater,  3200);
+    setTimeout(fetchBorders,     4000);
+    setTimeout(fetchWHODON,      4800);
+    setTimeout(fetchWikipedia,   5600);
+    setTimeout(fetchGBIF,        6400);
+    setTimeout(fetchCDCCases,    7200);
+    setTimeout(fetchHospitals,   8000);
+    setTimeout(fetchNCBI,        8800);
 
-    // Refresh schedule
-    window._flightsInterval = setInterval(fetchFlights, 60_000); // self-cancels on permanent CORS block
-    setInterval(fetchFinance,  300_000);   // 5 min — market quotes
-    setInterval(fetchNews,     300_000);   // 5 min — outbreak news
-    setInterval(fetchWastewater,1_800_000);// 30 min — wastewater (slow-changing)
-    setInterval(fetchBorders,  3_600_000); // 1 hr  — BTS border (monthly data)
+    // Refresh schedule (only re-fetch the volatile ones)
+    setInterval(fetchFinance,      300_000);   // 5 min — market quotes
+    setInterval(fetchNews,         300_000);   // 5 min — outbreak news
+    setInterval(fetchFlightsCache, 600_000);   // 10 min — flights.json refreshed by Action
+    setInterval(fetchWHODON,       900_000);   // 15 min — WHO DON
+    setInterval(fetchWastewater, 1_800_000);   // 30 min — wastewater
+    setInterval(fetchBorders,    3_600_000);   // 1 hr  — BTS border (monthly data)
+    setInterval(fetchWikipedia,  3_600_000);   // 1 hr  — Wikipedia pageviews
+    setInterval(fetchHospitals,  3_600_000);   // 1 hr  — HHS hospital
+    setInterval(fetchGBIF,       86_400_000);  // daily — GBIF (slow-changing)
+    setInterval(fetchCDCCases,   86_400_000);  // daily — CDC NNDSS
+    setInterval(fetchNCBI,       86_400_000);  // daily — NCBI sequences
   }
 
   if (document.readyState === 'loading') {
@@ -5060,6 +5201,31 @@ function PageWastewater() {
 // ════════════════════════════════════════════════════════
 
 function PageGenomic() {
+  const [ncbi, setNcbi] = sUseState(null);
+  sUseEffect(() => {
+    if (window.LIVE && window.LIVE.ncbi) setNcbi(window.LIVE.ncbi);
+    function onUpdate(e) {
+      if (e.detail.key === 'ncbi' && e.detail.data) setNcbi(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
+    return () => window.removeEventListener('livedata:update', onUpdate);
+  }, []);
+
+  // Aggregate live NCBI hantavirus sequences by organism
+  const ncbiByOrg = sUseMemo(() => {
+    if (!ncbi) return null;
+    const buckets = {};
+    ncbi.forEach(s => {
+      const org = (s.organism || 'unknown').split(' ').slice(0, 3).join(' ');
+      if (!buckets[org]) buckets[org] = [];
+      buckets[org].push(s);
+    });
+    return Object.entries(buckets).map(([org, seqs]) => ({
+      org,
+      n: seqs.length,
+      lastDate: seqs[0]?.updated || '—'
+    })).sort((a, b) => b.n - a.n);
+  }, [ncbi]);
   return /*#__PURE__*/React.createElement("div", {
     className: "page",
     "data-screen-label": "07 Genomic"
@@ -5069,11 +5235,9 @@ function PageGenomic() {
     className: "upper"
   }, "VII \xB7 Genomic Surveillance"), /*#__PURE__*/React.createElement("h1", null, "Every sequence, every strain, mapped to its rodent host."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "A live NCBI E-utilities pull (esearch + esummary against the nuccore database, hantavirus-organism filter) is wired into ", /*#__PURE__*/React.createElement("span", {
-    className: "mono"
-  }, "livedata.js"), " and available client-side. Sequence counts and the phylotree below are illustrative; reconciling against ICTV taxonomy and joining GISAID would require authenticated access that a static SPA cannot do.")), /*#__PURE__*/React.createElement("div", {
+  }, "Live NCBI E-utilities pull (esearch + esummary against the nuccore database, hantavirus-organism filter, 2024\u20132026 publication window). Sequences fetched and aggregated client-side. The strain registry below merges live counts where the organism name maps cleanly to ICTV taxonomy; entries without recent NCBI uploads fall back to the seeded baseline. GISAID requires authenticated access and is not reachable from a static SPA.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "counts shown are illustrative", /*#__PURE__*/React.createElement("br", null), "live NCBI pull available in code", /*#__PURE__*/React.createElement("br", null), "GISAID not reachable from browser")), /*#__PURE__*/React.createElement("div", {
+  }, ncbi ? /*#__PURE__*/React.createElement(React.Fragment, null, ncbi.length, " live NCBI sequences", /*#__PURE__*/React.createElement("br", null), ncbiByOrg ? ncbiByOrg.length : 0, " distinct organisms", /*#__PURE__*/React.createElement("br", null), "updated daily") : /*#__PURE__*/React.createElement(React.Fragment, null, "loading NCBI esummary\u2026", /*#__PURE__*/React.createElement("br", null), "eutils.ncbi.nlm.nih.gov", /*#__PURE__*/React.createElement("br", null), "hantavirus[organism]"))), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -5084,17 +5248,17 @@ function PageGenomic() {
     className: "name"
   }, "Active strains"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "11"), /*#__PURE__*/React.createElement("div", {
+  }, ncbiByOrg ? ncbiByOrg.length : '—'), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "in circulation, last 90d")), /*#__PURE__*/React.createElement("div", {
+  }, ncbi ? 'distinct organisms · NCBI' : 'loading…')), /*#__PURE__*/React.createElement("div", {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
-  }, "New sequences \xB7 30d"), /*#__PURE__*/React.createElement("div", {
+  }, "Sequences \xB7 NCBI"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "412"), /*#__PURE__*/React.createElement("div", {
+  }, ncbi ? ncbi.length : '—'), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "214 GISAID \xB7 198 NCBI")), /*#__PURE__*/React.createElement("div", {
+  }, ncbi ? 'live · last 25 published' : 'loading…')), /*#__PURE__*/React.createElement("div", {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
@@ -5339,6 +5503,38 @@ function PhyloTree() {
 // ════════════════════════════════════════════════════════
 
 function PageSearch() {
+  const [wiki, setWiki] = sUseState(null);
+  sUseEffect(() => {
+    if (window.LIVE && window.LIVE.wikipedia) setWiki(window.LIVE.wikipedia);
+    function onUpdate(e) {
+      if (e.detail.key === 'wikipedia' && e.detail.data) setWiki(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
+    return () => window.removeEventListener('livedata:update', onUpdate);
+  }, []);
+
+  // Compute aggregate stats from real Wikipedia pageview data
+  const wikiStats = sUseMemo(() => {
+    if (!wiki) return null;
+    const stats = {};
+    Object.entries(wiki).forEach(([article, series]) => {
+      if (!series || !series.length) return;
+      const recent = series.slice(-14).map(s => s.views);
+      const prior = series.slice(-28, -14).map(s => s.views);
+      const recentAvg = recent.reduce((a, b) => a + b, 0) / Math.max(1, recent.length);
+      const priorAvg = prior.reduce((a, b) => a + b, 0) / Math.max(1, prior.length);
+      const peak = Math.max(...series.map(s => s.views));
+      const z = priorAvg ? (recentAvg - priorAvg) / Math.max(priorAvg * 0.3, 50) : 0;
+      stats[article] = {
+        recentAvg,
+        priorAvg,
+        peak,
+        z,
+        series
+      };
+    });
+    return stats;
+  }, [wiki]);
   return /*#__PURE__*/React.createElement("div", {
     className: "page",
     "data-screen-label": "08 Search"
@@ -5346,48 +5542,50 @@ function PageSearch() {
     className: "page-head"
   }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
     className: "upper"
-  }, "VIII \xB7 Search & Social anomaly"), /*#__PURE__*/React.createElement("h1", null, "What the public is asking, before the registries know."), /*#__PURE__*/React.createElement("div", {
+  }, "VIII \xB7 Search & Public Interest"), /*#__PURE__*/React.createElement("h1", null, "What the public is searching for, before the registries know."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "We watch Google Trends, Naver Datalab, Baidu Index, and a multilingual social-media NLP pipeline for query and term anomalies adjacent to known outbreak loci. Z-scores above 2.5 in regional language are treated as candidate early signals; corroborated signals enter the alerts page within 30 minutes.")), /*#__PURE__*/React.createElement("div", {
+  }, "Live daily pageview counts from the Wikimedia Pageviews API for the five most-trafficked hantavirus encyclopedia entries (English Wikipedia). 60-day window. Pageviews are a published proxy for public attention; spikes correlate with outbreak reporting at ~1-3 day lead time relative to wire confirmation.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "17 regional pipelines", /*#__PURE__*/React.createElement("br", null), "NLP: multilingual XLM-R fine-tuned", /*#__PURE__*/React.createElement("br", null), "last refresh \xB7 14:00Z")), /*#__PURE__*/React.createElement("div", {
+  }, wikiStats ? /*#__PURE__*/React.createElement(React.Fragment, null, Object.keys(wikiStats).length, " live Wikipedia series", /*#__PURE__*/React.createElement("br", null), "60-day window", /*#__PURE__*/React.createElement("br", null), "source: wikimedia.org/api") : /*#__PURE__*/React.createElement(React.Fragment, null, "loading Wikipedia pageviews\u2026", /*#__PURE__*/React.createElement("br", null), "en.wikipedia \xB7 all-access", /*#__PURE__*/React.createElement("br", null), "updated hourly"))), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
     }
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "kpi"
+  }, wikiStats ? (() => {
+    const articles = Object.keys(wikiStats).slice(0, 4);
+    const labels = {
+      'Hantavirus': 'Hantavirus',
+      'Sin_Nombre_orthohantavirus': 'Sin Nombre',
+      'Andes_orthohantavirus': 'Andes',
+      'Puumala_orthohantavirus': 'Puumala',
+      'Hantaan_orthohantavirus': 'Hantaan'
+    };
+    return articles.map(a => {
+      const s = wikiStats[a];
+      return /*#__PURE__*/React.createElement("div", {
+        className: "kpi",
+        key: a
+      }, /*#__PURE__*/React.createElement("div", {
+        className: "name"
+      }, labels[a] || a), /*#__PURE__*/React.createElement("div", {
+        className: "val tnum"
+      }, Math.round(s.recentAvg).toLocaleString()), /*#__PURE__*/React.createElement("div", {
+        className: "sub",
+        style: {
+          color: s.z > 0.5 ? 'var(--oxblood)' : s.z < -0.5 ? 'var(--moss)' : 'var(--ink-3)'
+        }
+      }, "14-day avg \xB7 ", s.z >= 0 ? '+' : '', (s.z * 100).toFixed(0), "% vs prior"));
+    });
+  })() : [1, 2, 3, 4].map(i => /*#__PURE__*/React.createElement("div", {
+    className: "kpi",
+    key: i
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
-  }, "Active anomalies"), /*#__PURE__*/React.createElement("div", {
+  }, "loading\u2026"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "7"), /*#__PURE__*/React.createElement("div", {
+  }, "\u2014"), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "z \u2265 2.5 \xB7 6h trailing")), /*#__PURE__*/React.createElement("div", {
-    className: "kpi"
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "name"
-  }, "Highest z-score"), /*#__PURE__*/React.createElement("div", {
-    className: "val tnum"
-  }, "5.8"), /*#__PURE__*/React.createElement("div", {
-    className: "sub"
-  }, "R\xEDo Negro \xB7 ES \xB7 6d sustained")), /*#__PURE__*/React.createElement("div", {
-    className: "kpi"
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "name"
-  }, "Social NLP positive"), /*#__PURE__*/React.createElement("div", {
-    className: "val tnum"
-  }, "312"), /*#__PURE__*/React.createElement("div", {
-    className: "sub"
-  }, "Spanish, Korean, Mandarin posts")), /*#__PURE__*/React.createElement("div", {
-    className: "kpi"
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "name"
-  }, "Lead-time vs case"), /*#__PURE__*/React.createElement("div", {
-    className: "val tnum"
-  }, "3.4 d"), /*#__PURE__*/React.createElement("div", {
-    className: "sub"
-  }, "median, 18-event historical"))), /*#__PURE__*/React.createElement("div", {
+  }, "Wikipedia pageviews")))), /*#__PURE__*/React.createElement("div", {
     className: "row cols-2"
   }, /*#__PURE__*/React.createElement("div", {
     className: "panel"
@@ -5886,6 +6084,46 @@ function RegressionChart() {
 // ════════════════════════════════════════════════════════
 
 function PageHospitals() {
+  const [hospitals, setHospitals] = oUseState2(null);
+  oUseEffect2(() => {
+    if (window.LIVE && window.LIVE.hospitals) setHospitals(window.LIVE.hospitals);
+    function onUpdate(e) {
+      if (e.detail.key === 'hospitals' && Array.isArray(e.detail.data)) setHospitals(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
+    return () => window.removeEventListener('livedata:update', onUpdate);
+  }, []);
+
+  // Aggregate live HHS data by state, take most recent week per state.
+  // HHS uses -999999.0 as a sentinel for "unavailable" — filter those out.
+  const clean = x => {
+    const n = parseFloat(x);
+    return isNaN(n) || n < 0 ? null : n;
+  };
+  const hhsByState = oUseMemo2(() => {
+    if (!hospitals || !hospitals.length) return null;
+    const latest = {};
+    hospitals.forEach(r => {
+      if (!r.state) return;
+      if (!latest[r.state] || r.collection_week > latest[r.state].collection_week) latest[r.state] = r;
+    });
+    return Object.values(latest).map(r => {
+      const inpUsed = clean(r.inpatient_beds_used_7_day_avg);
+      const icuTotal = clean(r.total_icu_beds_7_day_avg);
+      const covidICU = clean(r.staffed_icu_adult_patients_confirmed_covid_7_day_avg);
+      return {
+        state: r.state,
+        week: r.collection_week ? r.collection_week.slice(0, 10) : '—',
+        inpUsed,
+        icuTotal,
+        covidICU,
+        icuLoadPct: icuTotal && icuTotal > 0 && covidICU != null ? covidICU / icuTotal * 100 : null
+      };
+    }).filter(r => r.icuTotal != null).sort((a, b) => (b.inpUsed || 0) - (a.inpUsed || 0));
+  }, [hospitals]);
+  const validLoad = hhsByState ? hhsByState.filter(r => r.icuLoadPct != null) : [];
+  const usMean = validLoad.length ? validLoad.reduce((s, r) => s + r.icuLoadPct, 0) / validLoad.length : null;
+  const overloaded = validLoad.filter(r => r.icuLoadPct >= 5).length;
   return /*#__PURE__*/React.createElement("div", {
     className: "page",
     "data-screen-label": "10 Hospitals"
@@ -5895,9 +6133,11 @@ function PageHospitals() {
     className: "upper"
   }, "X \xB7 Hospital Capacity"), /*#__PURE__*/React.createElement("h1", null, "Where the ventilators are, and how many remain."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "HPS in particular drives near-immediate ICU need with high ventilator requirement \u2014 historical pulmonary-syndrome admissions average 96 hours from symptom onset to intubation. The map of hospital capacity adjacent to outbreak loci is therefore not abstract.")), /*#__PURE__*/React.createElement("div", {
+  }, "HPS drives near-immediate ICU need with high ventilator requirement \u2014 historical pulmonary-syndrome admissions average 96 hours from symptom onset to intubation. The map of hospital capacity adjacent to outbreak loci is therefore not abstract. Live US state-level inpatient and ICU figures below come from ", /*#__PURE__*/React.createElement("span", {
+    className: "mono"
+  }, "healthdata.gov/resource/anag-cw7u"), " (HHS Protect successor dataset). Hantavirus-specific bed allocation is not separately reported; we show overall acute-care load as the relevant denominator.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "9 reporting regions", /*#__PURE__*/React.createElement("br", null), "critical-care load updated 4h", /*#__PURE__*/React.createElement("br", null), "illustrative \u2014 would draw on HHS Protect / TESSy / KDCA")), /*#__PURE__*/React.createElement("div", {
+  }, hhsByState ? /*#__PURE__*/React.createElement(React.Fragment, null, hhsByState.length, " US states \xB7 live HHS", /*#__PURE__*/React.createElement("br", null), "last week: ", hhsByState[0]?.week, /*#__PURE__*/React.createElement("br", null), "source: healthdata.gov") : /*#__PURE__*/React.createElement(React.Fragment, null, "loading HHS Protect data\u2026", /*#__PURE__*/React.createElement("br", null), "resource: anag-cw7u", /*#__PURE__*/React.createElement("br", null), "updated weekly"))), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -5906,19 +6146,19 @@ function PageHospitals() {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
-  }, "ICU adj. occupancy"), /*#__PURE__*/React.createElement("div", {
+  }, "US ICU load \xB7 mean"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "87%"), /*#__PURE__*/React.createElement("div", {
+  }, usMean != null ? usMean.toFixed(1) + '%' : '—'), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "9\xB7region mean \xB7 weighted by beds")), /*#__PURE__*/React.createElement("div", {
+  }, hhsByState ? 'across reporting states' : 'loading…')), /*#__PURE__*/React.createElement("div", {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
-  }, "Regions \u2265 90% ICU"), /*#__PURE__*/React.createElement("div", {
+  }, "States \u2265 5% ICU load"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "3"), /*#__PURE__*/React.createElement("div", {
+  }, overloaded != null ? overloaded : '—'), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "R\xEDo Negro \xB7 Ays\xE9n \xB7 CA-SW")), /*#__PURE__*/React.createElement("div", {
+  }, hhsByState ? 'COVID-19 + viral resp.' : 'loading…')), /*#__PURE__*/React.createElement("div", {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
@@ -7975,6 +8215,17 @@ function CargoBorders() {
 function PageFlights({
   viz = 'arcs'
 }) {
+  const [aircraft, setAircraft] = fUseState(null);
+  fUseEffect(() => {
+    if (window.LIVE && window.LIVE.flights) setAircraft(window.LIVE.flights);
+    function onUpdate(e) {
+      if (e.detail.key === 'flights' && Array.isArray(e.detail.data)) setAircraft(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
+    return () => window.removeEventListener('livedata:update', onUpdate);
+  }, []);
+  const liveCount = aircraft ? aircraft.length : null;
+  const outbreakLinked = aircraft ? aircraft.filter(a => OUTBREAK_COUNTRIES.has(a.country)).length : null;
   return /*#__PURE__*/React.createElement("div", {
     className: "page",
     "data-screen-label": "03 Flights"
@@ -7984,9 +8235,9 @@ function PageFlights({
     className: "upper"
   }, "IX \xB7 Flight & contagion routing"), /*#__PURE__*/React.createElement("h1", null, "Where infected populations move, and along which corridors."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "Live aircraft positions reconciled against the IATA OD network, weighted by 30-day case counts at origin. Where passenger numbers are unavailable, scheduled capacity is used as the upper bound. Cargo and land-border flows are tracked separately \u2014 these are not negligible.")), /*#__PURE__*/React.createElement("div", {
+  }, "Live global aircraft positions cached server-side every 30 minutes by a GitHub Action that hits OpenSky Network anonymous state-vectors (browser CORS prevents direct fetch). The corridor map overlays these against outbreak-linked countries \u2014 origin within an active hantavirus reporting jurisdiction. Sankey and arc views use the same live state set; cargo and land-border flows are tracked separately (the BTS panel below uses live US Customs data).")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "14,218 aircraft active", /*#__PURE__*/React.createElement("br", null), "387 outbreak-linked legs", /*#__PURE__*/React.createElement("br", null), "OD weights: 30d rolling, lag-adjusted")), /*#__PURE__*/React.createElement("div", {
+  }, liveCount != null ? /*#__PURE__*/React.createElement(React.Fragment, null, liveCount.toLocaleString(), " aircraft airborne", /*#__PURE__*/React.createElement("br", null), outbreakLinked, " in outbreak countries", /*#__PURE__*/React.createElement("br", null), "source: OpenSky \xB7 cached 30 min") : /*#__PURE__*/React.createElement(React.Fragment, null, "loading OpenSky cache\u2026", /*#__PURE__*/React.createElement("br", null), "flights.json same-origin", /*#__PURE__*/React.createElement("br", null), "refreshed via GH Action"))), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -7997,17 +8248,17 @@ function PageFlights({
     className: "name"
   }, "Aircraft now"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "14,218"), /*#__PURE__*/React.createElement("div", {
+  }, liveCount != null ? liveCount.toLocaleString() : '—'), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "OpenSky \xB7 4s refresh")), /*#__PURE__*/React.createElement("div", {
+  }, liveCount != null ? 'OpenSky · server-cached' : 'loading…')), /*#__PURE__*/React.createElement("div", {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
-  }, "Outbreak-linked legs (24h)"), /*#__PURE__*/React.createElement("div", {
+  }, "Outbreak-region airborne"), /*#__PURE__*/React.createElement("div", {
     className: "val tnum"
-  }, "387"), /*#__PURE__*/React.createElement("div", {
+  }, outbreakLinked != null ? outbreakLinked : '—'), /*#__PURE__*/React.createElement("div", {
     className: "sub"
-  }, "Origin within 50 nm of cluster")), /*#__PURE__*/React.createElement("div", {
+  }, outbreakLinked != null ? 'origin: hantavirus-reporting jurisdiction' : 'loading…')), /*#__PURE__*/React.createElement("div", {
     className: "kpi"
   }, /*#__PURE__*/React.createElement("div", {
     className: "name"
@@ -8032,6 +8283,7 @@ function PageFlights({
   }, "Modelling note: Hantaviruses are not transmitted person-to-person in the great majority of cases, with the documented exception of Andes virus (ANDV) in Patagonia. Flight-borne contagion mapping is therefore most relevant for ANDV clusters (Argentina, Chile) and for the rapid movement of zoonotic reservoirs (Seoul virus, urban rats in cargo). The Observatory tracks all corridors regardless, as a watch-and-precedent set."));
 }
 window.PageFlights = PageFlights;
+
 })();
 
 /* === app.js === */

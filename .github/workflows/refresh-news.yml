@@ -1,16 +1,16 @@
-name: Refresh news cache
+name: Refresh data caches
 
 on:
   schedule:
-    # Every 4 hours
-    - cron: "17 */4 * * *"
+    # Every 30 minutes (flights are volatile; news is rate-limit-friendly cached)
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh-news
+  group: refresh-data
   cancel-in-progress: false
 
 jobs:
@@ -23,22 +23,33 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch news from server-side sources
+      - name: Install certifi
+        run: pip install --quiet certifi
+
+      - name: Fetch news (CIDRAP, OBT, CDC EID, GDELT)
+        continue-on-error: true
         run: python scripts/fetch_news.py
 
-      - name: Commit if changed
+      - name: Fetch WHO Disease Outbreak News
+        continue-on-error: true
+        run: python scripts/fetch_who_don.py
+
+      - name: Fetch OpenSky flight states
+        continue-on-error: true
+        run: python scripts/fetch_flights.py
+
+      - name: Commit if any cache changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet news.json; then
-            echo "No changes to news.json"
-          else
-            git add news.json
-            git commit -m "chore(news): refresh cached feed [skip ci]"
-            # Rebase on any commits that landed while we were fetching, then push
-            for i in 1 2 3; do
-              git pull --rebase origin main && git push && break
-              echo "push attempt $i failed, retrying..."
-              sleep 3
-            done
+          git add news.json who_don.json flights.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No cache changes"
+            exit 0
           fi
+          git commit -m "chore(data): refresh caches [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying..."
+            sleep 3
+          done
