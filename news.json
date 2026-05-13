@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-13T20:17:39.159781+00:00",
+  "generated_at": "2026-05-13T21:52:07.803717+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "time": "—",
@@ -275,6 +275,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-13",
+      "ts": "2026-05-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Concurrent Detection of Swine-Origin Influenza A(H1N1) Virus in Pigs and Farmer, Switzerland",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1487_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
