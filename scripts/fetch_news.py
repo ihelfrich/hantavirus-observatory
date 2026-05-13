@@ -113,6 +113,56 @@ def parse_rss(xml_text, source_name, location="", max_items=25):
     print(f"  [{source_name}] {len(items)} items")
     return items
 
+# Known-outlet brand name normalizer for GDELT domain → display name.
+# Leaves unmapped domains as the cleaned first segment in uppercase if short, else titlecased.
+GDELT_BRAND = {
+    "scmp": "SCMP", "bbc": "BBC", "bbc.co": "BBC", "reuters": "Reuters",
+    "apnews": "AP", "ap": "AP", "afp": "AFP", "bloomberg": "Bloomberg",
+    "ft": "Financial Times", "nytimes": "NYT", "wsj": "WSJ", "washingtonpost": "WaPo",
+    "guardian": "Guardian", "theguardian": "Guardian", "lemonde": "Le Monde",
+    "spiegel": "Der Spiegel", "haaretz": "Haaretz", "aljazeera": "Al Jazeera",
+    "xinhuanet": "Xinhua", "chinadaily": "China Daily", "people": "People's Daily",
+    "globaltimes": "Global Times", "yna": "Yonhap", "yonhapnews": "Yonhap",
+    "nhk": "NHK", "japantimes": "Japan Times", "asahi": "Asahi",
+    "tass": "TASS", "rt": "RT", "rferl": "RFE/RL", "themoscowtimes": "Moscow Times",
+    "yle": "Yle", "dw": "DW", "france24": "France 24", "rfi": "RFI",
+    "haberturk": "Habertürk", "hurriyet": "Hürriyet", "sabah": "Sabah",
+    "economictimes": "Economic Times", "indiatimes": "Times of India",
+    "thehindu": "The Hindu", "hindustantimes": "Hindustan Times",
+    "ndtv": "NDTV", "kompas": "Kompas", "channelnewsasia": "CNA",
+    "folha": "Folha", "uol": "UOL", "clarin": "Clarín", "lanacion": "La Nación",
+    "elpais": "El País", "elmundo": "El Mundo", "abc": "ABC",
+    "lemondefr": "Le Monde", "cbc": "CBC", "ctv": "CTV", "globe": "Globe & Mail",
+    "smh": "Sydney Morning Herald", "abcau": "ABC News",
+    "kptv": "KPTV (Portland)", "wxii12": "WXII-12", "wsbtv": "WSB-TV",
+    "fox": "Fox News", "cnn": "CNN", "nbc": "NBC", "cbs": "CBS",
+    "usatoday": "USA Today", "thedailybeast": "Daily Beast", "axios": "Axios",
+    "vox": "Vox", "theatlantic": "Atlantic", "newyorker": "New Yorker",
+    "statnews": "STAT", "kff": "KFF Health News", "medpagetoday": "MedPage Today",
+}
+
+def brand_name(domain):
+    if not domain:
+        return "GDELT"
+    d = domain.replace("www.", "").lower()
+    # Try full domain, then progressively shorter
+    parts = d.split(".")
+    candidates = [
+        ".".join(parts[:-1]),   # e.g. "bbc.co" from "bbc.co.uk"
+        parts[0],               # first segment
+        d,                      # full domain
+    ]
+    for c in candidates:
+        if c in GDELT_BRAND:
+            return GDELT_BRAND[c]
+    # Fallback: short codes (≤5 chars) uppercased, else title-cased
+    first = parts[0]
+    if len(first) <= 5 and not first.isalpha():
+        return first.upper()
+    if len(first) <= 4:
+        return first.upper()
+    return first.title()
+
 def fetch_gdelt(query="hantavirus", n=25):
     q = urllib.parse.quote(f'"{query}" (outbreak OR cases OR virus OR epidemic OR hemorrhagic OR rodent OR surveillance)')
     url = (f"https://api.gdeltproject.org/api/v2/doc/doc?query={q}"
@@ -135,12 +185,12 @@ def fetch_gdelt(query="hantavirus", n=25):
             parsed = datetime.strptime(dt, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
         except ValueError:
             parsed = None
-        src = (a.get("domain") or "").replace("www.", "").split(".")[0]
+        src = brand_name(a.get("domain"))
         items.append({
             "time": parsed.strftime("%H:%M") if parsed else "—",
             "date": parsed.strftime("%Y-%m-%d") if parsed else "",
             "ts":   parsed.isoformat() if parsed else "",
-            "src":  src.capitalize() or "GDELT",
+            "src":  src,
             "head": (a.get("title") or "")[:280],
             "url":  a.get("url", ""),
             "loc":  a.get("sourcecountry", ""),

@@ -2,8 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>The Hantavirus Observatory</title>
+  <title>The Hantavirus Observatory · ed. Dr. Ian Helfrich</title>
   <meta name="viewport" content="width=1440">
+  <meta name="author" content="Dr. Ian Helfrich">
+  <meta name="description" content="Global hantavirus surveillance journal · edited by Dr. Ian Helfrich · live data from CIDRAP, GDELT, CDC, Yahoo Finance, BTS, OpenSky.">
+  <link rel="canonical" href="https://ihelfrich.github.io/hantavirus-observatory/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
@@ -2071,20 +2074,39 @@ window.LIVE = {
     } catch(e) { console.warn('[LiveData] finance error:', e); }
   }
 
+  // OpenSky anonymous is permanently CORS-blocked from browsers.
+  // After the first failure, stop the polling interval so we don't spam the console.
+  var _flightsBlocked = false;
   async function fetchFlights() {
-    if (typeof LiveData === 'undefined') return;
+    if (typeof LiveData === 'undefined' || _flightsBlocked) return;
     try {
       var d = await LiveData.openSkyFlights();
+      if (d == null) {
+        _flightsBlocked = true;
+        if (window._flightsInterval) clearInterval(window._flightsInterval);
+      }
       emit('flights', d);
-    } catch(e) { emit('flights', null); }
+    } catch(e) {
+      _flightsBlocked = true;
+      if (window._flightsInterval) clearInterval(window._flightsInterval);
+      emit('flights', null);
+    }
   }
 
-  async function fetchNews() {
+  async function fetchNews(retry) {
     if (typeof LiveData === 'undefined') return;
     try {
       var d = await LiveData.fetchAllNews();
+      if (d == null && !retry) {
+        // First attempt raced with page init; try once more after 1.5s
+        setTimeout(function () { fetchNews(true); }, 1500);
+        return;
+      }
       emit('news', d);
-    } catch(e) { emit('news', null); }
+    } catch(e) {
+      if (!retry) { setTimeout(function () { fetchNews(true); }, 1500); }
+      else        { emit('news', null); }
+    }
   }
 
   async function fetchWastewater() {
@@ -2112,7 +2134,7 @@ window.LIVE = {
     setTimeout(fetchBorders,   4000);
 
     // Refresh schedule
-    setInterval(fetchFlights,   60_000);   // 1 min — aircraft positions
+    window._flightsInterval = setInterval(fetchFlights, 60_000); // self-cancels on permanent CORS block
     setInterval(fetchFinance,  300_000);   // 5 min — market quotes
     setInterval(fetchNews,     300_000);   // 5 min — outbreak news
     setInterval(fetchWastewater,1_800_000);// 30 min — wastewater (slow-changing)
@@ -2926,7 +2948,23 @@ function Masthead() {
     className: "masthead"
   }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
     className: "title"
-  }, "The Hantavirus Observatory ", /*#__PURE__*/React.createElement("em", null, "\xB7 global surveillance"))), /*#__PURE__*/React.createElement("div", {
+  }, "The Hantavirus Observatory ", /*#__PURE__*/React.createElement("em", null, "\xB7 global surveillance")), /*#__PURE__*/React.createElement("div", {
+    className: "mono",
+    style: {
+      fontSize: 10,
+      color: 'var(--ink-3)',
+      marginTop: 2,
+      letterSpacing: '0.04em'
+    }
+  }, "Edited by Dr. Ian Helfrich \xB7 ", /*#__PURE__*/React.createElement("a", {
+    href: "https://ianhelfrich.com",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    style: {
+      color: 'var(--ink-3)',
+      textDecoration: 'none'
+    }
+  }, "ianhelfrich.com"))), /*#__PURE__*/React.createElement("div", {
     className: "vol"
   }, "VOL. III \xB7 ISS. 132 \xB7 WK 19/2026"));
 }
@@ -2977,7 +3015,13 @@ function Rail({
     className: "obs"
   }, "Public surveillance journal"), /*#__PURE__*/React.createElement("div", {
     className: "num"
-  }, "EST. MMXXIV \xB7 ISSN 2769\xB74413")), NAV.map(group => /*#__PURE__*/React.createElement(React.Fragment, {
+  }, "EST. MMXXIV \xB7 ISSN 2769\xB74413"), /*#__PURE__*/React.createElement("div", {
+    className: "num",
+    style: {
+      marginTop: 4,
+      opacity: 0.75
+    }
+  }, "Ed. Dr. Ian Helfrich")), NAV.map(group => /*#__PURE__*/React.createElement(React.Fragment, {
     key: group.group
   }, /*#__PURE__*/React.createElement("div", {
     className: "section-label"
@@ -3033,6 +3077,7 @@ window.Shell = {
   StatusTicker,
   NAV
 };
+
 })();
 
 /* === network.js === */
@@ -5446,6 +5491,7 @@ window.PageSearch = PageSearch;
 
 /* === ops.js === */
 (function(){
+function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
 /* global React, DATA, SharedUI */
 const {
   useState: oUseState2,
@@ -6076,8 +6122,40 @@ function PageHospitals() {
 
 function PageNews() {
   const [src, setSrc] = oUseState2('all');
-  const sources = ['all', 'AP Wire', 'Reuters', 'AFP', 'BBC', 'Bloomberg', 'Xinhua', 'Yonhap', 'NHK', 'TASS', 'Yle', 'DW', 'Folha', 'Le Monde'];
-  const items = DATA.news.filter(n => src === 'all' || n.src === src);
+  const [liveNews, setLiveNews] = oUseState2(null);
+  oUseEffect2(() => {
+    if (window.LIVE && window.LIVE.news) setLiveNews(window.LIVE.news);
+    function onUpdate(e) {
+      if (e.detail.key === 'news' && Array.isArray(e.detail.data)) setLiveNews(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
+    return () => window.removeEventListener('livedata:update', onUpdate);
+  }, []);
+
+  // Normalize live items → match the seeded shape: { src, time, loc, head, tags, url? }
+  const liveItems = oUseMemo2(() => {
+    if (!liveNews || !liveNews.length) return [];
+    return liveNews.map(n => ({
+      src: n.src || 'wire',
+      time: n.time || '—',
+      loc: n.loc || n.lang || '—',
+      head: n.head,
+      tags: Array.isArray(n.tags) ? n.tags.filter(Boolean).slice(0, 3) : [],
+      url: n.url || '',
+      live: true
+    }));
+  }, [liveNews]);
+
+  // Live items take priority; seeded items provide background depth
+  const merged = liveItems.length ? [...liveItems, ...DATA.news] : DATA.news;
+
+  // Sources for filter tabs: derive from actual data + always-present "all"
+  const sources = oUseMemo2(() => {
+    const seen = new Set();
+    merged.forEach(n => seen.add(n.src));
+    return ['all', ...Array.from(seen).slice(0, 14)];
+  }, [merged]);
+  const items = merged.filter(n => src === 'all' || n.src === src);
   return /*#__PURE__*/React.createElement("div", {
     className: "page",
     "data-screen-label": "04 News"
@@ -6089,7 +6167,7 @@ function PageNews() {
     className: "deck"
   }, "We ingest AP Wire, Reuters Connect, AFP, Xinhua, Yonhap, NHK, TASS, and 18 regional outlets via API and RSS, plus GDELT 2.0 for the long tail. Items are language-classified, geotagged, deduplicated, and ranked against the active alert set.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "14 wire sources + 32 RSS", /*#__PURE__*/React.createElement("br", null), "GDELT 2.0 long-tail \xB7 15min", /*#__PURE__*/React.createElement("br", null), "NLP geotag + dedupe \xB7 14:42Z")), /*#__PURE__*/React.createElement("div", {
+  }, liveItems.length > 0 ? /*#__PURE__*/React.createElement(React.Fragment, null, liveItems.length, " live items \xB7 ", sources.length - 1, " sources", /*#__PURE__*/React.createElement("br", null), "CIDRAP \xB7 Outbreak News \xB7 CDC EID \xB7 GDELT", /*#__PURE__*/React.createElement("br", null), "cache refresh every 4h via GH Actions") : /*#__PURE__*/React.createElement(React.Fragment, null, "14 wire sources + 32 RSS", /*#__PURE__*/React.createElement("br", null), "GDELT 2.0 long-tail \xB7 15min", /*#__PURE__*/React.createElement("br", null), "NLP geotag + dedupe"))), /*#__PURE__*/React.createElement("div", {
     className: "tabs",
     style: {
       marginBottom: 16,
@@ -6119,38 +6197,56 @@ function PageNews() {
     style: {
       padding: 0
     }
-  }, items.map((n, i) => /*#__PURE__*/React.createElement("div", {
-    key: i,
-    style: {
-      padding: '14px 18px',
-      borderBottom: '1px solid var(--rule-soft)'
-    }
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "flex between center",
-    style: {
-      marginBottom: 4
-    }
-  }, /*#__PURE__*/React.createElement("div", {
-    className: "flex gap-m"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "src"
-  }, n.src), /*#__PURE__*/React.createElement("span", {
-    className: "mono",
-    style: {
-      fontSize: 10,
-      color: 'var(--ink-4)'
-    }
-  }, n.time, "Z \xB7 ", n.loc)), /*#__PURE__*/React.createElement("div", null, n.tags.map(t => /*#__PURE__*/React.createElement("span", {
-    key: t,
-    className: "tag"
-  }, t)))), /*#__PURE__*/React.createElement("div", {
-    style: {
-      fontFamily: 'var(--serif)',
-      fontSize: 16,
-      lineHeight: 1.35,
-      color: 'var(--ink)'
-    }
-  }, n.head))))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+  }, items.map((n, i) => {
+    const headProps = {
+      style: {
+        fontFamily: 'var(--serif)',
+        fontSize: 16,
+        lineHeight: 1.35,
+        color: 'var(--ink)'
+      }
+    };
+    const headline = n.url ? /*#__PURE__*/React.createElement("a", _extends({
+      href: n.url,
+      target: "_blank",
+      rel: "noopener noreferrer"
+    }, headProps, {
+      style: {
+        ...headProps.style,
+        textDecoration: 'none'
+      }
+    }), n.head) : /*#__PURE__*/React.createElement("div", headProps, n.head);
+    return /*#__PURE__*/React.createElement("div", {
+      key: i,
+      style: {
+        padding: '14px 18px',
+        borderBottom: '1px solid var(--rule-soft)'
+      }
+    }, /*#__PURE__*/React.createElement("div", {
+      className: "flex between center",
+      style: {
+        marginBottom: 4
+      }
+    }, /*#__PURE__*/React.createElement("div", {
+      className: "flex gap-m"
+    }, /*#__PURE__*/React.createElement("span", {
+      className: "src"
+    }, n.src), /*#__PURE__*/React.createElement("span", {
+      className: "mono",
+      style: {
+        fontSize: 10,
+        color: 'var(--ink-4)'
+      }
+    }, n.time, n.time && n.time !== '—' ? 'Z' : '', " \xB7 ", n.loc || '—'), n.live && /*#__PURE__*/React.createElement("span", {
+      className: "live-tag",
+      style: {
+        fontSize: 9
+      }
+    }, "LIVE")), /*#__PURE__*/React.createElement("div", null, (n.tags || []).map((t, ti) => /*#__PURE__*/React.createElement("span", {
+      key: ti,
+      className: "tag"
+    }, t)))), headline);
+  }))), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
     className: "panel"
   }, /*#__PURE__*/React.createElement("div", {
     className: "panel-head"
@@ -6397,6 +6493,7 @@ window.PageFinance = PageFinance;
 window.PageHospitals = PageHospitals;
 window.PageNews = PageNews;
 window.PageAlerts = PageAlerts;
+
 })();
 
 /* === methodology.js === */
@@ -6556,19 +6653,54 @@ function PageMethodology() {
     className: "c-com"
   }, "% BibTeX"), `\n`, /*#__PURE__*/React.createElement("span", {
     className: "c-key"
-  }, "@dataset"), `{hantawatch2026,\n  title  = `, /*#__PURE__*/React.createElement("span", {
+  }, "@dataset"), `{helfrich_hantawatch_2026,\n  title  = `, /*#__PURE__*/React.createElement("span", {
     className: "c-str"
   }, `{The Hantavirus Observatory}`), `,\n  author = `, /*#__PURE__*/React.createElement("span", {
     className: "c-str"
-  }, `{Editorial Board}`), `,\n  year   = `, /*#__PURE__*/React.createElement("span", {
+  }, `{Helfrich, Ian T.}`), `,\n  year   = `, /*#__PURE__*/React.createElement("span", {
     className: "c-num"
   }, "2026"), `,\n  doi    = `, /*#__PURE__*/React.createElement("span", {
     className: "c-str"
   }, `{10.31234/hantawatch.2026.01}`), `,\n  url    = `, /*#__PURE__*/React.createElement("span", {
     className: "c-str"
-  }, `{https://hanta.obs/}`), `\n}`))))));
+  }, `{https://ihelfrich.github.io/hantavirus-observatory/}`), `\n}`))), /*#__PURE__*/React.createElement("div", {
+    className: "panel mt-l"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel-head"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "label"
+  }, "Colophon"), /*#__PURE__*/React.createElement("span", {
+    className: "sub"
+  }, "editor & attribution")), /*#__PURE__*/React.createElement("div", {
+    className: "panel-body"
+  }, /*#__PURE__*/React.createElement("p", {
+    style: {
+      fontSize: 12.5,
+      lineHeight: 1.55
+    }
+  }, "The Hantavirus Observatory is edited by ", /*#__PURE__*/React.createElement("strong", null, "Dr. Ian Helfrich"), " (PhD Economics, Georgia Tech 2024; MS GIS). His prior work in international-trade networks and spatial econometrics informs the Observatory's approach to reconciling jurisdictional surveillance data and quantifying mobility-linked exposure. Contact: ", /*#__PURE__*/React.createElement("a", {
+    href: "mailto:ianthelfrich@gmail.com",
+    style: {
+      color: 'var(--ink)'
+    }
+  }, "ianthelfrich@gmail.com"), " \xB7 Web: ", /*#__PURE__*/React.createElement("a", {
+    href: "https://ianhelfrich.com",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    style: {
+      color: 'var(--ink)'
+    }
+  }, "ianhelfrich.com"), " \xB7 Code: ", /*#__PURE__*/React.createElement("a", {
+    href: "https://github.com/ihelfrich/hantavirus-observatory",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    style: {
+      color: 'var(--ink)'
+    }
+  }, "github.com/ihelfrich/hantavirus-observatory")))))));
 }
 window.PageMethodology = PageMethodology;
+
 })();
 
 /* === apparatus.js === */
@@ -7093,17 +7225,52 @@ function PageAPI() {
     style: {
       maxWidth: '74ch'
     }
-  }, /*#__PURE__*/React.createElement("p", null, "Data published under Creative Commons Attribution 4.0 International. Attribution requires: (i) credit to ", /*#__PURE__*/React.createElement("em", null, "The Hantavirus Observatory"), ", (ii) link to the source page, (iii) inclusion of the DOI on any chart or table derived directly from our reconciliation."), /*#__PURE__*/React.createElement("p", null, "Reciprocity clause: institutional and newsroom users agree to make corrigenda visible if downstream errors are detected. Pharmaceutical, insurance, and sovereign-government users require a no-cost commercial licence at ", /*#__PURE__*/React.createElement("span", {
+  }, /*#__PURE__*/React.createElement("p", null, "Data published under Creative Commons Attribution 4.0 International. Attribution requires: (i) credit to ", /*#__PURE__*/React.createElement("em", null, "The Hantavirus Observatory"), ", edited by Dr. Ian Helfrich, (ii) link to the source page, (iii) inclusion of the DOI on any chart or table derived directly from our reconciliation."), /*#__PURE__*/React.createElement("p", null, "Reciprocity clause: institutional and newsroom users agree to make corrigenda visible if downstream errors are detected. Pharmaceutical, insurance, and sovereign-government users require a no-cost commercial licence at ", /*#__PURE__*/React.createElement("span", {
     className: "mono"
   }, "/licence"), " \u2014 this exists solely so we know who is downstream of our numbers."), /*#__PURE__*/React.createElement("p", {
     style: {
       fontStyle: 'italic',
       color: 'var(--ink-3)'
     }
-  }, "The Observatory's data is not a substitute for clinical, regulatory, or investment judgement."))));
+  }, "The Observatory's data is not a substitute for clinical, regulatory, or investment judgement."), /*#__PURE__*/React.createElement("p", {
+    style: {
+      marginTop: 18,
+      fontSize: 11.5,
+      color: 'var(--ink-3)',
+      borderTop: '1px solid var(--rule-soft)',
+      paddingTop: 14
+    }
+  }, /*#__PURE__*/React.createElement("strong", {
+    style: {
+      color: 'var(--ink-2)'
+    }
+  }, "Editor:"), " Dr. Ian Helfrich, PhD (Economics, Georgia Tech 2024; MS GIS) \xB7", /*#__PURE__*/React.createElement("a", {
+    href: "https://ianhelfrich.com",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    style: {
+      color: 'var(--ink-2)',
+      marginLeft: 6
+    }
+  }, "ianhelfrich.com"), " \xB7", /*#__PURE__*/React.createElement("a", {
+    href: "mailto:ianthelfrich@gmail.com",
+    style: {
+      color: 'var(--ink-2)',
+      marginLeft: 6
+    }
+  }, "ianthelfrich@gmail.com"), " \xB7", /*#__PURE__*/React.createElement("a", {
+    href: "https://github.com/ihelfrich/hantavirus-observatory",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    style: {
+      color: 'var(--ink-2)',
+      marginLeft: 6
+    }
+  }, "source code")))));
 }
 window.PageSources = PageSources;
 window.PageAPI = PageAPI;
+
 })();
 
 /* === flights.js === */
