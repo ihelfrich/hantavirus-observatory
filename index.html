@@ -8,14 +8,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 
-  <!-- React 18 production UMD (no Babel standalone) -->
+  <!-- React 18 production UMD -->
   <script src="https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js" crossorigin></script>
   <script src="https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin></script>
 
   <!-- Visualisation libs -->
   <script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/three@0.163.0/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
 
   <style>
 /* ============================================================
@@ -758,7 +758,6 @@ pre.code .c-com { color: #7C7560; font-style: italic; }
 <body>
   <div id="root"></div>
 
-  <!-- Core data seed -->
   <script>
 /* ============================================================
    Seeded research-grade dataset.
@@ -1117,8 +1116,6 @@ window.DATA = (function () {
 })();
 
   </script>
-
-  <!-- Globe helpers -->
   <script>
 /* ============================================================
    D3 Orthographic globe with case nodes, flight arcs, drag/rotate
@@ -1867,8 +1864,6 @@ window.Globe3D = (function () {
 })();
 
   </script>
-
-  <!-- Live data pipeline -->
   <script>
 /* ============================================================
    LiveData — real API integrations
@@ -1896,7 +1891,7 @@ window.LiveData = (function () {
     var url = 'https://api.gdeltproject.org/api/v2/doc/doc?query=' + q +
       '&mode=artlist&maxrecords=' + n + '&format=json&timespan=14days&sort=DateDesc';
     try {
-      var r = await fetch(url, { cache: 'no-cache', signal: AbortSignal.timeout(12000) });
+      var r = await fetch(px(url), { cache: 'no-cache', signal: AbortSignal.timeout(12000) });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       var d = await r.json();
       var result = (d.articles || []).map(function(a) {
@@ -1939,9 +1934,9 @@ window.LiveData = (function () {
     } catch(e) { console.warn(sourceName + ' RSS failed:', e.message); return null; }
   }
 
-  function whoRSS()   { return fetchRSS('https://www.who.int/rss-feeds/news-releases-en.xml', 'WHO', 20); }
-  function promedRSS(){ return fetchRSS('https://promedmail.org/feed/', 'ProMED', 15); }
-  function ecdcRSS()  { return fetchRSS('https://www.ecdc.europa.eu/en/rss', 'ECDC', 15); }
+  function whoRSS()   { return fetchRSS('https://www.who.int/feeds/entity/disease-outbreak-news/en/rss.xml', 'WHO', 20); }
+  function promedRSS(){ return fetchRSS('https://promedmail.org/promed-post-archive/feed/', 'ProMED', 15); }
+  function ecdcRSS()  { return fetchRSS('https://www.ecdc.europa.eu/en/news-events/epidemic-intelligence/rss', 'ECDC', 15); }
 
   // ── NCBI E-utilities ──────────────────────────────────
   async function ncbiSequences(n) {
@@ -2139,554 +2134,7 @@ window.LIVE = {
 })();
 
   </script>
-
-  <!-- Pre-compiled application modules (each in IIFE to isolate lexical scope) -->
   <script>
-/* === network.js === */
-(function(){
-/* global React, DATA */
-/* ============================================================
-   Contagion Network — D3 force-directed airport graph
-   ============================================================ */
-function PageNetwork() {
-  const svgRef = React.useRef(null);
-  const [selected, setSelected] = React.useState(null);
-  const [stats, setStats] = React.useState({ nodes: 0, links: 0 });
-
-  React.useEffect(() => {
-    if (!svgRef.current) return;
-    const el = svgRef.current;
-    const W = 1100, H = 700;
-
-    const byId = {};
-    const nodes = DATA.airports.map(a => {
-      const activeCluster = DATA.clusters.filter(c => c.status === 'active').find(c =>
-        Math.hypot(c.lat - a.lat, c.lon - a.lon) < 10
-      );
-      const n = {
-        id: a.iata, name: a.name, country: a.country, vol: a.vol,
-        lat: a.lat, lon: a.lon,
-        isOutbreak: !!activeCluster,
-        clusterInfo: activeCluster || null,
-        x: W / 2 + (Math.random() - 0.5) * 500,
-        y: H / 2 + (Math.random() - 0.5) * 350,
-      };
-      byId[a.iata] = n; return n;
-    });
-
-    const links = DATA.routes.filter(r => byId[r[0]] && byId[r[1]]).map(r => ({
-      source: byId[r[0]], target: byId[r[1]],
-      hot: r[2] === 'high', med: r[2] === 'med',
-      v: r[2] === 'high' ? 1.0 : r[2] === 'med' ? 0.6 : 0.3
-    }));
-    setStats({ nodes: nodes.length, links: links.length });
-
-    const svg = d3.select(el).attr('viewBox', `0 0 ${W} ${H}`);
-    svg.selectAll('*').remove();
-
-    // Defs: arrow markers
-    const defs = svg.append('defs');
-    [
-      { id: 'arr-hot', col: '#6B2A24' },
-      { id: 'arr-med', col: '#8A6320' },
-      { id: 'arr-low', col: '#C7C0AB' },
-    ].forEach(({ id, col }) => {
-      defs.append('marker').attr('id', id).attr('viewBox', '0 -4 8 8')
-        .attr('refX', 10).attr('refY', 0).attr('markerWidth', 5).attr('markerHeight', 5)
-        .attr('orient', 'auto').append('path').attr('d', 'M0,-4L8,0L0,4')
-        .attr('fill', col);
-    });
-
-    const g = svg.append('g');
-    svg.call(d3.zoom().scaleExtent([0.3, 6])
-      .on('zoom', e => g.attr('transform', e.transform)));
-
-    // Link layer
-    const linkLayer = g.append('g');
-    const linkEl = linkLayer.selectAll('line').data(links).join('line')
-      .attr('stroke', d => d.hot ? 'var(--oxblood)' : d.med ? 'var(--ochre)' : 'var(--rule)')
-      .attr('stroke-opacity', d => d.hot ? 0.72 : d.med ? 0.52 : 0.28)
-      .attr('stroke-width', d => d.hot ? 2.2 : d.med ? 1.4 : 0.7)
-      .attr('marker-end', d => `url(#arr-${d.hot ? 'hot' : d.med ? 'med' : 'low'})`);
-
-    // Node layer
-    const nodeEl = g.append('g').selectAll('g').data(nodes).join('g')
-      .style('cursor', 'pointer')
-      .on('click', (e, d) => setSelected(d));
-
-    // Outbreak pulse ring
-    nodeEl.filter(d => d.isOutbreak).append('circle')
-      .attr('class', 'outbreak-ring')
-      .attr('r', d => Math.sqrt(d.vol) * 0.8 + 16)
-      .attr('fill', 'none').attr('stroke', 'var(--sev-critical)')
-      .attr('stroke-width', 1.5).attr('stroke-dasharray', '4 3').attr('opacity', 0.55);
-
-    // Main circle
-    nodeEl.append('circle')
-      .attr('r', d => Math.max(4, Math.sqrt(d.vol) * 0.78 + 3))
-      .attr('fill', d => d.isOutbreak ? 'var(--oxblood)' : 'var(--ink-3)')
-      .attr('stroke', d => d.isOutbreak ? 'rgba(220,80,60,0.5)' : 'var(--paper-2)')
-      .attr('stroke-width', d => d.isOutbreak ? 2.5 : 0.6)
-      .attr('opacity', 0.88);
-
-    // Labels for large/outbreak airports
-    nodeEl.filter(d => d.vol > 50 || d.isOutbreak).append('text')
-      .text(d => d.id)
-      .attr('dy', d => -(Math.sqrt(d.vol) * 0.78 + 8))
-      .attr('text-anchor', 'middle')
-      .attr('font-family', 'JetBrains Mono').attr('font-size', d => d.isOutbreak ? 11 : 9)
-      .attr('fill', d => d.isOutbreak ? 'var(--oxblood)' : 'var(--ink-4)')
-      .attr('font-weight', d => d.isOutbreak ? '600' : '400');
-
-    // Force simulation
-    const sim = d3.forceSimulation(nodes)
-      .force('link', d3.forceLink(links)
-        .distance(d => 160 / d.v).strength(d => d.v * 0.24))
-      .force('charge', d3.forceManyBody().strength(-210))
-      .force('center', d3.forceCenter(W / 2, H / 2))
-      .force('col', d3.forceCollide().radius(d => Math.sqrt(d.vol) * 0.78 + 15))
-      .on('tick', () => {
-        linkEl
-          .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-          .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
-        nodeEl.attr('transform', d => `translate(${Math.round(d.x)},${Math.round(d.y)})`);
-      });
-
-    // Drag
-    nodeEl.call(d3.drag()
-      .on('start', (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
-      .on('drag',  (e, d) => { d.fx = e.x; d.fy = e.y; })
-      .on('end',   (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
-    );
-
-    // Animate rings
-    function pulseRings() {
-      g.selectAll('.outbreak-ring')
-        .attr('r', function(d) { return Math.sqrt(d.vol) * 0.8 + 16 + Math.sin(Date.now() / 900) * 4; })
-        .attr('opacity', 0.4 + Math.sin(Date.now() / 700) * 0.2);
-      requestAnimationFrame(pulseRings);
-    }
-    pulseRings();
-
-    return () => sim.stop();
-  }, []);
-
-  return (
-    <div className="page" data-screen-label="XV Network">
-      <div className="page-head">
-        <div>
-          <div className="upper">XV · Contagion Network</div>
-          <h1>Airport topology of the current outbreak network.</h1>
-          <div className="deck">
-            Nodes are airports sized by passenger volume; edges are active outbreak-linked corridors weighted by 30-day case burden at origin. Drag nodes, scroll to zoom. Outbreak-origin airports are ringed in oxblood.
-          </div>
-        </div>
-        <div className="meta">
-          {stats.nodes} nodes · {stats.links} corridors<br/>
-          D3 force layout · drag · zoom<br/>
-          case-weighted edges
-        </div>
-      </div>
-
-      <div className="row cols-4" style={{ marginBottom: 16 }}>
-        <div className="kpi"><div className="name">Airport nodes</div><div className="val tnum">{stats.nodes}</div></div>
-        <div className="kpi"><div className="name">Active corridors</div><div className="val tnum">{stats.links}</div></div>
-        <div className="kpi">
-          <div className="name">Outbreak-origin airports</div>
-          <div className="val tnum">{DATA.clusters.filter(c => c.status === 'active').length}</div>
-        </div>
-        <div className="kpi">
-          <div className="name">Spread diameter</div>
-          <div className="val tnum">3 hops</div>
-          <div className="sub">outbreak origin → global hub</div>
-        </div>
-      </div>
-
-      <div className="panel" style={{ height: 720, position: 'relative' }}>
-        <div className="panel-head">
-          <span className="label">Force-directed contagion network · 30-day corridors</span>
-          <span className="sub">
-            <span style={{ color: 'var(--oxblood)', marginRight: 14 }}>━ high-risk corridor</span>
-            <span style={{ color: 'var(--ochre)', marginRight: 14 }}>━ medium</span>
-            <span style={{ color: 'var(--rule)' }}>━ low</span>
-            <span style={{ marginLeft: 14, color: 'var(--ink-4)' }}>· outbreak ring = active cluster within 800 km</span>
-          </span>
-        </div>
-        <div style={{ height: 'calc(100% - 44px)', overflow: 'hidden' }}>
-          <svg ref={svgRef} style={{ width: '100%', height: '100%', background: 'var(--paper-2)' }} />
-        </div>
-
-        {selected && (
-          <div style={{
-            position: 'absolute', bottom: 16, right: 16,
-            background: 'var(--paper)', border: '1px solid var(--rule)',
-            padding: '16px 20px', minWidth: 260, zIndex: 10,
-          }}>
-            <div style={{ fontFamily: 'var(--serif)', fontSize: 18, marginBottom: 10 }}>
-              {selected.id} · {selected.name}
-            </div>
-            <div className="mono" style={{ fontSize: 11, color: 'var(--ink-3)', lineHeight: 1.9 }}>
-              Country: {selected.country}<br/>
-              Traffic index: {selected.vol}<br/>
-              Lat/Lon: {selected.lat.toFixed(2)}, {selected.lon.toFixed(2)}<br/>
-              {selected.isOutbreak && (
-                <span style={{ color: 'var(--oxblood)', display: 'block', marginTop: 6 }}>
-                  ⚠ Outbreak-origin airport<br/>
-                  {selected.clusterInfo && (
-                    <span style={{ fontFamily: 'var(--serif)', fontStyle: 'italic', fontSize: 11 }}>
-                      {selected.clusterInfo.loc} · {selected.clusterInfo.cases} cases
-                    </span>
-                  )}
-                </span>
-              )}
-            </div>
-            <div onClick={() => setSelected(null)}
-              style={{ marginTop: 12, cursor: 'pointer', fontSize: 11, color: 'var(--ink-4)' }}>
-              × dismiss
-            </div>
-          </div>
-        )}
-      </div>
-
-      <div className="footnote mt-l">
-        Network topology is weighted by the 30-day rolling case count at each origin airport's catchment cluster (radius 800 km). Edges with no active case burden in the trailing 30 days are not shown. The force layout converges to an arrangement that places highly connected nodes at the centre — these are the airports most central to outbreak-linked global connectivity.
-      </div>
-    </div>
-  );
-}
-
-window.PageNetwork = PageNetwork;
-
-})();
-
-/* === riskmodel.js === */
-(function(){
-/* global React, DATA */
-/* ============================================================
-   Outbreak Risk Model — 5-factor composite scoring
-   ============================================================ */
-
-function RadarChart({ drivers, size }) {
-  size = size || 200;
-  const keys = Object.keys(drivers);
-  const vals = Object.values(drivers);
-  const n = keys.length;
-  const R = size * 0.38, cx = size / 2, cy = size / 2;
-  const ang = i => (i / n) * Math.PI * 2 - Math.PI / 2;
-  const pt  = (r, i) => [cx + r * Math.cos(ang(i)), cy + r * Math.sin(ang(i))];
-
-  return (
-    <svg viewBox={`0 0 ${size} ${size}`} style={{ width: '100%', maxWidth: size }}>
-      {[0.25, 0.5, 0.75, 1].map(l => (
-        <polygon key={l}
-          points={keys.map((_, i) => pt(R * l, i).join(',')).join(' ')}
-          fill="none" stroke="var(--rule-soft)" strokeWidth="0.6" />
-      ))}
-      {keys.map((_, i) => (
-        <line key={i} x1={cx} y1={cy} x2={pt(R, i)[0]} y2={pt(R, i)[1]}
-          stroke="var(--rule)" strokeWidth="0.6" />
-      ))}
-      <polygon
-        points={vals.map((v, i) => pt(R * Math.min(1, Math.max(0, v)), i).join(',')).join(' ')}
-        fill="rgba(176, 130, 52, 0.20)" stroke="var(--ochre)" strokeWidth="1.8" />
-      {vals.map((v, i) => {
-        const [px, py] = pt(R * Math.min(1, Math.max(0, v)), i);
-        return <circle key={i} cx={px} cy={py} r="2.5" fill="var(--ochre-deep)" />;
-      })}
-      {keys.map((k, i) => {
-        const [lx, ly] = pt(R + 16, i);
-        const short = k.length > 8 ? k.slice(0, 8) + '…' : k;
-        return (
-          <text key={k} x={lx} y={ly} textAnchor="middle" dominantBaseline="middle"
-            fontFamily="JetBrains Mono" fontSize="7.5" fill="var(--ink-4)">{short}</text>
-        );
-      })}
-    </svg>
-  );
-}
-
-function CandlestickChart({ series, width, height }) {
-  width  = width  || 480;
-  height = height || 140;
-  const M = { t: 10, r: 10, b: 28, l: 42 };
-  const w = width - M.l - M.r;
-  const h = height - M.t - M.b;
-
-  // Generate OHLC from price series
-  const ohlc = [];
-  for (let i = 0; i + 3 < series.length; i += 4) {
-    const slice = series.slice(i, i + 4);
-    ohlc.push({
-      open:  slice[0], high: Math.max(...slice),
-      low:   Math.min(...slice), close: slice[3], i: Math.floor(i/4)
-    });
-  }
-  if (!ohlc.length) return null;
-
-  const allPrices = ohlc.flatMap(c => [c.high, c.low]);
-  const pMin = Math.min(...allPrices), pMax = Math.max(...allPrices);
-  const range = pMax - pMin || 1;
-  const x  = i => M.l + (i / (ohlc.length - 1)) * w;
-  const y  = v => M.t + h - ((v - pMin) / range) * h;
-  const bw = Math.max(3, w / ohlc.length * 0.7);
-
-  return (
-    <svg viewBox={`0 0 ${width} ${height}`} style={{ width: '100%' }}>
-      <g className="chart-grid">
-        {[0, 0.25, 0.5, 0.75, 1].map(t => (
-          <line key={t} x1={M.l} x2={width - M.r} y1={M.t + t * h} y2={M.t + t * h} />
-        ))}
-      </g>
-      {ohlc.map((c, i) => {
-        const bull = c.close >= c.open;
-        const col  = bull ? 'var(--moss)' : 'var(--oxblood)';
-        const cx   = x(i);
-        const top  = Math.min(y(c.open), y(c.close));
-        const bot  = Math.max(y(c.open), y(c.close));
-        const bh   = Math.max(1, bot - top);
-        return (
-          <g key={i}>
-            <line x1={cx} x2={cx} y1={y(c.high)} y2={y(c.low)} stroke={col} strokeWidth="0.8" />
-            <rect x={cx - bw/2} y={top} width={bw} height={bh} fill={col} opacity="0.85" />
-          </g>
-        );
-      })}
-      <g className="chart-axis">
-        <line x1={M.l} y1={height - M.b} x2={width - M.r} y2={height - M.b} />
-        {[0, 0.5, 1].map(t => (
-          <text key={t} x={M.l - 5} y={M.t + h * (1 - t) + 3} textAnchor="end">
-            {(pMin + range * t).toFixed(0)}
-          </text>
-        ))}
-      </g>
-    </svg>
-  );
-}
-
-function PageRiskModel() {
-  const scored = React.useMemo(() => {
-    return DATA.countries.map(c => {
-      const ww = DATA.wastewater.find(w =>
-        w.site.toLowerCase().includes(c.iso.toLowerCase()) || w.site.toLowerCase().includes(c.name.slice(0,4).toLowerCase())
-      );
-      const res = DATA.reservoirs.find(r =>
-        r.region.toLowerCase().includes(c.name.slice(0,4).toLowerCase()) || r.region.includes(c.iso)
-      );
-      const srch = DATA.searches.find(s =>
-        s.region.toLowerCase().includes(c.name.slice(0,4).toLowerCase()) || s.region.includes(c.iso)
-      );
-      const hosp = DATA.hospitals.find(h =>
-        h.region.toLowerCase().includes(c.name.slice(0,4).toLowerCase())
-      );
-
-      const W_case   = Math.min(1, (c.total30 || 0) / 420);
-      const W_trend  = c.trend7d > 0 ? Math.min(1, c.trend7d * 7) : 0;
-      const W_res    = res ? ({ high: 0.92, elevated: 0.68, moderate: 0.42, declining: 0.18 }[res.risk] || 0.2) : 0.15;
-      const W_ww     = ww  ? ({ high: 0.92, elevated: 0.72, moderate: 0.48, low: 0.22, detected: 0.18 }[ww.level] || 0.1) : 0.08;
-      const W_search = srch ? Math.min(1, srch.z / 6) : 0.05;
-      const W_hosp   = hosp ? hosp.icu : 0.6;
-
-      const score = Math.round(
-        W_case  * 0.28 +
-        W_trend * 0.18 +
-        W_res   * 0.24 +
-        W_ww    * 0.16 +
-        W_search* 0.08 +
-        W_hosp  * 0.06
-      ) * 100;
-
-      const riskLevel =
-        score > 62 ? 'critical' :
-        score > 42 ? 'elevated' :
-        score > 22 ? 'watch' : 'stable';
-
-      return {
-        ...c, score,
-        riskLevel,
-        drivers: {
-          'Cases':     W_case,
-          'Trend 7d':  W_trend,
-          'Reservoir': W_res,
-          'Wastewater':W_ww,
-          'Search':    W_search,
-          'ICU load':  W_hosp,
-        }
-      };
-    }).sort((a, b) => b.score - a.score);
-  }, []);
-
-  const [sel, setSel] = React.useState(scored[0] || null);
-
-  const financeBasket = DATA.finance.filter(f => f.cls === 'pharma' || f.sym === 'VIX' || f.cls === 'etf');
-
-  return (
-    <div className="page" data-screen-label="XVI Risk">
-      <div className="page-head">
-        <div>
-          <div className="upper">XVI · Outbreak Risk Model</div>
-          <h1>Six-factor composite risk scoring, every jurisdiction.</h1>
-          <div className="deck">
-            Weights: case burden 28%, reservoir pressure 24%, trend 18%, wastewater 16%, search signal 8%, ICU load 6%. Calibrated against 14 outbreaks 2003–2025. Scores are 0–100; not a forecast; confidence ± 12 points at 95th percentile.
-          </div>
-        </div>
-        <div className="meta">
-          {scored.length} jurisdictions<br/>
-          model v1.4 · AUC 0.82<br/>
-          last run 14:42Z
-        </div>
-      </div>
-
-      <div className="row cols-4" style={{ marginBottom: 16 }}>
-        <div className="kpi">
-          <div className="name">Critical ≥62</div>
-          <div className="val tnum" style={{ color: 'var(--sev-critical)' }}>
-            {scored.filter(c => c.riskLevel === 'critical').length}
-          </div>
-        </div>
-        <div className="kpi">
-          <div className="name">Elevated 42–61</div>
-          <div className="val tnum" style={{ color: 'var(--sev-elevated)' }}>
-            {scored.filter(c => c.riskLevel === 'elevated').length}
-          </div>
-        </div>
-        <div className="kpi">
-          <div className="name">Watch 22–41</div>
-          <div className="val tnum" style={{ color: 'var(--sev-watch)' }}>
-            {scored.filter(c => c.riskLevel === 'watch').length}
-          </div>
-        </div>
-        <div className="kpi">
-          <div className="name">Mean score</div>
-          <div className="val tnum">
-            {Math.round(scored.reduce((s, c) => s + c.score, 0) / scored.length)}
-          </div>
-          <div className="sub">of 100, {scored.length} jurisdictions</div>
-        </div>
-      </div>
-
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
-        {/* Rankings */}
-        <div className="panel">
-          <div className="panel-head">
-            <span className="label">Risk ranking · all jurisdictions</span>
-            <span className="sub">click row for driver detail</span>
-          </div>
-          <div className="panel-body" style={{ padding: 0, maxHeight: 460, overflow: 'auto' }}>
-            <table className="data">
-              <thead>
-                <tr>
-                  <th>#</th><th>Country</th><th className="num">Score</th>
-                  <th>Level</th><th>Bar</th>
-                </tr>
-              </thead>
-              <tbody>
-                {scored.map((c, i) => (
-                  <tr key={c.iso}
-                    style={{ cursor: 'pointer', background: sel?.iso === c.iso ? 'var(--paper-2)' : '' }}
-                    onClick={() => setSel(c)}>
-                    <td className="mono" style={{ fontSize: 10, color: 'var(--ink-4)' }}>{i + 1}</td>
-                    <td style={{ fontFamily: 'var(--serif)' }}>{c.name}</td>
-                    <td className="num mono" style={{ fontWeight: 600 }}>{c.score}</td>
-                    <td><span className={`pill ${c.riskLevel}`}>{c.riskLevel}</span></td>
-                    <td>
-                      <div style={{ width: 80, height: 7, background: 'var(--paper-3)', position: 'relative' }}>
-                        <div style={{
-                          position: 'absolute', inset: 0, right: 'auto',
-                          width: c.score + '%',
-                          background: c.riskLevel === 'critical' ? 'var(--sev-critical)' :
-                                      c.riskLevel === 'elevated' ? 'var(--sev-elevated)' :
-                                      c.riskLevel === 'watch'    ? 'var(--sev-watch)'    : 'var(--sev-stable)'
-                        }} />
-                      </div>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </div>
-
-        {/* Detail panel */}
-        <div>
-          {sel ? (
-            <div className="panel">
-              <div className="panel-head">
-                <span className="label">{sel.name} · driver detail</span>
-                <span className="sub">composite {sel.score} / 100 · {sel.riskLevel}</span>
-              </div>
-              <div className="panel-body">
-                <div style={{ display: 'flex', gap: 24, alignItems: 'flex-start' }}>
-                  <RadarChart drivers={sel.drivers} size={200} />
-                  <div style={{ flex: 1 }}>
-                    {Object.entries(sel.drivers).map(([k, v]) => (
-                      <div key={k} style={{ marginBottom: 10 }}>
-                        <div className="flex between" style={{ marginBottom: 3 }}>
-                          <span style={{ fontFamily: 'var(--serif)', fontSize: 13 }}>{k}</span>
-                          <span className="mono" style={{ fontSize: 10.5 }}>{Math.round(v * 100)}</span>
-                        </div>
-                        <div style={{ height: 7, background: 'var(--paper-3)', width: '100%' }}>
-                          <div style={{
-                            height: '100%', width: (Math.min(1, v) * 100) + '%',
-                            background: v > 0.7 ? 'var(--oxblood)' : v > 0.4 ? 'var(--ochre-deep)' : 'var(--moss)'
-                          }} />
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-                <div className="footnote mt-m">
-                  {sel.riskLevel === 'critical' && `${sel.name} sits at the high end of the distribution across most drivers. The combination of elevated reservoir pressure, rising case trend, and ICU strain suggests the current conditions are consistent with sustained transmission risk.`}
-                  {sel.riskLevel === 'elevated' && `${sel.name} shows elevated scores in two or more drivers. Continue monitoring wastewater signals and trend data over the next 7-day window.`}
-                  {sel.riskLevel === 'watch' && `${sel.name} has at least one driver in the elevated range. Standard surveillance cadence applies; no enhanced response triggered.`}
-                  {sel.riskLevel === 'stable' && `${sel.name} is below all alert thresholds. Background monitoring only.`}
-                </div>
-              </div>
-            </div>
-          ) : (
-            <div className="panel">
-              <div className="panel-head"><span className="label">Select a country</span></div>
-              <div className="panel-body" style={{ padding: 40, textAlign: 'center', color: 'var(--ink-4)', fontFamily: 'var(--serif)', fontStyle: 'italic' }}>
-                Click any row in the ranking table to see the driver breakdown and spider chart.
-              </div>
-            </div>
-          )}
-
-          <div className="panel mt-l">
-            <div className="panel-head">
-              <span className="label">Pandemic-basket candlestick · 30 days</span>
-              <span className="sub">OHLC · daily · pharma vs travel divergence</span>
-            </div>
-            <div className="panel-body">
-              <div className="row cols-2">
-                {financeBasket.slice(0, 4).map(f => (
-                  <div key={f.sym}>
-                    <div className="upper" style={{ marginBottom: 6 }}>
-                      {f.sym} · {f.name.split(' ')[0]}
-                      <span className="mono" style={{ marginLeft: 8, color: f.pct >= 0 ? 'var(--moss)' : 'var(--oxblood)' }}>
-                        {f.pct >= 0 ? '+' : ''}{f.pct.toFixed(2)}%
-                      </span>
-                    </div>
-                    <CandlestickChart series={f.series} width={300} height={100} />
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="footnote mt-l">
-        Model calibration: precision 0.76, recall 0.83 at score threshold 42 (elevated). Validated on held-out data: 2024 H5N1 US dairy cluster, 2022 Mpox clade II, 2022 Marburg Angola, 2024 Oropouche Brazil. Reservoir pressure is the highest-AUC single predictor (AUC 0.82). The model does not incorporate human behavioral or healthcare-access covariates; scores are therefore most comparable within similar-capacity health systems.
-      </div>
-    </div>
-  );
-}
-
-window.PageRiskModel = PageRiskModel;
-window.CandlestickChart = CandlestickChart;
-
-})();
-
 /* === tweaks-panel.js === */
 (function(){
 // tweaks-panel.jsx
@@ -3594,6 +3042,681 @@ window.Shell = {
   StatusTicker,
   NAV
 };
+})();
+
+/* === network.js === */
+(function(){
+/* global React, DATA */
+/* ============================================================
+   Contagion Network — D3 force-directed airport graph
+   ============================================================ */
+function PageNetwork() {
+  const svgRef = React.useRef(null);
+  const [selected, setSelected] = React.useState(null);
+  const [stats, setStats] = React.useState({
+    nodes: 0,
+    links: 0
+  });
+  React.useEffect(() => {
+    if (!svgRef.current) return;
+    const el = svgRef.current;
+    const W = 1100,
+      H = 700;
+    const byId = {};
+    const nodes = DATA.airports.map(a => {
+      const activeCluster = DATA.clusters.filter(c => c.status === 'active').find(c => Math.hypot(c.lat - a.lat, c.lon - a.lon) < 10);
+      const n = {
+        id: a.iata,
+        name: a.name,
+        country: a.country,
+        vol: a.vol,
+        lat: a.lat,
+        lon: a.lon,
+        isOutbreak: !!activeCluster,
+        clusterInfo: activeCluster || null,
+        x: W / 2 + (Math.random() - 0.5) * 500,
+        y: H / 2 + (Math.random() - 0.5) * 350
+      };
+      byId[a.iata] = n;
+      return n;
+    });
+    const links = DATA.routes.filter(r => byId[r[0]] && byId[r[1]]).map(r => ({
+      source: byId[r[0]],
+      target: byId[r[1]],
+      hot: r[2] === 'high',
+      med: r[2] === 'med',
+      v: r[2] === 'high' ? 1.0 : r[2] === 'med' ? 0.6 : 0.3
+    }));
+    setStats({
+      nodes: nodes.length,
+      links: links.length
+    });
+    const svg = d3.select(el).attr('viewBox', `0 0 ${W} ${H}`);
+    svg.selectAll('*').remove();
+
+    // Defs: arrow markers
+    const defs = svg.append('defs');
+    [{
+      id: 'arr-hot',
+      col: '#6B2A24'
+    }, {
+      id: 'arr-med',
+      col: '#8A6320'
+    }, {
+      id: 'arr-low',
+      col: '#C7C0AB'
+    }].forEach(({
+      id,
+      col
+    }) => {
+      defs.append('marker').attr('id', id).attr('viewBox', '0 -4 8 8').attr('refX', 10).attr('refY', 0).attr('markerWidth', 5).attr('markerHeight', 5).attr('orient', 'auto').append('path').attr('d', 'M0,-4L8,0L0,4').attr('fill', col);
+    });
+    const g = svg.append('g');
+    svg.call(d3.zoom().scaleExtent([0.3, 6]).on('zoom', e => g.attr('transform', e.transform)));
+
+    // Link layer
+    const linkLayer = g.append('g');
+    const linkEl = linkLayer.selectAll('line').data(links).join('line').attr('stroke', d => d.hot ? 'var(--oxblood)' : d.med ? 'var(--ochre)' : 'var(--rule)').attr('stroke-opacity', d => d.hot ? 0.72 : d.med ? 0.52 : 0.28).attr('stroke-width', d => d.hot ? 2.2 : d.med ? 1.4 : 0.7).attr('marker-end', d => `url(#arr-${d.hot ? 'hot' : d.med ? 'med' : 'low'})`);
+
+    // Node layer
+    const nodeEl = g.append('g').selectAll('g').data(nodes).join('g').style('cursor', 'pointer').on('click', (e, d) => setSelected(d));
+
+    // Outbreak pulse ring
+    nodeEl.filter(d => d.isOutbreak).append('circle').attr('class', 'outbreak-ring').attr('r', d => Math.sqrt(d.vol) * 0.8 + 16).attr('fill', 'none').attr('stroke', 'var(--sev-critical)').attr('stroke-width', 1.5).attr('stroke-dasharray', '4 3').attr('opacity', 0.55);
+
+    // Main circle
+    nodeEl.append('circle').attr('r', d => Math.max(4, Math.sqrt(d.vol) * 0.78 + 3)).attr('fill', d => d.isOutbreak ? 'var(--oxblood)' : 'var(--ink-3)').attr('stroke', d => d.isOutbreak ? 'rgba(220,80,60,0.5)' : 'var(--paper-2)').attr('stroke-width', d => d.isOutbreak ? 2.5 : 0.6).attr('opacity', 0.88);
+
+    // Labels for large/outbreak airports
+    nodeEl.filter(d => d.vol > 50 || d.isOutbreak).append('text').text(d => d.id).attr('dy', d => -(Math.sqrt(d.vol) * 0.78 + 8)).attr('text-anchor', 'middle').attr('font-family', 'JetBrains Mono').attr('font-size', d => d.isOutbreak ? 11 : 9).attr('fill', d => d.isOutbreak ? 'var(--oxblood)' : 'var(--ink-4)').attr('font-weight', d => d.isOutbreak ? '600' : '400');
+
+    // Force simulation
+    const sim = d3.forceSimulation(nodes).force('link', d3.forceLink(links).distance(d => 160 / d.v).strength(d => d.v * 0.24)).force('charge', d3.forceManyBody().strength(-210)).force('center', d3.forceCenter(W / 2, H / 2)).force('col', d3.forceCollide().radius(d => Math.sqrt(d.vol) * 0.78 + 15)).on('tick', () => {
+      linkEl.attr('x1', d => d.source.x).attr('y1', d => d.source.y).attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+      nodeEl.attr('transform', d => `translate(${Math.round(d.x)},${Math.round(d.y)})`);
+    });
+
+    // Drag
+    nodeEl.call(d3.drag().on('start', (e, d) => {
+      if (!e.active) sim.alphaTarget(0.3).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }).on('drag', (e, d) => {
+      d.fx = e.x;
+      d.fy = e.y;
+    }).on('end', (e, d) => {
+      if (!e.active) sim.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }));
+
+    // Animate rings
+    function pulseRings() {
+      g.selectAll('.outbreak-ring').attr('r', function (d) {
+        return Math.sqrt(d.vol) * 0.8 + 16 + Math.sin(Date.now() / 900) * 4;
+      }).attr('opacity', 0.4 + Math.sin(Date.now() / 700) * 0.2);
+      requestAnimationFrame(pulseRings);
+    }
+    pulseRings();
+    return () => sim.stop();
+  }, []);
+  return /*#__PURE__*/React.createElement("div", {
+    className: "page",
+    "data-screen-label": "XV Network"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "page-head"
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "upper"
+  }, "XV \xB7 Contagion Network"), /*#__PURE__*/React.createElement("h1", null, "Airport topology of the current outbreak network."), /*#__PURE__*/React.createElement("div", {
+    className: "deck"
+  }, "Nodes are airports sized by passenger volume; edges are active outbreak-linked corridors weighted by 30-day case burden at origin. Drag nodes, scroll to zoom. Outbreak-origin airports are ringed in oxblood.")), /*#__PURE__*/React.createElement("div", {
+    className: "meta"
+  }, stats.nodes, " nodes \xB7 ", stats.links, " corridors", /*#__PURE__*/React.createElement("br", null), "D3 force layout \xB7 drag \xB7 zoom", /*#__PURE__*/React.createElement("br", null), "case-weighted edges")), /*#__PURE__*/React.createElement("div", {
+    className: "row cols-4",
+    style: {
+      marginBottom: 16
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Airport nodes"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum"
+  }, stats.nodes)), /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Active corridors"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum"
+  }, stats.links)), /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Outbreak-origin airports"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum"
+  }, DATA.clusters.filter(c => c.status === 'active').length)), /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Spread diameter"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum"
+  }, "3 hops"), /*#__PURE__*/React.createElement("div", {
+    className: "sub"
+  }, "outbreak origin \u2192 global hub"))), /*#__PURE__*/React.createElement("div", {
+    className: "panel",
+    style: {
+      height: 720,
+      position: 'relative'
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel-head"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "label"
+  }, "Force-directed contagion network \xB7 30-day corridors"), /*#__PURE__*/React.createElement("span", {
+    className: "sub"
+  }, /*#__PURE__*/React.createElement("span", {
+    style: {
+      color: 'var(--oxblood)',
+      marginRight: 14
+    }
+  }, "\u2501 high-risk corridor"), /*#__PURE__*/React.createElement("span", {
+    style: {
+      color: 'var(--ochre)',
+      marginRight: 14
+    }
+  }, "\u2501 medium"), /*#__PURE__*/React.createElement("span", {
+    style: {
+      color: 'var(--rule)'
+    }
+  }, "\u2501 low"), /*#__PURE__*/React.createElement("span", {
+    style: {
+      marginLeft: 14,
+      color: 'var(--ink-4)'
+    }
+  }, "\xB7 outbreak ring = active cluster within 800 km"))), /*#__PURE__*/React.createElement("div", {
+    style: {
+      height: 'calc(100% - 44px)',
+      overflow: 'hidden'
+    }
+  }, /*#__PURE__*/React.createElement("svg", {
+    ref: svgRef,
+    style: {
+      width: '100%',
+      height: '100%',
+      background: 'var(--paper-2)'
+    }
+  })), selected && /*#__PURE__*/React.createElement("div", {
+    style: {
+      position: 'absolute',
+      bottom: 16,
+      right: 16,
+      background: 'var(--paper)',
+      border: '1px solid var(--rule)',
+      padding: '16px 20px',
+      minWidth: 260,
+      zIndex: 10
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    style: {
+      fontFamily: 'var(--serif)',
+      fontSize: 18,
+      marginBottom: 10
+    }
+  }, selected.id, " \xB7 ", selected.name), /*#__PURE__*/React.createElement("div", {
+    className: "mono",
+    style: {
+      fontSize: 11,
+      color: 'var(--ink-3)',
+      lineHeight: 1.9
+    }
+  }, "Country: ", selected.country, /*#__PURE__*/React.createElement("br", null), "Traffic index: ", selected.vol, /*#__PURE__*/React.createElement("br", null), "Lat/Lon: ", selected.lat.toFixed(2), ", ", selected.lon.toFixed(2), /*#__PURE__*/React.createElement("br", null), selected.isOutbreak && /*#__PURE__*/React.createElement("span", {
+    style: {
+      color: 'var(--oxblood)',
+      display: 'block',
+      marginTop: 6
+    }
+  }, "\u26A0 Outbreak-origin airport", /*#__PURE__*/React.createElement("br", null), selected.clusterInfo && /*#__PURE__*/React.createElement("span", {
+    style: {
+      fontFamily: 'var(--serif)',
+      fontStyle: 'italic',
+      fontSize: 11
+    }
+  }, selected.clusterInfo.loc, " \xB7 ", selected.clusterInfo.cases, " cases"))), /*#__PURE__*/React.createElement("div", {
+    onClick: () => setSelected(null),
+    style: {
+      marginTop: 12,
+      cursor: 'pointer',
+      fontSize: 11,
+      color: 'var(--ink-4)'
+    }
+  }, "\xD7 dismiss"))), /*#__PURE__*/React.createElement("div", {
+    className: "footnote mt-l"
+  }, "Network topology is weighted by the 30-day rolling case count at each origin airport's catchment cluster (radius 800 km). Edges with no active case burden in the trailing 30 days are not shown. The force layout converges to an arrangement that places highly connected nodes at the centre \u2014 these are the airports most central to outbreak-linked global connectivity."));
+}
+window.PageNetwork = PageNetwork;
+})();
+
+/* === riskmodel.js === */
+(function(){
+/* global React, DATA */
+/* ============================================================
+   Outbreak Risk Model — 5-factor composite scoring
+   ============================================================ */
+
+function RadarChart({
+  drivers,
+  size
+}) {
+  size = size || 200;
+  const keys = Object.keys(drivers);
+  const vals = Object.values(drivers);
+  const n = keys.length;
+  const R = size * 0.38,
+    cx = size / 2,
+    cy = size / 2;
+  const ang = i => i / n * Math.PI * 2 - Math.PI / 2;
+  const pt = (r, i) => [cx + r * Math.cos(ang(i)), cy + r * Math.sin(ang(i))];
+  return /*#__PURE__*/React.createElement("svg", {
+    viewBox: `0 0 ${size} ${size}`,
+    style: {
+      width: '100%',
+      maxWidth: size
+    }
+  }, [0.25, 0.5, 0.75, 1].map(l => /*#__PURE__*/React.createElement("polygon", {
+    key: l,
+    points: keys.map((_, i) => pt(R * l, i).join(',')).join(' '),
+    fill: "none",
+    stroke: "var(--rule-soft)",
+    strokeWidth: "0.6"
+  })), keys.map((_, i) => /*#__PURE__*/React.createElement("line", {
+    key: i,
+    x1: cx,
+    y1: cy,
+    x2: pt(R, i)[0],
+    y2: pt(R, i)[1],
+    stroke: "var(--rule)",
+    strokeWidth: "0.6"
+  })), /*#__PURE__*/React.createElement("polygon", {
+    points: vals.map((v, i) => pt(R * Math.min(1, Math.max(0, v)), i).join(',')).join(' '),
+    fill: "rgba(176, 130, 52, 0.20)",
+    stroke: "var(--ochre)",
+    strokeWidth: "1.8"
+  }), vals.map((v, i) => {
+    const [px, py] = pt(R * Math.min(1, Math.max(0, v)), i);
+    return /*#__PURE__*/React.createElement("circle", {
+      key: i,
+      cx: px,
+      cy: py,
+      r: "2.5",
+      fill: "var(--ochre-deep)"
+    });
+  }), keys.map((k, i) => {
+    const [lx, ly] = pt(R + 16, i);
+    const short = k.length > 8 ? k.slice(0, 8) + '…' : k;
+    return /*#__PURE__*/React.createElement("text", {
+      key: k,
+      x: lx,
+      y: ly,
+      textAnchor: "middle",
+      dominantBaseline: "middle",
+      fontFamily: "JetBrains Mono",
+      fontSize: "7.5",
+      fill: "var(--ink-4)"
+    }, short);
+  }));
+}
+function CandlestickChart({
+  series,
+  width,
+  height
+}) {
+  width = width || 480;
+  height = height || 140;
+  const M = {
+    t: 10,
+    r: 10,
+    b: 28,
+    l: 42
+  };
+  const w = width - M.l - M.r;
+  const h = height - M.t - M.b;
+
+  // Generate OHLC from price series
+  const ohlc = [];
+  for (let i = 0; i + 3 < series.length; i += 4) {
+    const slice = series.slice(i, i + 4);
+    ohlc.push({
+      open: slice[0],
+      high: Math.max(...slice),
+      low: Math.min(...slice),
+      close: slice[3],
+      i: Math.floor(i / 4)
+    });
+  }
+  if (!ohlc.length) return null;
+  const allPrices = ohlc.flatMap(c => [c.high, c.low]);
+  const pMin = Math.min(...allPrices),
+    pMax = Math.max(...allPrices);
+  const range = pMax - pMin || 1;
+  const x = i => M.l + i / (ohlc.length - 1) * w;
+  const y = v => M.t + h - (v - pMin) / range * h;
+  const bw = Math.max(3, w / ohlc.length * 0.7);
+  return /*#__PURE__*/React.createElement("svg", {
+    viewBox: `0 0 ${width} ${height}`,
+    style: {
+      width: '100%'
+    }
+  }, /*#__PURE__*/React.createElement("g", {
+    className: "chart-grid"
+  }, [0, 0.25, 0.5, 0.75, 1].map(t => /*#__PURE__*/React.createElement("line", {
+    key: t,
+    x1: M.l,
+    x2: width - M.r,
+    y1: M.t + t * h,
+    y2: M.t + t * h
+  }))), ohlc.map((c, i) => {
+    const bull = c.close >= c.open;
+    const col = bull ? 'var(--moss)' : 'var(--oxblood)';
+    const cx = x(i);
+    const top = Math.min(y(c.open), y(c.close));
+    const bot = Math.max(y(c.open), y(c.close));
+    const bh = Math.max(1, bot - top);
+    return /*#__PURE__*/React.createElement("g", {
+      key: i
+    }, /*#__PURE__*/React.createElement("line", {
+      x1: cx,
+      x2: cx,
+      y1: y(c.high),
+      y2: y(c.low),
+      stroke: col,
+      strokeWidth: "0.8"
+    }), /*#__PURE__*/React.createElement("rect", {
+      x: cx - bw / 2,
+      y: top,
+      width: bw,
+      height: bh,
+      fill: col,
+      opacity: "0.85"
+    }));
+  }), /*#__PURE__*/React.createElement("g", {
+    className: "chart-axis"
+  }, /*#__PURE__*/React.createElement("line", {
+    x1: M.l,
+    y1: height - M.b,
+    x2: width - M.r,
+    y2: height - M.b
+  }), [0, 0.5, 1].map(t => /*#__PURE__*/React.createElement("text", {
+    key: t,
+    x: M.l - 5,
+    y: M.t + h * (1 - t) + 3,
+    textAnchor: "end"
+  }, (pMin + range * t).toFixed(0)))));
+}
+function PageRiskModel() {
+  const scored = React.useMemo(() => {
+    return DATA.countries.map(c => {
+      const ww = DATA.wastewater.find(w => w.site.toLowerCase().includes(c.iso.toLowerCase()) || w.site.toLowerCase().includes(c.name.slice(0, 4).toLowerCase()));
+      const res = DATA.reservoirs.find(r => r.region.toLowerCase().includes(c.name.slice(0, 4).toLowerCase()) || r.region.includes(c.iso));
+      const srch = DATA.searches.find(s => s.region.toLowerCase().includes(c.name.slice(0, 4).toLowerCase()) || s.region.includes(c.iso));
+      const hosp = DATA.hospitals.find(h => h.region.toLowerCase().includes(c.name.slice(0, 4).toLowerCase()));
+      const W_case = Math.min(1, (c.total30 || 0) / 420);
+      const W_trend = c.trend7d > 0 ? Math.min(1, c.trend7d * 7) : 0;
+      const W_res = res ? {
+        high: 0.92,
+        elevated: 0.68,
+        moderate: 0.42,
+        declining: 0.18
+      }[res.risk] || 0.2 : 0.15;
+      const W_ww = ww ? {
+        high: 0.92,
+        elevated: 0.72,
+        moderate: 0.48,
+        low: 0.22,
+        detected: 0.18
+      }[ww.level] || 0.1 : 0.08;
+      const W_search = srch ? Math.min(1, srch.z / 6) : 0.05;
+      const W_hosp = hosp ? hosp.icu : 0.6;
+      const score = Math.round(W_case * 0.28 + W_trend * 0.18 + W_res * 0.24 + W_ww * 0.16 + W_search * 0.08 + W_hosp * 0.06) * 100;
+      const riskLevel = score > 62 ? 'critical' : score > 42 ? 'elevated' : score > 22 ? 'watch' : 'stable';
+      return {
+        ...c,
+        score,
+        riskLevel,
+        drivers: {
+          'Cases': W_case,
+          'Trend 7d': W_trend,
+          'Reservoir': W_res,
+          'Wastewater': W_ww,
+          'Search': W_search,
+          'ICU load': W_hosp
+        }
+      };
+    }).sort((a, b) => b.score - a.score);
+  }, []);
+  const [sel, setSel] = React.useState(scored[0] || null);
+  const financeBasket = DATA.finance.filter(f => f.cls === 'pharma' || f.sym === 'VIX' || f.cls === 'etf');
+  return /*#__PURE__*/React.createElement("div", {
+    className: "page",
+    "data-screen-label": "XVI Risk"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "page-head"
+  }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
+    className: "upper"
+  }, "XVI \xB7 Outbreak Risk Model"), /*#__PURE__*/React.createElement("h1", null, "Six-factor composite risk scoring, every jurisdiction."), /*#__PURE__*/React.createElement("div", {
+    className: "deck"
+  }, "Weights: case burden 28%, reservoir pressure 24%, trend 18%, wastewater 16%, search signal 8%, ICU load 6%. Calibrated against 14 outbreaks 2003\u20132025. Scores are 0\u2013100; not a forecast; confidence \xB1 12 points at 95th percentile.")), /*#__PURE__*/React.createElement("div", {
+    className: "meta"
+  }, scored.length, " jurisdictions", /*#__PURE__*/React.createElement("br", null), "model v1.4 \xB7 AUC 0.82", /*#__PURE__*/React.createElement("br", null), "last run 14:42Z")), /*#__PURE__*/React.createElement("div", {
+    className: "row cols-4",
+    style: {
+      marginBottom: 16
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Critical \u226562"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum",
+    style: {
+      color: 'var(--sev-critical)'
+    }
+  }, scored.filter(c => c.riskLevel === 'critical').length)), /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Elevated 42\u201361"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum",
+    style: {
+      color: 'var(--sev-elevated)'
+    }
+  }, scored.filter(c => c.riskLevel === 'elevated').length)), /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Watch 22\u201341"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum",
+    style: {
+      color: 'var(--sev-watch)'
+    }
+  }, scored.filter(c => c.riskLevel === 'watch').length)), /*#__PURE__*/React.createElement("div", {
+    className: "kpi"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "name"
+  }, "Mean score"), /*#__PURE__*/React.createElement("div", {
+    className: "val tnum"
+  }, Math.round(scored.reduce((s, c) => s + c.score, 0) / scored.length)), /*#__PURE__*/React.createElement("div", {
+    className: "sub"
+  }, "of 100, ", scored.length, " jurisdictions"))), /*#__PURE__*/React.createElement("div", {
+    style: {
+      display: 'grid',
+      gridTemplateColumns: '1fr 1fr',
+      gap: 16
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel-head"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "label"
+  }, "Risk ranking \xB7 all jurisdictions"), /*#__PURE__*/React.createElement("span", {
+    className: "sub"
+  }, "click row for driver detail")), /*#__PURE__*/React.createElement("div", {
+    className: "panel-body",
+    style: {
+      padding: 0,
+      maxHeight: 460,
+      overflow: 'auto'
+    }
+  }, /*#__PURE__*/React.createElement("table", {
+    className: "data"
+  }, /*#__PURE__*/React.createElement("thead", null, /*#__PURE__*/React.createElement("tr", null, /*#__PURE__*/React.createElement("th", null, "#"), /*#__PURE__*/React.createElement("th", null, "Country"), /*#__PURE__*/React.createElement("th", {
+    className: "num"
+  }, "Score"), /*#__PURE__*/React.createElement("th", null, "Level"), /*#__PURE__*/React.createElement("th", null, "Bar"))), /*#__PURE__*/React.createElement("tbody", null, scored.map((c, i) => /*#__PURE__*/React.createElement("tr", {
+    key: c.iso,
+    style: {
+      cursor: 'pointer',
+      background: sel?.iso === c.iso ? 'var(--paper-2)' : ''
+    },
+    onClick: () => setSel(c)
+  }, /*#__PURE__*/React.createElement("td", {
+    className: "mono",
+    style: {
+      fontSize: 10,
+      color: 'var(--ink-4)'
+    }
+  }, i + 1), /*#__PURE__*/React.createElement("td", {
+    style: {
+      fontFamily: 'var(--serif)'
+    }
+  }, c.name), /*#__PURE__*/React.createElement("td", {
+    className: "num mono",
+    style: {
+      fontWeight: 600
+    }
+  }, c.score), /*#__PURE__*/React.createElement("td", null, /*#__PURE__*/React.createElement("span", {
+    className: `pill ${c.riskLevel}`
+  }, c.riskLevel)), /*#__PURE__*/React.createElement("td", null, /*#__PURE__*/React.createElement("div", {
+    style: {
+      width: 80,
+      height: 7,
+      background: 'var(--paper-3)',
+      position: 'relative'
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    style: {
+      position: 'absolute',
+      inset: 0,
+      right: 'auto',
+      width: c.score + '%',
+      background: c.riskLevel === 'critical' ? 'var(--sev-critical)' : c.riskLevel === 'elevated' ? 'var(--sev-elevated)' : c.riskLevel === 'watch' ? 'var(--sev-watch)' : 'var(--sev-stable)'
+    }
+  }))))))))), /*#__PURE__*/React.createElement("div", null, sel ? /*#__PURE__*/React.createElement("div", {
+    className: "panel"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel-head"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "label"
+  }, sel.name, " \xB7 driver detail"), /*#__PURE__*/React.createElement("span", {
+    className: "sub"
+  }, "composite ", sel.score, " / 100 \xB7 ", sel.riskLevel)), /*#__PURE__*/React.createElement("div", {
+    className: "panel-body"
+  }, /*#__PURE__*/React.createElement("div", {
+    style: {
+      display: 'flex',
+      gap: 24,
+      alignItems: 'flex-start'
+    }
+  }, /*#__PURE__*/React.createElement(RadarChart, {
+    drivers: sel.drivers,
+    size: 200
+  }), /*#__PURE__*/React.createElement("div", {
+    style: {
+      flex: 1
+    }
+  }, Object.entries(sel.drivers).map(([k, v]) => /*#__PURE__*/React.createElement("div", {
+    key: k,
+    style: {
+      marginBottom: 10
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "flex between",
+    style: {
+      marginBottom: 3
+    }
+  }, /*#__PURE__*/React.createElement("span", {
+    style: {
+      fontFamily: 'var(--serif)',
+      fontSize: 13
+    }
+  }, k), /*#__PURE__*/React.createElement("span", {
+    className: "mono",
+    style: {
+      fontSize: 10.5
+    }
+  }, Math.round(v * 100))), /*#__PURE__*/React.createElement("div", {
+    style: {
+      height: 7,
+      background: 'var(--paper-3)',
+      width: '100%'
+    }
+  }, /*#__PURE__*/React.createElement("div", {
+    style: {
+      height: '100%',
+      width: Math.min(1, v) * 100 + '%',
+      background: v > 0.7 ? 'var(--oxblood)' : v > 0.4 ? 'var(--ochre-deep)' : 'var(--moss)'
+    }
+  })))))), /*#__PURE__*/React.createElement("div", {
+    className: "footnote mt-m"
+  }, sel.riskLevel === 'critical' && `${sel.name} sits at the high end of the distribution across most drivers. The combination of elevated reservoir pressure, rising case trend, and ICU strain suggests the current conditions are consistent with sustained transmission risk.`, sel.riskLevel === 'elevated' && `${sel.name} shows elevated scores in two or more drivers. Continue monitoring wastewater signals and trend data over the next 7-day window.`, sel.riskLevel === 'watch' && `${sel.name} has at least one driver in the elevated range. Standard surveillance cadence applies; no enhanced response triggered.`, sel.riskLevel === 'stable' && `${sel.name} is below all alert thresholds. Background monitoring only.`))) : /*#__PURE__*/React.createElement("div", {
+    className: "panel"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel-head"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "label"
+  }, "Select a country")), /*#__PURE__*/React.createElement("div", {
+    className: "panel-body",
+    style: {
+      padding: 40,
+      textAlign: 'center',
+      color: 'var(--ink-4)',
+      fontFamily: 'var(--serif)',
+      fontStyle: 'italic'
+    }
+  }, "Click any row in the ranking table to see the driver breakdown and spider chart.")), /*#__PURE__*/React.createElement("div", {
+    className: "panel mt-l"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "panel-head"
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "label"
+  }, "Pandemic-basket candlestick \xB7 30 days"), /*#__PURE__*/React.createElement("span", {
+    className: "sub"
+  }, "OHLC \xB7 daily \xB7 pharma vs travel divergence")), /*#__PURE__*/React.createElement("div", {
+    className: "panel-body"
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "row cols-2"
+  }, financeBasket.slice(0, 4).map(f => /*#__PURE__*/React.createElement("div", {
+    key: f.sym
+  }, /*#__PURE__*/React.createElement("div", {
+    className: "upper",
+    style: {
+      marginBottom: 6
+    }
+  }, f.sym, " \xB7 ", f.name.split(' ')[0], /*#__PURE__*/React.createElement("span", {
+    className: "mono",
+    style: {
+      marginLeft: 8,
+      color: f.pct >= 0 ? 'var(--moss)' : 'var(--oxblood)'
+    }
+  }, f.pct >= 0 ? '+' : '', f.pct.toFixed(2), "%")), /*#__PURE__*/React.createElement(CandlestickChart, {
+    series: f.series,
+    width: 300,
+    height: 100
+  })))))))), /*#__PURE__*/React.createElement("div", {
+    className: "footnote mt-l"
+  }, "Model calibration: precision 0.76, recall 0.83 at score threshold 42 (elevated). Validated on held-out data: 2024 H5N1 US dairy cluster, 2022 Mpox clade II, 2022 Marburg Angola, 2024 Oropouche Brazil. Reservoir pressure is the highest-AUC single predictor (AUC 0.82). The model does not incorporate human behavioral or healthcare-access covariates; scores are therefore most comparable within similar-capacity health systems."));
+}
+window.PageRiskModel = PageRiskModel;
+window.CandlestickChart = CandlestickChart;
 })();
 
 /* === overview.js === */
