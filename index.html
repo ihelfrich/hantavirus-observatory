@@ -2006,30 +2006,39 @@ window.LiveData = (function () {
     } catch(e) { console.warn('BTS border fetch failed:', e.message); return null; }
   }
 
+  // ── Cached news (built by GitHub Actions every 4h) ────
+  // CIDRAP, OutbreakNewsToday, CDC EID, GDELT — fetched server-side, parsed,
+  // committed to /news.json. Same-origin → no CORS, no proxy, instant.
+  async function cachedNews() {
+    try {
+      var r = await fetch('./news.json?t=' + Math.floor(Date.now() / 600000),
+        { cache: 'no-cache', signal: AbortSignal.timeout(6000) });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      var d = await r.json();
+      return Array.isArray(d.items) ? d.items : null;
+    } catch(e) { console.warn('cachedNews fetch failed:', e.message); return null; }
+  }
+
   // ── Batch news fetcher ────────────────────────────────
   async function fetchAllNews() {
+    // Primary: server-cached news.json (always fresh within 4h, no CORS)
+    var cached = await cachedNews();
+    if (cached && cached.length) return cached;
+
+    // Fallback: live Reddit + GDELT (will fail in browser due to CORS but try anyway)
     var results = await Promise.allSettled([
       redditSearch('hantavirus outbreak OR cases OR virus', null, 25),
-      redditSearch('hantavirus', 'epidemiology', 20),
-      redditSearch('hantavirus', 'science', 15),
       gdeltNews('hantavirus', 20),
     ]);
     var combined = [];
     results.forEach(function(r) {
       if (r.status === 'fulfilled' && Array.isArray(r.value)) combined = combined.concat(r.value);
     });
-    var seen = new Set();
-    combined = combined.filter(function(item) {
-      var key = (item.url || item.head || '').slice(0, 80);
-      if (seen.has(key)) return false;
-      seen.add(key); return true;
-    });
-    combined.sort(function(a, b) { return (b.time || '').localeCompare(a.time || ''); });
     return combined.length > 0 ? combined : null;
   }
 
   return { gdeltNews, ncbiSequences, openSkyFlights, yahooFinance,
-           cdcWastewater, btsBorderCrossings, redditSearch, fetchAllNews };
+           cdcWastewater, btsBorderCrossings, redditSearch, cachedNews, fetchAllNews };
 })();
 </script>
   <script>/* ============================================================

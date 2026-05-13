@@ -1,0 +1,765 @@
+{
+  "generated_at": "2026-05-13T05:54:08.243105+00:00",
+  "sources": [
+    "CDC EID",
+    "CIDRAP",
+    "OutbreakNewsToday",
+    "GDELT"
+  ],
+  "count": 52,
+  "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Scmp",
+      "head": "Argentine city tries to shrug off hantavirus ship  patient zero  suspicions",
+      "url": "https://www.scmp.com/news/world/americas/article/3353371/argentine-city-tries-shrug-hantavirus-ship-patient-zero-suspicions",
+      "loc": "China",
+      "lang": "English",
+      "tags": [
+        "English",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wxii12",
+      "head": "Why state and local medical professionals say Hantavirus is distinctly different from COVID - 19",
+      "url": "https://www.wxii12.com/article/state-and-local-medical-professionals-say-hantavirus-is-distinctly-different-from-covid/71287895",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kptv",
+      "head": "Oregon doctor on cruise ship tested positive for hantavirus , isolating in biocontainment unit",
+      "url": "https://www.kptv.com/2026/05/13/oregon-doctor-cruise-ship-tested-positive-hantavirus-isolating-biocontainment-unit/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Economictimes",
+      "head": "French hantavirus patient is critically ill , on an artificial lung as total cases grow to 11",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/french-hantavirus-patient-is-critically-ill-on-an-artificial-lung-as-total-cases-grow-to-11/articleshow/131054706.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "China",
+      "head": "WHO says more hantavirus cases may emerge in coming weeks after Spain - led cruise evacuation",
+      "url": "http://www.china.org.cn/2026-05/13/content_118491451.shtml",
+      "loc": "China",
+      "lang": "English",
+      "tags": [
+        "English",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberturk",
+      "head": "Hantavirüs tespit edilen gemide seyahat eden Ruhi Çenetin test sonuçları belli oldu",
+      "url": "https://www.haberturk.com/hantavirus-tespit-edilen-gemide-seyahat-eden-ruhi-cenet-in-test-sonuclari-belli-oldu-magazin-haberle-3884135-magazin",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lowellsun",
+      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+      "url": "https://www.lowellsun.com/2026/05/12/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thejakartapost",
+      "head": "Indonesia boosts vigilance after man found to be close contact of hantavirus patient - Society",
+      "url": "https://www.thejakartapost.com/indonesia/2026/05/13/indonesia-boosts-vigilance-after-man-found-to-be-close-contact-of-hantavirus-patient.html",
+      "loc": "Indonesia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Indonesia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sciencealert",
+      "head": "A Deadly Hantavirus Can Spread Between Humans . Here Why It Not The Next COVID . ",
+      "url": "https://www.sciencealert.com/a-deadly-hantavirus-can-spread-between-humans-heres-why-its-not-the-next-covid",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Oann",
+      "head": "American passengers suffering from Hantavirus outbreak arrive in U . S . for biocontainment monitoring",
+      "url": "https://www.oann.com/newsroom/american-passengers-suffering-from-hantavirus-outbreak-arrive-in-u-s-for-biocontainment-monitoring/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Irishmirror",
+      "head": "First hantavirus case in Ireland was tourist rushed to hospital with kidney failure",
+      "url": "https://www.irishmirror.ie/news/irish-news/first-hantavirus-case-ireland-tourist-37144303",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesofindia",
+      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+      "url": "https://timesofindia.indiatimes.com/world/us/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/articleshow/131054704.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chch",
+      "head": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
+      "url": "https://www.chch.com/chch-news/ontario-monitoring-7-additional-people-considered-low-risk-hantavirus-contacts/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Koreaherald",
+      "head": "French hantavirus patient is critically ill",
+      "url": "https://www.koreaherald.com/article/10737065",
+      "loc": "South Korea",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Korea"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kob",
+      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+      "url": "https://www.kob.com/ap-top-news/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Townhall",
+      "head": "The Hantavirus Cruise : A Ship of Fools",
+      "url": "https://townhall.com/columnists/betsymccaughey/2026/05/13/the-hantavirus-cruise-a-ship-of-fools-n2675990",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wgauradio",
+      "head": "Hantavirus outbreak from cruise ship reaches 11 cases , WHO says",
+      "url": "https://www.wgauradio.com/news/world/spain-reports-new/OQEPWNNQ2IZOPMMGYLX2NRWXFU/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Katu",
+      "head": "3 King County residents possibly exposed to hantavirus linked to infected cruise ship",
+      "url": "https://katu.com/news/local/3-king-county-residents-possibly-exposed-to-hantavirus-on-infected-cruise-ship-infection-monitoring-rats-symptoms-infection-pandemic-safety-exposure-rats-rodents-covid",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesofindia",
+      "head": "Hantavirus : Hantavirus outbreak : French woman critically ill , placed on artificial lung support",
+      "url": "https://timesofindia.indiatimes.com/world/europe/hantavirus-outbreak-french-woman-critically-ill-placed-on-artificial-lung-support/articleshow/131053179.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Htsstlucia",
+      "head": "HEALTH MINISTER JN BAPTISTE CALMS HANTAVIRUS FEARS – HTS News 4orce",
+      "url": "https://www.htsstlucia.org/health-minister-jn-baptiste-calms-hantavirus-fears/",
+      "loc": "Saint Lucia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Saint Lucia"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-12",
+      "ts": "2026-05-12T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Photo Quiz",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0531_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-12",
+      "ts": "2026-05-12T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Adeno-Associated Virus Type 2 and Human Adenovirus Species F Type 41 Co-infection Associated with Acute Severe Hepatitis in Children, California, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0284_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-08",
+      "ts": "2026-05-08T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Emergence of Ceftriaxone-Resistant Neisseria gonorrhoeae penA-60–Carrying Strains, Thailand, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1860_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-01",
+      "ts": "2026-05-01T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Therapeutic Challenges in Case of Trichophyton indotineae Dermatophytosis, Singapore, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1606_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-01",
+      "ts": "2026-05-01T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Placental Vascular Pathology Associated with Congenital Lymphocytic Choriomeningitis Virus Infection, Philadelphia, Pennsylvania, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0165_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "14:45",
+      "date": "2026-04-30",
+      "ts": "2026-04-30T14:45:54+00:00",
+      "src": "CDC EID",
+      "head": "Emergence of Klebsiella pneumoniae Carbapenemase–Producing K. pneumoniae with Penicillin-Binding Protein 3 Insertions, Taiwan, 2021",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0478_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-04-30",
+      "ts": "2026-04-30T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Suspected Sexual Transmission of Dermatophilosis among Men Who Have Sex with Men, Barcelona, Spain, 2025–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0476_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-04-30",
+      "ts": "2026-04-30T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Suspected Sexual Transmission of Dermatophilosis among Men Who Have Sex with Men, Lyon and Paris, France, 2025–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0401_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "17:36",
+      "date": "2026-03-19",
+      "ts": "2026-03-19T17:36:00+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "India: H5N1 Reported in Five Kozhikode Local Bodies; Culling To Follow",
+      "url": "https://outbreaknewstoday.com/india-h5n1-reported-in-five-kozhikode-local-bodies-culling-to-follow-629/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "17:02",
+      "date": "2026-03-19",
+      "ts": "2026-03-19T17:02:52+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "India: Kerala To Cull 5,961 Birds in Alappuzha After Bird Flu Confirmation",
+      "url": "https://outbreaknewstoday.com/india-kerala-to-cull-5961-birds-in-muhamma-after-bird-flu-confirmation-613/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "13:47",
+      "date": "2026-03-19",
+      "ts": "2026-03-19T13:47:16+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "UK Meningitis Outbreak Cases Climb to 27, 2 Deaths Reported",
+      "url": "https://outbreaknewstoday.com/uk-meningitis-outbreak-cases-climb-to-27-2-deaths-reported-604/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "10:11",
+      "date": "2026-03-11",
+      "ts": "2026-03-11T10:11:40+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Black Rain in Iran: WHO Warns of Health Risks After Airstrikes on Oil Facilities",
+      "url": "https://outbreaknewstoday.com/who-warns-health-risks-black-rain-iran-570/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "21:04",
+      "date": "2026-02-24",
+      "ts": "2026-02-24T21:04:38+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Pennsylvania Ramps Up Testing as Bird Flu Affects 7.2 Million Birds in 2026",
+      "url": "https://outbreaknewstoday.com/pennsylvania-ramps-up-testing-as-bird-flu-affects-7-2-million-birds-in-2026-547/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "07:52",
+      "date": "2026-02-24",
+      "ts": "2026-02-24T07:52:53+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Dozens of Dead Swans in London Docklands Trigger Bird Flu Investigation",
+      "url": "https://outbreaknewstoday.com/dozens-of-dead-swans-in-london-docklands-trigger-bird-flu-investigation-520/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "23:09",
+      "date": "2026-02-23",
+      "ts": "2026-02-23T23:09:44+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Israel Reports Bird Flu in Jezreel Valley Turkey Flock, Second Case This Season",
+      "url": "https://outbreaknewstoday.com/israel-reports-bird-flu-in-jezreel-valley-turkey-flock-second-case-this-season-490/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "23:54",
+      "date": "2026-02-22",
+      "ts": "2026-02-22T23:54:37+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Israel Reports 16th Death in Measles Outbreak as 6-Year-Old Dies",
+      "url": "https://outbreaknewstoday.com/israel-reports-16th-death-in-measles-outbreak-as-6-year-old-dies/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "20:55",
+      "date": "2026-02-22",
+      "ts": "2026-02-22T20:55:31+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Malaysia TB outbreak reaches 3,161 cases as government appeals for masks at Ramadan bazaars",
+      "url": "https://outbreaknewstoday.com/malaysia-tb-outbreak-reaches-3161-cases-as-government-appeals-for-masks-at-ramadan-bazaars/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "22:31",
+      "date": "2022-11-22",
+      "ts": "2022-11-22T22:31:20+00:00",
+      "src": "CIDRAP",
+      "head": "Remdesivir, steroids tied to better COVID hospital outcomes",
+      "url": "https://www.cidrap.umn.edu/covid-19/remdesivir-steroids-tied-better-covid-hospital-outcomes",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "18:37",
+      "date": "2021-10-12",
+      "ts": "2021-10-12T18:37:27+00:00",
+      "src": "CIDRAP",
+      "head": "News Scan for Oct 12, 2021",
+      "url": "https://www.cidrap.umn.edu/news-scan-oct-12-2021",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "19:50",
+      "date": "2021-04-06",
+      "ts": "2021-04-06T19:50:34+00:00",
+      "src": "CIDRAP",
+      "head": "COVID-19 Scan for Apr 06, 2021",
+      "url": "https://www.cidrap.umn.edu/covid-19-scan-apr-06-2021",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "19:50",
+      "date": "2020-09-02",
+      "ts": "2020-09-02T19:50:08+00:00",
+      "src": "CIDRAP",
+      "head": "News Scan for Sep 02, 2020",
+      "url": "https://www.cidrap.umn.edu/measles/news-scan-sep-02-2020",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "20:17",
+      "date": "2020-04-02",
+      "ts": "2020-04-02T20:17:45+00:00",
+      "src": "CIDRAP",
+      "head": "News Scan for Apr 02, 2020",
+      "url": "https://www.cidrap.umn.edu/dengue/news-scan-apr-02-2020",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "20:15",
+      "date": "2020-04-02",
+      "ts": "2020-04-02T20:15:55+00:00",
+      "src": "CIDRAP",
+      "head": "Stewardship / Resistance Scan for Apr 02, 2020",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/stewardship-resistance-scan-apr-02-2020",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "20:27",
+      "date": "2019-08-30",
+      "ts": "2019-08-30T20:27:54+00:00",
+      "src": "CIDRAP",
+      "head": "Stewardship / Resistance Scan for Aug 30, 2019",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/stewardship-resistance-scan-aug-30-2019",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "21:19",
+      "date": "2019-03-18",
+      "ts": "2019-03-18T21:19:23+00:00",
+      "src": "CIDRAP",
+      "head": "Stewardship / Resistance Scan for Mar 18, 2019",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/stewardship-resistance-scan-mar-18-2019",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "21:03",
+      "date": "2019-03-13",
+      "ts": "2019-03-13T21:03:15+00:00",
+      "src": "CIDRAP",
+      "head": "Antibiotics before miscarriage surgery not tied to fewer infections",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/antibiotics-miscarriage-surgery-not-tied-fewer-infections",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "22:01",
+      "date": "2018-03-19",
+      "ts": "2018-03-19T22:01:15+00:00",
+      "src": "CIDRAP",
+      "head": "Study: Non-antibiotic drugs affect gut bacteria, could promote resistance",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/study-non-antibiotic-drugs-affect-gut-bacteria-could-promote-resistance",
+      "loc": "Minnesota",
+      "lang": "en",
+      "tags": [
+        "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Averyjournal",
+      "head": "AP News in Brief at 11 : 04 p . m . EDT",
+      "url": "https://www.averyjournal.com/ap/national/ap-news-in-brief-at-11-04-p-m-edt/article_78590fa4-1cf0-5da0-a3b2-18a6b0a27e82.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Milliyet",
+      "head": "Kruvaziyer tatili otellerle yarışta",
+      "url": "https://www.milliyet.com.tr/ekonomi/kruvaziyer-tatili-otellerle-yarista-7586860",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wataugademocrat",
+      "head": "AP News in Brief at 11 : 04 p . m . EDT",
+      "url": "https://www.wataugademocrat.com/ap/national/ap-news-in-brief-at-11-04-p-m-edt/article_cbb2d59b-7a40-5ebf-9434-11029c5c80c6.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newtalk",
+      "head": "轉傳漢他病毒假消息 ！ 北市婦加註 「 綠營鼠患說 」 調查局依法送辦 | 社會",
+      "url": "https://newtalk.tw/news/view/2026-05-13/1034843",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cedarnews",
+      "head": "بودكاست | فيروس هانتا : ماذا نعرف عنه",
+      "url": "https://cedarnews.net/923700/%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B9%D8%B1%D9%81-%D8%B9%D9%86%D9%87/",
+      "loc": "Lebanon",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Lebanon"
+      ],
+      "live": true
+    }
+  ]
+}

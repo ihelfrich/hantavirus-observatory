@@ -1,0 +1,39 @@
+name: Refresh news cache
+
+on:
+  schedule:
+    # Every 4 hours
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news from server-side sources
+        run: python scripts/fetch_news.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet news.json; then
+            echo "No changes to news.json"
+          else
+            git add news.json
+            git commit -m "chore(news): refresh cached feed [skip ci]"
+            git push
+          fi
