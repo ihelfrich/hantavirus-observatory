@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T16:19:05.380152+00:00",
+  "generated_at": "2026-05-13T18:23:35.844046+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
@@ -12,9 +12,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Whp580",
+      "src": "Power96Radio",
+      "head": "Understanding House Mouse Versus Deer Mouse And Hauntavirus",
+      "url": "https://power96radio.com/ixp/150/p/hantavirus-deer-mouse-minnesota-wisconsin/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WVOC",
       "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-      "url": "https://whp580.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
+      "url": "https://wvoc.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Brazilsun",
-      "head": "More cases of hantavirus coming WHO chief",
-      "url": "http://www.brazilsun.com/news/279048062/more-cases-of-hantavirus-coming-who-chief",
-      "loc": "Brazil",
+      "src": "WJBC",
+      "head": "Possible hantavirus case not linked to MV Hondius ship investigated in Illinois",
+      "url": "https://www.wjbc.com/2026/05/13/possible-hantavirus-case-not-linked-to-mv-hondius-ship-investigated-in-illinois/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Brazil"
+        "United States"
       ],
       "live": true
     },
@@ -42,9 +57,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Patriotla",
+      "src": "Argentinastar",
+      "head": "Russia takes hantavirus precautions",
+      "url": "http://www.argentinastar.com/news/279048577/russia-takes-hantavirus-precautions",
+      "loc": "Argentina",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Themarysue",
+      "head": "Jon Stewart mocks cable new hantavirus frenzy",
+      "url": "https://www.themarysue.com/jon-stewart-dons-a-hazmat-suit-to-mock-cable-news-hantavirus-frenzy-then-drops-the-one-question-they-refused-to-answer/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Virus Hanta : Síntomas , alertas y cuándo consultar a un médico",
+      "url": "https://www.24horas.cl/tendencias/bienestar/virus-hanta-sintomas-alertas-y-cuando-consultar-a-un-medico",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLAC",
       "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
-      "url": "https://patriotla.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
+      "url": "https://wlac.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +117,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wlsam",
-      "head": "IDPH investigating potential hantavirus case in Illinois",
-      "url": "https://www.wlsam.com/2026/05/13/idph-investigating-potential-hantavirus-case-in-illinois/",
+      "src": "Quickcountry",
+      "head": "Understanding House Mouse Versus Deer Mouse And Hauntavirus",
+      "url": "https://quickcountry.com/ixp/150/p/hantavirus-deer-mouse-minnesota-wisconsin/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +132,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Upnorthlive",
-      "head": "What sparked deadly cruise ship hantavirus outbreak ? Experts rule out theories",
-      "url": "https://upnorthlive.com/news/nation-world/what-sparked-deadly-hondius-cruise-ship-hantavirus-outbreak-medical-experts-epidemiologists-rule-out-theories-world-health-organization-argentina-andes-virus-rodents-quarantined-passengers",
+      "src": "Squatchrocks",
+      "head": "Understanding House Mouse Versus Deer Mouse And Hauntavirus",
+      "url": "https://squatchrocks.com/ixp/150/p/hantavirus-deer-mouse-minnesota-wisconsin/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,24 +147,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SAPO",
-      "head": "Hantavírus . Não há razões para suspeitar que se trata de nova estirpe",
-      "url": "https://sapo.pt/artigo/hantavirus-nao-ha-razoes-para-suspeitar-que-se-trata-de-nova-estirpe-6a048b7d1a6d36bf2217effc",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc7News",
-      "head": "Hantavirus outbreak origin still a mystery , medical experts address theories",
-      "url": "https://abc7news.com/post/hantavirus-outbreaks-unknown-origins-addressed-medical-experts/19092361/",
+      "src": "Dailynews",
+      "head": "Dont worry about hantavirus ! ( Wait , should we worry about hantavirus ?) – Daily News",
+      "url": "https://www.dailynews.com/2026/05/13/dont-worry-about-hantavirus-wait-should-we-worry-about-hantavirus/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,9 +162,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WCVB",
-      "head": "French Passenger Critical in Cruise Ship Hantavirus Outbreak",
-      "url": "https://www.wcvb.com/article/hantavirus-cruise-ship-outbreak-french-passenger-critically-ill/71290637",
+      "src": "800Wvhu",
+      "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+      "url": "https://800wvhu.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -132,9 +177,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KBTX",
-      "head": "US health officials investigating possible hantavirus case not linked to cruise ship outbreak",
-      "url": "https://www.kbtx.com/2026/05/13/us-health-officials-investigating-possible-hantavirus-case-not-linked-cruise-ship-outbreak/",
+      "src": "Newsradio1049",
+      "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+      "url": "https://newsradio1049.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -147,9 +192,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mykxlg",
-      "head": "Operator of hantavirus - hit ship will say by week end when the vessel will resume cruises",
-      "url": "https://www.mykxlg.com/news/national/operator-of-hantavirus-hit-ship-will-say-by-weeks-end-when-the-vessel-will-resume/article_f9fd2a51-e71e-5365-b418-f78ade1faf76.html",
+      "src": "Wccfradio",
+      "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+      "url": "https://wccfradio.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -162,9 +207,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KVAL",
-      "head": "What sparked deadly cruise ship hantavirus outbreak ? Experts rule out theories",
-      "url": "https://kval.com/news/nation-world/what-sparked-deadly-hondius-cruise-ship-hantavirus-outbreak-medical-experts-epidemiologists-rule-out-theories-world-health-organization-argentina-andes-virus-rodents-quarantined-passengers",
+      "src": "KMOD",
+      "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+      "url": "https://kmod.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -177,9 +222,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mynews4",
-      "head": "What sparked deadly cruise ship hantavirus outbreak ? Experts rule out theories",
-      "url": "https://mynews4.com/news/nation-world/what-sparked-deadly-hondius-cruise-ship-hantavirus-outbreak-medical-experts-epidemiologists-rule-out-theories-world-health-organization-argentina-andes-virus-rodents-quarantined-passengers",
+      "src": "KFAB",
+      "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+      "url": "https://kfab.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,9 +237,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "News4Sanantonio",
-      "head": "What sparked deadly cruise ship hantavirus outbreak ? Experts rule out theories",
-      "url": "https://news4sanantonio.com/news/nation-world/what-sparked-deadly-hondius-cruise-ship-hantavirus-outbreak-medical-experts-epidemiologists-rule-out-theories-world-health-organization-argentina-andes-virus-rodents-quarantined-passengers",
+      "src": "Newsradio710",
+      "head": "Possible Hantavirus Case Not Linked To Cruise Ship Reported In US",
+      "url": "https://newsradio710.iheart.com/content/2026-05-13-possible-hantavirus-case-not-linked-to-cruise-ship-reported-in-us/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -207,9 +252,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KTVL",
-      "head": "What sparked deadly cruise ship hantavirus outbreak ? Experts rule out theories",
-      "url": "https://ktvl.com/news/nation-world/what-sparked-deadly-hondius-cruise-ship-hantavirus-outbreak-medical-experts-epidemiologists-rule-out-theories-world-health-organization-argentina-andes-virus-rodents-quarantined-passengers",
+      "src": "Chicagotribune",
+      "head": "Operator of hantavirus - hit ship will say by week end when the vessel will resume cruises – Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2026/05/13/operator-of-hantavirus-hit-ship-will-say-by-weeks-end-when-the-vessel-will-resume-cruises/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -222,9 +267,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WPDE",
-      "head": "What sparked deadly cruise ship hantavirus outbreak ? Experts rule out theories",
-      "url": "https://wpde.com/news/nation-world/what-sparked-deadly-hondius-cruise-ship-hantavirus-outbreak-medical-experts-epidemiologists-rule-out-theories-world-health-organization-argentina-andes-virus-rodents-quarantined-passengers",
+      "src": "Redstate",
+      "head": "NBC News Gripped by Hantavirus Pandemic Hype - Avoid the Network for 2 Weeks to Stop the Spread of Idiocy",
+      "url": "https://redstate.com/bradslager/2026/05/13/nbc-news-gripped-by-hantavirus-pandemic-hype-avoid-the-network-for-2-weeks-to-stop-the-spread-of-idiocy-n2202283",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -615,14 +660,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "DNES",
-      "head": "Нов круизен кораб с 1700 души е под карантина в Бордо след смъртта на пътник",
-      "url": "https://dnes.dir.bg/svyat/nov-kruizen-korab-s-1700-dushi-e-pod-karantina-v-bordo-sled-smartta-na-patnik",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
+      "src": "Lancashiretelegraph",
+      "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
+      "url": "https://www.lancashiretelegraph.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
+      "loc": "United Kingdom",
+      "lang": "English",
       "tags": [
-        "Bulgarian",
-        "Bulgaria"
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -630,9 +675,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WYFF4",
-      "head": "Man made money by sex trafficking victim , warrant says",
-      "url": "https://www.wyff4.com/article/sex-trafficking-arrest-greenville-county/71293368",
+      "src": "Theflo1029",
+      "head": "Cruise Passengers Monitored After Rare Virus Outbreak | The Flo 102 . 9",
+      "url": "https://theflo1029.iheart.com/featured/steve-harvey-morning-show/content/2026-05-13-cruise-passengers-monitored-after-rare-virus-outbreak/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -645,9 +690,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manchestereveningnews",
+      "src": "Kilburntimes",
       "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
-      "url": "https://www.manchestereveningnews.co.uk/news/world-news/more-1700-people-held-cruise-33940810",
+      "url": "https://www.kilburntimes.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -660,9 +705,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailykos",
-      "head": "Cheers and Jeers : Wednesday",
-      "url": "https://www.dailykos.com/stories/2026/5/13/800037167/community/cheers-and-jeers-wednesday/",
+      "src": "Redditchadvertiser",
+      "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
+      "url": "https://www.redditchadvertiser.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Reflector",
+      "head": "France confines more than 1 , 700 on British cruise ship in Bordeaux after gastroenteritis outbreak",
+      "url": "https://www.reflector.com/news/national/france-confines-more-than-1-700-on-british-cruise-ship-in-bordeaux-after-gastroenteritis-outbreak/article_0fc813f9-225d-5208-91cf-0fa0ee342379.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -675,14 +735,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Belfastlive",
-      "head": "  Norovirus outbreak  sees 1700 passengers quarantined on cruise ship which stopped in NI",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/norovirus-outbreak-sees-1700-passengers-33939991",
-      "loc": "United Kingdom",
-      "lang": "English",
+      "src": "Vesti",
+      "head": "Хантавирус у границ мира : должен ли Азербайджан опасаться новой угрозы ? ",
+      "url": "https://vesti.az/socium/xantavirus-u-granic-mira-dolzen-li-azerbaidzan-opasatsya-novoi-ugrozy-kommentarii-vraca-594108",
+      "loc": "Azerbaijan",
+      "lang": "Russian",
       "tags": [
-        "English",
-        "United Kingdom"
+        "Russian",
+        "Azerbaijan"
       ],
       "live": true
     },
@@ -690,74 +750,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bridportnews",
-      "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
-      "url": "https://www.bridportnews.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
-      "loc": "United Kingdom",
+      "src": "Theglobeandmail",
+      "head": "France confines more than 1 , 700 to cruise ship after gastroenteritis outbreak",
+      "url": "https://www.theglobeandmail.com/world/article-france-cruise-ship-gastroenteritis-outbreak/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wandsworthguardian",
-      "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
-      "url": "https://www.wandsworthguardian.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eveningnews24",
-      "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
-      "url": "https://www.eveningnews24.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Maldonandburnhamstandard",
-      "head": "More than 1 , 700 people held on cruise ship after gastroenteritis outbreak",
-      "url": "https://www.maldonandburnhamstandard.co.uk/news/national/26103614.1-700-people-held-cruise-ship-gastroenteritis-outbreak/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Maldonandburnhamstandard",
-      "head": "Ambassador Cruise Line ship held in Bordeaux after outbreak | Maldon and Burnham Standard",
-      "url": "https://www.maldonandburnhamstandard.co.uk/news/26103654.ambassador-cruise-line-ship-held-bordeaux-outbreak/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
+        "Canada"
       ],
       "live": true
     }
