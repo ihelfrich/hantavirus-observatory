@@ -753,10 +753,15 @@ pre.code .c-com { color: #7C7560; font-style: italic; }
 }
 .body-text p + p { margin-top: 12px; }
 
-
-/* standalone .src class */
 .src { font-family: var(--mono); font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ochre-deep); }
 </style>
+
+<!-- CDN deps load in <head> so they're ready before any body script runs -->
+<script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <div id="root"><div style="display:flex;align-items:center;justify-content:center;height:100vh;background:#F2EEE3;flex-direction:column;gap:20px;">
@@ -765,16 +770,8 @@ pre.code .c-com { color: #7C7560; font-style: italic; }
   <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#918C75;letter-spacing:0.12em;">initialising…</div>
 </div></div>
 
-<!-- CDN: Three.js → D3 → topojson → React 18 prod (no Babel needed — JSX pre-compiled) -->
-<script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin="anonymous"></script>
-
-<!-- Seeded research dataset -->
-<script>
-/* ============================================================
+<!-- Dataset and globe engines — synchronous, run after CDN deps -->
+<script>/* ============================================================
    Seeded research-grade dataset.
    Based on real hantavirus epidemiology:
    - HPS (Sin Nombre, Andes virus): Americas, ~40% CFR
@@ -1129,12 +1126,8 @@ window.DATA = (function () {
     rng, rand, randi
   };
 })();
-
 </script>
-
-<!-- D3 canvas globe -->
-<script>
-/* ============================================================
+<script>/* ============================================================
    D3 Orthographic globe with case nodes, flight arcs, drag/rotate
    Renders to canvas for performance.
    ============================================================ */
@@ -1463,12 +1456,8 @@ window.Globe = (function () {
 
   return { createGlobe, loadWorld };
 })();
-
 </script>
-
-<!-- Three.js WebGL globe -->
-<script>
-/* ============================================================
+<script>/* ============================================================
    Globe3D — Three.js WebGL globe
    · Canvas-texture Earth (D3 equirectangular land fill)
    · Pulsing severity nodes
@@ -1881,12 +1870,8 @@ window.Globe3D = (function () {
 
   return { create: create, ll2v: ll2v };
 })();
-
 </script>
-
-<!-- Live data API integrations -->
-<script>
-/* ============================================================
+<script>/* ============================================================
    LiveData — real API integrations (all free, CORS-friendly)
    · GDELT 2.0     — hantavirus news, no key
    · NCBI Eutils   — hantavirus genomic sequences, no key
@@ -2083,12 +2068,8 @@ window.LiveData = (function () {
            cdcWastewater, btsBorderCrossings,
            whoRSS, promedRSS, ecdcRSS, fetchAllNews };
 })();
-
 </script>
-
-<!-- Live data manager -->
-<script>
-/* ============================================================
+<script>/* ============================================================
    LiveDataManager — orchestrates all real-data fetches,
    stores results in window.LIVE, and dispatches events so
    React components can update without a full re-render.
@@ -2172,10 +2153,9 @@ window.LIVE = {
     init();
   }
 })();
-
 </script>
 
-<!-- Pre-compiled React components (no Babel runtime needed) -->
+<!-- Pre-compiled React components (JSX → JS via Babel CLI, no runtime needed) -->
 
 <!-- tweaks-panel.js -->
 <script>
@@ -8040,7 +8020,47 @@ function App() {
     }]
   }))));
 }
-ReactDOM.createRoot(document.getElementById('root')).render(/*#__PURE__*/React.createElement(App, null));
+// Error boundary so failures are visible rather than a blank screen
+class AppErrorBoundary extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { error: null };
+  }
+  static getDerivedStateFromError(e) { return { error: e }; }
+  render() {
+    if (this.state.error) {
+      return React.createElement('div', {
+        style: { padding: 40, fontFamily: 'monospace', background: '#F2EEE3', color: '#6B2A24', minHeight: '100vh' }
+      },
+        React.createElement('div', { style: { fontSize: 13, marginBottom: 8, opacity: 0.6 } }, 'The Hantavirus Observatory'),
+        React.createElement('div', { style: { fontSize: 16, fontWeight: 600, marginBottom: 16 } }, 'Render error'),
+        React.createElement('pre', { style: { fontSize: 11, whiteSpace: 'pre-wrap', wordBreak: 'break-all' } },
+          String(this.state.error)
+        )
+      );
+    }
+    return this.props.children;
+  }
+}
+
+function boot() {
+  const root = document.getElementById('root');
+  if (!root) { console.error('[Observatory] #root not found'); return; }
+  try {
+    ReactDOM.createRoot(root).render(
+      React.createElement(AppErrorBoundary, null, React.createElement(App, null))
+    );
+  } catch(e) {
+    console.error('[Observatory] boot failed:', e);
+    root.innerHTML = '<div style="padding:40px;font-family:monospace;color:#6B2A24">' + e + '</div>';
+  }
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', boot);
+} else {
+  boot();
+}
 </script>
 
 </body>
