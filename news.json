@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-13T10:43:13.746672+00:00",
+  "generated_at": "2026-05-13T13:45:35.426625+00:00",
   "sources": [
-    "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 52,
@@ -12,14 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SCMP",
-      "head": "Argentine city tries to shrug off hantavirus ship  patient zero  suspicions",
-      "url": "https://www.scmp.com/news/world/americas/article/3353371/argentine-city-tries-shrug-hantavirus-ship-patient-zero-suspicions",
-      "loc": "China",
+      "src": "Malverngazette",
+      "head": "Hantavirus symptoms & how it spreads as UKHSA issues update",
+      "url": "https://www.malverngazette.co.uk/news/26101845.hantavirus-symptoms-spreads-ukhsa-issues-update/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "China"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -27,174 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WXII-12",
-      "head": "Why state and local medical professionals say Hantavirus is distinctly different from COVID - 19",
-      "url": "https://www.wxii12.com/article/state-and-local-medical-professionals-say-hantavirus-is-distinctly-different-from-covid/71287895",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KPTV (Portland)",
-      "head": "Oregon doctor on cruise ship tested positive for hantavirus , isolating in biocontainment unit",
-      "url": "https://www.kptv.com/2026/05/13/oregon-doctor-cruise-ship-tested-positive-hantavirus-isolating-biocontainment-unit/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Economic Times",
-      "head": "French hantavirus patient is critically ill , on an artificial lung as total cases grow to 11",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/french-hantavirus-patient-is-critically-ill-on-an-artificial-lung-as-total-cases-grow-to-11/articleshow/131054706.cms",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "China",
-      "head": "WHO says more hantavirus cases may emerge in coming weeks after Spain - led cruise evacuation",
-      "url": "http://www.china.org.cn/2026-05/13/content_118491451.shtml",
-      "loc": "China",
-      "lang": "English",
-      "tags": [
-        "English",
-        "China"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habertürk",
-      "head": "Hantavirüs tespit edilen gemide seyahat eden Ruhi Çenetin test sonuçları belli oldu",
-      "url": "https://www.haberturk.com/hantavirus-tespit-edilen-gemide-seyahat-eden-ruhi-cenet-in-test-sonuclari-belli-oldu-magazin-haberle-3884135-magazin",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lowellsun",
-      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
-      "url": "https://www.lowellsun.com/2026/05/12/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thejakartapost",
-      "head": "Indonesia boosts vigilance after man found to be close contact of hantavirus patient - Society",
-      "url": "https://www.thejakartapost.com/indonesia/2026/05/13/indonesia-boosts-vigilance-after-man-found-to-be-close-contact-of-hantavirus-patient.html",
-      "loc": "Indonesia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Indonesia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sciencealert",
-      "head": "A Deadly Hantavirus Can Spread Between Humans . Here Why It Not The Next COVID . ",
-      "url": "https://www.sciencealert.com/a-deadly-hantavirus-can-spread-between-humans-heres-why-its-not-the-next-covid",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "OANN",
-      "head": "American passengers suffering from Hantavirus outbreak arrive in U . S . for biocontainment monitoring",
-      "url": "https://www.oann.com/newsroom/american-passengers-suffering-from-hantavirus-outbreak-arrive-in-u-s-for-biocontainment-monitoring/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Irishmirror",
-      "head": "First hantavirus case in Ireland was tourist rushed to hospital with kidney failure",
-      "url": "https://www.irishmirror.ie/news/irish-news/first-hantavirus-case-ireland-tourist-37144303",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timesofindia",
-      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
-      "url": "https://timesofindia.indiatimes.com/world/us/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/articleshow/131054704.cms",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CHCH",
-      "head": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
-      "url": "https://www.chch.com/chch-news/ontario-monitoring-7-additional-people-considered-low-risk-hantavirus-contacts/",
+      "src": "CP24",
+      "head": "Hantavirus : People linked to outbreak are back in Canada",
+      "url": "https://www.cp24.com/news/canada/2026/05/13/what-we-know-about-hantavirus-now-that-people-linked-to-outbreak-are-back-in-canada/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -207,24 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Koreaherald",
-      "head": "French hantavirus patient is critically ill",
-      "url": "https://www.koreaherald.com/article/10737065",
-      "loc": "South Korea",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Korea"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KOB",
-      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
-      "url": "https://www.kob.com/ap-top-news/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
+      "src": "WLTX",
+      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+      "url": "https://www.wltx.com/article/news/nation-world/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grows/507-d8e45f57-1014-464f-9df6-d50b6f6461f9",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -237,9 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Townhall",
-      "head": "The Hantavirus Cruise : A Ship of Fools",
-      "url": "https://townhall.com/columnists/betsymccaughey/2026/05/13/the-hantavirus-cruise-a-ship-of-fools-n2675990",
+      "src": "KHOU",
+      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+      "url": "https://www.khou.com/article/news/nation-world/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grows/507-d8e45f57-1014-464f-9df6-d50b6f6461f9",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -252,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wgauradio",
-      "head": "Hantavirus outbreak from cruise ship reaches 11 cases , WHO says",
-      "url": "https://www.wgauradio.com/news/world/spain-reports-new/OQEPWNNQ2IZOPMMGYLX2NRWXFU/",
+      "src": "Sun-Sentinel",
+      "head": "Operator of hantavirus - hit ship is awaiting more information before deciding on vessel cruises – Sun Sentinel",
+      "url": "https://www.sun-sentinel.com/2026/05/13/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -267,9 +87,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KATU",
-      "head": "3 King County residents possibly exposed to hantavirus linked to infected cruise ship",
-      "url": "https://katu.com/news/local/3-king-county-residents-possibly-exposed-to-hantavirus-on-infected-cruise-ship-infection-monitoring-rats-symptoms-infection-pandemic-safety-exposure-rats-rodents-covid",
+      "src": "Southwalesargus",
+      "head": "Hantavirus symptoms & how it spreads as UKHSA issues update",
+      "url": "https://www.southwalesargus.co.uk/news/26102243.hantavirus-symptoms-spreads-ukhsa-issues-update/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Leadertelegram",
+      "head": "Operator of hantavirus - hit ship is awaiting more information before deciding on vessel cruises",
+      "url": "https://www.leadertelegram.com/news/nation-world/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises/article_6d6df184-ab56-5a13-a7f4-34770a3c46a2.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -282,14 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Timesofindia",
-      "head": "Hantavirus : Hantavirus outbreak : French woman critically ill , placed on artificial lung support",
-      "url": "https://timesofindia.indiatimes.com/world/europe/hantavirus-outbreak-french-woman-critically-ill-placed-on-artificial-lung-support/articleshow/131053179.cms",
-      "loc": "India",
+      "src": "KSAT",
+      "head": "Operator of hantavirus - hit ship will say by week end when the vessel will resume cruises",
+      "url": "https://www.ksat.com/news/world/2026/05/13/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "India"
+        "United States"
       ],
       "live": true
     },
@@ -297,14 +132,194 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Htsstlucia",
-      "head": "HEALTH MINISTER JN BAPTISTE CALMS HANTAVIRUS FEARS – HTS News 4orce",
-      "url": "https://www.htsstlucia.org/health-minister-jn-baptiste-calms-hantavirus-fears/",
-      "loc": "Saint Lucia",
+      "src": "Durangoherald",
+      "head": "Operator of hantavirus - hit ship is awaiting more information before deciding on vessel cruises",
+      "url": "https://www.durangoherald.com/articles/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Saint Lucia"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "9NEWS",
+      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+      "url": "https://www.9news.com/article/news/nation-world/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grows/507-d8e45f57-1014-464f-9df6-d50b6f6461f9",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kcentv",
+      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+      "url": "https://www.kcentv.com/article/news/nation-world/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grows/507-d8e45f57-1014-464f-9df6-d50b6f6461f9",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bviplatinum",
+      "head": "BVI Monitoring Hantavirus Cluster Linked to Cruise Vessel",
+      "url": "http://www.bviplatinum.com/news/bvi-monitoring-hantavirus-cluster-linked-to-cruise-vessel",
+      "loc": "Virgin Islands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Virgin Islands"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "ABC11",
+      "head": "Hantavirus outbreak origin still a mystery , medical experts address theories",
+      "url": "https://abc11.com/post/hantavirus-outbreaks-unknown-origins-addressed-medical-experts/19092361/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lancasteronline",
+      "head": "Operator of hantavirus - hit ship is awaiting more information before deciding on vessel cruises",
+      "url": "https://lancasteronline.com/news/health/operator-of-hantavirus-hit-ship-is-awaiting-more-information-before-deciding-on-vessels-cruises/article_3ac9b53b-a002-5c63-987e-29bf7265be6f.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTBX",
+      "head": "Person In Minnesota Monitored For Hantavirus",
+      "url": "https://wtbx.com/2026/05/13/person-in-minnesota-monitored-for-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "2NEWS",
+      "head": "Operator of hantavirus - hit ship will say by week end when the vessel will resume cruises",
+      "url": "https://www.2news.com/news/national/operator-of-hantavirus-hit-ship-will-say-by-weeks-end-when-the-vessel-will-resume/article_20ac6a56-c51f-55d6-b81c-8e5661e1f58f.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Idahostatejournal",
+      "head": "Operator of hantavirus - hit ship will say by week end when the vessel will resume cruises",
+      "url": "https://www.idahostatejournal.com/news/national/operator-of-hantavirus-hit-ship-will-say-by-weeks-end-when-the-vessel-will-resume/article_39b2e243-2544-5005-96ba-b855570a769e.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sabah",
+      "head": "SON DAKİKA | Hantavirüsten sonra şimdi de norovirüs ! 1700  den fazla kişi karantinaya alındı",
+      "url": "https://www.sabah.com.tr/yasam/son-dakika-hantavirusten-sonra-simdi-de-norovirus-1700den-fazla-kisi-karantinaya-alindi-7582498",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KCCI",
+      "head": "French Passenger Critical in Cruise Ship Hantavirus Outbreak",
+      "url": "https://www.kcci.com/article/hantavirus-cruise-ship-outbreak-french-passenger-critically-ill/71290637",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "12Newsnow",
+      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+      "url": "https://www.12newsnow.com/article/news/nation-world/french-hantavirus-patient-critically-ill-artificial-lung-outbreak-grows/507-d8e45f57-1014-464f-9df6-d50b6f6461f9",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bracknellnews",
+      "head": "Hantavirus symptoms & how it spreads as UKHSA issues update",
+      "url": "https://www.bracknellnews.co.uk/news/26101829.hantavirus-symptoms-spreads-ukhsa-issues-update/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -690,9 +705,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Averyjournal",
-      "head": "AP News in Brief at 11 : 04 p . m . EDT",
-      "url": "https://www.averyjournal.com/ap/national/ap-news-in-brief-at-11-04-p-m-edt/article_78590fa4-1cf0-5da0-a3b2-18a6b0a27e82.html",
+      "src": "Nypost",
+      "head": "1 , 700 stranded on cruise ship in France after traveler death blamed on norovirus",
+      "url": "https://nypost.com/2026/05/13/world-news/1700-stranded-on-cruise-ship-in-france-after-travelers-death-blamed-on-norovirus/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -705,9 +720,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Milliyet",
-      "head": "Kruvaziyer tatili otellerle yarışta",
-      "url": "https://www.milliyet.com.tr/ekonomi/kruvaziyer-tatili-otellerle-yarista-7586860",
+      "src": "Onedio",
+      "head": "Norovirüs Nedir ? İnsandan İnsana Bulaşır mı ? Tedavisi Ne ? ",
+      "url": "https://onedio.com/haber/norovirus-nedir-insandan-insana-bulasir-mi-fransa-daki-yolcu-gemisindeki-norovirus-salgininin-detaylari-1358998",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -720,14 +735,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wataugademocrat",
-      "head": "AP News in Brief at 11 : 04 p . m . EDT",
-      "url": "https://www.wataugademocrat.com/ap/national/ap-news-in-brief-at-11-04-p-m-edt/article_cbb2d59b-7a40-5ebf-9434-11029c5c80c6.html",
-      "loc": "United States",
+      "src": "Metro",
+      "head": "Hundreds of Brits stuck on cruise ship after deadly  norovirus outbreak  ",
+      "url": "https://metro.co.uk/2026/05/13/hundreds-brits-stuck-cruise-ship-deadly-norovirus-outbreak-28353647/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -735,29 +750,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newtalk",
-      "head": "轉傳漢他病毒假消息 ！ 北市婦加註 「 綠營鼠患說 」 調查局依法送辦 | 社會",
-      "url": "https://newtalk.tw/news/view/2026-05-13/1034843",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cedarnews",
-      "head": "بودكاست | فيروس هانتا : ماذا نعرف عنه",
-      "url": "https://cedarnews.net/923700/%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B9%D8%B1%D9%81-%D8%B9%D9%86%D9%87/",
-      "loc": "Lebanon",
+      "src": "Vetogate",
+      "head": "بعد ظهورهما على سفن سياحية ، ما خطورة فيروسي هانتا ونوروفيروس ؟ ",
+      "url": "https://www.vetogate.com/5654493",
+      "loc": "Egypt",
       "lang": "Arabic",
       "tags": [
         "Arabic",
-        "Lebanon"
+        "Egypt"
       ],
       "live": true
     }
