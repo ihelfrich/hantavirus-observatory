@@ -1,12 +1,14 @@
 <!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><title>The Hantavirus Observatory</title>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Hantavirus Observatory</title>
 <meta name="viewport" content="width=1440">
 <meta name="description" content="Real-time hantavirus epidemiological observatory: case surveillance, wastewater signals, genomic data, reservoir pressure, flight mobility, and outbreak risk modelling across 26 jurisdictions.">
 <meta name="author" content="Ian Helfrich · ihelfrich.github.io">
 <meta property="og:type" content="website">
 <meta property="og:title" content="The Hantavirus Observatory">
-<meta property="og:description" content="16-panel epidemiological SPA — case surveillance, genomic phylogeny, wastewater signals, flight network, and composite risk scoring.">
+<meta property="og:description" content="16-panel epidemiological SPA — live flight traffic, real market data, GDELT news, NCBI genomic sequences, CDC wastewater, BTS border crossings.">
 <meta property="og:url" content="https://ihelfrich.github.io/hantavirus-observatory/">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="The Hantavirus Observatory">
@@ -15,7 +17,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-<style>/* ============================================================
+<style>
+/* ============================================================
    THE HANTAVIRUS OBSERVATORY
    Calm academic / research journal aesthetic.
    ============================================================ */
@@ -749,17 +752,30 @@ pre.code .c-com { color: #7C7560; font-style: italic; }
   max-width: 64ch;
 }
 .body-text p + p { margin-top: 12px; }
+
+
+/* standalone .src for PageAlerts/PageNews outside .news-item context */
+.src { font-family: var(--mono); font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ochre-deep); }
 </style>
-<template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#F2EEE3"/><circle cx="100" cy="100" r="62" fill="none" stroke="#15140F" stroke-width="1.4"/><circle cx="100" cy="100" r="62" fill="none" stroke="#B08234" stroke-width="0.4" stroke-dasharray="4 3"/><circle cx="78" cy="84" r="4" fill="#6B2A24"/><circle cx="118" cy="92" r="6" fill="#B85B2A"/><circle cx="108" cy="118" r="3" fill="#B08234"/><text x="100" y="170" font-family="Source Serif 4, Georgia, serif" font-size="14" font-style="italic" text-anchor="middle" fill="#15140F">The Hantavirus Observatory</text></svg></template>
-</head><body>
-<div id="root"><div style="display:flex;align-items:center;justify-content:center;height:100vh;background:#F2EEE3;flex-direction:column;gap:20px;"><svg width="48" height="48" viewBox="0 0 48 48"><circle cx="24" cy="24" r="20" fill="none" stroke="#C7C0AB" stroke-width="1.4"/><circle cx="24" cy="24" r="20" fill="none" stroke="#B08234" stroke-width="0.6" stroke-dasharray="6 4" opacity="0.6"><animateTransform attributeName="transform" type="rotate" from="0 24 24" to="360 24 24" dur="8s" repeatCount="indefinite"/></circle><circle cx="16" cy="20" r="2.5" fill="#6B2A24" opacity="0.8"/><circle cx="28" cy="18" r="3.5" fill="#B85B2A" opacity="0.8"/><circle cx="26" cy="30" r="2" fill="#B08234" opacity="0.8"/></svg><div style="font-family:'Source Serif 4',Georgia,serif;font-size:14px;color:#4A4736;font-style:italic;">The Hantavirus Observatory</div><div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#918C75;letter-spacing:0.1em;">initialising surveillance systems…</div></div></div>
-<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
+</head>
+<body>
+<div id="root"><div style="display:flex;align-items:center;justify-content:center;height:100vh;background:#F2EEE3;flex-direction:column;gap:20px;">
+  <svg width="52" height="52" viewBox="0 0 52 52"><circle cx="26" cy="26" r="22" fill="none" stroke="#C7C0AB" stroke-width="1.4"/><circle cx="26" cy="26" r="22" fill="none" stroke="#B08234" stroke-width="0.7" stroke-dasharray="7 5" opacity="0.7"><animateTransform attributeName="transform" type="rotate" from="0 26 26" to="360 26 26" dur="8s" repeatCount="indefinite"/></circle><circle cx="18" cy="22" r="3" fill="#6B2A24" opacity="0.9"/><circle cx="30" cy="20" r="4" fill="#B85B2A" opacity="0.9"/><circle cx="28" cy="33" r="2.5" fill="#B08234" opacity="0.9"/></svg>
+  <div style="font-family:'Source Serif 4',Georgia,serif;font-size:15px;color:#4A4736;font-style:italic;">The Hantavirus Observatory</div>
+  <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#918C75;letter-spacing:0.12em;">initialising surveillance systems…</div>
+</div></div>
+
+<!-- CDN: Three.js → D3 → topojson → React prod → Babel -->
 <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
-<script>/* ============================================================
+
+<!-- Seeded research dataset -->
+<script>
+/* ============================================================
    Seeded research-grade dataset.
    Based on real hantavirus epidemiology:
    - HPS (Sin Nombre, Andes virus): Americas, ~40% CFR
@@ -1114,8 +1130,12 @@ window.DATA = (function () {
     rng, rand, randi
   };
 })();
+
 </script>
-<script>/* ============================================================
+
+<!-- D3 canvas globe -->
+<script>
+/* ============================================================
    D3 Orthographic globe with case nodes, flight arcs, drag/rotate
    Renders to canvas for performance.
    ============================================================ */
@@ -1444,7 +1464,10 @@ window.Globe = (function () {
 
   return { createGlobe, loadWorld };
 })();
+
 </script>
+
+<!-- Three.js WebGL globe -->
 <script>
 /* ============================================================
    Globe3D — Three.js WebGL globe
@@ -1861,14 +1884,20 @@ window.Globe3D = (function () {
 })();
 
 </script>
+
+<!-- Live data API integrations -->
 <script>
 /* ============================================================
    LiveData — real API integrations (all free, CORS-friendly)
-   · GDELT 2.0    — hantavirus news, no key needed
-   · NCBI Eutils  — hantavirus genomic sequences, no key needed
-   · OpenSky      — live aircraft states, no key (anon, CORS limited)
-   · WHO RSS      — via rss2json proxy
-   · ProMED       — via rss2json proxy
+   · GDELT 2.0     — hantavirus news, no key
+   · NCBI Eutils   — hantavirus genomic sequences, no key
+   · OpenSky       — live aircraft states, anon (CORS best-effort)
+   · WHO RSS       — via rss2json proxy
+   · ProMED        — via rss2json proxy
+   · ECDC          — via rss2json proxy
+   · Yahoo Finance — unofficial v8 chart API (CORS-enabled)
+   · CDC NWSS      — wastewater pathogen signal (Socrata, CORS)
+   · BTS Border    — US land border crossings (Socrata, CORS)
    ============================================================ */
 window.LiveData = (function () {
   'use strict';
@@ -1876,7 +1905,6 @@ window.LiveData = (function () {
   // ── GDELT 2.0 Doc API ─────────────────────────────────
   async function gdeltNews(query, n) {
     n = n || 25;
-    // Build query: term + epidemiological context
     var q = encodeURIComponent('"' + query + '" (outbreak OR cases OR virus OR epidemic OR hemorrhagic OR rodent OR surveillance)');
     var url = 'https://api.gdeltproject.org/api/v2/doc/doc?query=' + q +
       '&mode=artlist&maxrecords=' + n + '&format=json&timespan=14days&sort=DateDesc';
@@ -1886,24 +1914,16 @@ window.LiveData = (function () {
       return (d.articles || []).map(function(a) {
         var dt = a.seendatetime || '';
         var time = dt.length >= 12 ? dt.slice(8,10) + ':' + dt.slice(10,12) : '—';
-        // Shorten domain to source name
         var src = (a.domain || '').replace(/^www\./, '').split('.')[0];
         src = src.charAt(0).toUpperCase() + src.slice(1);
         return {
-          time: time,
-          src: src || 'GDELT',
-          head: a.title || '(untitled)',
-          url: a.url,
-          loc: a.sourcecountry || '',
-          lang: a.language || 'en',
-          tags: [a.language || 'en', a.sourcecountry || ''].filter(Boolean),
-          live: true
+          time: time, src: src || 'GDELT',
+          head: a.title || '(untitled)', url: a.url,
+          loc: a.sourcecountry || '', lang: a.language || 'en',
+          tags: [a.language || 'en', a.sourcecountry || ''].filter(Boolean), live: true
         };
       }).filter(function(a) { return a.head && a.head !== '(untitled)'; });
-    } catch(e) {
-      console.warn('GDELT fetch failed:', e.message);
-      return null;
-    }
+    } catch(e) { console.warn('GDELT fetch failed:', e.message); return null; }
   }
 
   // ── NCBI E-utilities ──────────────────────────────────
@@ -1919,43 +1939,86 @@ window.LiveData = (function () {
       var sumd = await sumr.json();
       return ((sumd.result || {}).uids || []).map(function(uid) {
         var s = sumd.result[uid] || {};
-        return {
-          acc: s.caption || uid,
-          title: s.title || '',
-          organism: s.organism || '',
-          length: s.slen || 0,
-          updated: s.updatedate || '',
-          live: true
-        };
+        return { acc: s.caption || uid, title: s.title || '', organism: s.organism || '',
+                 length: s.slen || 0, updated: s.updatedate || '', live: true };
       });
-    } catch(e) {
-      console.warn('NCBI fetch failed:', e.message);
-      return null;
-    }
+    } catch(e) { console.warn('NCBI fetch failed:', e.message); return null; }
   }
 
   // ── OpenSky Network ───────────────────────────────────
-  // Anonymous: CORS blocked on most browsers; returns null gracefully
   async function openSkyFlights() {
     try {
       var r = await fetch('https://opensky-network.org/api/states/all', {
         headers: { 'Accept': 'application/json' },
         cache: 'no-cache',
-        signal: AbortSignal.timeout(8000)
+        signal: AbortSignal.timeout(10000)
       });
       if (!r.ok) return null;
       var d = await r.json();
-      return (d.states || []).slice(0, 2000).map(function(s) {
-        return {
-          icao24: s[0], callsign: (s[1] || '').trim(),
-          country: s[2], lon: s[5], lat: s[6], alt: s[7],
-          velocity: s[9], heading: s[10], live: true
-        };
-      }).filter(function(f) { return f.lat != null && f.lon != null; });
-    } catch(e) {
-      console.warn('OpenSky fetch failed (expected for anon):', e.message);
-      return null;
-    }
+      return (d.states || []).map(function(s) {
+        return { icao24: s[0], callsign: (s[1] || '').trim(), country: s[2],
+                 lon: s[5], lat: s[6], alt: s[7], onGround: s[8],
+                 velocity: s[9], heading: s[10], live: true };
+      }).filter(function(f) { return f.lat != null && f.lon != null && !f.onGround; });
+    } catch(e) { console.warn('OpenSky fetch failed (expected for anon):', e.message); return null; }
+  }
+
+  // ── Yahoo Finance v8 chart API ────────────────────────
+  // Fetches 30-day daily OHLC + current quote for each symbol.
+  // Returns { SYM: { price, pct, series: [close...], live: true }, ... }
+  async function yahooFinance(symbols) {
+    symbols = symbols || ['MRNA','PFE','BNTX','GILD','REGN','CLX','AAL','DAL','UAL','CCL','RCL','HLT','IBB','JETS','XLV','^GSPC','^VIX'];
+    var results = {};
+    await Promise.allSettled(symbols.map(function(sym) {
+      var url = 'https://query1.finance.yahoo.com/v8/finance/chart/' + encodeURIComponent(sym) +
+                '?range=30d&interval=1d&includePrePost=false';
+      return fetch(url, { cache: 'no-cache' })
+        .then(function(r) { return r.json(); })
+        .then(function(d) {
+          var res = d.chart && d.chart.result && d.chart.result[0];
+          if (!res) return;
+          var meta = res.meta || {};
+          var q = (res.indicators && res.indicators.quote && res.indicators.quote[0]) || {};
+          var closes = (q.close || []).filter(function(v) { return v != null; });
+          if (!meta.regularMarketPrice) return;
+          results[sym] = {
+            price: meta.regularMarketPrice,
+            pct: meta.regularMarketChangePercent || 0,
+            prev: meta.chartPreviousClose,
+            currency: meta.currency,
+            series: closes,
+            live: true
+          };
+        })
+        .catch(function() {});
+    }));
+    return Object.keys(results).length > 0 ? results : null;
+  }
+
+  // ── CDC NWSS Wastewater Surveillance ─────────────────
+  // Returns recent pathogen signal data from CDC open data (Socrata, CORS OK).
+  async function cdcWastewater() {
+    try {
+      var url = 'https://data.cdc.gov/resource/2ew6-ywp6.json' +
+                '?$limit=100&$order=date_end+DESC&$where=percentile_75+IS+NOT+NULL';
+      var r = await fetch(url, { headers: { 'Accept': 'application/json' }, cache: 'no-cache' });
+      if (!r.ok) return null;
+      return await r.json();
+    } catch(e) { console.warn('CDC NWSS fetch failed:', e.message); return null; }
+  }
+
+  // ── BTS US Border Crossing Data ───────────────────────
+  // Monthly land port-of-entry crossing counts (vehicles, pedestrians, trucks).
+  // Data: Bureau of Transportation Statistics via data.transportation.gov (Socrata, CORS OK).
+  async function btsBorderCrossings() {
+    try {
+      var url = 'https://data.transportation.gov/resource/keg4-3bc2.json' +
+                '?$limit=200&$order=date+DESC&$where=value+%3E+0' +
+                '&$select=port_name,state,border,date,measure,value';
+      var r = await fetch(url, { headers: { 'Accept': 'application/json' }, cache: 'no-cache' });
+      if (!r.ok) return null;
+      return await r.json();
+    } catch(e) { console.warn('BTS border fetch failed:', e.message); return null; }
   }
 
   // ── WHO RSS via rss2json.com ──────────────────────────
@@ -1965,20 +2028,10 @@ window.LiveData = (function () {
       var r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + feed + '&count=20');
       var d = await r.json();
       return (d.items || []).map(function(item) {
-        return {
-          time: new Date(item.pubDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-          src: 'WHO',
-          head: item.title,
-          url: item.link,
-          loc: 'Geneva',
-          tags: ['WHO'],
-          live: true
-        };
+        return { time: new Date(item.pubDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+                 src: 'WHO', head: item.title, url: item.link, loc: 'Geneva', tags: ['WHO'], live: true };
       });
-    } catch(e) {
-      console.warn('WHO RSS failed:', e.message);
-      return null;
-    }
+    } catch(e) { console.warn('WHO RSS failed:', e.message); return null; }
   }
 
   // ── ProMED RSS via rss2json.com ───────────────────────
@@ -1988,20 +2041,11 @@ window.LiveData = (function () {
       var r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + feed + '&count=15');
       var d = await r.json();
       return (d.items || []).map(function(item) {
-        return {
-          time: new Date(item.pubDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-          src: 'ProMED',
-          head: item.title,
-          url: item.link,
-          loc: 'Global',
-          tags: ['ProMED', 'surveillance'],
-          live: true
-        };
+        return { time: new Date(item.pubDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+                 src: 'ProMED', head: item.title, url: item.link, loc: 'Global',
+                 tags: ['ProMED', 'surveillance'], live: true };
       });
-    } catch(e) {
-      console.warn('ProMED RSS failed:', e.message);
-      return null;
-    }
+    } catch(e) { console.warn('ProMED RSS failed:', e.message); return null; }
   }
 
   // ── ECDC RSS ──────────────────────────────────────────
@@ -2011,37 +2055,22 @@ window.LiveData = (function () {
       var r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + feed + '&count=15');
       var d = await r.json();
       return (d.items || []).map(function(item) {
-        return {
-          time: new Date(item.pubDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-          src: 'ECDC',
-          head: item.title,
-          url: item.link,
-          loc: 'Stockholm',
-          tags: ['ECDC'],
-          live: true
-        };
+        return { time: new Date(item.pubDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+                 src: 'ECDC', head: item.title, url: item.link, loc: 'Stockholm',
+                 tags: ['ECDC'], live: true };
       });
-    } catch(e) {
-      console.warn('ECDC RSS failed:', e.message);
-      return null;
-    }
+    } catch(e) { console.warn('ECDC RSS failed:', e.message); return null; }
   }
 
-  // ── Batch fetcher: get all live news in parallel ──────
+  // ── Batch news fetcher ────────────────────────────────
   async function fetchAllNews() {
     var results = await Promise.allSettled([
-      gdeltNews('hantavirus', 20),
-      whoRSS(),
-      promedRSS(),
-      ecdcRSS()
+      gdeltNews('hantavirus', 20), whoRSS(), promedRSS(), ecdcRSS()
     ]);
     var combined = [];
     results.forEach(function(r) {
-      if (r.status === 'fulfilled' && Array.isArray(r.value)) {
-        combined = combined.concat(r.value);
-      }
+      if (r.status === 'fulfilled' && Array.isArray(r.value)) combined = combined.concat(r.value);
     });
-    // Sort by time descending, deduplicate by title
     var seen = new Set();
     combined = combined.filter(function(item) {
       var key = (item.head || '').slice(0, 60);
@@ -2051,18 +2080,103 @@ window.LiveData = (function () {
     return combined.length > 0 ? combined : null;
   }
 
-  return {
-    gdeltNews: gdeltNews,
-    ncbiSequences: ncbiSequences,
-    openSkyFlights: openSkyFlights,
-    whoRSS: whoRSS,
-    promedRSS: promedRSS,
-    ecdcRSS: ecdcRSS,
-    fetchAllNews: fetchAllNews
-  };
+  return { gdeltNews, ncbiSequences, openSkyFlights, yahooFinance,
+           cdcWastewater, btsBorderCrossings,
+           whoRSS, promedRSS, ecdcRSS, fetchAllNews };
 })();
 
 </script>
+
+<!-- Live data manager: pre-fetches, caches, dispatches events -->
+<script>
+/* ============================================================
+   LiveDataManager — orchestrates all real-data fetches,
+   stores results in window.LIVE, and dispatches events so
+   React components can update without a full re-render.
+   ============================================================ */
+window.LIVE = {
+  finance: null, flights: null, news: null,
+  wastewater: null, borders: null,
+  status: {}, ts: {}
+};
+
+(function () {
+  'use strict';
+
+  function emit(key, data) {
+    window.LIVE[key] = data;
+    window.LIVE.status[key] = (data != null) ? 'live' : 'unavailable';
+    window.LIVE.ts[key] = Date.now();
+    window.dispatchEvent(new CustomEvent('livedata:update', { detail: { key, data } }));
+    console.info('[LiveData]', key, data != null ? 'OK (' + (Array.isArray(data) ? data.length : Object.keys(data).length) + ')' : 'null');
+  }
+
+  async function fetchFinance() {
+    if (typeof LiveData === 'undefined' || !LiveData.yahooFinance) return;
+    try {
+      var d = await LiveData.yahooFinance();
+      emit('finance', d);
+    } catch(e) { console.warn('[LiveData] finance error:', e); }
+  }
+
+  async function fetchFlights() {
+    if (typeof LiveData === 'undefined') return;
+    try {
+      var d = await LiveData.openSkyFlights();
+      emit('flights', d);
+    } catch(e) { emit('flights', null); }
+  }
+
+  async function fetchNews() {
+    if (typeof LiveData === 'undefined') return;
+    try {
+      var d = await LiveData.fetchAllNews();
+      emit('news', d);
+    } catch(e) { emit('news', null); }
+  }
+
+  async function fetchWastewater() {
+    if (typeof LiveData === 'undefined' || !LiveData.cdcWastewater) return;
+    try {
+      var d = await LiveData.cdcWastewater();
+      emit('wastewater', d);
+    } catch(e) { emit('wastewater', null); }
+  }
+
+  async function fetchBorders() {
+    if (typeof LiveData === 'undefined' || !LiveData.btsBorderCrossings) return;
+    try {
+      var d = await LiveData.btsBorderCrossings();
+      emit('borders', d);
+    } catch(e) { emit('borders', null); }
+  }
+
+  function init() {
+    // Stagger so we don't hammer on load and don't block initial React render
+    setTimeout(fetchNews,       800);
+    setTimeout(fetchFinance,   1600);
+    setTimeout(fetchFlights,   2400);
+    setTimeout(fetchWastewater,3200);
+    setTimeout(fetchBorders,   4000);
+
+    // Refresh schedule
+    setInterval(fetchFlights,   60_000);   // 1 min — aircraft positions
+    setInterval(fetchFinance,  300_000);   // 5 min — market quotes
+    setInterval(fetchNews,     300_000);   // 5 min — outbreak news
+    setInterval(fetchWastewater,1_800_000);// 30 min — wastewater (slow-changing)
+    setInterval(fetchBorders,  3_600_000); // 1 hr  — BTS border (monthly data)
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+
+</script>
+
+<!-- React components -->
 
 <!-- tweaks-panel.jsx -->
 <script type="text/babel">
@@ -2665,10 +2779,6 @@ const NAV = [
     { id: 'sources',     idx: 'XIII',name: 'Data Sources' },
     { id: 'api',         idx: 'XIV', name: 'Researcher API' },
   ]},
-  { group: 'Advanced', items: [
-    { id: 'network',   idx: 'XV',  name: 'Contagion Network' },
-    { id: 'riskmodel', idx: 'XVI', name: 'Risk Model' },
-  ]},
 ];
 
 function NowClock() {
@@ -2852,43 +2962,29 @@ function GlobeFrame({ height = 540, style = 'paper', autorotate = true }) {
 
   oUseEffect(() => {
     if (!ref.current) return;
-
-    // Prefer Three.js WebGL globe; fall back to canvas globe
-    if (window.Globe3D) {
-      const g = Globe3D.create(ref.current, {
-        cases:      DATA.countries,
-        routes:     DATA.routes,
-        airports:   DATA.airports,
-        style:      style === 'paper' ? 'dark' : style,
-        autoRotate: autorotate,
-      });
-      if (!g) return;
-      globeRef.current = g;
-      return () => { g.destroy(); };
-    }
-
-    // Canvas fallback
-    const cases = DATA.countries.map(c => ({ ...c }));
+    const cases = DATA.countries.map(c => ({
+      ...c,
+      total30: c.total30,
+    }));
     const arcs = DATA.routes.map(r => {
       const a = DATA.airports.find(x => x.iata === r[0]);
       const b = DATA.airports.find(x => x.iata === r[1]);
       if (!a || !b) return null;
-      return { from: [a.lon, a.lat], to: [b.lon, b.lat], hot: r[2] === 'high', w: r[2] };
+      const hot = r[2] === 'high';
+      return { from: [a.lon, a.lat], to: [b.lon, b.lat], hot, w: r[2] };
     }).filter(Boolean);
+
     const g = Globe.createGlobe(ref.current, {
-      cases, arcs, airports: DATA.airports, style, autorotate, showGraticule: true,
+      cases, arcs, airports: DATA.airports,
+      style, autorotate, showGraticule: true,
     });
     globeRef.current = g;
+
     const ro = new ResizeObserver(() => g.resize());
     ro.observe(ref.current);
+
     return () => { ro.disconnect(); g.destroy(); };
   }, [style, autorotate]);
-
-  oUseEffect(() => {
-    if (globeRef.current && globeRef.current.setAutoRotate) {
-      globeRef.current.setAutoRotate(autorotate);
-    }
-  }, [autorotate]);
 
   return (
     <div className="globe-wrap" style={{ height }}>
@@ -2896,7 +2992,7 @@ function GlobeFrame({ height = 540, style = 'paper', autorotate = true }) {
       <div className="globe-overlay tl">
         <div style={{ fontWeight: 600, color: 'var(--ink-3)' }}>FIG. 1 — GLOBAL CASE BURDEN</div>
         <div style={{ marginTop: 4 }}>30·day rolling · n=4,289</div>
-        <div>WebGL · Three.js · drag to rotate · scroll to zoom</div>
+        <div>Projection: orthographic, free-rotate</div>
       </div>
       <div className="globe-overlay tr globe-legend">
         <div className="upper" style={{ color: 'var(--ink-3)', marginBottom: 4 }}>Severity (30d)</div>
@@ -3837,56 +3933,92 @@ function ContagionSankey() {
 }
 
 // ─── Live flight table ───────────────────────────────────
+// Outbreak-linked countries for OpenSky filtering
+const OUTBREAK_COUNTRIES = new Set([
+  'United States','Argentina','Chile','Brazil','China','Russia',
+  'Finland','Sweden','Norway','Germany','South Korea','Mongolia',
+  'France','Romania','Kazakhstan','Ukraine','Bolivia','Peru',
+]);
+
 function LiveFlights() {
+  const [liveAircraft, setLiveAircraft] = fUseState(null);
   const [tick, setTick] = fUseState(0);
+
   fUseEffect(() => {
+    if (window.LIVE && window.LIVE.flights) setLiveAircraft(window.LIVE.flights);
+    function onUpdate(e) {
+      if (e.detail.key === 'flights' && e.detail.data) setLiveAircraft(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
     const t = setInterval(() => setTick(x => x + 1), 4000);
-    return () => clearInterval(t);
+    return () => { window.removeEventListener('livedata:update', onUpdate); clearInterval(t); };
   }, []);
 
-  // Generate plausible live flights
-  const flights = fUseMemo(() => {
-    const rng = DATA.rng;
-    const out = [];
+  const isLive = liveAircraft && liveAircraft.length > 0;
+
+  const flights = React.useMemo(() => {
+    if (isLive) {
+      const linked = liveAircraft.filter(f => OUTBREAK_COUNTRIES.has(f.country));
+      return linked.slice(0, 20).map(f => {
+        const isOrigin = ['Argentina','Chile','Brazil','China','Russia','Kazakhstan'].includes(f.country);
+        return {
+          fn: f.callsign || '??????',
+          country: f.country || 'Unknown',
+          alt: f.alt != null ? (f.alt / 1000).toFixed(1) + ' km' : '—',
+          speed: f.velocity != null ? Math.round(f.velocity * 1.944) + ' kt' : '—',
+          hdg: f.heading != null ? Math.round(f.heading) + '°' : '—',
+          outbreak: isOrigin ? 'origin-link' : 'corridor',
+          live: true,
+        };
+      });
+    }
+    const out2 = [];
     for (let i = 0; i < 18; i++) {
       const r = DATA.routes[(i + tick) % DATA.routes.length];
       const a = DATA.airports.find(x => x.iata === r[0]);
       const b = DATA.airports.find(x => x.iata === r[1]);
       if (!a || !b) continue;
-      const carriers = ['AA', 'UA', 'DL', 'LH', 'AF', 'BA', 'KL', 'JL', 'CA', 'LA', 'AR', 'AY', 'SU'];
+      const carriers = ['AA','UA','DL','LH','AF','BA','KL','JL','CA','LA','AR','AY','SU'];
       const fn = carriers[(i + tick) % carriers.length] + (100 + (i * 17 + tick * 3) % 900);
       const eta = Math.max(5, 60 - (i + tick) % 60);
-      const cap = [180, 220, 280, 320, 380][(i + tick) % 5];
-      const load = (0.72 + ((i * 7 + tick) % 25) / 100).toFixed(2);
-      out.push({
-        fn, from: a.iata, to: b.iata, eta, cap, load,
-        outbreak: r[2] === 'high' ? 'origin-link' : (r[2] === 'med' ? 'corridor' : '—'),
-      });
+      const cap = [180,220,280,320,380][(i + tick) % 5];
+      const load = 0.72 + ((i * 7 + tick) % 25) / 100;
+      out2.push({ fn, from: a.iata, to: b.iata, eta, cap, load,
+        outbreak: r[2] === 'high' ? 'origin-link' : (r[2] === 'med' ? 'corridor' : '—'), live: false });
     }
-    return out;
-  }, [tick]);
+    return out2;
+  }, [liveAircraft, tick, isLive]);
 
   return (
     <div className="panel">
       <div className="panel-head">
         <span className="label">Live aircraft · outbreak-linked corridors</span>
-        <span className="sub mono"><span className="live-tag">streaming</span> · OpenSky · refresh 4s</span>
+        <span className="sub mono">
+          {isLive
+            ? <><span className="live-tag">LIVE</span> · OpenSky · {liveAircraft.length.toLocaleString()} airborne</>
+            : <><span className="live-tag">streaming</span> · OpenSky (loading…)</>}
+        </span>
       </div>
       <div className="panel-body" style={{ padding: 0, maxHeight: 320, overflow: 'auto' }}>
         <table className="data">
           <thead>
             <tr>
-              <th>Flight</th>
-              <th>From</th>
-              <th>To</th>
-              <th className="num">ETA (min)</th>
-              <th className="num">Capacity</th>
-              <th className="num">Load</th>
-              <th>Corridor</th>
+              {isLive
+                ? <><th>Callsign</th><th>Country</th><th>Alt</th><th>Speed</th><th>Hdg</th><th>Corridor</th></>
+                : <><th>Flight</th><th>From</th><th>To</th><th className="num">ETA</th><th className="num">Cap</th><th className="num">Load</th><th>Corridor</th></>}
             </tr>
           </thead>
           <tbody>
-            {flights.map((f, i) => (
+            {isLive ? flights.map((f, i) => (
+              <tr key={i}>
+                <td className="mono">{f.fn}</td>
+                <td style={{ fontFamily: 'var(--serif)', fontSize: 12 }}>{f.country}</td>
+                <td className="mono">{f.alt}</td>
+                <td className="mono">{f.speed}</td>
+                <td className="mono">{f.hdg}</td>
+                <td className="mono" style={{ color: f.outbreak === 'origin-link' ? 'var(--oxblood)' : 'var(--ink-3)', fontSize: 10.5 }}>{f.outbreak}</td>
+              </tr>
+            )) : flights.map((f, i) => (
               <tr key={i}>
                 <td className="mono">{f.fn}</td>
                 <td className="mono">{f.from}</td>
@@ -3894,9 +4026,7 @@ function LiveFlights() {
                 <td className="num mono">{f.eta}</td>
                 <td className="num mono">{f.cap}</td>
                 <td className="num mono">{(f.load * 100).toFixed(0)}%</td>
-                <td className="mono" style={{ color: f.outbreak === 'origin-link' ? 'var(--oxblood)' : 'var(--ink-3)', fontSize: 10.5 }}>
-                  {f.outbreak}
-                </td>
+                <td className="mono" style={{ color: f.outbreak === 'origin-link' ? 'var(--oxblood)' : 'var(--ink-3)', fontSize: 10.5 }}>{f.outbreak}</td>
               </tr>
             ))}
           </tbody>
@@ -3905,10 +4035,40 @@ function LiveFlights() {
     </div>
   );
 }
+}
 
 // ─── Cargo & border flows ────────────────────────────────
 function CargoBorders() {
-  const rows = [
+  const [liveBorders, setLiveBorders] = fUseState(null);
+  fUseEffect(() => {
+    if (window.LIVE && window.LIVE.borders) setLiveBorders(window.LIVE.borders);
+    function onBorder(e) { if (e.detail.key === 'borders' && e.detail.data) setLiveBorders(e.detail.data); }
+    window.addEventListener('livedata:update', onBorder);
+    return () => window.removeEventListener('livedata:update', onBorder);
+  }, []);
+
+  const BTS_KEEP = ['Pedestrians','Personal Vehicles','Trucks','Trains'];
+  const liveSummary = React.useMemo(() => {
+    if (!liveBorders || !liveBorders.length) return null;
+    const best = {};
+    liveBorders.forEach(row => {
+      if (!BTS_KEEP.some(m => (row.measure || '').includes(m))) return;
+      const key = (row.border || '') + '|' + (row.measure || '');
+      if (!best[key] || +row.value > +best[key].value) best[key] = row;
+    });
+    return Object.values(best).sort((a, b) => +b.value - +a.value).slice(0, 8).map(row => {
+      const val = +row.value;
+      return {
+        route: (row.border || 'US Border') + ' — ' + (row.port_name || 'Various'),
+        vol: val >= 1e6 ? (val/1e6).toFixed(1)+'M' : val >= 1e3 ? (val/1e3).toFixed(0)+'k' : String(val),
+        v: Math.min(100, Math.round(val / 5_000_000 * 100)),
+        n: (row.measure || '') + ' · ' + (row.state || '') + ' · ' + (row.date || '').slice(0, 7),
+        live: true,
+      };
+    });
+  }, [liveBorders]);
+
+  const rows = liveSummary || [
     { route: 'CN/Xi\'an → global air cargo',  vol: '128k t',   v: 86, n: 'Wheat, fruit, livestock' },
     { route: 'AR/Bariloche → BA → MAD',       vol: '4.2k pax', v: 32, n: 'Trekking-season outbound' },
     { route: 'CL/Aysén → SCL → SAO/LIM',      vol: '3.8k pax', v: 24, n: 'Trail-link clusters' },
@@ -3923,7 +4083,11 @@ function CargoBorders() {
     <div className="panel">
       <div className="panel-head">
         <span className="label">Cargo & land-border flows</span>
-        <span className="sub">flight-only contagion modelling under-counts real exposure</span>
+        <span className="sub mono">
+          {liveSummary
+            ? <><span className="live-tag">LIVE</span> · BTS US Border Crossings</>
+            : 'flight-only contagion modelling under-counts real exposure'}
+        </span>
       </div>
       <div className="panel-body" style={{ padding: 0 }}>
         <table className="data">
@@ -4312,17 +4476,6 @@ function PageWastewater() {
 // ════════════════════════════════════════════════════════
 
 function PageGenomic() {
-  const [liveSeqs, setLiveSeqs] = React.useState([]);
-  const [seqStatus, setSeqStatus] = React.useState('loading');
-
-  React.useEffect(() => {
-    if (typeof LiveData === 'undefined') { setSeqStatus('unavailable'); return; }
-    LiveData.ncbiSequences(30).then(seqs => {
-      if (seqs && seqs.length > 0) { setLiveSeqs(seqs); setSeqStatus('ok'); }
-      else setSeqStatus('fallback');
-    });
-  }, []);
-
   return (
     <div className="page" data-screen-label="07 Genomic">
       <div className="page-head">
@@ -4334,12 +4487,7 @@ function PageGenomic() {
           </div>
         </div>
         <div className="meta">
-          {seqStatus === 'ok'
-            ? <span style={{ color: 'var(--moss)' }}>● NCBI live · {liveSeqs.length} seqs</span>
-            : seqStatus === 'loading'
-            ? <span style={{ color: 'var(--ink-4)' }}>⟳ fetching NCBI…</span>
-            : <span>11,944 sequences · curated</span>
-          }<br/>
+          11,944 sequences · 11 strains<br/>
           last sync · NCBI 13:48 · GISAID 14:42<br/>
           GenBank IDs: see /api/v1/genomic
         </div>
@@ -4367,46 +4515,6 @@ function PageGenomic() {
           <div className="sub">weighted by 30·d strain prevalence</div>
         </div>
       </div>
-
-      {/* Live NCBI sequences panel */}
-      {liveSeqs.length > 0 && (
-        <div className="panel" style={{ marginBottom: 16 }}>
-          <div className="panel-head">
-            <span className="label">NCBI live · hantavirus sequences deposited 2024–2026</span>
-            <span className="sub mono">
-              <span className="live-tag">NCBI live</span> · {liveSeqs.length} records · E-utilities API
-            </span>
-          </div>
-          <div className="panel-body" style={{ padding: 0, maxHeight: 220, overflow: 'auto' }}>
-            <table className="data">
-              <thead>
-                <tr>
-                  <th>Accession</th>
-                  <th>Title / strain</th>
-                  <th>Organism</th>
-                  <th className="num">Length (nt)</th>
-                  <th>Updated</th>
-                </tr>
-              </thead>
-              <tbody>
-                {liveSeqs.map((s, i) => (
-                  <tr key={i}>
-                    <td className="mono" style={{ fontSize: 10.5 }}>
-                      <a href={`https://www.ncbi.nlm.nih.gov/nuccore/${s.acc}`}
-                        target="_blank" rel="noreferrer"
-                        style={{ color: 'var(--ochre-deep)' }}>{s.acc}</a>
-                    </td>
-                    <td style={{ fontFamily: 'var(--serif)', fontSize: 12.5, maxWidth: 380 }}>{s.title}</td>
-                    <td style={{ fontFamily: 'var(--serif)', fontStyle: 'italic', fontSize: 11.5 }}>{s.organism}</td>
-                    <td className="num mono">{(s.length || 0).toLocaleString()}</td>
-                    <td className="mono" style={{ fontSize: 10.5, color: 'var(--ink-4)' }}>{s.updated}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </div>
-      )}
 
       <div className="row" style={{ gridTemplateColumns: '1fr 1.4fr' }}>
         <PhyloTree />
@@ -4645,7 +4753,36 @@ const { Sparkline } = SharedUI;
 
 function PageFinance() {
   const [bucket, setBucket] = oUseState2('all');
-  const filt = DATA.finance.filter(f => bucket === 'all' || f.cls === bucket);
+  const [liveFinance, setLiveFinance] = oUseState2(null);
+
+  oUseEffect2(() => {
+    if (window.LIVE && window.LIVE.finance) setLiveFinance(window.LIVE.finance);
+    function onUpdate(e) {
+      if (e.detail.key === 'finance' && e.detail.data) setLiveFinance(e.detail.data);
+    }
+    window.addEventListener('livedata:update', onUpdate);
+    return () => window.removeEventListener('livedata:update', onUpdate);
+  }, []);
+
+  // Merge live Yahoo Finance data over seeded DATA.finance
+  const mergedFinance = oUseMemo2(() => {
+    if (!liveFinance) return DATA.finance;
+    return DATA.finance.map(f => {
+      // ^GSPC in data is just GSPC; try both
+      const live = liveFinance[f.sym] || liveFinance['^' + f.sym] || liveFinance[f.sym.replace('^','')];
+      if (!live || !live.price) return f;
+      return {
+        ...f,
+        px: live.price,
+        pct: live.pct || f.pct,
+        series: live.series && live.series.length > 5 ? live.series : f.series,
+        live: true,
+      };
+    });
+  }, [liveFinance]);
+
+  const filt = mergedFinance.filter(f => bucket === 'all' || f.cls === bucket);
+  const hasLive = mergedFinance.some(f => f.live);
 
   return (
     <div className="page" data-screen-label="11 Finance">
@@ -4666,14 +4803,33 @@ function PageFinance() {
 
       <div className="row cols-4" style={{ marginBottom: 16 }}>
         <div className="kpi">
-          <div className="name">VIX</div>
-          <div className="val tnum">18.42</div>
-          <div className="sub"><span className="delta-up">▲ 0.71</span> · 30d range 14–22</div>
+          <div className="name">VIX {hasLive && <span className="live-tag" style={{ fontSize: 8, verticalAlign: 'middle' }}>LIVE</span>}</div>
+          <div className="val tnum">
+            {liveFinance && (liveFinance['^VIX'] || liveFinance['VIX'])
+              ? (liveFinance['^VIX'] || liveFinance['VIX']).price.toFixed(2)
+              : '18.42'}
+          </div>
+          <div className="sub">
+            {liveFinance && (liveFinance['^VIX'] || liveFinance['VIX'])
+              ? <><span className={(liveFinance['^VIX']||liveFinance['VIX']).pct >= 0 ? 'delta-up' : 'delta-down'}>
+                  {(liveFinance['^VIX']||liveFinance['VIX']).pct >= 0 ? '▲' : '▼'} {Math.abs((liveFinance['^VIX']||liveFinance['VIX']).pct).toFixed(2)}%
+                </span> · live</>
+              : <><span className="delta-up">▲ 0.71</span> · 30d range 14–22</>}
+          </div>
         </div>
         <div className="kpi">
           <div className="name">Pandemic-volatility basket</div>
-          <div className="val tnum">+1.84%</div>
-          <div className="sub">equal-weight · vs S&P −0.18%</div>
+          <div className="val tnum">
+            {(() => {
+              if (!liveFinance) return '+1.84%';
+              const pharmaSyms = ['MRNA','PFE','BNTX','GILD','REGN'];
+              const pctsArr = pharmaSyms.map(s => liveFinance[s] && liveFinance[s].pct).filter(v => v != null);
+              if (!pctsArr.length) return '+1.84%';
+              const avg = pctsArr.reduce((a, b) => a + b, 0) / pctsArr.length;
+              return (avg >= 0 ? '+' : '') + avg.toFixed(2) + '%';
+            })()}
+          </div>
+          <div className="sub">equal-weight pharma · {hasLive ? 'live' : 'seeded'}</div>
         </div>
         <div className="kpi">
           <div className="name">JETS · airlines ETF</div>
@@ -4703,7 +4859,11 @@ function PageFinance() {
       <div className="panel" style={{ marginBottom: 16 }}>
         <div className="panel-head">
           <span className="label">Watchlist · live</span>
-          <span className="sub mono"><span className="live-tag">streaming</span> · 1-minute cadence</span>
+          <span className="sub mono">
+            {hasLive
+              ? <><span className="live-tag">LIVE</span> · Yahoo Finance · {mergedFinance.filter(f => f.live).length}/{mergedFinance.length} instruments</>
+              : <><span className="live-tag">seeded</span> · awaiting market data</>}
+          </span>
         </div>
         <div className="panel-body" style={{ padding: 0 }}>
           <table className="data">
@@ -5051,32 +5211,8 @@ function PageHospitals() {
 
 function PageNews() {
   const [src, setSrc] = oUseState2('all');
-  const [liveItems, setLiveItems] = oUseState2([]);
-  const [liveStatus, setLiveStatus] = oUseState2('loading');
-
-  oUseEffect2(() => {
-    if (typeof LiveData === 'undefined') { setLiveStatus('unavailable'); return; }
-    setLiveStatus('loading');
-    LiveData.fetchAllNews().then(items => {
-      if (items && items.length > 0) {
-        setLiveItems(items);
-        setLiveStatus('ok');
-      } else {
-        setLiveStatus('fallback');
-      }
-    });
-  }, []);
-
-  const allNews = oUseMemo2(() => {
-    const base = DATA.news;
-    if (!liveItems.length) return base;
-    const seenHeads = new Set(liveItems.map(i => i.head.slice(0, 50)));
-    const filtered = base.filter(n => !seenHeads.has(n.head.slice(0, 50)));
-    return [...liveItems, ...filtered];
-  }, [liveItems]);
-
-  const srcs = ['all', ...new Set(allNews.map(n => n.src))].slice(0, 20);
-  const items = allNews.filter(n => src === 'all' || n.src === src);
+  const sources = ['all', 'AP Wire', 'Reuters', 'AFP', 'BBC', 'Bloomberg', 'Xinhua', 'Yonhap', 'NHK', 'TASS', 'Yle', 'DW', 'Folha', 'Le Monde'];
+  const items = DATA.news.filter(n => src === 'all' || n.src === src);
 
   return (
     <div className="page" data-screen-label="04 News">
@@ -5089,17 +5225,14 @@ function PageNews() {
           </div>
         </div>
         <div className="meta">
-          {liveStatus === 'ok' && <span style={{ color: 'var(--moss)' }}>● GDELT + WHO + ProMED live</span>}
-          {liveStatus === 'loading' && <span style={{ color: 'var(--ink-4)' }}>⟳ fetching live feeds…</span>}
-          {liveStatus === 'fallback' && <span style={{ color: 'var(--ink-4)' }}>curated feed · live unavailable</span>}
-          <br/>
-          {allNews.length} items · {liveItems.length} live<br/>
-          last fetch 14:42Z
+          14 wire sources + 32 RSS<br/>
+          GDELT 2.0 long-tail · 15min<br/>
+          NLP geotag + dedupe · 14:42Z
         </div>
       </div>
 
       <div className="tabs" style={{ marginBottom: 16, flexWrap: 'wrap' }}>
-        {srcs.map(s => (
+        {sources.map(s => (
           <div key={s} className={`tab ${src === s ? 'active' : ''}`} onClick={() => setSrc(s)}>{s}</div>
         ))}
       </div>
@@ -5736,7 +5869,6 @@ window.PageAPI = PageAPI;
 
 </script>
 
-<!-- network + riskmodel pages -->
 <!-- network.jsx -->
 <script type="text/babel">
 /* global React, DATA */
@@ -5953,6 +6085,7 @@ function PageNetwork() {
 window.PageNetwork = PageNetwork;
 
 </script>
+
 <!-- riskmodel.jsx -->
 <script type="text/babel">
 /* global React, DATA */
@@ -6286,7 +6419,6 @@ window.CandlestickChart = CandlestickChart;
 /* global React, ReactDOM, Shell, PageOverview, PageCases, PageFlights, PageFinance,
    PageHospitals, PageNews, PageAlerts, PageReservoirs, PageWastewater,
    PageGenomic, PageSearch, PageMethodology, PageSources, PageAPI,
-   PageNetwork, PageRiskModel,
    TweaksPanel, useTweaks, TweakSection, TweakRadio, TweakToggle, TweakSelect, TweakColor
 */
 
@@ -6332,8 +6464,6 @@ function App() {
     methodology: <PageMethodology />,
     sources:     <PageSources />,
     api:         <PageAPI />,
-    network:     typeof PageNetwork   !== 'undefined' ? <PageNetwork />   : <div className="page"><div className="page-head"><div className="upper">Loading…</div></div></div>,
-    riskmodel:   typeof PageRiskModel !== 'undefined' ? <PageRiskModel /> : <div className="page"><div className="page-head"><div className="upper">Loading…</div></div></div>,
   };
 
   return (
@@ -6403,4 +6533,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 
 </script>
 
-</body></html>
+</body>
+</html>
