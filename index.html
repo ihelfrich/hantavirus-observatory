@@ -5,7 +5,7 @@
   <title>The Hantavirus Observatory · ed. Dr. Ian Helfrich</title>
   <meta name="viewport" content="width=1440">
   <meta name="author" content="Dr. Ian Helfrich">
-  <meta name="description" content="Global hantavirus surveillance journal · edited by Dr. Ian Helfrich · live data from CIDRAP, GDELT, CDC, Yahoo Finance, BTS, OpenSky.">
+  <meta name="description" content="Global hantavirus surveillance design study by Dr. Ian Helfrich. Live news, finance, wastewater, and border-crossings; everything else is illustrative.">
   <link rel="canonical" href="https://ihelfrich.github.io/hantavirus-observatory/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -2966,7 +2966,7 @@ function Masthead() {
     }
   }, "ianhelfrich.com"))), /*#__PURE__*/React.createElement("div", {
     className: "vol"
-  }, "VOL. III \xB7 ISS. 132 \xB7 WK 19/2026"));
+  }, "DESIGN STUDY \xB7 v0.3"));
 }
 function HeaderBar({
   page,
@@ -2993,7 +2993,7 @@ function HeaderBar({
     style: {
       color: 'var(--ink-3)'
     }
-  }, "24 sources \xB7 17 RT \xB7 7 batched"), /*#__PURE__*/React.createElement("button", {
+  }, "live: news \xB7 finance \xB7 wastewater \xB7 borders"), /*#__PURE__*/React.createElement("button", {
     onClick: () => setPage('api')
   }, "Export")));
 }
@@ -3015,7 +3015,7 @@ function Rail({
     className: "obs"
   }, "Public surveillance journal"), /*#__PURE__*/React.createElement("div", {
     className: "num"
-  }, "EST. MMXXIV \xB7 ISSN 2769\xB74413"), /*#__PURE__*/React.createElement("div", {
+  }, "EST. MMXXIV \xB7 solo-editor design study"), /*#__PURE__*/React.createElement("div", {
     className: "num",
     style: {
       marginTop: 4,
@@ -3939,7 +3939,7 @@ function GlobeFrame({
     className: "globe-overlay bl"
   }, /*#__PURE__*/React.createElement("div", null, "\u21BB drag to rotate \xB7 auto-rotate resumes after 1.2s")), /*#__PURE__*/React.createElement("div", {
     className: "globe-overlay br"
-  }, /*#__PURE__*/React.createElement("div", null, "Sources: WHO \xB7 CDC \xB7 ECDC \xB7 PAHO \xB7 KDCA \xB7 THL \xB7 CCDC"), /*#__PURE__*/React.createElement("div", null, "Last fetch \xB7 14:42:18Z \xB7 24 sources reconciled")));
+  }, /*#__PURE__*/React.createElement("div", null, "Sources: WHO \xB7 CDC \xB7 ECDC \xB7 PAHO \xB7 KDCA \xB7 THL \xB7 CCDC"), /*#__PURE__*/React.createElement("div", null, "illustrative globe \xB7 live data on Newswire & Markets tabs")));
 }
 
 // ─── Top KPIs (hero strip) ───────────────────────────────
@@ -3979,7 +3979,7 @@ function TopKPIs() {
   }), /*#__PURE__*/React.createElement(KPI, {
     name: "Signal confidence",
     value: "92.4",
-    sub: "of 100 \xB7 17 RT, 7 batched feeds",
+    sub: "seeded illustrative figure",
     delta: "+1.2",
     spark: [88, 89, 89, 90, 90, 91, 91, 91, 92, 92, 92, 92]
   }));
@@ -4324,7 +4324,7 @@ function PageOverview({
     className: "upper"
   }, "I \xB7 Global Overview"), /*#__PURE__*/React.createElement("h1", null, "Worldwide hantavirus surveillance, by the minute."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "A reconciled portrait of all known active clusters, signal anomalies, and reporting infrastructure \u2014 drawn from 24 sources across IGOs, government registries, open consortia, and live news wires.")), /*#__PURE__*/React.createElement("div", {
+  }, "A design study of what a reconciled portrait of global hantavirus surveillance could look like, by Dr. Ian Helfrich. The Newswire and Markets tabs draw live data from CIDRAP, Outbreak News Today, CDC EID, GDELT, Yahoo Finance, BTS, and CDC NWSS. Everything else on this tab is seeded illustrative data.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
   }, "ISSUE 132 \xB7 12 MAY 2026", /*#__PURE__*/React.createElement("br", null), "14:42:18Z REVISION", /*#__PURE__*/React.createElement("br", null), "REVIEW \xB7 INTERNAL ED. + WHO LIAISON")), variant === 'map' && /*#__PURE__*/React.createElement(OverviewMapLed, null), variant === 'ticker' && /*#__PURE__*/React.createElement(OverviewTickerLed, null), variant === 'editorial' && /*#__PURE__*/React.createElement(OverviewEditorial, null));
 }
@@ -4334,6 +4334,7 @@ window.SharedUI = {
   Sparkline,
   GlobeFrame
 };
+
 })();
 
 /* === cases.js === */
@@ -5051,7 +5052,7 @@ function PageWastewater() {
     })));
   }))))), /*#__PURE__*/React.createElement("div", {
     className: "footnote"
-  }, "Method: 200 mL 24h flow-proportional composite, polyethylene glycol concentration, RNeasy extraction, multiplexed RT-qPCR against N-segment (pan-hantavirus) and L-segment subtype probes. Limit of detection: 200 copies per liter. Pipeline mirrored from CDC NWSS hantavirus pilot protocol (2025)."));
+  }, "Method described is the standard wastewater hantavirus protocol (200 mL 24h flow-proportional composite, PEG concentration, RNeasy extraction, multiplexed RT-qPCR against N-segment pan-hantavirus and L-segment subtype probes; LoD \u2248 200 copies per liter). Site counts here are illustrative placeholders; the live tile draws on the CDC NWSS Socrata dataset, which does not include a hantavirus channel \u2014 it is shown as the closest publicly-available analogue."));
 }
 
 // ════════════════════════════════════════════════════════
@@ -5068,9 +5069,11 @@ function PageGenomic() {
     className: "upper"
   }, "VII \xB7 Genomic Surveillance"), /*#__PURE__*/React.createElement("h1", null, "Every sequence, every strain, mapped to its rodent host."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "We pull all hantavirus L, M, and S segment sequences from GISAID and NCBI Virus on a 15-minute cadence and reconcile them against ICTV taxonomy. The phylotree below shows the principal Orthohantavirus species in active circulation; rows below give per-strain provenance and CFR.")), /*#__PURE__*/React.createElement("div", {
+  }, "A live NCBI E-utilities pull (esearch + esummary against the nuccore database, hantavirus-organism filter) is wired into ", /*#__PURE__*/React.createElement("span", {
+    className: "mono"
+  }, "livedata.js"), " and available client-side. Sequence counts and the phylotree below are illustrative; reconciling against ICTV taxonomy and joining GISAID would require authenticated access that a static SPA cannot do.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "11,944 sequences \xB7 11 strains", /*#__PURE__*/React.createElement("br", null), "last sync \xB7 NCBI 13:48 \xB7 GISAID 14:42", /*#__PURE__*/React.createElement("br", null), "GenBank IDs: see /api/v1/genomic")), /*#__PURE__*/React.createElement("div", {
+  }, "counts shown are illustrative", /*#__PURE__*/React.createElement("br", null), "live NCBI pull available in code", /*#__PURE__*/React.createElement("br", null), "GISAID not reachable from browser")), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -5487,6 +5490,7 @@ window.PageReservoirs = PageReservoirs;
 window.PageWastewater = PageWastewater;
 window.PageGenomic = PageGenomic;
 window.PageSearch = PageSearch;
+
 })();
 
 /* === ops.js === */
@@ -5893,7 +5897,7 @@ function PageHospitals() {
     className: "deck"
   }, "HPS in particular drives near-immediate ICU need with high ventilator requirement \u2014 historical pulmonary-syndrome admissions average 96 hours from symptom onset to intubation. The map of hospital capacity adjacent to outbreak loci is therefore not abstract.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "9 reporting regions", /*#__PURE__*/React.createElement("br", null), "critical-care load updated 4h", /*#__PURE__*/React.createElement("br", null), "HHS Protect \xB7 ECDC TESSy \xB7 CCDC NHC")), /*#__PURE__*/React.createElement("div", {
+  }, "9 reporting regions", /*#__PURE__*/React.createElement("br", null), "critical-care load updated 4h", /*#__PURE__*/React.createElement("br", null), "illustrative \u2014 would draw on HHS Protect / TESSy / KDCA")), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -6113,7 +6117,7 @@ function PageHospitals() {
     }
   }, r[1], " \xB7 ", r[2]))))))), /*#__PURE__*/React.createElement("div", {
     className: "footnote mt-l"
-  }, "Bed-occupancy figures reconciled from HHS Protect (US), CCDC Weekly (CN), KDCA OpenAPI (KR), ECDC TESSy (EU), and MSal SIVIGILA (AR). Where national daily figures are unavailable, regional health-authority dashboards are scraped at 4-hour cadence."));
+  }, "Bed-occupancy figures shown here are illustrative placeholders. A production build would pull from HHS Protect (US), CCDC Weekly (CN), KDCA OpenAPI (KR), ECDC TESSy (EU), and MSal SIVIGILA (AR) \u2014 none of which expose browser-CORS-friendly endpoints, so live integration requires a server-side fetcher beyond the scope of this static design study."));
 }
 
 // ════════════════════════════════════════════════════════
@@ -6165,7 +6169,9 @@ function PageNews() {
     className: "upper"
   }, "IV \xB7 Newswire"), /*#__PURE__*/React.createElement("h1", null, "Every wire, every relevant feed, every minute."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "We ingest AP Wire, Reuters Connect, AFP, Xinhua, Yonhap, NHK, TASS, and 18 regional outlets via API and RSS, plus GDELT 2.0 for the long tail. Items are language-classified, geotagged, deduplicated, and ranked against the active alert set.")), /*#__PURE__*/React.createElement("div", {
+  }, "Live news cache assembled every four hours by a GitHub Action that fetches CIDRAP, Outbreak News Today, CDC Emerging Infectious Diseases, and the GDELT 2.0 Doc API server-side, then writes ", /*#__PURE__*/React.createElement("span", {
+    className: "mono"
+  }, "news.json"), " to the static site. The SPA reads it same-origin. Hantavirus-specific items are pattern-prioritized and deduplicated by URL.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
   }, liveItems.length > 0 ? /*#__PURE__*/React.createElement(React.Fragment, null, liveItems.length, " live items \xB7 ", sources.length - 1, " sources", /*#__PURE__*/React.createElement("br", null), "CIDRAP \xB7 Outbreak News \xB7 CDC EID \xB7 GDELT", /*#__PURE__*/React.createElement("br", null), "cache refresh every 4h via GH Actions") : /*#__PURE__*/React.createElement(React.Fragment, null, "14 wire sources + 32 RSS", /*#__PURE__*/React.createElement("br", null), "GDELT 2.0 long-tail \xB7 15min", /*#__PURE__*/React.createElement("br", null), "NLP geotag + dedupe"))), /*#__PURE__*/React.createElement("div", {
     className: "tabs",
@@ -6376,9 +6382,9 @@ function PageAlerts() {
     className: "upper"
   }, "III \xB7 Alerts"), /*#__PURE__*/React.createElement("h1", null, "What needs your attention now."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "Promoted to alert when: (a) signal corroborated by \u2265 2 independent feeds, (b) confidence score \u2265 3/5, (c) deviation from rolling baseline exceeds jurisdictional control bounds. Critical alerts trigger WebSub push to subscribed researchers, embassies, and IGO desks.")), /*#__PURE__*/React.createElement("div", {
+  }, "Promotion criteria are illustrative: (a) signal corroborated by \u2265 2 independent feeds, (b) confidence score \u2265 3/5, (c) deviation from rolling baseline exceeds jurisdictional control bounds. The alert rows below are seeded examples \u2014 no push channel is wired up and there are no subscribers; this is a static site.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "7 active \xB7 2 critical \xB7 2 elevated \xB7 3 watch", /*#__PURE__*/React.createElement("br", null), "push subscribers \xB7 1,840", /*#__PURE__*/React.createElement("br", null), "mean ack time \xB7 18 min")), /*#__PURE__*/React.createElement("div", {
+  }, "alerts shown are illustrative", /*#__PURE__*/React.createElement("br", null), "live news drives the Newswire tab", /*#__PURE__*/React.createElement("br", null), "no push, no subscribers, no auth")), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -6512,9 +6518,9 @@ function PageMethodology() {
     className: "upper"
   }, "XII \xB7 Methodology"), /*#__PURE__*/React.createElement("h1", null, "How the Observatory builds and reconciles its dataset."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "Every figure on the front page is traceable to a primary record. This page documents the pipelines, the deduplication rules, the lag-adjustment models, and the editorial review process.")), /*#__PURE__*/React.createElement("div", {
+  }, "This page documents the actual ingest pipeline (CIDRAP / Outbreak News Today / CDC EID / GDELT, refreshed every four hours by a GitHub Action) and the dedupe / prioritization rules applied to it. The lag-adjustment and reconciliation panels below describe how a serious build would work \u2014 they are not currently running.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "DOI \xB7 10.31234 / hantawatch.2026.01", /*#__PURE__*/React.createElement("br", null), "peer review \xB7 Lancet Reg. Health (preprint)", /*#__PURE__*/React.createElement("br", null), "v 2026.05.12")), /*#__PURE__*/React.createElement("div", {
+  }, "design study \xB7 not peer-reviewed", /*#__PURE__*/React.createElement("br", null), "live data where browser-accessible", /*#__PURE__*/React.createElement("br", null), "seeded illustrative data elsewhere")), /*#__PURE__*/React.createElement("div", {
     className: "row",
     style: {
       gridTemplateColumns: '1.4fr 1fr'
@@ -6527,7 +6533,7 @@ function PageMethodology() {
     className: "label"
   }, "Pipeline \xB7 ingest \u2192 reconcile \u2192 publish"), /*#__PURE__*/React.createElement("span", {
     className: "sub"
-  }, "17 RT feeds \xB7 7 batched \xB7 24 sources total")), /*#__PURE__*/React.createElement("div", {
+  }, "how a serious build would work \xB7 what this design study actually does")), /*#__PURE__*/React.createElement("div", {
     className: "panel-body"
   }, /*#__PURE__*/React.createElement("div", {
     style: {
@@ -6537,16 +6543,16 @@ function PageMethodology() {
     }
   }, [{
     stage: 'I · Acquire',
-    items: ['Go workers · 18 concurrent', 'API + RSS + scraper kit', 'rate-respecting · backoff', 'TLS pinning · provenance hash']
+    items: ['browser-side fetch of public APIs', 'GitHub Action for CORS-blocked feeds', 'rate-respecting · 30-min GDELT cache', 'no scrapers, no auth-walled sources']
   }, {
     stage: 'II · Normalize',
-    items: ['ICD-10/11 + SNOMED map', 'ICTV strain reconciliation', 'NUTS / GAUL / FIPS geocode', 'language → en via NLLB-200']
+    items: ['domain → display-name brand map', 'pattern-prioritize hantavirus matches', 'deduplicate by URL', 'sort newest-first by timestamp']
   }, {
     stage: 'III · Reconcile',
-    items: ['probabilistic record linkage', 'Fellegi-Sunter w/ EM', 'jurisdictional lag model', 'ProMED corroboration check']
+    items: ['live data overlays seeded baseline', 'graceful fallback when a feed is null', 'LIVE badges flag fetched items', 'illustrative data clearly distinguished']
   }, {
     stage: 'IV · Publish',
-    items: ['Postgres + TimescaleDB', 'public API + WebSocket', 'WebSub push to subscribers', 'editorial human-in-loop']
+    items: ['static SPA on GitHub Pages', 'news.json refreshed every 4h via Action', 'no backend, no database, no API', 'solo editor reviews before commit']
   }].map((s, i) => /*#__PURE__*/React.createElement("div", {
     key: i,
     style: {
@@ -6710,7 +6716,7 @@ function PageSources() {
     className: "deck"
   }, "What the Observatory ingests, from where, at what cadence, and whether it is currently healthy. Anything not listed here is not in our database. Sources marked \u2018comm\u2019 carry licensing agreements available under FOIA-equivalent request.")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, DATA.sources.length, " sources \xB7 24 healthy", /*#__PURE__*/React.createElement("br", null), "2 degraded \xB7 0 lost", /*#__PURE__*/React.createElement("br", null), "uptime SLA \xB7 99.4% rolling 90d")), /*#__PURE__*/React.createElement("div", {
+  }, DATA.sources.length, " sources \xB7 24 healthy", /*#__PURE__*/React.createElement("br", null), "2 degraded \xB7 0 lost", /*#__PURE__*/React.createElement("br", null), "no SLA \xB7 best-effort static hosting")), /*#__PURE__*/React.createElement("div", {
     className: "row cols-4",
     style: {
       marginBottom: 16
@@ -6881,11 +6887,29 @@ function PageAPI() {
     className: "page-head"
   }, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
     className: "upper"
-  }, "XIV \xB7 Researcher API"), /*#__PURE__*/React.createElement("h1", null, "Programmatic access to every record."), /*#__PURE__*/React.createElement("div", {
+  }, "XIV \xB7 Researcher API"), /*#__PURE__*/React.createElement("h1", null, "What an API for this would look like."), /*#__PURE__*/React.createElement("div", {
     className: "deck"
-  }, "Free for academic, governmental, and editorial use. Rate-limited at 600 req/min by default; researchers may apply for unlimited tokens. All endpoints return JSON, CSV, or Parquet. WebSocket and Server-Sent Events available for streaming.")), /*#__PURE__*/React.createElement("div", {
+  }, /*#__PURE__*/React.createElement("strong", null, "Honest framing:"), " The Observatory is a static SPA on GitHub Pages. There is no live API, no SDK, no token system, no SLA, no ", /*#__PURE__*/React.createElement("span", {
+    className: "mono"
+  }, "api.hanta.obs"), ". The code samples on this page are a design study \u2014 what a programmatic interface to this dataset ", /*#__PURE__*/React.createElement("em", null, "would"), " look like if it were built. The data the Observatory actually publishes is available as a single same-origin file: ", /*#__PURE__*/React.createElement("a", {
+    href: "./news.json",
+    style: {
+      color: 'var(--ink)'
+    }
+  }, /*#__PURE__*/React.createElement("span", {
+    className: "mono"
+  }, "./news.json")), ", refreshed every four hours by a GitHub Action. Source code: ", /*#__PURE__*/React.createElement("a", {
+    href: "https://github.com/ihelfrich/hantavirus-observatory",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    style: {
+      color: 'var(--ink)'
+    }
+  }, "github.com/ihelfrich/hantavirus-observatory"), ".")), /*#__PURE__*/React.createElement("div", {
     className: "meta"
-  }, "base \xB7 https://api.hanta.obs/v1", /*#__PURE__*/React.createElement("br", null), "OpenAPI 3.1 spec \xB7 /openapi.json", /*#__PURE__*/React.createElement("br", null), "status \xB7 operational")), /*#__PURE__*/React.createElement("div", {
+  }, "no live API \xB7 static SPA", /*#__PURE__*/React.createElement("br", null), "data: ", /*#__PURE__*/React.createElement("span", {
+    className: "mono"
+  }, "./news.json"), " same-origin", /*#__PURE__*/React.createElement("br", null), "everything else: clone the repo")), /*#__PURE__*/React.createElement("div", {
     className: "tabs",
     style: {
       marginBottom: 16
@@ -6905,9 +6929,9 @@ function PageAPI() {
     className: "panel-head"
   }, /*#__PURE__*/React.createElement("span", {
     className: "label"
-  }, "Quickstart"), /*#__PURE__*/React.createElement("span", {
+  }, "Quickstart (design study)"), /*#__PURE__*/React.createElement("span", {
     className: "sub"
-  }, "request your token at /apply")), /*#__PURE__*/React.createElement("div", {
+  }, "no real tokens \xB7 what a client SDK might look like")), /*#__PURE__*/React.createElement("div", {
     className: "panel-body"
   }, /*#__PURE__*/React.createElement("pre", {
     className: "code"
@@ -6983,11 +7007,11 @@ function PageAPI() {
     className: "panel-head"
   }, /*#__PURE__*/React.createElement("span", {
     className: "label"
-  }, "Status"), /*#__PURE__*/React.createElement("span", {
+  }, "Status (illustrative)"), /*#__PURE__*/React.createElement("span", {
     className: "sub"
-  }, "14:42:18Z")), /*#__PURE__*/React.createElement("div", {
+  }, "no live API exists")), /*#__PURE__*/React.createElement("div", {
     className: "panel-body"
-  }, [['API · core', 'operational', '99.97%'], ['Streaming', 'operational', '99.91%'], ['Bulk export S3', 'operational', '100.00%'], ['Webhooks', 'operational', '99.84%']].map((r, i) => /*#__PURE__*/React.createElement("div", {
+  }, [['API · core', 'not built', '—'], ['Streaming', 'not built', '—'], ['Bulk export S3', 'not built', '—'], ['Webhooks', 'not built', '—']].map((r, i) => /*#__PURE__*/React.createElement("div", {
     key: i,
     className: "flex between center",
     style: {
@@ -7197,11 +7221,11 @@ function PageAPI() {
     className: "sub"
   }, "how to apply, rotate, revoke")), /*#__PURE__*/React.createElement("div", {
     className: "panel-body body-text"
-  }, /*#__PURE__*/React.createElement("p", null, "Apply at ", /*#__PURE__*/React.createElement("span", {
+  }, /*#__PURE__*/React.createElement("p", null, "No application process, no tokens, no dashboard. If a real API were stood up, the access model above is what it would look like \u2014 researcher tier free and non-discretionary on verified affiliation, institutional and newsroom tiers covering higher request rates."), /*#__PURE__*/React.createElement("p", null, "For now: the only data the Observatory publishes is ", /*#__PURE__*/React.createElement("span", {
     className: "mono"
-  }, "/apply"), " with an institutional email and a one-paragraph statement of use. Tokens are typically issued within 48 hours; researcher tier is non-discretionary if affiliation verifies."), /*#__PURE__*/React.createElement("p", null, "Tokens rotate annually. Revocation is one-click via the dashboard. Compromised tokens should be reported to ", /*#__PURE__*/React.createElement("span", {
+  }, "./news.json"), " (same-origin) and the source-of-truth seeded dataset is in ", /*#__PURE__*/React.createElement("span", {
     className: "mono"
-  }, "security@hanta.obs"), " \u2014 24h response commitment.")))), tab === 'terms' && /*#__PURE__*/React.createElement("div", {
+  }, "data.js"), " in the repo. Pull either with any HTTP client. No authentication required.")))), tab === 'terms' && /*#__PURE__*/React.createElement("div", {
     className: "panel"
   }, /*#__PURE__*/React.createElement("div", {
     className: "panel-head"
@@ -7214,9 +7238,7 @@ function PageAPI() {
     style: {
       maxWidth: '74ch'
     }
-  }, /*#__PURE__*/React.createElement("p", null, "Data published under Creative Commons Attribution 4.0 International. Attribution requires: (i) credit to ", /*#__PURE__*/React.createElement("em", null, "The Hantavirus Observatory"), ", edited by Dr. Ian Helfrich, (ii) link to the source page, (iii) inclusion of the DOI on any chart or table derived directly from our reconciliation."), /*#__PURE__*/React.createElement("p", null, "Reciprocity clause: institutional and newsroom users agree to make corrigenda visible if downstream errors are detected. Pharmaceutical, insurance, and sovereign-government users require a no-cost commercial licence at ", /*#__PURE__*/React.createElement("span", {
-    className: "mono"
-  }, "/licence"), " \u2014 this exists solely so we know who is downstream of our numbers."), /*#__PURE__*/React.createElement("p", {
+  }, /*#__PURE__*/React.createElement("p", null, "Data published under Creative Commons Attribution 4.0 International. Attribution requires: (i) credit to ", /*#__PURE__*/React.createElement("em", null, "The Hantavirus Observatory"), ", edited by Dr. Ian Helfrich, (ii) link to the source page, (iii) inclusion of the DOI on any chart or table derived directly from our reconciliation."), /*#__PURE__*/React.createElement("p", null, "The CC-BY-4.0 grant above is real and applies to anything Dr. Helfrich originated for this site (the design, the seeded data, the news-aggregation pipeline). It does not extend to data fetched from upstream sources \u2014 those remain governed by their own licences (CDC, BTS, GDELT, CIDRAP, Yahoo Finance terms each apply to their respective rows)."), /*#__PURE__*/React.createElement("p", {
     style: {
       fontStyle: 'italic',
       color: 'var(--ink-3)'
