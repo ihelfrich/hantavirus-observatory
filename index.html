@@ -7,16 +7,11 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-
-  <!-- React 18 production UMD -->
   <script src="https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js" crossorigin></script>
   <script src="https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin></script>
-
-  <!-- Visualisation libs -->
   <script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
-
   <style>
 /* ============================================================
    THE HANTAVIRUS OBSERVATORY
@@ -757,9 +752,7 @@ pre.code .c-com { color: #7C7560; font-style: italic; }
 </head>
 <body>
   <div id="root"></div>
-
-  <script>
-/* ============================================================
+  <script>/* ============================================================
    Seeded research-grade dataset.
    Based on real hantavirus epidemiology:
    - HPS (Sin Nombre, Andes virus): Americas, ~40% CFR
@@ -1114,10 +1107,8 @@ window.DATA = (function () {
     rng, rand, randi
   };
 })();
-
-  </script>
-  <script>
-/* ============================================================
+</script>
+  <script>/* ============================================================
    D3 Orthographic globe with case nodes, flight arcs, drag/rotate
    Renders to canvas for performance.
    ============================================================ */
@@ -1446,10 +1437,8 @@ window.Globe = (function () {
 
   return { createGlobe, loadWorld };
 })();
-
-  </script>
-  <script>
-/* ============================================================
+</script>
+  <script>/* ============================================================
    Globe3D — Three.js WebGL globe
    · Canvas-texture Earth (D3 equirectangular land fill)
    · Pulsing severity nodes
@@ -1862,10 +1851,8 @@ window.Globe3D = (function () {
 
   return { create: create, ll2v: ll2v };
 })();
-
-  </script>
-  <script>
-/* ============================================================
+</script>
+  <script>/* ============================================================
    LiveData — real API integrations
    · GDELT 2.0     — outbreak news (cached 30 min, rate-limited)
    · NCBI Eutils   — hantavirus genomic sequences
@@ -1908,35 +1895,30 @@ window.LiveData = (function () {
     } catch(e) { console.warn('GDELT fetch failed:', e.message); return _gdeltCache; }
   }
 
-  // ── RSS direct parse via corsproxy.io ─────────────────
-  // Replaces rss2json.com (which is now rate-limiting free tier).
-  async function fetchRSS(feedUrl, sourceName, maxItems) {
-    maxItems = maxItems || 15;
+  // ── Reddit JSON API (no proxy, no auth, CORS-friendly) ──
+  // RSS proxies all block corsproxy.io; Reddit's public API works from any origin.
+  async function redditSearch(query, subreddit, limit) {
+    limit = limit || 20;
+    var url = subreddit
+      ? 'https://www.reddit.com/r/' + subreddit + '/search.json?q=' + encodeURIComponent(query) + '&sort=new&restrict_sr=true&limit=' + limit + '&t=month'
+      : 'https://www.reddit.com/search.json?q=' + encodeURIComponent(query) + '&sort=new&limit=' + limit + '&t=month';
     try {
-      var r = await fetch(px(feedUrl), { cache: 'no-cache', signal: AbortSignal.timeout(10000) });
+      var r = await fetch(url, {
+        headers: { 'User-Agent': 'HantavirusObservatory/1.0' },
+        signal: AbortSignal.timeout(10000)
+      });
       if (!r.ok) throw new Error('HTTP ' + r.status);
-      var text = await r.text();
-      var doc = new DOMParser().parseFromString(text, 'text/xml');
-      var items = Array.from(doc.querySelectorAll('item'));
-      if (!items.length) items = Array.from(doc.querySelectorAll('entry')); // Atom
-      return items.slice(0, maxItems).map(function(item) {
-        var pd = item.querySelector('pubDate, published, updated');
-        var timeStr = '—';
-        try { if (pd) timeStr = new Date(pd.textContent).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'}); } catch(e) {}
-        var linkEl = item.querySelector('link');
-        var href = linkEl ? (linkEl.getAttribute('href') || linkEl.textContent || '').trim() : '';
-        return { time: timeStr, src: sourceName,
-                 head: (item.querySelector('title')?.textContent || '').trim(),
-                 url: href,
-                 loc: sourceName === 'WHO' ? 'Geneva' : sourceName === 'ECDC' ? 'Stockholm' : 'Global',
-                 tags: [sourceName], live: true };
+      var d = await r.json();
+      return (d.data.children || []).map(function(post) {
+        var p = post.data;
+        var date = new Date(p.created_utc * 1000);
+        var timeStr = date.toISOString().slice(11, 16);
+        var src = (p.domain || ('r/' + p.subreddit)).replace(/^self\..*/, 'r/' + p.subreddit);
+        return { time: timeStr, src: src, head: p.title, url: p.url,
+                 loc: '', lang: 'en', tags: ['r/' + p.subreddit], live: true };
       }).filter(function(i) { return i.head; });
-    } catch(e) { console.warn(sourceName + ' RSS failed:', e.message); return null; }
+    } catch(e) { console.warn('Reddit fetch failed (' + (subreddit || 'global') + '):', e.message); return null; }
   }
-
-  function whoRSS()   { return fetchRSS('https://www.who.int/feeds/entity/disease-outbreak-news/en/rss.xml', 'WHO', 20); }
-  function promedRSS(){ return fetchRSS('https://promedmail.org/promed-post-archive/feed/', 'ProMED', 15); }
-  function ecdcRSS()  { return fetchRSS('https://www.ecdc.europa.eu/en/news-events/epidemic-intelligence/rss', 'ECDC', 15); }
 
   // ── NCBI E-utilities ──────────────────────────────────
   async function ncbiSequences(n) {
@@ -2027,7 +2009,10 @@ window.LiveData = (function () {
   // ── Batch news fetcher ────────────────────────────────
   async function fetchAllNews() {
     var results = await Promise.allSettled([
-      gdeltNews('hantavirus', 20), whoRSS(), promedRSS(), ecdcRSS()
+      redditSearch('hantavirus outbreak OR cases OR virus', null, 25),
+      redditSearch('hantavirus', 'epidemiology', 20),
+      redditSearch('hantavirus', 'science', 15),
+      gdeltNews('hantavirus', 20),
     ]);
     var combined = [];
     results.forEach(function(r) {
@@ -2035,20 +2020,19 @@ window.LiveData = (function () {
     });
     var seen = new Set();
     combined = combined.filter(function(item) {
-      var key = (item.head || '').slice(0, 60);
+      var key = (item.url || item.head || '').slice(0, 80);
       if (seen.has(key)) return false;
       seen.add(key); return true;
     });
+    combined.sort(function(a, b) { return (b.time || '').localeCompare(a.time || ''); });
     return combined.length > 0 ? combined : null;
   }
 
   return { gdeltNews, ncbiSequences, openSkyFlights, yahooFinance,
-           cdcWastewater, btsBorderCrossings, whoRSS, promedRSS, ecdcRSS, fetchAllNews };
+           cdcWastewater, btsBorderCrossings, redditSearch, fetchAllNews };
 })();
-
-  </script>
-  <script>
-/* ============================================================
+</script>
+  <script>/* ============================================================
    LiveDataManager — orchestrates all real-data fetches,
    stores results in window.LIVE, and dispatches events so
    React components can update without a full re-render.
@@ -2132,10 +2116,8 @@ window.LIVE = {
     init();
   }
 })();
-
-  </script>
-  <script>
-/* === tweaks-panel.js === */
+</script>
+  <script>/* === tweaks-panel.js === */
 (function(){
 // tweaks-panel.jsx
 // Reusable Tweaks shell + form-control helpers.
@@ -8040,7 +8022,6 @@ if (document.readyState === 'loading') {
   boot();
 }
 })();
-
-  </script>
+</script>
 </body>
 </html>
