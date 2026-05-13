@@ -207,7 +207,17 @@ SOURCES = [
     ("CDC EID",             "https://wwwnc.cdc.gov/eid/rss/ahead-of-print.xml",                   "Atlanta"),
 ]
 
+def load_prev_news():
+    """Load previously-cached news.json (if any) so we can preserve GDELT
+    items when the current GDELT fetch is rate-limited."""
+    try:
+        with open("news.json") as f:
+            return json.load(f).get("items", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
 def main():
+    prev_items = load_prev_news()
     all_items = []
 
     for source_name, url, location in SOURCES:
@@ -220,7 +230,16 @@ def main():
 
     # GDELT — respect their 5s rate limit
     time.sleep(5)
-    all_items.extend(fetch_gdelt("hantavirus", 25))
+    gdelt_fresh = fetch_gdelt("hantavirus", 25)
+    if gdelt_fresh:
+        all_items.extend(gdelt_fresh)
+    else:
+        # GDELT was rate-limited — preserve previously-cached GDELT items so
+        # the hantavirus-specific headlines don't disappear from the SPA.
+        sources_now = {"CIDRAP", "OutbreakNewsToday", "CDC EID"}
+        carried = [i for i in prev_items if i.get("src") not in sources_now]
+        print(f"  [GDELT] using {len(carried)} carried items from previous cache")
+        all_items.extend(carried)
 
     # Deduplicate by URL (or head if no url)
     seen = set()

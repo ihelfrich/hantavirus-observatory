@@ -1,163 +1,13 @@
 {
-  "generated_at": "2026-05-13T06:20:03.163211+00:00",
+  "generated_at": "2026-05-13T06:07:53.014181+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "GDELT"
+    "GDELT",
+    "OutbreakNewsToday"
   ],
   "count": 52,
   "items": [
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "The Hindu",
-      "head": "health matters newsletter : Hantavirus Ahoy ! ",
-      "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-hantavirus-ahoy/article70968980.ece",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Euronews",
-      "head": "Hantavirus : Macron says situation is  under control  in France",
-      "url": "https://www.euronews.com/health/2026/05/13/hantavirus-macron-says-situation-is-under-control-in-france-and-calls-for-european-coordin",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KESQ",
-      "head": "He was on the trip of a lifetime . Now he in a biocontainment unit in Nebraska while hantavirus cases rise",
-      "url": "https://kesq.com/news/national-world/cnn-national/2026/05/12/he-was-on-the-trip-of-a-lifetime-now-hes-in-a-biocontainment-unit-in-nebraska-while-hantavirus-cases-rise/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Everydayhealth",
-      "head": "Is Hantavirus the Next COVID ? Experts Explain the Outbreak Risk",
-      "url": "https://www.everydayhealth.com/infectious-diseases/how-worried-should-you-be-about-hantavirus/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Perthnow",
-      "head": "Aussie passengers on deadly hantavirus cruise ship stuck in Netherlands as authorities struggle to find plane",
-      "url": "https://www.perthnow.com.au/wa/aussie-passengers-on-deadly-hantavirus-cruise-ship-stuck-in-netherlands-as-authorities-struggle-to-find-plane-c-22277158",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Reflector",
-      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
-      "url": "https://www.reflector.com/news/national/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/article_af09de94-c783-5e55-9918-1783e79c70f3.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Reflector",
-      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
-      "url": "https://www.reflector.com/news/national/french-hantavirus-patient-is-critically-ill-and-on-an-artificial-lung-as-outbreak-grows-to/article_28cb3839-eabd-52d4-b369-35f3ad53658d.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTBB",
-      "head": "French hantavirus patient is critically ill , on an artificial lung as total cases grow to 11 – KTBB News , Weather , Talk",
-      "url": "https://ktbb.com/post/?p=1506191",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wsbradio",
-      "head": "Ship passenger making best of quarantine after hantavirus outbreak",
-      "url": "https://www.wsbradio.com/news/health/cruise-ship/EVVU74PG5Q4DXDUI2RZL5MHYQQ/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rutlandherald",
-      "head": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
-      "url": "https://www.rutlandherald.com/news/world/french-hantavirus-patient-is-critically-ill-and-on-an-artificial-lung-as-outbreak-grows-to/article_359c2c02-3244-5039-9d65-e2b5fb6a63af.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
     {
       "time": "—",
       "date": "",
@@ -320,6 +170,141 @@
       "tags": [
         "English",
         "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesofindia",
+      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+      "url": "https://timesofindia.indiatimes.com/world/us/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/articleshow/131054704.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CHCH",
+      "head": "Ontario monitoring 7 additional people considered  low risk  hantavirus contacts",
+      "url": "https://www.chch.com/chch-news/ontario-monitoring-7-additional-people-considered-low-risk-hantavirus-contacts/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Koreaherald",
+      "head": "French hantavirus patient is critically ill",
+      "url": "https://www.koreaherald.com/article/10737065",
+      "loc": "South Korea",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Korea"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KOB",
+      "head": "Cruise ship passenger making best of quarantine in US following hantavirus outbreak",
+      "url": "https://www.kob.com/ap-top-news/cruise-ship-passenger-making-best-of-quarantine-in-us-following-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Townhall",
+      "head": "The Hantavirus Cruise : A Ship of Fools",
+      "url": "https://townhall.com/columnists/betsymccaughey/2026/05/13/the-hantavirus-cruise-a-ship-of-fools-n2675990",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wgauradio",
+      "head": "Hantavirus outbreak from cruise ship reaches 11 cases , WHO says",
+      "url": "https://www.wgauradio.com/news/world/spain-reports-new/OQEPWNNQ2IZOPMMGYLX2NRWXFU/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KATU",
+      "head": "3 King County residents possibly exposed to hantavirus linked to infected cruise ship",
+      "url": "https://katu.com/news/local/3-king-county-residents-possibly-exposed-to-hantavirus-on-infected-cruise-ship-infection-monitoring-rats-symptoms-infection-pandemic-safety-exposure-rats-rodents-covid",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesofindia",
+      "head": "Hantavirus : Hantavirus outbreak : French woman critically ill , placed on artificial lung support",
+      "url": "https://timesofindia.indiatimes.com/world/europe/hantavirus-outbreak-french-woman-critically-ill-placed-on-artificial-lung-support/articleshow/131053179.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Htsstlucia",
+      "head": "HEALTH MINISTER JN BAPTISTE CALMS HANTAVIRUS FEARS – HTS News 4orce",
+      "url": "https://www.htsstlucia.org/health-minister-jn-baptiste-calms-hantavirus-fears/",
+      "loc": "Saint Lucia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Saint Lucia"
       ],
       "live": true
     },
@@ -705,21 +690,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KHQA",
-      "head": "AP News Summary at 12 : 21 a . m . EDT",
-      "url": "https://www.khqa.com/news/nation-world/ap-news-summary-at-12-21-a-m-edt/article_d1acf8cb-d6e1-5e41-bd73-34350e4fe63a.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "Averyjournal",
       "head": "AP News in Brief at 11 : 04 p . m . EDT",
       "url": "https://www.averyjournal.com/ap/national/ap-news-in-brief-at-11-04-p-m-edt/article_78590fa4-1cf0-5da0-a3b2-18a6b0a27e82.html",
@@ -758,6 +728,36 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newtalk",
+      "head": "轉傳漢他病毒假消息 ！ 北市婦加註 「 綠營鼠患說 」 調查局依法送辦 | 社會",
+      "url": "https://newtalk.tw/news/view/2026-05-13/1034843",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cedarnews",
+      "head": "بودكاست | فيروس هانتا : ماذا نعرف عنه",
+      "url": "https://cedarnews.net/923700/%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B9%D8%B1%D9%81-%D8%B9%D9%86%D9%87/",
+      "loc": "Lebanon",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Lebanon"
       ],
       "live": true
     }
