@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-13T23:05:16.926120+00:00",
+  "generated_at": "2026-05-14T01:25:33.506860+00:00",
   "sources": [
+    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
-    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Sitkasentinel",
+      "src": "Standardspeaker",
       "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-      "url": "http://www.sitkasentinel.com/stories/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit,140986",
+      "url": "https://www.standardspeaker.com/2026/05/13/hantavirus-ship-doctor/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,24 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/13/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Womenshealthmag",
-      "head": "All the Similarities and Differences Between Hantavirus and COVID - 19 , per Experts",
-      "url": "https://www.womenshealthmag.com/health/a71284152/hantavirus-vs-covid-similarities-differences/",
+      "src": "Heraldnet",
+      "head": "SnoCo health officials : Hantavirus risk  extremely low  to general public",
+      "url": "https://www.heraldnet.com/2026/05/13/snoco-health-officials-hantavirus-risk-extremely-low-to-general-public/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,149 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Kashmirreader",
-      "head": "Hantavirus Is A Wake - Up Call , Not A Global Crisis",
-      "url": "https://kashmirreader.com/2026/05/14/hantavirus-is-a-wake-up-call-not-a-global-crisis/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thewhig",
-      "head": "Hantavirus – Should You be Worried ? | The Kingston Whig Standard",
-      "url": "https://www.thewhig.com/opinion/columnists/hantavirus-should-you-be-worried",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox13Now",
-      "head": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
-      "url": "https://www.fox13now.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
+      "src": "KWCH",
+      "head": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital",
+      "url": "https://www.kwch.com/2026/05/13/three-kansans-possibly-exposed-hantavirus-under-observation-ku-hospital/",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Countyweeklynews",
-      "head": "Hantavirus – Should You be Worried ? | The County Weekly News",
-      "url": "https://www.countyweeklynews.ca:443/opinion/columnists/hantavirus-should-you-be-worried",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ATV",
-      "head": "Rusvai Miklós virológus megszólalt a hantavírusról",
-      "url": "https://www.atv.hu/belfold/20260513/rusvai-miklos-hantavirus/",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Recorder",
-      "head": "Hantavirus – Should You be Worried ? | Brockville Recorder & Times",
-      "url": "https://www.recorder.ca:443/opinion/columnists/hantavirus-should-you-be-worried",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Novinite",
-      "head": "How Dangerous Is the Hantavirus in Bulgaria and What Do Experts Reveal About Its History ? - Novinite . com",
-      "url": "https://www.novinite.com/view_news.php?id=238488",
-      "loc": "Bulgaria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Correio",
-      "head": "Hantavírus : OMS afirma que não há indícios de surto maior após casos em navio",
-      "url": "https://correio.rac.com.br/mundo/hantavirus-oms-afirma-que-n-o-ha-indicios-de-surto-maior-apos-casos-em-navio-1.1806036",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Napaneeguide",
-      "head": "Hantavirus – Should You be Worried ? | The Napanee Guide",
-      "url": "https://www.napaneeguide.com:443/opinion/columnists/hantavirus-should-you-be-worried",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Latercera",
-      "head": "Un crucero , un virus y el miedo : por qué el brote de hantavirus generó alerta internacional",
-      "url": "https://www.latercera.com/lt-board/noticia/un-crucero-un-virus-y-el-miedo-por-que-el-brote-de-hantavirus-genero-alerta-internacional/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
       ],
       "live": true
     },
@@ -208,8 +58,8 @@
       "date": "",
       "ts": "",
       "src": "EM",
-      "head": "Centro argentino que pesquisa hantavírus sofre com últimos cortes orçamentários de Milei",
-      "url": "http://www.em.com.br/internacional/2026/05/7419101-centro-argentino-que-pesquisa-hantavirus-sofre-com-ultimos-cortes-orcamentarios-de-milei.html",
+      "head": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
+      "url": "http://www.em.com.br/internacional/2026/05/7419200-oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.html",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -222,9 +72,189 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Scientificamerican",
-      "head": "Can hantavirus spread through the air ? What we do and dont know",
-      "url": "https://www.scientificamerican.com/article/can-hantavirus-spread-through-the-air-what-we-do-and-dont-know/",
+      "src": "Kelownacapnews",
+      "head": "Dont  mouse  around with spring cleaning , Interior Health warning on hantavirus",
+      "url": "https://kelownacapnews.com/2026/05/13/dont-mouse-around-with-spring-cleaning-interior-health-warning-on-hantavirus/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Winnipegfreepress",
+      "head": "What we know about hantavirus now that people linked to outbreak are back in Canada – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/canada/2026/05/13/what-we-know-about-hantavirus-now-that-people-linked-to-outbreak-are-back-in-canada",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsday",
+      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
+      "url": "https://www.newsday.com/news/nation/hantavirus-hondius-cruise-ship-doctor-nebraska-isolation-e32585",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KEYW",
+      "head": "2 Exposed to Hantavirus Are Self - Quarantining in Washington",
+      "url": "https://keyw.com/ixp/134/p/king-county-hantavirus-exposure/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "News4Jax",
+      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
+      "url": "https://www.news4jax.com/news/national/2026/05/13/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Oglobo",
+      "head": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/05/13/oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.ghtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "10News",
+      "head": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
+      "url": "https://www.10news.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KITV",
+      "head": "Company says it not clear when its hantavirus - hit ship will start cruises again | Business",
+      "url": "https://www.kitv.com/news/business/company-says-it-s-not-clear-when-its-hantavirus-hit-ship-will-start-cruises-again/article_f4479749-30f7-5c4a-a908-ecaf8c5c4495.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Stcatharinesstandard",
+      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
+      "url": "https://www.stcatharinesstandard.ca/life/health-wellness/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/article_81540650-775b-5d93-9ddb-f2f260a1a703.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGMD",
+      "head": "Maryland Health Officials Address Concerns About Hantavirus",
+      "url": "https://www.wgmd.com/maryland-health-officials-address-concerns-about-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KETV",
+      "head": "Hantavirus outbreak : Patient in isolation being monitored",
+      "url": "https://www.ketv.com/article/hantavirus-outbreak-patient-omaha-isolation/71298453",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox5Atlanta",
+      "head": "Emory University Hospital monitors Georgia residents for hantavirus",
+      "url": "https://www.fox5atlanta.com/news/emory-university-hospital-monitors-georgia-residents-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KJRH",
+      "head": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
+      "url": "https://www.kjrh.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -629,14 +659,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thestar",
-      "head": "Glove sector outlook steady but growth limited",
-      "url": "https://www.thestar.com.my/business/business-news/2026/05/14/glove-sector-outlook-steady-but-growth-limited",
-      "loc": "Malaysia",
+      "src": "Bnonews",
+      "head": "Norovirus confirmed on cruise ship in France after up to 50 fall ill",
+      "url": "https://bnonews.com/index.php/2026/05/norovirus-confirmed-on-cruise-ship-in-france-after-up-to-50-fall-ill/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Malaysia"
+        "United States"
       ],
       "live": true
     },
@@ -644,14 +674,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "RNZ",
-      "head": "1700 passengers held on cruise ship over potential acute stomach bug sickness",
-      "url": "https://www.rnz.co.nz/news/world/595128/1700-passengers-held-on-cruise-ship-over-potential-acute-stomach-bug-sickness",
-      "loc": "",
-      "lang": "English",
+      "src": "BLOG",
+      "head": "講述兩則老鼠的案例 - 夏老師的部落格 - udn部落格",
+      "url": "https://blog.udn.com:443/chhsia1113/188562709",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "English",
-        ""
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -659,9 +689,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "ODIA",
-      "head": "França coloca navio com 1 , 7 mil pessoas a bordo em quarentena após morte de passageiro | Mundo e Ciência",
-      "url": "https://odia.ig.com.br/mundo-e-ciencia/2026/05/7250263-franca-coloca-navio-com-17-mil-pessoas-a-bordo-em-quarentena-apos-morte-de-passageiro.html",
+      "src": "Foxnews",
+      "head": "Connecticut confirms first clade I mpox case linked to travel in Europe",
+      "url": "https://www.foxnews.com/health/first-clade-mpox-case-confirmed-connecticut-patient-traveled-western-europe",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elaph",
+      "head": "بين التهويل والتشكيك : كيف تفاعل العرب على مواقع التواصل مع أخبار فيروس هانتا ؟ ",
+      "url": "https://elaph.com/Web/News/2026/05/1596399.html",
+      "loc": "Syria",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Syria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Skynews",
+      "head": "Aussies stranded in Netherlands after deadly cruise ship evacuation",
+      "url": "https://www.skynews.com.au/breaking-news/australians-evacuated-from-hantavirus-cruise-ship-stranded-in-netherlands-amid-flight-refuelling-delays/news-story/4ca8561332fa1f419f508a6d670203ff?nk=e9f014d11d18fe559b4644f5188dbfd1-1778717827",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Redetv",
+      "head": "RedeTV ! Em rede com você",
+      "url": "https://www.redetv.uol.com.br/jornalismo/da-para-acreditar/influenciadora-toca-em-roedor-no-marco-zero-do-hantavirus-e-gera-alerta",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -674,14 +749,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Torontosun",
-      "head": "Passengers barred from leaving ship after gastro outbreak",
-      "url": "https://torontosun.com/news/world/passengers-barred-from-leaving-cruise-ship",
-      "loc": "Canada",
-      "lang": "English",
+      "src": "Vetogate",
+      "head": "فيروس هانتا ، كيف تتحول الحمى البسيطة إلى فشل تنفسي قاتل خلال أيام ؟ ",
+      "url": "https://www.vetogate.com/5654846",
+      "loc": "Egypt",
+      "lang": "Arabic",
       "tags": [
-        "English",
-        "Canada"
+        "Arabic",
+        "Egypt"
       ],
       "live": true
     },
@@ -689,84 +764,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Correio",
-      "head": "França coloca navio com 1 , 7 mil pessoas a bordo em quarentena após morte de passageiro",
-      "url": "https://correio.rac.com.br/mundo/franca-coloca-navio-com-1-7-mil-pessoas-a-bordo-em-quarentena-apos-morte-de-passageiro-1.1805872",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sandiegouniontribune",
-      "head": "France confines more than 1 , 700 on British cruise ship in Bordeaux after gastroenteritis outbreak",
-      "url": "https://www.sandiegouniontribune.com/2026/05/13/france-cruise-ship/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hngnews",
-      "head": "AP News Summary at 5 : 35 p . m . EDT",
-      "url": "https://www.hngnews.com/nation_world/ap-news-summary-at-5-35-p-m-edt/article_7dfe3337-5079-5d60-9896-a45f91dc1e65.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Independenttribune",
-      "head": "Photos : Plane carrying passengers of the cruise ship MV Hondius arrives in Omaha",
-      "url": "https://independenttribune.com/news/local/business/health-care/collection_100e5629-8ba4-5a27-96f6-5efe9755f089.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fortmorgantimes",
-      "head": "France confines more than 1 , 700 on British cruise ship in Bordeaux after gastroenteritis outbreak",
-      "url": "https://www.fortmorgantimes.com/2026/05/13/france-cruise-ship/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailylocal",
-      "head": "France confines more than 1 , 700 on British cruise ship in Bordeaux after gastroenteritis outbreak",
-      "url": "https://www.dailylocal.com/2026/05/13/france-cruise-ship/",
+      "src": "Scvnews",
+      "head": "SCVNews . com | WalletHub : Santa Clarita Ranks First among the Cities with the Largest Debt Decreases",
+      "url": "https://scvnews.com/wallethub-santa-clarita-ranks-first-among-the-cities-with-the-largest-debt-decreases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
