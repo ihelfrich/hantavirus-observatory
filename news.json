@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T20:52:55.557424+00:00",
+  "generated_at": "2026-05-14T22:11:04.762562+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -12,14 +12,149 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KNOE",
-      "head": "Doctor on ship who helped care for passengers with hantavirus cleared to leave biocontainment unit isolation",
-      "url": "https://www.knoe.com/2026/05/14/doctor-ship-who-helped-care-passengers-with-hantavirus-cleared-leave-biocontainment-unit-isolation/",
+      "src": "WTSP",
+      "head": "CDC says hantavirus risk still low as it monitors exposed passengers : What to know",
+      "url": "https://www.wtsp.com/article/news/nation-world/hantavirus-outbreak-what-americans-need-to-know/507-7c427aea-22d7-4bb3-bc7a-d18c9173513c",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Castanetkamloops",
+      "head": "Interior Health offers advice on how to avoid hantavirus",
+      "url": "https://www.castanetkamloops.net/news/Kelowna/614410/Interior-Health-offers-advice-on-how-to-avoid-hantavirus",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "1073Theeagle",
+      "head": "Three in Kansas under observation for hantavirus",
+      "url": "https://www.1073theeagle.com/news/trending/hantavirus-outbreak-three-people-kansas-exposed-virus/4XBN6P3D5FARREQPZ3IF7ELPZQ/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wired",
+      "head": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+      "url": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "G1",
+      "head": "CDC diz que 41 pessoas estão sendo monitoradas para hantavírus nos EUA",
+      "url": "https://g1.globo.com/saude/noticia/2026/05/14/cdc-diz-que-41-pessoas-estao-sendo-monitoradas-para-hantavirus-nos-eua.ghtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Expresso",
+      "head": "Missão científica investiga hantavírus em Ushuaia",
+      "url": "https://expresso.pt/sociedade/saude/2026-05-14-missao-cientifica-investiga-hantavirus-em-ushuaia-e3e5dd1a",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cheknews",
+      "head": "Top doctor explains why number of  low risk  hantavirus contacts in Canada has grown to 26",
+      "url": "https://cheknews.ca/26-low-risk-air-passengers-being-contacted-about-hantavirus-canadas-top-doctor-1324433/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "Hantavirus outbreak grows to 11 cases",
+      "url": "https://www.yahoo.com/news/articles/hantavirus-outbreak-grows-11-cases-170525528.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KCBY",
+      "head": "Oregon doctor who helped take care of passengers with hantavirus is isolated in med . unit",
+      "url": "https://kcby.com/news/local/oregon-doctor-stephen-kornfeld-bend-who-helped-take-care-of-mv-hondius-passengers-with-hantavirus-is-isolated-national-quarantine-unit-university-of-nebraska-medical-center-in-omaha",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cyprus-Mail",
+      "head": "CDC says no hantavirus cases in US , 41 people being monitored",
+      "url": "https://cyprus-mail.com/2026/05/14/cdc-says-no-hantavirus-cases-in-us-41-people-being-monitored",
+      "loc": "Cyprus",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Cyprus"
       ],
       "live": true
     },
@@ -102,6 +237,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "KNOE",
+      "head": "Doctor on ship who helped care for passengers with hantavirus cleared to leave biocontainment unit isolation",
+      "url": "https://www.knoe.com/2026/05/14/doctor-ship-who-helped-care-passengers-with-hantavirus-cleared-leave-biocontainment-unit-isolation/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Progresso",
       "head": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
       "url": "https://progresso.com.br/index.php/2026/05/14/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
@@ -170,156 +320,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newhavenindependent",
-      "head": "Expert : Hantavirus Not A Covid Rerun - New Haven Independent",
-      "url": "https://www.newhavenindependent.org/2026/05/14/expert-hantavirus-not-a-covid-rerun/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thefrontierpost",
-      "head": "France and Netherlands say all hantavirus contact cases negative",
-      "url": "https://thefrontierpost.com/france-and-netherlands-say-all-hantavirus-contact-cases-negative/",
-      "loc": "Pakistan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Pakistan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Marketscreener",
-      "head": "CDC says no hantavirus cases in US , 41 people being monitored",
-      "url": "https://www.marketscreener.com/news/cdc-says-no-hantavirus-cases-in-us-41-people-being-monitored-ce7f5bddd08bf120",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Noticias",
-      "head": "Britânico quebra quarentena de hantavírus e é encontrado em bar na Itália",
-      "url": "https://noticias.r7.com/internacional/britanico-quebra-quarentena-de-hantavirus-e-e-encontrado-em-bar-na-italia-14052026/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGNA",
-      "head": "New Yorker Reveals Secret Health Battle In Hantavirus Quarantine",
-      "url": "https://wgna.com/ixp/854/p/new-yorker-health-battle-in-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Columbian",
-      "head": "Oregon doctor on ship who helped care for passengers with hantavirus leaves medical isolation unit",
-      "url": "https://www.columbian.com/news/2026/may/14/oregon-doctor-on-ship-who-helped-care-for-passengers-with-hantavirus-leaves-medical-isolation-unit/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medicinehatnews",
-      "head": "Top doctor explains why number of  low risk  hantavirus contacts in Canada has grown to 26",
-      "url": "https://medicinehatnews.com/news/national-news/2026/05/14/top-doctor-explains-why-number-of-low-risk-hantavirus-contacts-in-canada-has-grown-to-26/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Konhaber",
-      "head": "Bakan Memişoğlu açıkladı : Türkiyede hantavirüs riski var mı ? ",
-      "url": "https://www.konhaber.com/guncel/bakan_memisoglu_acikladi_turkiye_de_hantavirus_riski_var_mi-1999520h",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newstalk1130",
-      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
-      "url": "https://newstalk1130.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kelownadailycourier",
-      "head": "Top doctor explains why number of  low risk  hantavirus contacts in Canada has grown to 26",
-      "url": "https://www.kelownadailycourier.ca/news/national_news/article_f9651934-0f3b-587b-8184-b69458869ed1.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
       ],
       "live": true
     },
@@ -719,24 +719,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dostor",
-      "head": "أسامة كمال : سفينة فيروس هانتا تغادر جزر الكناري وتتجه لهولندا",
-      "url": "https://www.dostor.org/5555374",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yahoo",
-      "head": "France forces passengers to stay on cruise ship during illness outbreak",
-      "url": "https://www.yahoo.com/news/articles/france-forces-passengers-stay-cruise-145731127.html",
+      "src": "WMNF",
+      "head": "Cruise ship outbreaks raise questions about travel safety and public health oversight",
+      "url": "https://www.wmnf.org/cruise-ship-outbreaks-safety-health-risks/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -749,14 +734,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Taipeitimes",
-      "head": "A world health deal is trapped in limbo",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/05/15/2003857352",
-      "loc": "Taiwan",
+      "src": "Healio",
+      "head": "Inside the unit where US passengers are quarantined",
+      "url": "https://www.healio.com/news/infectious-disease/20260514/inside-the-unit-where-us-passengers-are-quarantined",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Taiwan"
+        "United States"
       ],
       "live": true
     },
@@ -764,14 +749,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "RIA",
-      "head": "В США более 40 человек находятся под наблюдением из - за угрозы хантавируса",
-      "url": "https://ria.ru/20260514/usa-2092549051.html",
+      "src": "Arabic",
+      "head": "آلية خفية قد تنشر الأمراض بين الشقق السكنية",
+      "url": "https://arabic.rt.com/technology/1788992-%D8%A2%D9%84%D9%8A%D8%A9-%D8%AE%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D9%82%D9%82-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A%D8%A9/",
       "loc": "Russia",
-      "lang": "Russian",
+      "lang": "Arabic",
       "tags": [
-        "Russian",
+        "Arabic",
         "Russia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dostor",
+      "head": "أسامة كمال : سفينة فيروس هانتا تغادر جزر الكناري وتتجه لهولندا",
+      "url": "https://www.dostor.org/5555374",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
       ],
       "live": true
     }
