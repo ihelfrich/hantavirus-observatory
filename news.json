@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T05:07:10.489831+00:00",
+  "generated_at": "2026-05-14T08:08:19.880614+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 53,
@@ -12,9 +12,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Standardspeaker",
+      "src": "Azfamily",
+      "head": "2nd Arizonan linked to ship with hantavirus outbreak getting evaluated in Nebraska",
+      "url": "https://www.azfamily.com/2026/05/14/2nd-arizonan-linked-ship-with-hantavirus-outbreak-getting-evaluated-nebraska/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Index",
+      "head": "Index - Külföld - Szlávik János szerint elképzelhető , hogy a következő hetekben további hantavírusos esetek is megjelennek",
+      "url": "https://index.hu/kulfold/2026/05/14/hantavirus-infektologus-szlavik-janos-nyaralas-virus-fertozes-karanten-covid/",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Walesonline",
+      "head": "Public Health Wales confirms hantavirus outbreak involvement",
+      "url": "https://www.walesonline.co.uk/news/health/public-health-wales-confirms-hantavirus-33943232",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KGW",
       "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-      "url": "https://www.standardspeaker.com/2026/05/13/hantavirus-ship-doctor/",
+      "url": "https://www.kgw.com/article/news/nation-world/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/616-15248e89-4602-4bcd-be38-929e3fa3ce68",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +72,114 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Heraldnet",
-      "head": "SnoCo health officials : Hantavirus risk  extremely low  to general public",
-      "url": "https://www.heraldnet.com/2026/05/13/snoco-health-officials-hantavirus-risk-extremely-low-to-general-public/",
+      "src": "Kibrispostasi",
+      "head": "DSÖ : Hantavirüsün küresel nüfus için riski düşük devam ediyor",
+      "url": "https://www.kibrispostasi.com/c77-SAGLIK/n601888-dso-hantavirusun-kuresel-nufus-icin-riski-dusuk-devam-ediyor",
+      "loc": "Cyprus",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Cyprus"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Economic Times",
+      "head": "How  Noroviru has trapped cruise passengers onboard just like Hantavirus",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/how-norovirus-has-trapped-cruise-passengers-onboard-just-like-hantavirus/articleshow/131082753.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Penzcentrum",
+      "head": "Hantavírus - járvány : megszólalt Szlávik János , kell - e tartani tömeges megbetegedésektől Európában",
+      "url": "https://www.penzcentrum.hu/egeszseg/20260514/hantavirus-jarvany-megszolalt-szlavik-janos-kell-e-tartani-tomeges-megbetegedesektol-europaban-1198629",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Straitstimes",
+      "head": "Hantavirus risk to US public remains low , says national health agency",
+      "url": "https://www.straitstimes.com/world/united-states/hantavirus-risk-to-us-public-remains-low-says-national-health-agency",
+      "loc": "Singapore",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Singapore"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newstalkzb",
+      "head": "Second Kiwi isolating overseas after cruise ship hantavirus exposure",
+      "url": "https://www.newstalkzb.co.nz/news/national/second-kiwi-isolating-overseas-after-cruise-ship-hantavirus-exposure/",
+      "loc": "New Zealand",
+      "lang": "English",
+      "tags": [
+        "English",
+        "New Zealand"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sabah",
+      "head": "Hantavirüs için onaylı aşı yok",
+      "url": "https://www.sabah.com.tr/yasam/hantavirus-icin-onayli-asi-yok-7582768",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Irishnews",
+      "head": "Leona ONeill : Hantavirus is not Covid , but try telling our brains that – The Irish News",
+      "url": "https://www.irishnews.com/opinion/leona-oneill-hantavirus-is-not-covid-but-try-telling-our-brains-that-2JETOPNGW5CHDDRV35BCWZIJYQ/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WAPT",
+      "head": "Map : States monitoring possible hantavirus exposure",
+      "url": "https://www.wapt.com/article/states-monitoring-hantavirus-exposure-map/71297738",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,9 +192,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KWCH",
-      "head": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital",
-      "url": "https://www.kwch.com/2026/05/13/three-kansans-possibly-exposed-hantavirus-under-observation-ku-hospital/",
+      "src": "Timesofindia",
+      "head": "Hantavirus : After hantavirus , now norovirus ? How a gut bug forced a France cruise ship into lockdown",
+      "url": "https://timesofindia.indiatimes.com/world/europe/after-hantavirus-now-norovirus-how-a-gut-bug-forced-a-france-cruise-ship-into-lockdown/articleshow/131082098.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Freemalaysiatoday",
+      "head": "Six hantavirus cruise passengers head to Australia",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/05/14/six-hantavirus-cruise-passengers-head-to-australia",
+      "loc": "Malaysia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Malaysia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Southernhighlandnews",
+      "head": "Hantavirus cruise evacuees secure flight to Australia",
+      "url": "https://www.southernhighlandnews.com.au/story/9246639/hantavirus-cruise-evacuees-secure-flight-to-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTAE",
+      "head": "Map : States monitoring possible hantavirus exposure",
+      "url": "https://www.wtae.com/article/states-monitoring-hantavirus-exposure-map/71297738",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,54 +252,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EM",
-      "head": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
-      "url": "http://www.em.com.br/internacional/2026/05/7419200-oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.html",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kelownacapnews",
-      "head": "Dont  mouse  around with spring cleaning , Interior Health warning on hantavirus",
-      "url": "https://kelownacapnews.com/2026/05/13/dont-mouse-around-with-spring-cleaning-interior-health-warning-on-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "What we know about hantavirus now that people linked to outbreak are back in Canada – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/canada/2026/05/13/what-we-know-about-hantavirus-now-that-people-linked-to-outbreak-are-back-in-canada",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsday",
-      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-      "url": "https://www.newsday.com/news/nation/hantavirus-hondius-cruise-ship-doctor-nebraska-isolation-e32585",
+      "src": "Vindy",
+      "head": "Company says it not clear when its hantavirus - hit ship will resume cruises | News , Sports , Jobs",
+      "url": "https://www.vindy.com/news/national-news/2026/05/company-says-its-not-clear-when-its-hantavirus-hit-ship-will-resume-cruises/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,14 +267,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KEYW",
-      "head": "2 Exposed to Hantavirus Are Self - Quarantining in Washington",
-      "url": "https://keyw.com/ixp/134/p/king-county-hantavirus-exposure/",
-      "loc": "United States",
+      "src": "Hardenexpress",
+      "head": "Hantavirus cruise evacuees secure flight to Australia",
+      "url": "https://www.hardenexpress.com.au/story/9246639/hantavirus-cruise-evacuees-secure-flight-to-australia/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -132,14 +282,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "News4Jax",
-      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-      "url": "https://www.news4jax.com/news/national/2026/05/13/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/",
-      "loc": "United States",
+      "src": "SBS",
+      "head": "Update in mission to return Australians who were on hantavirus - hit ship",
+      "url": "https://www.sbs.com.au/news/article/australians-hantavirus-ship-return-update/p1gfz7gnd",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -147,114 +297,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Oglobo",
-      "head": "OMS confirma que oito casos do surto de hantavírus são da cepa Andes",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/05/13/oms-confirma-que-oito-casos-do-surto-de-hantavirus-sao-da-cepa-andes.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "10News",
-      "head": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
-      "url": "https://www.10news.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KITV",
-      "head": "Company says it not clear when its hantavirus - hit ship will start cruises again | Business",
-      "url": "https://www.kitv.com/news/business/company-says-it-s-not-clear-when-its-hantavirus-hit-ship-will-start-cruises-again/article_f4479749-30f7-5c4a-a908-ecaf8c5c4495.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Stcatharinesstandard",
-      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-      "url": "https://www.stcatharinesstandard.ca/life/health-wellness/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/article_81540650-775b-5d93-9ddb-f2f260a1a703.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGMD",
-      "head": "Maryland Health Officials Address Concerns About Hantavirus",
-      "url": "https://www.wgmd.com/maryland-health-officials-address-concerns-about-hantavirus/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KETV",
-      "head": "Hantavirus outbreak : Patient in isolation being monitored",
-      "url": "https://www.ketv.com/article/hantavirus-outbreak-patient-omaha-isolation/71298453",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox5Atlanta",
-      "head": "Emory University Hospital monitors Georgia residents for hantavirus",
-      "url": "https://www.fox5atlanta.com/news/emory-university-hospital-monitors-georgia-residents-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KJRH",
-      "head": "Researchers work to develop hantavirus vaccine as outbreak raises global alarm",
-      "url": "https://www.kjrh.com/health/researchers-work-to-develop-hantavirus-vaccine-as-cruise-ship-outbreak-raises-global-alarm",
+      "src": "Politicaldog101",
+      "head": "CDC wont require Hantavirus boat people quarantine …. ",
+      "url": "https://politicaldog101.com/2026/05/cdc-wont-require-hantavirus-boat-people-quarantine/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -659,9 +704,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bnonews",
-      "head": "Norovirus confirmed on cruise ship in France after up to 50 fall ill",
-      "url": "https://bnonews.com/index.php/2026/05/norovirus-confirmed-on-cruise-ship-in-france-after-up-to-50-fall-ill/",
+      "src": "Dailymail",
+      "head": "  Someone was sick in front of me ... another threw up on the deck : Passengers describe grim scenes on board norovirus - hit cruise ship packed with Brits as it remains stranded off Bordeaux",
+      "url": "https://www.dailymail.com/news/article-15816983/Someone-sick-threw-deck-Passengers-grim-scenes-board-norovirus-hit-cruise-ship-packed-Brits-remains-stranded-Bordeaux.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -674,14 +719,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "BLOG",
-      "head": "講述兩則老鼠的案例 - 夏老師的部落格 - udn部落格",
-      "url": "https://blog.udn.com:443/chhsia1113/188562709",
-      "loc": "Taiwan",
-      "lang": "Chinese",
+      "src": "Hürriyet",
+      "head": "Pavyoncu amcalardan sonra TikTokçu amcalar",
+      "url": "https://www.hurriyet.com.tr/yazarlar/savas-ozbey/pavyoncu-amcalardan-sonra-tiktokcu-amcalar-43173049",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "Chinese",
-        "Taiwan"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -689,9 +734,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Foxnews",
-      "head": "Connecticut confirms first clade I mpox case linked to travel in Europe",
-      "url": "https://www.foxnews.com/health/first-clade-mpox-case-confirmed-connecticut-patient-traveled-western-europe",
+      "src": "KTVO",
+      "head": "AP News Summary at 12 : 01 a . m . EDT",
+      "url": "https://www.ktvo.com/news/nation-world/ap-news-summary-at-12-01-a-m-edt/article_65f062db-ce68-5135-821c-ebfac4c0ed85.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -704,14 +749,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Elaph",
-      "head": "بين التهويل والتشكيك : كيف تفاعل العرب على مواقع التواصل مع أخبار فيروس هانتا ؟ ",
-      "url": "https://elaph.com/Web/News/2026/05/1596399.html",
-      "loc": "Syria",
-      "lang": "Arabic",
+      "src": "Novini",
+      "head": "Доц . Пишмишева : Хантавирусите се срещат и у нас и могат да протекат тежко",
+      "url": "https://novini.bg/article/2026051405092572513",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "Arabic",
-        "Syria"
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     },
@@ -719,54 +764,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Skynews",
-      "head": "Aussies stranded in Netherlands after deadly cruise ship evacuation",
-      "url": "https://www.skynews.com.au/breaking-news/australians-evacuated-from-hantavirus-cruise-ship-stranded-in-netherlands-amid-flight-refuelling-delays/news-story/4ca8561332fa1f419f508a6d670203ff?nk=e9f014d11d18fe559b4644f5188dbfd1-1778717827",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Redetv",
-      "head": "RedeTV ! Em rede com você",
-      "url": "https://www.redetv.uol.com.br/jornalismo/da-para-acreditar/influenciadora-toca-em-roedor-no-marco-zero-do-hantavirus-e-gera-alerta",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vetogate",
-      "head": "فيروس هانتا ، كيف تتحول الحمى البسيطة إلى فشل تنفسي قاتل خلال أيام ؟ ",
-      "url": "https://www.vetogate.com/5654846",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Scvnews",
-      "head": "SCVNews . com | WalletHub : Santa Clarita Ranks First among the Cities with the Largest Debt Decreases",
-      "url": "https://scvnews.com/wallethub-santa-clarita-ranks-first-among-the-cities-with-the-largest-debt-decreases/",
+      "src": "Dailykos",
+      "head": "Overnight News Digest : May 13 , 2026",
+      "url": "https://www.dailykos.com/stories/2026/5/13/800038539/community/overnight-news-digest-may-13-2026/",
       "loc": "United States",
       "lang": "English",
       "tags": [
