@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T15:05:51.345249+00:00",
+  "generated_at": "2026-05-14T17:19:38.460674+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Azfamily",
-      "head": "2nd Arizonan linked to ship with hantavirus outbreak getting evaluated in Nebraska",
-      "url": "https://www.azfamily.com/2026/05/14/2nd-arizonan-linked-ship-with-hantavirus-outbreak-getting-evaluated-nebraska/",
+      "src": "Themarysue",
+      "head": "Woman Vows To Sue Hantavirus Patients Who Leave Quarantine",
+      "url": "https://www.themarysue.com/hantavirus-cruise-ship/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,14 +27,134 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Index",
-      "head": "Index - Külföld - Szlávik János szerint elképzelhető , hogy a következő hetekben további hantavírusos esetek is megjelennek",
-      "url": "https://index.hu/kulfold/2026/05/14/hantavirus-infektologus-szlavik-janos-nyaralas-virus-fertozes-karanten-covid/",
-      "loc": "Hungary",
-      "lang": "Hungarian",
+      "src": "Neurologyadvisor",
+      "head": "US Monitors For Hantavirus As WHO Expects More Cases But  Not Another COVID  ",
+      "url": "https://www.neurologyadvisor.com/news/us-monitors-for-hantavirus-as-who-expects-more-cases-but-not-another-covid/",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Hungarian",
-        "Hungary"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsradio710",
+      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
+      "url": "https://newsradio710.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "Woman who survived hantavirus describes the worst symptom",
+      "url": "https://www.yahoo.com/news/articles/american-survived-hantavirus-1993-outbreak-165258083.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wsfcam",
+      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
+      "url": "https://wsfcam.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wflaorlando",
+      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
+      "url": "https://wflaorlando.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailymail",
+      "head": "Group of six passengers from hantavirus - plagued cruise ship have left the Netherlands and are on their way to Australia to quarantine in Covid facility",
+      "url": "https://www.dailymail.com/news/article-15818019/cruise-hantavirus-cases-Australia-quarantine.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSDK",
+      "head": "Here are all the confirmed and suspected hantavirus cases from the Atlantic cruise ship outbreak",
+      "url": "https://www.ksdk.com/article/news/nation-world/mv-hondius-cases-hantavirus-atlantic-ocean-united-states/507-fcd6e1e7-30e9-4a7e-a74b-dbd8c02cd664",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Agenciabrasil",
+      "head": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Talkradio1059",
+      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
+      "url": "https://talkradio1059.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -43,8 +163,8 @@
       "date": "",
       "ts": "",
       "src": "Walesonline",
-      "head": "Public Health Wales confirms hantavirus outbreak involvement",
-      "url": "https://www.walesonline.co.uk/news/health/public-health-wales-confirms-hantavirus-33943232",
+      "head": "People in Wales isolating due to hantavirus outbreak",
+      "url": "https://www.walesonline.co.uk/news/wales-news/welsh-people-hantavirus-isolating-outbreak-33947731",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -57,9 +177,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KGW",
-      "head": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit",
-      "url": "https://www.kgw.com/article/news/nation-world/doctor-who-helped-ship-take-care-of-passengers-with-hantavirus-is-isolated-in-nebraska-medical-unit/616-15248e89-4602-4bcd-be38-929e3fa3ce68",
+      "src": "KTVH",
+      "head": "Doctor moved out of biocontainment unit after being cleared of hantavirus",
+      "url": "https://www.ktvh.com/health/cruise-ship-hantavirus-outbreak-sees-american-doctor-cleared-from-isolation",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,29 +192,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Kibrispostasi",
-      "head": "DSÖ : Hantavirüsün küresel nüfus için riski düşük devam ediyor",
-      "url": "https://www.kibrispostasi.com/c77-SAGLIK/n601888-dso-hantavirusun-kuresel-nufus-icin-riski-dusuk-devam-ediyor",
-      "loc": "Cyprus",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Cyprus"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Economic Times",
-      "head": "How  Noroviru has trapped cruise passengers onboard just like Hantavirus",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/how-norovirus-has-trapped-cruise-passengers-onboard-just-like-hantavirus/articleshow/131082753.cms",
-      "loc": "India",
+      "src": "WKYC",
+      "head": "Here are all the confirmed and suspected hantavirus cases from the Atlantic cruise ship outbreak",
+      "url": "https://www.wkyc.com/article/news/nation-world/mv-hondius-cases-hantavirus-atlantic-ocean-united-states/507-fcd6e1e7-30e9-4a7e-a74b-dbd8c02cd664",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "India"
+        "United States"
       ],
       "live": true
     },
@@ -102,29 +207,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Penzcentrum",
-      "head": "Hantavírus - járvány : megszólalt Szlávik János , kell - e tartani tömeges megbetegedésektől Európában",
-      "url": "https://www.penzcentrum.hu/egeszseg/20260514/hantavirus-jarvany-megszolalt-szlavik-janos-kell-e-tartani-tomeges-megbetegedesektol-europaban-1198629",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Straitstimes",
-      "head": "Hantavirus risk to US public remains low , says national health agency",
-      "url": "https://www.straitstimes.com/world/united-states/hantavirus-risk-to-us-public-remains-low-says-national-health-agency",
-      "loc": "Singapore",
+      "src": "Courant",
+      "head": "The world reaction to hantavirus is tinged by echoes of COVID",
+      "url": "https://www.courant.com/2026/05/14/hantavirus-covid/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Singapore"
+        "United States"
       ],
       "live": true
     },
@@ -132,14 +222,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newstalkzb",
-      "head": "Second Kiwi isolating overseas after cruise ship hantavirus exposure",
-      "url": "https://www.newstalkzb.co.nz/news/national/second-kiwi-isolating-overseas-after-cruise-ship-hantavirus-exposure/",
-      "loc": "New Zealand",
+      "src": "WTHR",
+      "head": "Here are all the confirmed and suspected hantavirus cases from the Atlantic cruise ship outbreak",
+      "url": "https://www.wthr.com/article/news/nation-world/mv-hondius-cases-hantavirus-atlantic-ocean-united-states/507-fcd6e1e7-30e9-4a7e-a74b-dbd8c02cd664",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "New Zealand"
+        "United States"
       ],
       "live": true
     },
@@ -147,9 +237,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Sabah",
-      "head": "Hantavirüs için onaylı aşı yok",
-      "url": "https://www.sabah.com.tr/yasam/hantavirus-icin-onayli-asi-yok-7582768",
+      "src": "Birgun",
+      "head": "Türk Tabipleri Birliğinden Hondius gemisindeki hantavirüs vakalarına dair açıklama : Panik gerektiren bir durum bulunmuyor",
+      "url": "https://www.birgun.net/haber/turk-tabipleri-birligi-nden-hondius-gemisindeki-hantavirus-vakalarina-dair-aciklama-panik-gerektiren-bir-durum-bulunmuyor-712544%20target=_blank",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -162,149 +252,74 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Irishnews",
-      "head": "Leona ONeill : Hantavirus is not Covid , but try telling our brains that – The Irish News",
-      "url": "https://www.irishnews.com/opinion/leona-oneill-hantavirus-is-not-covid-but-try-telling-our-brains-that-2JETOPNGW5CHDDRV35BCWZIJYQ/",
+      "src": "Countyweeklynews",
+      "head": "JOHNSTON : Hantavirus outbreak demonstrates value of cooperation",
+      "url": "https://www.countyweeklynews.ca:443/opinion/johnston-hantavirus-outbreak-demonstrates-value-of-cooperation",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wflanews",
+      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
+      "url": "https://wflanews.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kare11",
+      "head": "Here are all the confirmed and suspected hantavirus cases from the Atlantic cruise ship outbreak",
+      "url": "https://www.kare11.com/article/news/nation-world/mv-hondius-cases-hantavirus-atlantic-ocean-united-states/507-fcd6e1e7-30e9-4a7e-a74b-dbd8c02cd664",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KVUE",
+      "head": "Here are all the confirmed and suspected hantavirus cases from the Atlantic cruise ship outbreak",
+      "url": "https://www.kvue.com/article/news/nation-world/mv-hondius-cases-hantavirus-atlantic-ocean-united-states/507-fcd6e1e7-30e9-4a7e-a74b-dbd8c02cd664",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Westerntelegraph",
+      "head": "Welsh residents being supported after hantavirus outbreak",
+      "url": "https://www.westerntelegraph.co.uk/news/26107883.welsh-residents-supported-hantavirus-outbreak/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WAPT",
-      "head": "Map : States monitoring possible hantavirus exposure",
-      "url": "https://www.wapt.com/article/states-monitoring-hantavirus-exposure-map/71297738",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timesofindia",
-      "head": "Hantavirus : After hantavirus , now norovirus ? How a gut bug forced a France cruise ship into lockdown",
-      "url": "https://timesofindia.indiatimes.com/world/europe/after-hantavirus-now-norovirus-how-a-gut-bug-forced-a-france-cruise-ship-into-lockdown/articleshow/131082098.cms",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Freemalaysiatoday",
-      "head": "Six hantavirus cruise passengers head to Australia",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/05/14/six-hantavirus-cruise-passengers-head-to-australia",
-      "loc": "Malaysia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Malaysia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Southernhighlandnews",
-      "head": "Hantavirus cruise evacuees secure flight to Australia",
-      "url": "https://www.southernhighlandnews.com.au/story/9246639/hantavirus-cruise-evacuees-secure-flight-to-australia/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WTAE",
-      "head": "Map : States monitoring possible hantavirus exposure",
-      "url": "https://www.wtae.com/article/states-monitoring-hantavirus-exposure-map/71297738",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vindy",
-      "head": "Company says it not clear when its hantavirus - hit ship will resume cruises | News , Sports , Jobs",
-      "url": "https://www.vindy.com/news/national-news/2026/05/company-says-its-not-clear-when-its-hantavirus-hit-ship-will-resume-cruises/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hardenexpress",
-      "head": "Hantavirus cruise evacuees secure flight to Australia",
-      "url": "https://www.hardenexpress.com.au/story/9246639/hantavirus-cruise-evacuees-secure-flight-to-australia/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SBS",
-      "head": "Update in mission to return Australians who were on hantavirus - hit ship",
-      "url": "https://www.sbs.com.au/news/article/australians-hantavirus-ship-return-update/p1gfz7gnd",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Politicaldog101",
-      "head": "CDC wont require Hantavirus boat people quarantine …. ",
-      "url": "https://politicaldog101.com/2026/05/cdc-wont-require-hantavirus-boat-people-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -704,9 +719,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailymail",
-      "head": "  Someone was sick in front of me ... another threw up on the deck : Passengers describe grim scenes on board norovirus - hit cruise ship packed with Brits as it remains stranded off Bordeaux",
-      "url": "https://www.dailymail.com/news/article-15816983/Someone-sick-threw-deck-Passengers-grim-scenes-board-norovirus-hit-cruise-ship-packed-Brits-remains-stranded-Bordeaux.html",
+      "src": "Huffingtonpost",
+      "head": "Why Are There So Many Disease Outbreaks On Cruise Ships ? ",
+      "url": "https://www.huffingtonpost.co.uk/entry/cruise-ships-disease-risk_uk_6a05d360e4b01f67631249bd",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chicagotribune",
+      "head": "Daywatch : Illinois Democrats push AI regulation bills",
+      "url": "https://www.chicagotribune.com/2026/05/14/daywatch-illinois-democrats-push-ai-regulation-bills/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -719,24 +749,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Hürriyet",
-      "head": "Pavyoncu amcalardan sonra TikTokçu amcalar",
-      "url": "https://www.hurriyet.com.tr/yazarlar/savas-ozbey/pavyoncu-amcalardan-sonra-tiktokcu-amcalar-43173049",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTVO",
-      "head": "AP News Summary at 12 : 01 a . m . EDT",
-      "url": "https://www.ktvo.com/news/nation-world/ap-news-summary-at-12-01-a-m-edt/article_65f062db-ce68-5135-821c-ebfac4c0ed85.html",
+      "src": "Local10",
+      "head": "France allows asymptomatic passengers off new cruise ship struck by stomach bug outbreak",
+      "url": "https://www.local10.com/health/2026/05/14/france-allows-asymptomatic-passengers-off-new-cruise-ship-struck-by-stomach-bug-outbreak/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -749,24 +764,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Novini",
-      "head": "Доц . Пишмишева : Хантавирусите се срещат и у нас и могат да протекат тежко",
-      "url": "https://novini.bg/article/2026051405092572513",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailykos",
-      "head": "Overnight News Digest : May 13 , 2026",
-      "url": "https://www.dailykos.com/stories/2026/5/13/800038539/community/overnight-news-digest-may-13-2026/",
+      "src": "961Theeagle",
+      "head": "New York Canal Towns Are Ready For Another Busy Summer",
+      "url": "https://961theeagle.com/ixp/40/p/ny-erie-canal-2026/",
       "loc": "United States",
       "lang": "English",
       "tags": [
