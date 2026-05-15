@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T10:58:06.598287+00:00",
+  "generated_at": "2026-05-15T12:59:25.446877+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 53,
@@ -12,54 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Clydebankpost",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.clydebankpost.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Borehamwoodtimes",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.borehamwoodtimes.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timesandstar",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.timesandstar.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ABC",
-      "head": "Quarantine starts for passengers from hantavirus ship",
-      "url": "https://www.abc.net.au/news/2026-05-15/naus_hantavirusperthwhod_1505/106686080",
+      "src": "Edenmagnet",
+      "head": "Pandemic flashbacks as hantavirus group touches down",
+      "url": "https://www.edenmagnet.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -72,9 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "US",
-      "head": "Penile implant specialist with history of far - right comments led Hantavirus presser",
-      "url": "https://us.cnn.com/2026/05/15/politics/brian-christine-vaccine-skepticism-history",
+      "src": "Dailylocal",
+      "head": "6 passengers from hantavirus ship arrive in Australia for quarantine",
+      "url": "https://www.dailylocal.com/2026/05/15/hantavirus-cruise-ship-australia/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Therural",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | The Rural",
-      "url": "https://www.therural.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
-      "loc": "Australia",
-      "lang": "English",
+      "src": "Memleket",
+      "head": "Hantavirüs ve SMA Konusunda Flaş Gelişmeler ! ",
+      "url": "https://www.memleket.com.tr/hantavirus-ve-sma-konusunda-flas-gelismeler-2357929h.htm",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "Australia"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -102,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailystar",
-      "head": "Hantavirus outbreak update as authorities confirm  serious infection  in united kingdom ",
-      "url": "https://www.dailystar.co.uk/news/latest-news/hantavirus-outbreak-update-authorities-confirm-37159652",
-      "loc": "United Kingdom",
+      "src": "Focustaiwan",
+      "head": "No community risk from cruise passenger linked to hantavirus outbreak : CDC",
+      "url": "https://focustaiwan.tw:443/society/202605150019",
+      "loc": "Taiwan",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "Taiwan"
       ],
       "live": true
     },
@@ -117,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Merimbulanewsweekly",
+      "src": "Cessnockadvertiser",
       "head": "Pandemic flashbacks as hantavirus group touches down",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
+      "url": "https://www.cessnockadvertiser.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -132,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nwemail",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.nwemail.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
+      "src": "Mendocinobeacon",
+      "head": "6 passengers from hantavirus ship arrive in Australia for quarantine",
+      "url": "https://www.mendocinobeacon.com/2026/05/15/hantavirus-cruise-ship-australia/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     },
@@ -147,14 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Inverelltimes",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | The Inverell Times",
-      "url": "https://www.inverelltimes.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
-      "loc": "Australia",
-      "lang": "English",
+      "src": "Wanhaber",
+      "head": "Bakan Memişoğludan Hantavirüs açıklaması",
+      "url": "https://www.wanhaber.com/bakan-memisogludan-hantavirus-aciklamasi",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "Australia"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -162,9 +117,69 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Inverelltimes",
+      "src": "Nbcdfw",
+      "head": "6 passengers from hantavirus - hit ship arrive in Australia – NBC 5 Dallas - Fort Worth",
+      "url": "https://www.nbcdfw.com/news/national-international/passengers-hantavirus-hit-ship-arrive-in-australia/4024428/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newrepublic",
+      "head": "The Hantavirus Is Also a Climate Warning",
+      "url": "https://newrepublic.com/article/210448/hantavirus-climate-warning-media-coverage",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Asiaone",
+      "head": "6 passengers from hantavirus - hit ship arrive in Australia for 3 - week quarantine",
+      "url": "https://www.asiaone.com:443/world/6-passengers-hantavirus-hit-ship-arrive-australia-3-week-quarantine",
+      "loc": "Singapore",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Singapore"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcsandiego",
+      "head": "6 passengers from hantavirus - hit ship arrive in Australia – NBC 7 San Diego",
+      "url": "https://www.nbcsandiego.com/news/national-international/passengers-hantavirus-hit-ship-arrive-in-australia/4024135/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sconeadvocate",
       "head": "Pandemic flashbacks as hantavirus group touches down",
-      "url": "https://www.inverelltimes.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
+      "url": "https://www.sconeadvocate.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -177,24 +192,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Braintreeandwithamtimes",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.braintreeandwithamtimes.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Camdencourier",
+      "src": "Oberonreview",
       "head": "Pandemic flashbacks as hantavirus group touches down",
-      "url": "https://www.camdencourier.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
+      "url": "https://www.oberonreview.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -207,14 +207,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Merimbulanewsweekly",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | Merimbula News Weekly",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
-      "loc": "Australia",
+      "src": "Dailyexcelsior",
+      "head": "6 passengers from hantavirus - hit ship  arrive in Australia for 3 - week quarantine",
+      "url": "https://www.dailyexcelsior.com/6-passengers-from-hantavirus-hit-ship-arrive-in-australia-for-3-week-quarantine/",
+      "loc": "India",
       "lang": "English",
       "tags": [
         "English",
-        "Australia"
+        "India"
       ],
       "live": true
     },
@@ -222,69 +222,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theadvocate",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | The Advocate",
-      "url": "https://www.theadvocate.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gazetteandherald",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.gazetteandherald.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Camdencourier",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | Camden Haven Courier",
-      "url": "https://www.camdencourier.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Milfordmercury",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.milfordmercury.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yasstribune",
+      "src": "Braidwoodtimes",
       "head": "Pandemic flashbacks as hantavirus group touches down",
-      "url": "https://www.yasstribune.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
+      "url": "https://www.braidwoodtimes.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -297,59 +237,104 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Swissinfo",
-      "head": "Dangerous delivery : how doctors in Geneva handled the hantavirus",
-      "url": "https://www.swissinfo.ch/eng/patient-safety/dangerous-delivery-how-doctors-in-geneva-handled-the-hantavirus/91407562",
-      "loc": "Switzerland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Switzerland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Messengernewspapers",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.messengernewspapers.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lancashiretelegraph",
-      "head": "Very unlikely hantavirus outbreak will be akin to Covid pandemic , expert says",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/26109147.unlikely-hantavirus-outbreak-will-akin-covid-pandemic-expert-says/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yasstribune",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | Yass Tribune",
-      "url": "https://www.yasstribune.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
+      "src": "Bluemountainsgazette",
+      "head": "Pandemic flashbacks as hantavirus group touches down",
+      "url": "https://www.bluemountainsgazette.com.au/story/9247403/pandemic-flashbacks-as-hantavirus-group-touches-down/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
         "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "6ABC",
+      "head": "Can I get hantavirus from my pet ? Here what pet owners should know",
+      "url": "https://6abc.com/post/can-get-hantavirus-pet-heres-what-owners-should-know/19104877/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "Canada monitors 30 people over suspected hantavirus exposure",
+      "url": "https://news.az/news/canada-monitors-30-people-over-suspected-hantavirus-exposure",
+      "loc": "Azerbaijan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Azerbaijan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mudgeeguardian",
+      "head": "Australian hantavirus cruise ship passengers arrive in Perth | Mudgee Guardian",
+      "url": "https://www.mudgeeguardian.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nynganobserver",
+      "head": "Australian hantavirus cruise ship passengers arrive in Perth | Nyngan Observer",
+      "url": "https://www.nynganobserver.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "ABC11",
+      "head": "Can I get hantavirus from my pet ? Here what pet owners should know",
+      "url": "https://abc11.com/post/can-get-hantavirus-pet-heres-what-owners-should-know/19104877/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Athens-Times",
+      "head": "Hantavirus Quarantine on Pitcairn Island",
+      "url": "https://athens-times.com/hantavirus-case-triggers-quarantine-on-remote-pitcairn-island/",
+      "loc": "Greece",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Greece"
       ],
       "live": true
     },
@@ -749,14 +734,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Correiobraziliense",
-      "head": "Sarampo : quem vai para a Copa deve se vacinar devido a surtos nos países - sede",
-      "url": "https://www.correiobraziliense.com.br/cidades-df/2026/05/7419974-sarampo-quem-vai-para-a-copa-deve-se-vacinar-devido-a-surtos-nos-paises-sede.html",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "UNN",
+      "head": "Аргентина поспішає знайти джерело зараження хантавірусом - NYT",
+      "url": "https://unn.ua/news/arhentyna-pospishaie-znaity-dzherelo-zarazhennia-khantavirusom-nyt",
+      "loc": "",
+      "lang": "Ukrainian",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "Ukrainian",
+        ""
       ],
       "live": true
     },
@@ -764,14 +749,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Almasryalyoum",
-      "head": "صدفة أم تنبؤ جديد ؟ مسلسل عائلة « سيمبسون » يتصدر الترند بسبب فيروس هانتا",
-      "url": "https://www.almasryalyoum.com/news/details/4270562",
-      "loc": "Egypt",
-      "lang": "Arabic",
+      "src": "CNA",
+      "head": "郵輪漢他疫情引疑慮 考驗後COVID時代公衛溝通能力 | 國際",
+      "url": "https://www.cna.com.tw/news/aopl/202605150232.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "Arabic",
-        "Egypt"
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Edition",
+      "head": "Trump administration rushes to steady Kennedy HHS , with an eye on the midterms",
+      "url": "https://edition.cnn.com/2026/05/15/politics/fda-trump-stabilize-midterms",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
