@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T01:22:54.261064+00:00",
+  "generated_at": "2026-05-15T05:13:37.170790+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -12,9 +12,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTSP",
-      "head": "CDC says hantavirus risk still low as it monitors exposed passengers : What to know",
-      "url": "https://www.wtsp.com/article/news/nation-world/hantavirus-outbreak-what-americans-need-to-know/507-7c427aea-22d7-4bb3-bc7a-d18c9173513c",
+      "src": "Goulburnpost",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.goulburnpost.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bignewsnetwork",
+      "head": "Repatriation flight with passengers from hantavirus - hit cruise lands in Perth , Australia",
+      "url": "http://www.bignewsnetwork.com/news/279052323/repatriation-flight-with-passengers-from-hantavirus-hit-cruise-lands-in-perth-australia",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +42,84 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Castanetkamloops",
-      "head": "Interior Health offers advice on how to avoid hantavirus",
-      "url": "https://www.castanetkamloops.net/news/Kelowna/614410/Interior-Health-offers-advice-on-how-to-avoid-hantavirus",
+      "src": "ABC",
+      "head": "What we know about the MV Hondius hantavirus outbreak",
+      "url": "https://www.abc.net.au/news/health/2026-05-15/hantavirus-spread-infection-virus-what-you-need-to-know/106680450",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailyrecord",
+      "head": "Legal rights if united kingdom holidaymakers catch hantavirus while abroad",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/travel/legal-rights-uk-holidaymakers-catch-37155955",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Grandforksherald",
+      "head": "North Dakota health officials monitoring possible hantavirus exposure",
+      "url": "https://www.grandforksherald.com/health/north-dakota-health-officials-monitoring-possible-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theleader",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.theleader.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Southernhighlandnews",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.southernhighlandnews.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "RNZ",
+      "head": "Flight with Australians and New Zealand passengers from hantavirus cruise ship arrives in Perth",
+      "url": "https://www.rnz.co.nz/news/world/595353/flight-with-australians-and-new-zealand-passengers-from-hantavirus-cruise-ship-arrives-in-perth",
       "loc": "",
       "lang": "English",
       "tags": [
@@ -42,9 +132,144 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "1073Theeagle",
-      "head": "Three in Kansas under observation for hantavirus",
-      "url": "https://www.1073theeagle.com/news/trending/hantavirus-outbreak-three-people-kansas-exposed-virus/4XBN6P3D5FARREQPZ3IF7ELPZQ/",
+      "src": "Newcastleherald",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.newcastleherald.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bendigoadvertiser",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.bendigoadvertiser.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Watoday",
+      "head": "Hantavirus cruise ship passengers touch down in Perth",
+      "url": "https://www.watoday.com.au/national/western-australia/hantavirus-cruise-ship-passengers-touch-down-in-perth-20260515-p5zxch.html",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bordermail",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.bordermail.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Standard",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.standard.net.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Portnews",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.portnews.com.au/story/9247403/passengers-from-hantavirus-cruise-land-in-australia/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Perthnow",
+      "head": "Passengers from hantavirus cruise land in Australia",
+      "url": "https://www.perthnow.com.au/news/coronavirus/passengers-from-hantavirus-cruise-land-in-australia-c-22288491",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "LA",
+      "head": "  Es nevarēju paelpot un biju pilnīgi slapjš no sviedriem . Divi vīrieši , kuri inficējušies ar hantavīrusu , atklāj piedzīvoto",
+      "url": "https://www.la.lv/es-nevareju-paelpot-un-biju-pilnigi-slapjs-no-sviedriem-divi-viriesi-kuri-inficejusies-ar-hantavirusu-atklaj-piedzivoto",
+      "loc": "Latvia",
+      "lang": "Latvian",
+      "tags": [
+        "Latvian",
+        "Latvia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brisbanetimes",
+      "head": "Hantavirus cruise ship passengers touch down in Perth",
+      "url": "https://www.brisbanetimes.com.au/national/western-australia/hantavirus-cruise-ship-passengers-touch-down-in-perth-20260515-p5zxch.html",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesleader",
+      "head": "Diamonds & Coal : Supporting community events while scrutinizing drive - by shootings and hantavirus hysteria",
+      "url": "https://www.timesleader.com/opinion/1741898/diamonds-coal-supporting-community-events-while-scrutinizing-drive-by-shootings-and-hantavirus-hysteria",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +282,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wired",
-      "head": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
-      "url": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
+      "src": "Legitgov",
+      "head": "CDC monitoring 41 people for hantavirus , no reported cases – CLG News",
+      "url": "https://legitgov.org/cdc-monitoring-41-people-for-hantavirus-no-reported-cases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,254 +297,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "G1",
-      "head": "CDC diz que 41 pessoas estão sendo monitoradas para hantavírus nos EUA",
-      "url": "https://g1.globo.com/saude/noticia/2026/05/14/cdc-diz-que-41-pessoas-estao-sendo-monitoradas-para-hantavirus-nos-eua.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Expresso",
-      "head": "Missão científica investiga hantavírus em Ushuaia",
-      "url": "https://expresso.pt/sociedade/saude/2026-05-14-missao-cientifica-investiga-hantavirus-em-ushuaia-e3e5dd1a",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cheknews",
-      "head": "Top doctor explains why number of  low risk  hantavirus contacts in Canada has grown to 26",
-      "url": "https://cheknews.ca/26-low-risk-air-passengers-being-contacted-about-hantavirus-canadas-top-doctor-1324433/",
+      "src": "CHCH",
+      "head": "Canada monitoring 26 people for hantavirus , not required to isolate",
+      "url": "https://www.chch.com/chch-news/canada-monitoring-26-people-for-hantavirus-not-required-to-isolate/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
         "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yahoo",
-      "head": "Hantavirus outbreak grows to 11 cases",
-      "url": "https://www.yahoo.com/news/articles/hantavirus-outbreak-grows-11-cases-170525528.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCBY",
-      "head": "Oregon doctor who helped take care of passengers with hantavirus is isolated in med . unit",
-      "url": "https://kcby.com/news/local/oregon-doctor-stephen-kornfeld-bend-who-helped-take-care-of-mv-hondius-passengers-with-hantavirus-is-isolated-national-quarantine-unit-university-of-nebraska-medical-center-in-omaha",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cyprus-Mail",
-      "head": "CDC says no hantavirus cases in US , 41 people being monitored",
-      "url": "https://cyprus-mail.com/2026/05/14/cdc-says-no-hantavirus-cases-in-us-41-people-being-monitored",
-      "loc": "Cyprus",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Cyprus"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KSLA",
-      "head": "The world reaction to hantavirus is tinged by echoes of COVID",
-      "url": "https://www.ksla.com/2026/05/14/worlds-reaction-hantavirus-is-tinged-by-echoes-covid/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Taosnews",
-      "head": "Hantavirus outbreak abroad prompts reminder about risk in New Mexico",
-      "url": "https://www.taosnews.com/news/health/hantavirus-outbreak-abroad-prompts-reminder-about-risk-in-new-mexico/article_1e1367c4-a343-5711-8fe0-c08988fe6971.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Forbes",
-      "head": "No Americans Have Hantavirus From Cruise Outbreak ( Latest Updates ) ",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/14/no-americans-have-hantavirus-from-cruise-outbreak-latest-updates/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CEN",
-      "head": "Why do we have no treatments for hantaviruses ? ",
-      "url": "https://cen.acs.org/biological-chemistry/infectious-disease/hantavirus-antiviral-disease/104/web/2026/05",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bemparana",
-      "head": "Casos de hantavírus após surto em cruzeiro sobem para oito , confirma OMS",
-      "url": "https://www.bemparana.com.br/bem-estar/saude-e-beleza/casos-de-hantavirus-apos-surto-em-cruzeiro-sobem-para-oito-confirma-oms/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KNOE",
-      "head": "Doctor on ship who helped care for passengers with hantavirus cleared to leave biocontainment unit isolation",
-      "url": "https://www.knoe.com/2026/05/14/doctor-ship-who-helped-care-passengers-with-hantavirus-cleared-leave-biocontainment-unit-isolation/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Progresso",
-      "head": "Hantavírus : OMS confirma oito casos de cepa que causou surto em navio",
-      "url": "https://progresso.com.br/index.php/2026/05/14/hantavirus-oms-confirma-oito-casos-de-cepa-que-causou-surto-em-navio/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medicinehatnews",
-      "head": "Fact File : Misleading claims about hantavirus shared online amid cruise ship outbreak",
-      "url": "https://medicinehatnews.com/news/national-news/2026/05/14/fact-file-misleading-claims-about-hantavirus-shared-online-amid-cruise-ship-outbreak/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Scientificamerican",
-      "head": "Doubts grow over theory that bird - watcher trip to Argentine landfill sparked hantavirus outbreak",
-      "url": "https://www.scientificamerican.com/article/doubts-grow-over-theory-that-bird-watchers-trip-to-argentine-landfill-sparked-hantavirus-outbreak/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wxxinews",
-      "head": "Suspected hantavirus case reported in Ontario County",
-      "url": "https://www.wxxinews.org/local-news/2026-05-14/suspected-hantavirus-case-reported-in-ontario-county",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1450Wkip",
-      "head": "Hantavirus Protocol Breach Forces Hospital Employees Into 6 - Week Quarantine",
-      "url": "https://1450wkip.iheart.com/content/2026-05-14-hantavirus-protocol-breach-forces-hospital-employees-into-6-week-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -719,43 +704,13 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WMNF",
-      "head": "Cruise ship outbreaks raise questions about travel safety and public health oversight",
-      "url": "https://www.wmnf.org/cruise-ship-outbreaks-safety-health-risks/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Healio",
-      "head": "Inside the unit where US passengers are quarantined",
-      "url": "https://www.healio.com/news/infectious-disease/20260514/inside-the-unit-where-us-passengers-are-quarantined",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arabic",
-      "head": "آلية خفية قد تنشر الأمراض بين الشقق السكنية",
-      "url": "https://arabic.rt.com/technology/1788992-%D8%A2%D9%84%D9%8A%D8%A9-%D8%AE%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B4%D9%82%D9%82-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A%D8%A9/",
+      "src": "Newslab",
+      "head": "Врач объяснила , чем хантавирус отличается от гриппа / Происшествия Красноярска и Красноярского края / Newslab . Ru",
+      "url": "https://newslab.ru/news/1415294",
       "loc": "Russia",
-      "lang": "Arabic",
+      "lang": "Russian",
       "tags": [
-        "Arabic",
+        "Russian",
         "Russia"
       ],
       "live": true
@@ -764,14 +719,59 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dostor",
-      "head": "أسامة كمال : سفينة فيروس هانتا تغادر جزر الكناري وتتجه لهولندا",
-      "url": "https://www.dostor.org/5555374",
-      "loc": "Egypt",
+      "src": "Almontasaf",
+      "head": "خبراء : طفرة فيروس هانتا وانتقاله بين البشر احتمال ضئيل",
+      "url": "https://www.almontasaf.net/news141224.html",
+      "loc": "Yemen",
       "lang": "Arabic",
       "tags": [
         "Arabic",
-        "Egypt"
+        "Yemen"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "France confines more than 1 , 700 on British cruise ship in Bordeaux after gastroenteritis outbreak",
+      "url": "https://www.yahoo.com/news/articles/eu--france-cruise-ship-143010312.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Freerepublic",
+      "head": "Latest Articles",
+      "url": "https://freerepublic.com/tag/*/index?more=4379313",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TWIS",
+      "head": "13 May , 2026 – Episode 1058 – Unicorns Are Real",
+      "url": "https://www.twis.org/13-may-2026-episode-1058-unicorns-are-real/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
