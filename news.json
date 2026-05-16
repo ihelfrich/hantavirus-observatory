@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-05-16T17:07:47.623184+00:00",
+  "generated_at": "2026-05-16T18:13:33.390749+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
   "count": 57,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WCTV",
+      "head": "2 passengers from hantavirus - hit cruise ship moved from Emory to Nebraska quarantine facility",
+      "url": "https://www.wctv.tv/2026/05/16/2-passengers-hantavirus-hit-cruise-ship-moved-emory-nebraska-quarantine-facility/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Winnipegfreepress",
+      "head": "France says cruise ship Andes virus matches known South American viruses – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/16/france-says-cruise-ship-andes-virus-matches-known-south-american-viruses",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Forum",
+      "head": "Od miša do slona : kako je hantavirus s kruzera pos ( Komentari članaka s naših web stranica ) @ Bug . hr Forum",
+      "url": "https://forum.bug.hr/forum/topic/komentari-clanaka-nasih-web-stranica/misa-do-slona-kako-hantavirus-kruzera-pos/312340.aspx?page=0&jumpto=6931240&sort=asc&view=flat",
+      "loc": "",
+      "lang": "Croatian",
+      "tags": [
+        "Croatian",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Livemint",
+      "head": "Here what science tells us about the risks of hantavirus",
+      "url": "https://www.livemint.com/news/heres-what-science-tells-us-about-the-risks-of-hantavirus-11778941374135.html",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -215,36 +275,6 @@
       "tags": [
         "Spanish",
         "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fingerlakes1",
-      "head": "What to know about hantavirus after suspected Geneva case raises local questions",
-      "url": "https://www.fingerlakes1.com/2026/05/16/what-to-know-about-hantavirus-after-suspected-geneva-case-raises-local-questions/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wanhaber",
-      "head": "DSÖ  dan hantavirüs açıklaması",
-      "url": "https://www.wanhaber.com/dsodan-hantavirus-aciklamasi",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
       ],
       "live": true
     },
@@ -715,21 +745,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Super",
-      "head": "5 zoonoses transmitidas por ratos – e como evitá - las",
-      "url": "https://super.abril.com.br/ciencia/5-zoonoses-transmitidas-por-ratos-e-como-evita-las/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "Themunicheye",
       "head": "Key Health Policy Developments and Pharmacy Updates This Week",
       "url": "https://themunicheye.com/pharmacy-fee-increase-hantavirus-pta-training-news-33741",
@@ -738,6 +753,21 @@
       "tags": [
         "English",
         "Germany"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Super",
+      "head": "5 zoonoses transmitidas por ratos – e como evitá - las",
+      "url": "https://super.abril.com.br/ciencia/5-zoonoses-transmitidas-por-ratos-e-como-evita-las/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -798,36 +828,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Akhbarelyom",
-      "head": "مصرع رجل إطفاء وإصابة 11 آخرين في انفجار مصنع بولاية مين الأمريكية",
-      "url": "https://akhbarelyom.com/news/newdetails/4821774/1/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B1%D8%AC%D9%84-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-11-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nltimes",
-      "head": "British patient well enough to leave Netherlands as port of Rotterdam awaits Hondius",
-      "url": "https://nltimes.nl/2026/05/16/british-patient-well-enough-leave-netherlands-port-rotterdam-awaits-hondius",
-      "loc": "Netherlands",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Netherlands"
       ],
       "live": true
     }
