@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T23:05:16.078931+00:00",
+  "generated_at": "2026-05-16T01:15:24.241032+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 57,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KATC",
-      "head": "No Americans have tested positive for hantavirus tied outbreak on ship , CDC says",
-      "url": "https://www.katc.com/health/no-americans-have-tested-positive-for-hantavirus-tied-to-cruise-ship-outbreak-cdc-says",
+      "src": "WLRN",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.wlrn.org/npr-breaking-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Foxsanantonio",
-      "head": "No known US hantavirus cases after cruise ship outbreak , CDC confirms",
-      "url": "https://foxsanantonio.com/news/nation-world/no-known-us-united-states-hantavirus-cases-after-dutch-hondius-cruise-ship-outbreak-centers-for-disease-control-and-prevention-confirms-university-of-nebraska-quarantine-andes-virus",
+      "src": "1011Now",
+      "head": "Two more people exposed to hantavirus on ship come to quarantine unit at UNMC - Nebraska Medicine",
+      "url": "https://www.1011now.com/2026/05/15/two-more-people-exposed-hantavirus-ship-come-unmc-quarantine-unit/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WHIO",
-      "head": "CDC monitors 41 for hantavirus symptoms , no cases found in US - WHIO TV 7 and WHIO Radio",
-      "url": "https://www.whio.com/news/trending/hantavirus-outbreak-cdc-says-no-cases-confirmed-us/MH5YCTWAY5AOFLHJBEWRY45HAM/",
+      "src": "WNCW",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.wncw.org/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,24 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "English",
-      "head": "Africa CDC urges enhancing continental capabilities to tackle hantavirus risks - Xinhua",
-      "url": "https://english.news.cn/africa/20260516/4ee6efff4c3f42fb95272e03babaedfc/c.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WMTW",
-      "head": "CDC monitors 41 people for hantavirus across 12 states",
-      "url": "https://www.wmtw.com/article/hantavirus-no-cases-in-us/71317440",
+      "src": "KAWC",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.kawc.org/npr-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,24 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Penarthtimes",
-      "head": "Fact check : Welfare spending and WHO comments on hantavirus",
-      "url": "https://www.penarthtimes.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1037Theloon",
-      "head": "What You Need To Know About Hantavirus Symptoms",
-      "url": "https://1037theloon.com/hantavirus-concerns-central-minnesota/",
+      "src": "KEDM",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.kedm.org/npr-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manilatimes",
-      "head": "New Zealand passenger from hantavirus - hit cruise ship quarantines in Taiwan",
-      "url": "https://www.manilatimes.net/2026/05/16/world/asia-oceania/new-zealand-passenger-from-hantavirus-hit-cruise-ship-quarantines-in-taiwan/2345036",
-      "loc": "Philippines",
+      "src": "Nzherald",
+      "head": "New Zealand passenger from hantavirus cruise MV Hondius quarantines in Taiwan",
+      "url": "https://www.nzherald.co.nz/world/nz-passenger-from-hantavirus-cruise-quarantines-in-taiwan/57R3MVB77JC6XDKRJ3COGL43VY/",
+      "loc": "New Zealand",
       "lang": "English",
       "tags": [
         "English",
-        "Philippines"
+        "New Zealand"
       ],
       "live": true
     },
@@ -132,24 +102,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Konhaber",
-      "head": "DSÖ : Hantavirüsün küresel nüfus için riski hala düşük",
-      "url": "https://www.konhaber.com/guncel/dso_hantavirusun_kuresel_nufus_icin_riski_hala_dusuk-1999601h",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcmontana",
-      "head": "No known US hantavirus cases after cruise ship outbreak , CDC confirms",
-      "url": "https://nbcmontana.com/news/nation-world/no-known-us-united-states-hantavirus-cases-after-dutch-hondius-cruise-ship-outbreak-centers-for-disease-control-and-prevention-confirms-university-of-nebraska-quarantine-andes-virus",
+      "src": "Wistv",
+      "head": "Hantavirus : What you need to know with Dr . Helmut Albrecht , MD",
+      "url": "https://www.wistv.com/2026/05/15/hantavirus-what-you-need-know-with-dr-helmut-albrecht-md/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -162,24 +117,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Basingstokegazette",
-      "head": "Fact check : Welfare spending and WHO comments on hantavirus",
-      "url": "https://www.basingstokegazette.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KY3",
-      "head": "6 passengers from hantavirus - hit ship arrive in Australia for 3 - week quarantine",
-      "url": "https://www.ky3.com/2026/05/15/live-who-hold-press-conference-hantavirus-6-passengers-ship-arrive-australia-3-week-quarantine/",
+      "src": "Wyomingpublicmedia",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.wyomingpublicmedia.org/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,69 +132,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ibtimes",
-      "head": "Hantavirus Outbreak Update : Three Dead On Cruise As Deadly Andes Strain Triggers united kingdom Quarantine Rules",
-      "url": "https://www.ibtimes.co.uk/uk-residents-monitored-hantavirus-outbreak-mv-hondius-cruise-1797082",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thenorthernecho",
-      "head": "Fact check : Welfare spending and WHO comments on hantavirus",
-      "url": "https://www.thenorthernecho.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Watfordobserver",
-      "head": "Fact check : Welfare spending and WHO comments on hantavirus",
-      "url": "https://www.watfordobserver.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Westerntelegraph",
-      "head": "Fact check : Welfare spending and WHO comments on hantavirus",
-      "url": "https://www.westerntelegraph.co.uk/news/national/26111825.fact-check-welfare-spending-comments-hantavirus/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wsoctv",
-      "head": "CDC monitors 41 for hantavirus symptoms , no cases found in US",
-      "url": "https://www.wsoctv.com/news/trending/hantavirus-outbreak-cdc-says-no-cases-confirmed-us/MH5YCTWAY5AOFLHJBEWRY45HAM/",
+      "src": "Nypost",
+      "head": "Health officials probing possible hantavirus case reported at upstate NY school after deadly cruise infection",
+      "url": "https://nypost.com/2026/05/15/us-news/health-officials-probing-possible-hantavirus-case-reported-at-upstate-ny-school-after-deadly-cruise-infection/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -267,9 +147,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KCBY",
-      "head": "No known US hantavirus cases after cruise ship outbreak , CDC confirms",
-      "url": "https://kcby.com/news/nation-world/no-known-us-united-states-hantavirus-cases-after-dutch-hondius-cruise-ship-outbreak-centers-for-disease-control-and-prevention-confirms-university-of-nebraska-quarantine-andes-virus",
+      "src": "KHQ",
+      "head": "Health officials confirm Hantavirus case in Chelan County",
+      "url": "https://www.khq.com/news/health-officials-confirm-hantavirus-case-in-chelan-county/article_1a6c966c-1f97-491a-b316-563d668f4593.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -282,14 +162,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "12Onyourside",
-      "head": "6 passengers from hantavirus - hit ship arrive in Australia for 3 - week quarantine",
-      "url": "https://www.12onyourside.com/2026/05/15/live-who-hold-press-conference-hantavirus-6-passengers-ship-arrive-australia-3-week-quarantine/",
-      "loc": "",
+      "src": "Komonews",
+      "head": "What exactly is hantavirus and how concerned should Washington residents be ? ",
+      "url": "https://komonews.com/news/arc-seattle/what-exactly-is-hantavirus-and-how-concerned-should-washington-residents-be",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United States"
       ],
       "live": true
     },
@@ -297,9 +177,129 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSBW",
-      "head": "CDC monitors 41 people for hantavirus across 12 states",
-      "url": "https://www.ksbw.com/article/hantavirus-no-cases-in-us/71317440",
+      "src": "WMRA",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.wmra.org/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ksnblocal4",
+      "head": "Two more people exposed to hantavirus on ship come to UNMC - Nebraska Medicine quarantine unit",
+      "url": "https://www.ksnblocal4.com/2026/05/15/two-more-people-exposed-hantavirus-ship-come-unmc-quarantine-unit/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cbs6Albany",
+      "head": "Suspected hantavirus case in Ontario County involves Geneva HS student , district says",
+      "url": "https://cbs6albany.com/news/local/suspected-hantavirus-case-in-ontario-county-involves-geneva-high-school-student-district-says",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KIOS",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.kios.org/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KMUW",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.kmuw.org/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://news.wjct.org/national-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WESA",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.wesa.fm/national-international-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KALW",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.kalw.org/npr-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KLCC",
+      "head": "Hantavirus countdown : U . S . cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.klcc.org/npr-news/2026-05-15/hantavirus-countdown-u-s-cruise-passengers-settle-in-for-42-days-of-waiting",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -760,44 +760,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Al Jazeera",
-      "head": "آخر تطورات هانتا .. حجر صحي في أستراليا والأرجنتين تبحث عن  الحالة صفر  ",
-      "url": "https://www.aljazeera.net/health/2026/5/15/%D8%A2%D8%AE%D8%B1-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D8%AD%D8%AC%D8%B1-%D8%B5%D8%AD%D9%8A-%D9%81%D9%8A-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7",
-      "loc": "Israel",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Noticiasdecoimbra",
-      "head": "Vírus em cruzeiros : especialista explica risco de surtos a bordo",
-      "url": "https://www.noticiasdecoimbra.pt/virus-em-cruzeiros-especialista-explica-risco-de-surtos-a-bordo/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Albaniandailynews",
-      "head": "Albanian Daily News",
-      "url": "https://albaniandailynews.com/news/public-health-concerns-rise-in-tirana-amid-reports-of-growing-rodent-infestation",
-      "loc": "",
+      "src": "Dailymail",
+      "head": "Doctor who been put in charge of rat virus outbreak is penis expert with a VERY colorful past",
+      "url": "https://www.dailymail.com/health/article-15822299/brian-christine-hhs-hantavirus-conspiracy-theories.html",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United States"
       ],
       "live": true
     },
@@ -805,9 +775,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "G1",
-      "head": "Homem encontra cobra em quintal onde filhos costumam brincar em SP",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/05/15/homem-encontra-jararaca-em-quintal-onde-filhos-brincam-no-interior-de-sp.ghtml",
+      "src": "Guiadoestudante",
+      "head": "Como os vírus são cobrados nos vestibulares ? Veja dicas de estudo e questões resolvidas",
+      "url": "https://guiadoestudante.abril.com.br/estudo/como-os-virus-caem-nos-vestibulares-veja-dicas-de-estudo-e-questoes-resolvidas/",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -820,14 +790,44 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Connexionfrance",
-      "head": "Cruise ship leaves Bordeaux after norovirus outbreak quarantined 1 , 700 passengers",
-      "url": "https://www.connexionfrance.com/news/cruise-ship-carrying-1700-people-leaves-bordeaux-after-norovirus-quarantine/790930",
-      "loc": "France",
+      "src": "Observador",
+      "head": "O vírus que anda por aí",
+      "url": "https://observador.pt/opiniao/o-virus-que-anda-por-ai/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bioworld",
+      "head": "Authorities work to quickly sequence Ebola strain in latest outbreak",
+      "url": "https://www.bioworld.com/articles/731208-authorities-work-to-quickly-sequence-ebola-strain-in-latest-outbreak",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "France"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elwatannews",
+      "head": "تراجع عدد حالات الإصابة بفيروس هانتا .. منظمة الصحة العالمية تكشف السبب",
+      "url": "https://www.elwatannews.com/news/details/8285229",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
       ],
       "live": true
     }
