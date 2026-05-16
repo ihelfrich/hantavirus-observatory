@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-16T22:43:42.255679+00:00",
+  "generated_at": "2026-05-16T23:52:36.178510+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
   "count": 57,
@@ -12,9 +12,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WCTV",
-      "head": "2 passengers from hantavirus - hit cruise ship moved from Emory to Nebraska quarantine facility",
-      "url": "https://www.wctv.tv/2026/05/16/2-passengers-hantavirus-hit-cruise-ship-moved-emory-nebraska-quarantine-facility/",
+      "src": "DW",
+      "head": "Canadiense que viajó en crucero da positivo a hantavirus",
+      "url": "https://www.dw.com/es/canadiense-que-viaj%C3%B3-en-crucero-da-positivo-a-hantavirus/a-77184383",
+      "loc": "Germany",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Germany"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGNA",
+      "head": "New York Man In Hantavirus Quarantine Shares Unexpected Updates",
+      "url": "https://wgna.com/ixp/854/p/new-york-man-celebrates-hantavirus-quarantine-milestones/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,119 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "France says cruise ship Andes virus matches known South American viruses – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/05/16/france-says-cruise-ship-andes-virus-matches-known-south-american-viruses",
-      "loc": "Canada",
+      "src": "Canberratimes",
+      "head": "One Canadian tests positive for hantavirus",
+      "url": "https://www.canberratimes.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Forum",
-      "head": "Od miša do slona : kako je hantavirus s kruzera pos ( Komentari članaka s naših web stranica ) @ Bug . hr Forum",
-      "url": "https://forum.bug.hr/forum/topic/komentari-clanaka-nasih-web-stranica/misa-do-slona-kako-hantavirus-kruzera-pos/312340.aspx?page=0&jumpto=6931240&sort=asc&view=flat",
-      "loc": "",
-      "lang": "Croatian",
-      "tags": [
-        "Croatian",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Livemint",
-      "head": "Here what science tells us about the risks of hantavirus",
-      "url": "https://www.livemint.com/news/heres-what-science-tells-us-about-the-risks-of-hantavirus-11778941374135.html",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nypost",
-      "head": "Hantavirus scare and more : Letters",
-      "url": "https://nypost.com/2026/05/16/opinion/hantavirus-scare-and-more-letters/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Crooksandliars",
-      "head": "Trump Hantavirus  Expert  A Urologist Specializing In Penile Implants",
-      "url": "https://crooksandliars.com/2026/05/trump-s-hantavirus-expert-urologist",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haber",
-      "head": "Hantavirüs pandemiye yol açar mı ? Prof Dr . Tevfik Özlü açıkladı",
-      "url": "https://haber.mynet.com/hantavirus-pandemiye-yol-acar-mi-prof-dr-tevfik-ozlu-acikladi-110107293672",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Castanetkamloops",
-      "head": "Cleaning a shed , attic , cabin or barn ? Protect against hantavirus",
-      "url": "https://www.castanetkamloops.net/news/Trail/614732/Cleaning-a-shed-attic-cabin-or-barn-Protect-against-hantavirus",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "VE",
-      "head": "Įspėja : ateityje hantavirusų protrūkiai gali būti dažnesni",
-      "url": "https://ve.lt/gyvenimas/mokslas/ispeja-ateityje-hantavirusu-protrukiai-gali-buti-daznesni",
-      "loc": "Lithuania",
-      "lang": "Lithuanian",
-      "tags": [
-        "Lithuanian",
-        "Lithuania"
+        "Australia"
       ],
       "live": true
     },
@@ -148,8 +58,8 @@
       "date": "",
       "ts": "",
       "src": "Ibtimes",
-      "head": "Trump Top Hantavirus Official Is a Penile Implant Specialist Who Hosted a Conspiracy Theory Podcast",
-      "url": "https://www.ibtimes.co.uk/brian-christine-controversial-journey-1797163",
+      "head": "Health Chief Overseeing Trump Hantavirus Crisis Is a Penile Implant Specialist and Hosted a Show Called  Erection Connection  ",
+      "url": "https://www.ibtimes.co.uk/urologist-leads-hantavirus-response-1797197",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -162,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "VEJA",
-      "head": "Hantavírus : temor de uma nova covid - 19 tem fundamento ? O que a ciência diz sobre chances de uma nova pandemia",
-      "url": "https://veja.abril.com.br/saude/hantavirus-temor-de-uma-nova-covid-19-tem-fundamento-o-que-a-ciencia-diz-sobre-chances-de-uma-nova-pandemia/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "Yasstribune",
+      "head": "One Canadian tests positive for hantavirus",
+      "url": "https://www.yasstribune.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+      "loc": "Australia",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "English",
+        "Australia"
       ],
       "live": true
     },
@@ -177,9 +87,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Texarkanagazette",
-      "head": "Experts wonder  Where is the CDC ? as a hantavirus outbreak unfolds on a cruise ship",
-      "url": "https://www.texarkanagazette.com/news/2026/may/16/experts-wonder-where-is-the-cdc-as-a-hantavirus/",
+      "src": "Gx94Radio",
+      "head": "Canadian isolating in B . C . tests  presumptive positive  for hantavirus | GX94 Radio - Now That Country ! ",
+      "url": "https://www.gx94radio.com/2026/05/16/canadian-isolating-in-b-c-tests-presumptive-positive-for-hantavirus/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SCMP",
+      "head": "Canadian cruise passenger gets a presumptive positive hantavirus test result",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353845/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result",
+      "loc": "China",
+      "lang": "English",
+      "tags": [
+        "English",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mysuncoast",
+      "head": "Content creator aboard hantavirus ship documenting quarantine experience",
+      "url": "https://www.mysuncoast.com/2026/05/16/content-creator-aboard-hantavirus-ship-documenting-quarantine-experience/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,14 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Diena",
-      "head": "Po hantaviruso protrūkio laive – skirtingi scenarijai",
-      "url": "https://diena.lt/naujienos/sveikata/sveikata/po-hantaviruso-protrukio-laive-skirtingi-scenarijai-1756180",
-      "loc": "Lithuania",
-      "lang": "Lithuanian",
+      "src": "Dailyliberal",
+      "head": "One Canadian tests positive for hantavirus",
+      "url": "https://www.dailyliberal.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
+      "loc": "Australia",
+      "lang": "English",
       "tags": [
-        "Lithuanian",
-        "Lithuania"
+        "English",
+        "Australia"
       ],
       "live": true
     },
@@ -207,74 +147,194 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Foxwilmington",
+      "src": "Gx94Radio",
+      "head": "CP NewsAlert : Canadian tests  presumptive positive  for hantavirus | GX94 Radio - Now That Country ! ",
+      "url": "https://www.gx94radio.com/2026/05/16/cp-newsalert-canadian-tests-presumptive-positive-for-hantavirus/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bozemandailychronicle",
+      "head": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
+      "url": "http://www.bozemandailychronicle.com/ap_news/international/canadian-cruise-passenger-gets-a-presumptive-positive-hantavirus-test-result-after-ship-outbreak/article_67030763-e53e-507b-9199-be9de01d2d76.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hindustan Times",
+      "head": "Canada confirms first hantavirus case after passenger from MV Hondius cruise ship tests positive",
+      "url": "https://www.hindustantimes.com/world-news/canada-records-first-hantavirus-case-after-passenger-from-mv-hondius-cruise-ship-tests-positive-british-columbia-101778964096695.html",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "1045Theteam",
+      "head": "New York Man In Hantavirus Quarantine Shares Unexpected Updates",
+      "url": "https://1045theteam.com/ixp/854/p/new-york-man-celebrates-hantavirus-quarantine-milestones/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bignewsnetwork",
+      "head": "Canadian in isolation tests presumptive positive for hantavirus",
+      "url": "http://www.bignewsnetwork.com/news/279055589/canadian-in-isolation-tests-presumptive-positive-for-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CP24",
+      "head": "Hantavirus cruise : Passenger in B . C . tests positive",
+      "url": "https://www.cp24.com/news/canada/2026/05/16/hantavirus-stricken-cruise-passenger-in-bc-has-tested-positive-top-doctor-says/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "The Hindu",
+      "head": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak",
+      "url": "https://www.thehindu.com/news/international/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result-after-ship-outbreak/article70988561.ece",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Panow",
+      "head": "Canadian isolating in B . C . tests  presumptive positive  for hantavirus",
+      "url": "https://panow.com/2026/05/16/cp-newsalert-canadian-tests-presumptive-positive-for-hantavirus/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jamaicaobserver",
+      "head": "Westmoreland health authorities heighten hantavirus surveillance",
+      "url": "https://www.jamaicaobserver.com/2026/05/16/westmoreland-health-authorities-heighten-hantavirus-surveillance/",
+      "loc": "Jamaica",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Jamaica"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Durangoherald",
+      "head": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
+      "url": "https://www.durangoherald.com/articles/canadian-cruise-passenger-gets-a-presumptive-positive-hantavirus-test-result-after-ship-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Observador",
+      "head": "Hantavírus . Canadá confirma primeiro caso positivo – Observador",
+      "url": "https://observador.pt/2026/05/16/canada-confirma-primeiro-caso-positivo-de-hantavirus-apos-ter-manifestado-sintomas-ligeiros/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KATC",
+      "head": "France confirms hantavirus in cruise outbreak is not new or more transmissible",
+      "url": "https://www.katc.com/health/france-confirms-hantavirus-in-cruise-outbreak-is-not-new-or-more-transmissible",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
       "head": "Possible hantavirus case under investigation in upstate New York ; no connection to deadly cruise ship outbreak",
-      "url": "https://foxwilmington.com/possible-hantavirus-case-under-investigation-in-upstate-new-york-no-connection-to-deadly-cruise-ship-outbreak/",
+      "url": "https://www.yahoo.com/news/articles/possible-hantavirus-case-under-investigation-003750333.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Klaipeda",
-      "head": "Po hantaviruso protrūkio laive – skirtingi scenarijai",
-      "url": "https://klaipeda.diena.lt/naujienos/sveikata/sveikata/po-hantaviruso-protrukio-laive-skirtingi-scenarijai-1756180",
-      "loc": "Lithuania",
-      "lang": "Lithuanian",
-      "tags": [
-        "Lithuanian",
-        "Lithuania"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jmonline",
-      "head": "Após casos em cruzeiro , médicos explicam riscos do hantavírus e afastam pânico no Brasil",
-      "url": "https://www.jmonline.com.br/saude/apos-casos-em-cruzeiro-medicos-explicam-riscos-do-hantavirus-e-afastam-panico-no-brasil-1.625113",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kauno",
-      "head": "Po hantaviruso protrūkio laive – skirtingi scenarijai",
-      "url": "https://kauno.diena.lt/naujienos/sveikata/sveikata/po-hantaviruso-protrukio-laive-skirtingi-scenarijai-1756180",
-      "loc": "Lithuania",
-      "lang": "Lithuanian",
-      "tags": [
-        "Lithuanian",
-        "Lithuania"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Latercera",
-      "head": "Hanta en Chile : 1 . 461 casos y 458 fallecidos en los últimos 30 años",
-      "url": "https://www.latercera.com/nacional/noticia/hanta-en-chile-1461-casos-y-458-fallecidos-en-los-ultimos-30-anos/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
       ],
       "live": true
     },
@@ -730,74 +790,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cbsnews",
-      "head": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak",
-      "url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Themunicheye",
-      "head": "Key Health Policy Developments and Pharmacy Updates This Week",
-      "url": "https://themunicheye.com/pharmacy-fee-increase-hantavirus-pta-training-news-33741",
-      "loc": "Germany",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Germany"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Super",
-      "head": "5 zoonoses transmitidas por ratos – e como evitá - las",
-      "url": "https://super.abril.com.br/ciencia/5-zoonoses-transmitidas-por-ratos-e-como-evita-las/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mariettatimes",
-      "head": "Round up | News , Sports , Jobs - Marietta Times",
-      "url": "https://www.mariettatimes.com/news/2026/05/round-up-88/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Al Jazeera",
-      "head": "هل يختبئ هانتا في السائل المنوي لسنوات ؟.. دراسة تثير صدمة | صحة",
-      "url": "https://www.aljazeera.net/health/2026/5/16/%D9%87%D9%84-%D9%8A%D8%AE%D8%AA%D8%A8%D8%A6-%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%85%D9%86%D9%88%D9%8A",
-      "loc": "Israel",
+      "src": "Elwatannews",
+      "head": "هل يتحول لجائحة ؟.. الصحة العالمية تكشف حقيقة تحور فيروس هانتا",
+      "url": "https://www.elwatannews.com/news/details/8285810",
+      "loc": "Egypt",
       "lang": "Arabic",
       "tags": [
         "Arabic",
-        "Israel"
+        "Egypt"
       ],
       "live": true
     },
@@ -805,29 +805,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "PT",
-      "head": "Cruzeiro com 30 casos de norovírus chega à Corunha",
-      "url": "https://pt.euronews.com/my-europe/2026/05/16/cruzeiro-com-30-casos-de-norovirus-chega-a-corunha-sob-vigilancia-sanitaria",
-      "loc": "United States",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nakedcapitalism",
-      "head": "Links 5 / 16 / 2026 | naked capitalism",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
+      "src": "Newsweek",
+      "head": "Travel Warning Issued as at Least 80 Die in Congo Ebola Outbreak",
+      "url": "https://www.newsweek.com/us-travel-warning-issued-amid-deadly-ebola-outbreak-11959602",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Novinite",
+      "head": "How a Little - Known Virus on a Cruise Ship Put the World Health Security Framework to the Test - Novinite . com",
+      "url": "https://www.novinite.com/view_news.php?id=238538",
+      "loc": "Bulgaria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Bulgaria"
       ],
       "live": true
     }
