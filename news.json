@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T15:58:31.327607+00:00",
+  "generated_at": "2026-05-16T17:07:47.623184+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
@@ -12,24 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bursadabugun",
-      "head": "DSÖ , hantavirüs için riskin düşük olduğunu açıkladı",
-      "url": "https://www.bursadabugun.com/haber/dso-hantavirus-icin-riskin-dusuk-oldugunu-acikladi-1922928.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kxly920",
-      "head": "Washington State Department of Health investigates hantavirus cases",
-      "url": "https://kxly920.com/2026/05/15/washington-state-department-of-health-investigates-hantavirus-cases/",
+      "src": "Nypost",
+      "head": "Hantavirus scare and more : Letters",
+      "url": "https://nypost.com/2026/05/16/opinion/hantavirus-scare-and-more-letters/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,144 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Sydney Morning Herald",
-      "head": "Hantavirus pilots to fly home after one night of quarantine with passengers",
-      "url": "https://www.smh.com.au/national/western-australia/hantavirus-pilots-to-fly-home-after-one-night-of-quarantine-with-passengers-20260516-p5zxqj.html",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSWS",
-      "head": "What science knows about Andes hantavirus and why governments ignore it",
-      "url": "https://www.wsws.org/en/articles/2026/05/16/ukmk-m16.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jamaica-Gleaner",
-      "head": "St James Health Department gets hantavirus cautious",
-      "url": "https://jamaica-gleaner.com/article/news/20260516/st-james-health-department-gets-hantavirus-cautious",
-      "loc": "Jamaica",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Jamaica"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Femina",
-      "head": "Minden , amit tudni kell a hantavírusról : ezért olyan veszélyes",
-      "url": "https://femina.hu/egeszseg/hantavirus-tunetei-terjedese-halalozasi-arany/",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Moneycontrol",
-      "head": "Hantavirus RNA found in human sperm nearly six years after recovery , says study",
-      "url": "https://www.moneycontrol.com/news/trends/hantavirus-rna-found-in-human-sperm-nearly-six-years-after-recovery-says-study-13921025.html",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Blikk",
-      "head": "Pozitív lett a hantavírus - teszt egy romániai betegnél",
-      "url": "https://www.blikk.hu/aktualis/kulfold/romaniai-kozegeszsegugyi-intezet-hanta-virus/snd0z4p",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medindia",
-      "head": "Norovirus Vs Hantavirus : What the Difference ? ",
-      "url": "https://www.medindia.net/news/healthinfocus/norovirus-vs-hantavirus-whats-the-difference-223399-1.htm",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NTV",
-      "head": "DSÖ Genel Direktörü yanıtladı . Hantavirüs küresel salgına dönüşür mü ? ",
-      "url": "https://www.ntv.com.tr/yasam/dso-genel-direktoru-yanitladi-hantavirus-kuresel-salgina-donusur-mu-1724520",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Index",
-      "head": "Index - Külföld - Már a szomszédban a hantavírus : egy romániai betegnél igazolták a fertőzést",
-      "url": "https://index.hu/kulfold/2026/05/16/romania-arad-hantavirus-fertozes-gyanu-vizsgalat/",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "9NEWS",
-      "head": "Colorado health officials confirm deadly hantavirus case",
-      "url": "https://www.9news.com/article/news/health/colorado-health-officials-confirm-deadly-hantavirus-case/73-4c29b5a0-b485-48a2-9a0e-fdcd45f3519d",
+      "src": "Crooksandliars",
+      "head": "Trump Hantavirus  Expert  A Urologist Specializing In Penile Implants",
+      "url": "https://crooksandliars.com/2026/05/trump-s-hantavirus-expert-urologist",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -193,8 +43,8 @@
       "date": "",
       "ts": "",
       "src": "Haber",
-      "head": "Uzmanlardan hantavirüs uyarısı : Gıdaları mutlaka koruyun",
-      "url": "https://haber.mynet.com/uzmanlardan-hantavirus-uyarisi-gidalari-mutlaka-koruyun-110107293614",
+      "head": "Hantavirüs pandemiye yol açar mı ? Prof Dr . Tevfik Özlü açıkladı",
+      "url": "https://haber.mynet.com/hantavirus-pandemiye-yol-acar-mi-prof-dr-tevfik-ozlu-acikladi-110107293672",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -207,9 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Atlantanewsfirst",
-      "head": "2 passengers from hantavirus - hit cruise ship moved from Emory to Nebraska quarantine facility",
-      "url": "https://www.atlantanewsfirst.com/2026/05/16/2-passengers-hantavirus-hit-cruise-ship-moved-emory-nebraska-quarantine-facility/",
+      "src": "Castanetkamloops",
+      "head": "Cleaning a shed , attic , cabin or barn ? Protect against hantavirus",
+      "url": "https://www.castanetkamloops.net/news/Trail/614732/Cleaning-a-shed-attic-cabin-or-barn-Protect-against-hantavirus",
       "loc": "",
       "lang": "English",
       "tags": [
@@ -222,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Economx",
-      "head": "Megjelent a hantavírus a szomszédban , kinézhet egy határzár ? ",
-      "url": "https://www.economx.hu/kulfold/2026/05/16/megjelent-a-hantavirus-a-szomszedban-kinezhet-egy-hatarzar/",
-      "loc": "",
-      "lang": "Hungarian",
+      "src": "VE",
+      "head": "Įspėja : ateityje hantavirusų protrūkiai gali būti dažnesni",
+      "url": "https://ve.lt/gyvenimas/mokslas/ispeja-ateityje-hantavirusu-protrukiai-gali-buti-daznesni",
+      "loc": "Lithuania",
+      "lang": "Lithuanian",
       "tags": [
-        "Hungarian",
-        ""
+        "Lithuanian",
+        "Lithuania"
       ],
       "live": true
     },
@@ -237,9 +87,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KGW",
-      "head": "4th King County , Washington resident monitored for possible hantavirus exposure",
-      "url": "https://www.kgw.com/article/news/local/4th-king-county-resident-monitoring-hantavirus-exposure/281-d2ca73d4-43fd-43ea-8bd4-16dd7487d24c",
+      "src": "Ibtimes",
+      "head": "Trump Top Hantavirus Official Is a Penile Implant Specialist Who Hosted a Conspiracy Theory Podcast",
+      "url": "https://www.ibtimes.co.uk/brian-christine-controversial-journey-1797163",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "VEJA",
+      "head": "Hantavírus : temor de uma nova covid - 19 tem fundamento ? O que a ciência diz sobre chances de uma nova pandemia",
+      "url": "https://veja.abril.com.br/saude/hantavirus-temor-de-uma-nova-covid-19-tem-fundamento-o-que-a-ciencia-diz-sobre-chances-de-uma-nova-pandemia/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Texarkanagazette",
+      "head": "Experts wonder  Where is the CDC ? as a hantavirus outbreak unfolds on a cruise ship",
+      "url": "https://www.texarkanagazette.com/news/2026/may/16/experts-wonder-where-is-the-cdc-as-a-hantavirus/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -252,29 +132,119 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Haber",
-      "head": "DSÖ  den Hantavirüs açıklaması ! Ebola salgını ilerledi mi ? ",
-      "url": "https://haber.mynet.com/dso-den-hantavirus-aciklamasi-ebola-salgini-ilerledi-mi-110107293609",
+      "src": "Diena",
+      "head": "Po hantaviruso protrūkio laive – skirtingi scenarijai",
+      "url": "https://diena.lt/naujienos/sveikata/sveikata/po-hantaviruso-protrukio-laive-skirtingi-scenarijai-1756180",
+      "loc": "Lithuania",
+      "lang": "Lithuanian",
+      "tags": [
+        "Lithuanian",
+        "Lithuania"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Foxwilmington",
+      "head": "Possible hantavirus case under investigation in upstate New York ; no connection to deadly cruise ship outbreak",
+      "url": "https://foxwilmington.com/possible-hantavirus-case-under-investigation-in-upstate-new-york-no-connection-to-deadly-cruise-ship-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Klaipeda",
+      "head": "Po hantaviruso protrūkio laive – skirtingi scenarijai",
+      "url": "https://klaipeda.diena.lt/naujienos/sveikata/sveikata/po-hantaviruso-protrukio-laive-skirtingi-scenarijai-1756180",
+      "loc": "Lithuania",
+      "lang": "Lithuanian",
+      "tags": [
+        "Lithuanian",
+        "Lithuania"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jmonline",
+      "head": "Após casos em cruzeiro , médicos explicam riscos do hantavírus e afastam pânico no Brasil",
+      "url": "https://www.jmonline.com.br/saude/apos-casos-em-cruzeiro-medicos-explicam-riscos-do-hantavirus-e-afastam-panico-no-brasil-1.625113",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kauno",
+      "head": "Po hantaviruso protrūkio laive – skirtingi scenarijai",
+      "url": "https://kauno.diena.lt/naujienos/sveikata/sveikata/po-hantaviruso-protrukio-laive-skirtingi-scenarijai-1756180",
+      "loc": "Lithuania",
+      "lang": "Lithuanian",
+      "tags": [
+        "Lithuanian",
+        "Lithuania"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Latercera",
+      "head": "Hanta en Chile : 1 . 461 casos y 458 fallecidos en los últimos 30 años",
+      "url": "https://www.latercera.com/nacional/noticia/hanta-en-chile-1461-casos-y-458-fallecidos-en-los-ultimos-30-anos/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fingerlakes1",
+      "head": "What to know about hantavirus after suspected Geneva case raises local questions",
+      "url": "https://www.fingerlakes1.com/2026/05/16/what-to-know-about-hantavirus-after-suspected-geneva-case-raises-local-questions/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wanhaber",
+      "head": "DSÖ  dan hantavirüs açıklaması",
+      "url": "https://www.wanhaber.com/dsodan-hantavirus-aciklamasi",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
         "Turkish",
         "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KXLY",
-      "head": "Washington State Department of Health investigates hantavirus cases",
-      "url": "https://www.kxly.com/news/washington-state-department-of-health-investigates-hantavirus-cases/article_7b3c21e3-41ad-4fed-868d-d77e00759aab.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -730,24 +700,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dnoticias",
-      "head": "Seis passageiros do navio afectado por surto iniciam quarentena na Austrália",
-      "url": "https://www.dnoticias.pt/2026/5/16/492181-seis-passageiros-do-navio-afectado-por-surto-iniciam-quarentena-na-australia/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailymail",
-      "head": "As dozens of potential rat virus cases are monitored , lessons can be learned from forgotten outbreak that ravaged an American icon ... and left a trail of death in its wake",
-      "url": "https://www.dailymail.com/news/article-15808353/hantavirus-outbreak-cruise-yosemite-national-park.html",
+      "src": "Cbsnews",
+      "head": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak",
+      "url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -760,14 +715,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ensonhaber",
-      "head": "Kongo Demokratik Cumhuriyetinde Ebola salgını başladı",
-      "url": "https://www.ensonhaber.com/kongo-demokratik-cumhuriyetinde-ebola-salgini-basladi-h1534886",
-      "loc": "Turkey",
-      "lang": "Turkish",
+      "src": "Super",
+      "head": "5 zoonoses transmitidas por ratos – e como evitá - las",
+      "url": "https://super.abril.com.br/ciencia/5-zoonoses-transmitidas-por-ratos-e-como-evita-las/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "Turkish",
-        "Turkey"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -775,29 +730,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "RIA",
-      "head": "Врач объяснила , почему от хантавируса нет вакцины",
-      "url": "https://ria.ru/20260516/sataeva-2092838883.html",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thenational",
-      "head": "Keir Starmer has allowed Palantir foxes into the hen house",
-      "url": "https://www.thenational.scot/politics/26112260.keir-starmer-allowed-palantir-foxes-hen-house/",
-      "loc": "United Kingdom",
+      "src": "Themunicheye",
+      "head": "Key Health Policy Developments and Pharmacy Updates This Week",
+      "url": "https://themunicheye.com/pharmacy-fee-increase-hantavirus-pta-training-news-33741",
+      "loc": "Germany",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "Germany"
       ],
       "live": true
     },
@@ -805,14 +745,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Indianexpress",
-      "head": "France lets unaffected passengers disembark after norovirus outbreak on cruise ship",
-      "url": "https://indianexpress.com/article/world/france-lets-unaffected-passengers-disembark-after-norovirus-outbreak-on-cruise-ship-10692314/",
-      "loc": "India",
+      "src": "Mariettatimes",
+      "head": "Round up | News , Sports , Jobs - Marietta Times",
+      "url": "https://www.mariettatimes.com/news/2026/05/round-up-88/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "India"
+        "United States"
       ],
       "live": true
     },
@@ -820,14 +760,74 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Russian",
-      "head": " « Скученность людей и постоянный контакт »: как на круизных лайнерах возникают массовые вспышки заболеваний",
-      "url": "https://russian.rt.com/russia/article/1631878-kruiz-lainer-infekciya-rasprostranenie",
-      "loc": "Russia",
-      "lang": "Russian",
+      "src": "Al Jazeera",
+      "head": "هل يختبئ هانتا في السائل المنوي لسنوات ؟.. دراسة تثير صدمة | صحة",
+      "url": "https://www.aljazeera.net/health/2026/5/16/%D9%87%D9%84-%D9%8A%D8%AE%D8%AA%D8%A8%D8%A6-%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%85%D9%86%D9%88%D9%8A",
+      "loc": "Israel",
+      "lang": "Arabic",
       "tags": [
-        "Russian",
-        "Russia"
+        "Arabic",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "PT",
+      "head": "Cruzeiro com 30 casos de norovírus chega à Corunha",
+      "url": "https://pt.euronews.com/my-europe/2026/05/16/cruzeiro-com-30-casos-de-norovirus-chega-a-corunha-sob-vigilancia-sanitaria",
+      "loc": "United States",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nakedcapitalism",
+      "head": "Links 5 / 16 / 2026 | naked capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Akhbarelyom",
+      "head": "مصرع رجل إطفاء وإصابة 11 آخرين في انفجار مصنع بولاية مين الأمريكية",
+      "url": "https://akhbarelyom.com/news/newdetails/4821774/1/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B1%D8%AC%D9%84-%D8%A5%D8%B7%D9%81%D8%A7%D8%A1-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-11-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nltimes",
+      "head": "British patient well enough to leave Netherlands as port of Rotterdam awaits Hondius",
+      "url": "https://nltimes.nl/2026/05/16/british-patient-well-enough-leave-netherlands-port-rotterdam-awaits-hondius",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
       ],
       "live": true
     }
