@@ -1,13 +1,118 @@
 {
-  "generated_at": "2026-05-17T15:59:41.942599+00:00",
+  "generated_at": "2026-05-17T17:09:06.489407+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 57,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WPDH",
+      "head": "New York Preparing For  Worst - Case  In Deadly Hantavirus Scare",
+      "url": "https://wpdh.com/ixp/854/p/new-york-worst-case-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WPDH",
+      "head": "New Yorker Reveals Secret Health Battle In Hantavirus Quarantine",
+      "url": "https://wpdh.com/ixp/854/p/new-yorker-health-battle-in-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Macombdaily",
+      "head": "FOUTS : Goats , hantavirus and elections all issues in the forefront",
+      "url": "https://www.macombdaily.com/2026/05/17/fouts-goats-hantavirus-and-elections-all-issues-in-the-forefront/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abc7Ny",
+      "head": "Up Close with Bill Ritter and Liz Cho : Hantavirus outbreak , NYC deputy mayor on Mamdani budget",
+      "url": "https://abc7ny.com/post/close-bill-ritter-liz-cho-hantavirus-outbreak-nyc-deputy-mayor-mamdanis-budget/19105917/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBC",
+      "head": "National lab confirms hantavirus case for Canadian cruise passenger isolating in B . C . ",
+      "url": "https://www.cbc.ca/news/canada/canadian-hantavirus-case-confirmed-phac-9.7202841",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Orlandosentinel",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://www.orlandosentinel.com/2026/05/17/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Alagoas24Horas",
+      "head": "Saúde de Maceió reforça orientaes e tranquiliza populao em relao à infeco pelo hantavírus",
+      "url": "https://www.alagoas24horas.com.br/1739172/saude-de-maceio-reforca-orientacoes-e-tranquiliza-populacao-em-relacao-a-infeccao-pelo-hantavirus/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -155,96 +260,6 @@
       "tags": [
         "Portuguese",
         "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "LBC",
-      "head": "Canadian tourist on rat - virus cruise tests positive for Hantavirus",
-      "url": "https://www.lbc.co.uk/article/canadian-tourist-hantavirus-virus-5HjdZHj_2/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Niagarafallsreview",
-      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-      "url": "https://www.niagarafallsreview.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b1a26d3d-1091-5303-bb2e-9c315eb49d31.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Graphic",
-      "head": "Canadian from hantavirus - hit cruise ship tests positive",
-      "url": "https://www.graphic.com.gh/international/international-news/canadian-from-hantavirus-hit-cruise-ship-tests-positive.html",
-      "loc": "Ghana",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ghana"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ynetnews",
-      "head": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
-      "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wsbradio",
-      "head": "Cruise industry expects no impact from hantavirus outbreak on ship",
-      "url": "https://www.wsbradio.com/news/business/demand-cruises/RHTZ6XTN2U7JVC36B3GBXTKKP4/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Anlatilaninotesi",
-      "head": "Hantavirüs salgını olan yolcu gemisinden bir Kanadalı  nın test sonucu pozitif çıktı",
-      "url": "https://anlatilaninotesi.com.tr/20260517/hantavirus-salgini-olan-yolcu-gemisinden-bir-kanadalinin-test-sonucu-pozitif-cikti-1105793129.html",
-      "loc": "",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        ""
       ],
       "live": true
     },
@@ -700,6 +715,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Ensonhaber",
+      "head": "DSÖ : Ebola salgını uluslararası acil durumdur",
+      "url": "https://www.ensonhaber.com/dso-ebola-salgini-uluslararasi-acil-durumdur-h1535252",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Glavcom",
+      "head": "Як розпізнати хантавірус та чи існує від нього лікування – пояснення лікарки",
+      "url": "https://glavcom.ua/country/health/jak-rozpiznati-khantavirus-ta-chi-isnuje-vid-noho-likuvannja-pojasnennja-likarki-1120167.html",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Edaily",
       "head": "에볼라 · 한타 바이러스 비상 ... 사망자 잇따라 [ 클릭 , 글로벌 제약 · 바이오 ] ",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02892966645449904&mediaCodeNo=257",
@@ -783,51 +828,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "TSN",
-      "head": "Хантавірус - симптоми , лікування , профілактика Здоров  я",
-      "url": "https://tsn.ua/zdorovya/iak-rozpiznaty-khantavirus-ta-chy-isnuye-vid-nyoho-likuvannia-poiasnennia-likarky-3085355.html",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
-      "tags": [
-        "Ukrainian",
-        "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Indianexpress",
-      "head": "WHO Declares Ebola Outbreak as Global Emergency : Why There is No Cure",
-      "url": "https://indianexpress.com/article/explained/explained-health/who-ebola-outbreak-drc-uganda-bundibugyo-strain-10694189/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Skepticalscience",
-      "head": "2026 SkS Weekly Climate Change & Global Warming News Roundup # 20",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_20.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
