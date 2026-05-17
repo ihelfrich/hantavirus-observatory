@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-17T11:59:44.290203+00:00",
+  "generated_at": "2026-05-17T13:51:56.440167+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 57,
@@ -12,39 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Southcoastregister",
-      "head": "Australian hantavirus cruise ship passengers arrive in Perth | South Coast Register",
-      "url": "https://www.southcoastregister.com.au/story/9247658/australian-hantavirus-cruise-ship-passengers-arrive-in-perth/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Asiaone",
-      "head": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
-      "url": "https://www.asiaone.com:443/world/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result-after-ship",
-      "loc": "Singapore",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Singapore"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thefreepress",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://thefreepress.ca/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
+      "src": "CBC",
+      "head": "Dr . Peter Lin breaks down hantavirus",
+      "url": "https://www.cbc.ca/player/play/audio/9.7199529",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -57,9 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nbcwashington",
-      "head": "Canadian MV Hondius cruise passenger tests positive for hantavirus",
-      "url": "https://www.nbcwashington.com/news/health/canadian-mv-hondius-cruise-passenger-positive-hantavirus/4105272/",
+      "src": "Article",
+      "head": "One Canadian tests positive for hantavirus , BC officials say",
+      "url": "https://article.wn.com/view/2026/05/17/One_Canadian_tests_positive_for_hantavirus_BC_officials_say/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +42,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Legitgov",
-      "head": "Canadian from hantavirus - hit cruise ship tests positive – CLG News",
-      "url": "https://legitgov.org/canadian-from-hantavirus-hit-cruise-ship-tests-positive/",
+      "src": "VOCM",
+      "head": "Presumptive Hantavirus Case Reported Among Canadians Returning From Cruise",
+      "url": "https://vocm.com/2026/05/17/299304/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTOP",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://wtop.com/lifestyle/2026/05/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ladysmithchronicle",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://ladysmithchronicle.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "loc": "Canada",
+      "src": "Nltimes",
+      "head": "Canadian Hondius passenger hospitalized at home with suspected hantavirus",
+      "url": "https://nltimes.nl/2026/05/17/canadian-hondius-passenger-hospitalized-home-suspected-hantavirus",
+      "loc": "Netherlands",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "Netherlands"
       ],
       "live": true
     },
@@ -102,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Westernadvocate",
-      "head": "One Canadian tests positive for hantavirus",
-      "url": "https://www.westernadvocate.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
-      "loc": "Australia",
+      "src": "ISP",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20260517/d85e4a85a7548073fb5ca549c09701a6",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Australia"
+        "United States"
       ],
       "live": true
     },
@@ -117,14 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mapleridgenews",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://mapleridgenews.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
+      "src": "Borsonline",
+      "head": "Minden , amit a hantavírusról tudnod kell ! ",
+      "url": "https://www.borsonline.hu/kozelet/2026/05/hantavirus-mindent-tudnod-kell",
+      "loc": "Hungary",
+      "lang": "Hungarian",
       "tags": [
-        "English",
-        "Canada"
+        "Hungarian",
+        "Hungary"
       ],
       "live": true
     },
@@ -132,44 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Comoxvalleyrecord",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://comoxvalleyrecord.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abbynews",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://abbynews.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Tvbrasil",
-      "head": "Entenda por que o hantavírus não representa risco para o Brasil | Repórter Brasil | TV Brasil",
-      "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/05/entenda-por-que-o-hantavirus-nao-representa-risco-para-o-brasil",
-      "loc": "Brazil",
+      "src": "SAPO",
+      "head": "Viajantes para Argentina , Chile e Uruguai devem ter consulta preventiva devido ao hantavírus",
+      "url": "https://sapo.pt/artigo/viajantes-para-argentina-chile-e-uruguai-devem-ter-consulta-preventiva-devido-ao-hantavirus-6a099e134faa8527a1f90bf9",
+      "loc": "Portugal",
       "lang": "Portuguese",
       "tags": [
         "Portuguese",
-        "Brazil"
+        "Portugal"
       ],
       "live": true
     },
@@ -177,9 +132,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cowichanvalleycitizen",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://cowichanvalleycitizen.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
+      "src": "LBC",
+      "head": "Canadian tourist on rat - virus cruise tests positive for Hantavirus",
+      "url": "https://www.lbc.co.uk/article/canadian-tourist-hantavirus-virus-5HjdZHj_2/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Niagarafallsreview",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://www.niagarafallsreview.ca/business/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b1a26d3d-1091-5303-bb2e-9c315eb49d31.html",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -192,9 +162,69 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Clearwatertimes",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://clearwatertimes.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
+      "src": "Graphic",
+      "head": "Canadian from hantavirus - hit cruise ship tests positive",
+      "url": "https://www.graphic.com.gh/international/international-news/canadian-from-hantavirus-hit-cruise-ship-tests-positive.html",
+      "loc": "Ghana",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ghana"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ynetnews",
+      "head": "Hantavirus detected in semen after six years , but is it really dangerous ? ",
+      "url": "https://www.ynetnews.com/health_science/article/rkkyh0ikzx",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wsbradio",
+      "head": "Cruise industry expects no impact from hantavirus outbreak on ship",
+      "url": "https://www.wsbradio.com/news/business/demand-cruises/RHTZ6XTN2U7JVC36B3GBXTKKP4/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Anlatilaninotesi",
+      "head": "Hantavirüs salgını olan yolcu gemisinden bir Kanadalı  nın test sonucu pozitif çıktı",
+      "url": "https://anlatilaninotesi.com.tr/20260517/hantavirus-salgini-olan-yolcu-gemisinden-bir-kanadalinin-test-sonucu-pozitif-cikti-1105793129.html",
+      "loc": "",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBC",
+      "head": "How much should you worry about rodent - carried hantavirus in N . L .? Not too much , experts say",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hantavirus-newfoundland-expert-9.7198694",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -207,129 +237,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Northweststar",
-      "head": "One Canadian tests positive for hantavirus",
-      "url": "https://www.northweststar.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Centralwesterndaily",
-      "head": "One Canadian tests positive for hantavirus",
-      "url": "https://www.centralwesterndaily.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Voiceonline",
-      "head": "Public Health Agency of Canada update on Andes hantavirus situation",
-      "url": "https://voiceonline.com/public-health-agency-of-canadas-update-on-andes-hantavirus-situation/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hopestandard",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://hopestandard.com/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Perthnow",
-      "head": "What dealing with Covid - 19 taught us about Hantavirus outbreak",
-      "url": "https://www.perthnow.com.au/news/what-dealing-with-covid-19-taught-us-about-hantavirus-outbreak-c-22294774",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Grandforksgazette",
-      "head": "Cruise passenger isolating in Victoria tests positive for hantavirus",
-      "url": "https://grandforksgazette.ca/2026/05/16/cruise-passenger-isolating-in-victoria-tests-positive-for-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Attackofthefanboy",
-      "head": "The Alabama urologist now leading America hantavirus response once hosted a show called  Erection Connection  and compared Biden to Nazi Germany",
-      "url": "https://attackofthefanboy.com/other-news/the-alabama-urologist-now-leading-americas-hantavirus-response-once-hosted-a-show-called-erection-connection-and-compared-biden-to-nazi-germany/",
-      "loc": "Japan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Japan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Maitlandmercury",
-      "head": "One Canadian tests positive for hantavirus",
-      "url": "https://www.maitlandmercury.com.au/story/9247993/one-canadian-tests-positive-for-hantavirus/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gazette",
-      "head": "Colorado health officials confirm deadly hantavirus case",
-      "url": "https://gazette.com/2026/05/16/colorado-health-officials-confirm-deadly-hantavirus-case/",
+      "src": "WRAL",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://www.wral.com/news/ap/d85e4-demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -790,14 +700,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "AMIC",
-      "head": "Вирусолог рассказал , возможны ли новые переносчики хантавируса в России",
-      "url": "https://www.amic.ru/news/virusolog-rasskazal-vozmozhny-li-novye-perenoschiki-hantavirusa-v-rossii-583994",
-      "loc": "Russia",
-      "lang": "Russian",
+      "src": "La Nación",
+      "head": "En bandadas : aves únicas que seducen a turistas y sobrevuelan un relleno sanitario bajo la lupa",
+      "url": "https://www.lanacion.com.ar/sociedad/en-bandadas-aves-unicas-que-seducen-a-turistas-y-sobrevuelan-un-relleno-sanitario-bajo-la-lupa-nid17052026/",
+      "loc": "Argentina",
+      "lang": "Spanish",
       "tags": [
-        "Russian",
-        "Russia"
+        "Spanish",
+        "Argentina"
       ],
       "live": true
     },
@@ -805,14 +715,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "NEWS",
-      "head": "漢他病毒郵輪加拿大乘客返國 1人初步檢測陽性 - 國際",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5439631",
-      "loc": "Taiwan",
-      "lang": "Chinese",
+      "src": "JN",
+      "head": "",
+      "url": "https://www.jn.pt/noticias-magazine/artigo/passos-coelho-a-dizer-mal-do-governo-e-mourinho-no-real-madrid/18084083",
+      "loc": "Portugal",
+      "lang": "Portuguese",
       "tags": [
-        "Chinese",
-        "Taiwan"
+        "Portuguese",
+        "Portugal"
       ],
       "live": true
     },
@@ -820,14 +730,104 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nhgazette",
-      "head": "Out of the Mouth of a Moron - The New Hampshire Gazette",
-      "url": "https://www.nhgazette.com/2026/05/16/out-of-the-mouth-of-a-moron/",
+      "src": "Guardian",
+      "head": "  Were not ready : US lags on pandemic preparedness after Covid , experts say | US news",
+      "url": "https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TSN",
+      "head": "Хантавірус - симптоми , лікування , профілактика Здоров  я",
+      "url": "https://tsn.ua/zdorovya/iak-rozpiznaty-khantavirus-ta-chy-isnuye-vid-nyoho-likuvannia-poiasnennia-likarky-3085355.html",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Indianexpress",
+      "head": "WHO Declares Ebola Outbreak as Global Emergency : Why There is No Cure",
+      "url": "https://indianexpress.com/article/explained/explained-health/who-ebola-outbreak-drc-uganda-bundibugyo-strain-10694189/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Skepticalscience",
+      "head": "2026 SkS Weekly Climate Change & Global Warming News Roundup # 20",
+      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_20.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Euronews",
+      "head": "Cruise booking demand stays strong despite onboard illness outbreaks",
+      "url": "https://www.euronews.com/travel/2026/05/17/cruise-booking-demand-stays-strong-despite-onboard-illness-outbreaks",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lasvegassun",
+      "head": "Elon Musk chainsaw has brought world health crashing down - Las Vegas Sun News",
+      "url": "https://lasvegassun.com/news/2026/may/17/elon-musks-chainsaw-has-brought-world-health-crash/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Tribuneindia",
+      "head": "ICYMI # TheTribuneOpinion : NEET paper leak exposes chinks in the NTA armour",
+      "url": "https://www.tribuneindia.com/news/comment/icymithetribuneopinion-neet-paper-leak-exposes-chinks-in-the-nta-armour/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
       ],
       "live": true
     }
