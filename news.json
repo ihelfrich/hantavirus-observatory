@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T14:56:07.494587+00:00",
+  "generated_at": "2026-05-17T15:59:41.942599+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
@@ -8,6 +8,36 @@
   ],
   "count": 57,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bomdia",
+      "head": "Hantavírus : médicos portugueses aconselham consulta antes de viajar",
+      "url": "https://bomdia.lu/hantavirus-medicos-portugueses-aconselham-consulta-antes-de-viajar/",
+      "loc": "Luxembourg",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Luxembourg"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Klaipeda",
+      "head": "Ar verta baimintis dėl hantaviruso ? ",
+      "url": "https://klaipeda.diena.lt/naujienos/sveikata/sveikata/ar-verta-baimintis-del-hantaviruso-1756273",
+      "loc": "Lithuania",
+      "lang": "Lithuanian",
+      "tags": [
+        "Lithuanian",
+        "Lithuania"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -215,36 +245,6 @@
       "tags": [
         "Turkish",
         ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBC",
-      "head": "How much should you worry about rodent - carried hantavirus in N . L .? Not too much , experts say",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hantavirus-newfoundland-expert-9.7198694",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WRAL",
-      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-      "url": "https://www.wral.com/news/ap/d85e4-demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -700,6 +700,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Edaily",
+      "head": "에볼라 · 한타 바이러스 비상 ... 사망자 잇따라 [ 클릭 , 글로벌 제약 · 바이오 ] ",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02892966645449904&mediaCodeNo=257",
+      "loc": "South Korea",
+      "lang": "Korean",
+      "tags": [
+        "Korean",
+        "South Korea"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Economx",
+      "head": "Karikó Katalin az új kormány felkéréséről : „ az akasztásommal fenyegetőztek  ",
+      "url": "https://www.economx.hu/belfold/2026/05/17/kariko-katalin-uj-kormany-felkeres-vakcina-covid-hanta/",
+      "loc": "",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ahaber",
+      "head": "Gemide başlayan kabus dünyaya yayıldı ! Yeni pandemi mi geliyor ? ",
+      "url": "https://www.ahaber.com.tr/viral/galeri/tikla/gemide-baslayan-kabus-dunyaya-yayildi-yeni-pandemi-mi-geliyor",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "La Nación",
       "head": "En bandadas : aves únicas que seducen a turistas y sobrevuelan un relleno sanitario bajo la lupa",
       "url": "https://www.lanacion.com.ar/sociedad/en-bandadas-aves-unicas-que-seducen-a-turistas-y-sobrevuelan-un-relleno-sanitario-bajo-la-lupa-nid17052026/",
@@ -783,51 +828,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Euronews",
-      "head": "Cruise booking demand stays strong despite onboard illness outbreaks",
-      "url": "https://www.euronews.com/travel/2026/05/17/cruise-booking-demand-stays-strong-despite-onboard-illness-outbreaks",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lasvegassun",
-      "head": "Elon Musk chainsaw has brought world health crashing down - Las Vegas Sun News",
-      "url": "https://lasvegassun.com/news/2026/may/17/elon-musks-chainsaw-has-brought-world-health-crash/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Tribuneindia",
-      "head": "ICYMI # TheTribuneOpinion : NEET paper leak exposes chinks in the NTA armour",
-      "url": "https://www.tribuneindia.com/news/comment/icymithetribuneopinion-neet-paper-leak-exposes-chinks-in-the-nta-armour/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
       ],
       "live": true
     }
