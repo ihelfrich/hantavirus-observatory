@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-17T20:03:58.552866+00:00",
+  "generated_at": "2026-05-17T21:27:32.162816+00:00",
   "sources": [
     "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 57,
@@ -12,54 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "US",
-      "head": "Canadian cruise passenger presumptive positive hantavirus",
-      "url": "https://us.cnn.com/2026/05/17/world/canadian-passenger-hantavirus-intl",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRDO",
-      "head": "Canadian cruise passenger gets presumptive positive hantavirus test",
-      "url": "https://krdo.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theglobeandmail",
-      "head": "B . C . hantavirus case confirmed in laboratory test",
-      "url": "https://www.theglobeandmail.com/canada/article-canada-hantavirus-case-mv-hondius-who/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KVAL",
+      "src": "News3Lv",
       "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://kval.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "url": "https://news3lv.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,174 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Abc3340",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://abc3340.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc6Onyourside",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://abc6onyourside.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Voiceonline",
-      "head": "Public Health Agency of Canada confirms case of Andes hantavirus",
-      "url": "https://voiceonline.com/public-health-agency-of-canada-confirms-case-of-andes-hantavirus/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox23Maine",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://fox23maine.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTUL",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://ktul.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc7Chicago",
-      "head": "Canada hantavirus update : 1 of 4 who went home from cruise ship hit with hantavirus outbreak tests positive , health agency says",
-      "url": "https://abc7chicago.com/post/canada-hantavirus-update-1-4-went-home-cruise-ship-hit-outbreak-tests-positive-health-agency-says/19119377/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WJLA",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://wjla.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Brandonsun",
-      "head": "Canadian hantavirus case confirmed by national laboratory test – Brandon Sun",
-      "url": "https://www.brandonsun.com/lifestyles/2026/05/17/canadians-hantavirus-case-confirmed-by-national-laboratory-test",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "The Hindu",
-      "head": "One tests positive for hantavirus , Canadian national health agency confirms",
-      "url": "https://www.thehindu.com/news/international/one-tests-positive-for-hantavirus-canadian-national-health-agency-confirms/article70991445.ece",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lethbridgeherald",
-      "head": "Canadian hantavirus case confirmed by national laboratory test",
-      "url": "https://lethbridgeherald.com/news/national-news/2026/05/17/canadians-hantavirus-case-confirmed-by-national-laboratory-test/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBS58",
-      "head": "Canadian cruise passenger gets presumptive positive hantavirus test",
-      "url": "https://www.cbs58.com/news/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Clickorlando",
+      "src": "Bozemandailychronicle",
       "head": "Canadian national health agency confirms 1 positive hantavirus test",
-      "url": "https://www.clickorlando.com/health/2026/05/17/canadian-national-health-agency-confirms-1-positive-hantavirus-test/",
+      "url": "http://www.bozemandailychronicle.com/ap_news/international/canadian-national-health-agency-confirms-1-positive-hantavirus-test/article_18f3882a-2184-5f4e-b892-a1f88d357867.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -252,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WSBT",
+      "src": "Foxrochester",
       "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://wsbt.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "url": "https://foxrochester.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -267,74 +57,269 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cnycentral",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://cnycentral.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSET",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://wset.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sun-Sentinel",
-      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-      "url": "https://www.sun-sentinel.com/2026/05/17/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KATU",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://katu.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Stcatharinesstandard",
+      "src": "Wellandtribune",
       "head": "Canadian hantavirus case confirmed by national laboratory test",
-      "url": "https://www.stcatharinesstandard.ca/news/canada/canadians-hantavirus-case-confirmed-by-national-laboratory-test/article_6aad9211-e341-5e0a-bf39-a474a339f8f5.html",
+      "url": "https://www.wellandtribune.ca/news/canada/canadians-hantavirus-case-confirmed-by-national-laboratory-test/article_cf3b89ba-40f2-5d7f-82fc-bfe6b69bd3c6.html",
       "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
         "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KCBY",
+      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
+      "url": "https://kcby.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bignewsnetwork",
+      "head": "Canada confirms 1st hantavirus case",
+      "url": "http://www.bignewsnetwork.com/news/279057509/canada-confirms-1st-hantavirus-case",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "The-Messenger",
+      "head": "Canadian national health agency confirms 1 positive hantavirus test",
+      "url": "https://www.the-messenger.com/news/world/article_d5a61097-41c0-5d13-8194-4ddfe73be1da.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcmontana",
+      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
+      "url": "https://nbcmontana.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Breitbart",
+      "head": "Canadian national health agency confirms 1 positive hantavirus test",
+      "url": "https://www.breitbart.com/news/canadian-national-health-agency-confirms-1-positive-hantavirus-test/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbclosangeles",
+      "head": "Where does hantavirus lurk in the U . S .? – NBC Los Angeles",
+      "url": "https://www.nbclosangeles.com/news/national-international/where-does-hantavirus-lurk-in-us/3891552/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGME",
+      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
+      "url": "https://wgme.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nsnews",
+      "head": "Canadian hantavirus case confirmed by national laboratory test",
+      "url": "https://www.nsnews.com/national-news/canadians-hantavirus-case-confirmed-by-national-laboratory-test-12294257",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Local10",
+      "head": "Canadian national health agency confirms 1 positive hantavirus test",
+      "url": "https://www.local10.com/health/2026/05/17/canadian-national-health-agency-confirms-1-positive-hantavirus-test/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Energeticcity",
+      "head": "Canadian hantavirus case confirmed by national laboratory test",
+      "url": "https://energeticcity.ca/2026/05/17/canadians-hantavirus-case-confirmed-by-national-laboratory-test/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcchicago",
+      "head": "Where does hantavirus lurk in the U . S .? – NBC Chicago",
+      "url": "https://www.nbcchicago.com/news/national-international/where-does-hantavirus-lurk-in-us/3937015/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Turnto10",
+      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
+      "url": "https://turnto10.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Local21News",
+      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
+      "url": "https://local21news.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KVIA",
+      "head": "Canadian cruise passenger gets presumptive positive hantavirus test",
+      "url": "https://kvia.com/news/us-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Idahostatejournal",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://www.idahostatejournal.com/news/national/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/article_b3f72119-ec6b-559a-9148-5ad4849a3a40.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Butlereagle",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "url": "https://www.butlereagle.com/20260517/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Opinionnigeria",
+      "head": "Hantavirus : The Silent Virus The World Is Watching Closely - By Jerome Joseph Manye",
+      "url": "https://www.opinionnigeria.com/hantavirus-the-silent-virus-the-world-is-watching-closely-by-jerome-joseph-manye/",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
       ],
       "live": true
     },
@@ -790,9 +775,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Elkodaily",
-      "head": "Are infectious diseases more likely to spread on cruises ? ",
-      "url": "https://elkodaily.com/life-entertainment/nation-world/travel/article_403151de-a766-5296-ac10-dc2536ba4fce.html",
+      "src": "Politicsweb",
+      "head": "Water and energy infrastructure in focus - Ockham Weekly News Diary",
+      "url": "https://www.politicsweb.co.za/news/water-and-energy-infrastructure-in-focus-ockham-weekly-news-diary",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "29News",
+      "head": "Global events , contagious disease rank among leading causes of anxiety , study says",
+      "url": "https://www.29news.com/2026/05/15/global-events-contagious-disease-rank-among-leading-causes-anxiety-study-says/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Rawstory",
+      "head": "MAGA conspiracy theories fly as global health emergency declared over Ebola",
+      "url": "https://www.rawstory.com/ebola-2676905950/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -805,29 +820,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Hottalkradio",
-      "head": "Hot Talk Radio | News and Information with Commentary and Streaming",
-      "url": "https://www.hottalkradio.com/news/2026/05/18/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Standartnews",
+      "head": "Медицината е безсилна срещу смъртността на хантавируса - Свят Новини Стандарт",
+      "url": "https://www.standartnews.com/svyat/hantavirusat-porazyava-s-40-smartnost-medicinata-e-bezsilna-634002.html",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Blikk",
-      "head": "Karikó Katalinnak nem bocsátottak meg az oltásellenesek",
-      "url": "https://www.blikk.hu/aktualis/belfold/kariko-katalin-fenyegetes-akasztas-oltastagadok/y2qrje3",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     }
