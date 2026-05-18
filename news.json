@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-18T08:03:37.029650+00:00",
+  "generated_at": "2026-05-18T11:59:19.037295+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 57,
@@ -12,24 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Arabnews",
-      "head": "Hantavirus - hit cruise ship nears end of voyage , to dock in Rotterdam",
-      "url": "https://www.arabnews.com/node/2643969/world",
-      "loc": "Saudi Arabia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Saudi Arabia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eppingforestguardian",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.eppingforestguardian.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "src": "Darlingtonandstocktontimes",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -42,9 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailyecho",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.dailyecho.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "src": "Ledburyreporter",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.ledburyreporter.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -57,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Greenocktelegraph",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.greenocktelegraph.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "src": "Whtimes",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.whtimes.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -72,39 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailystar",
-      "head": "Hantavirus : Medic with rat virus symptoms treated in united kingdom hospital as 9 more linked to infected cruise to arrive",
-      "url": "https://www.dailystar.co.uk/news/latest-news/hantavirus-medic-rat-virus-symptoms-37169518",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "EADT",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.eadt.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Marinelink",
-      "head": "Hantavirus - Hit Cruise Ship Headed For Rotterdam",
-      "url": "https://www.marinelink.com/news/hantavirushit-cruise-ship-headed-539275",
+      "src": "Cbsnews",
+      "head": "Hantavirus - hit cruise ship arrives in Netherlands",
+      "url": "https://www.cbsnews.com/news/hantavirus-hit-cruise-ship-arrives-in-netherlands/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,24 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manilatimes",
-      "head": "WHO keeps evaluation of hantavirus as  low risk  ",
-      "url": "https://www.manilatimes.net/2026/05/18/world/who-keeps-evaluation-of-hantavirus-as-low-risk/2345788",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bordertelegraph",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.bordertelegraph.com/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "src": "Thewestonmercury",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.thewestonmercury.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -147,24 +87,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Pentictonherald",
-      "head": "Canadian hantavirus case confirmed by national laboratory test",
-      "url": "https://www.pentictonherald.ca/news/national_news/article_28d9eed8-f57f-5cbe-9dea-e6902101f463.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wiltsglosstandard",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.wiltsglosstandard.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "src": "Independent",
+      "head": "MV Hondius : Cruise ship hit by Hantavirus outbreak arrives in Rotterdam , Netherlands for disinfection as it wraps up troubled journey",
+      "url": "https://www.independent.co.uk/news/world/europe/hantavirus-outbreak-mv-hondius-netherlands-rotterdam-b2978491.html",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -177,14 +102,104 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KESQ",
-      "head": "Canadian cruise passenger gets presumptive positive hantavirus test",
-      "url": "https://kesq.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
+      "src": "Portnews",
+      "head": "Hantavirus - hit cruise ship arrives in the Netherlands",
+      "url": "https://www.portnews.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "FOX61",
+      "head": "Hantavirus - stricken cruise ship arrives in the Netherlands for disinfection",
+      "url": "https://www.fox61.com/article/news/nation-world/hantavirus-netherlands-mv-hondius/507-d9593bc9-d67d-492f-bfa8-85de82e9559a",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sthelensstar",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.sthelensstar.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Goulburnpost",
+      "head": "Hantavirus - hit cruise ship arrives in the Netherlands",
+      "url": "https://www.goulburnpost.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Halesowennews",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.halesowennews.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBS19",
+      "head": "Hantavirus - stricken cruise ship arrives in the Netherlands for disinfection",
+      "url": "https://www.cbs19.tv/article/news/nation-world/hantavirus-netherlands-mv-hondius/507-d9593bc9-d67d-492f-bfa8-85de82e9559a",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Oxfordmail",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.oxfordmail.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -193,8 +208,8 @@
       "date": "",
       "ts": "",
       "src": "Theboltonnews",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.theboltonnews.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.theboltonnews.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -207,14 +222,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EM",
-      "head": "Canadense que viajou no MV Hondius testa positivo para hantavírus",
-      "url": "http://www.em.com.br/internacional/2026/05/7421710-canadense-que-viajou-no-mv-hondius-testa-positivo-para-hantavirus.html",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "Cyprus-Mail",
+      "head": "Hantavirus - hit cruise ship arrives at Rotterdam port as final destination",
+      "url": "https://cyprus-mail.com/2026/05/18/hantavirus-hit-cruise-ship-arrives-at-rotterdam-port-as-final-destination",
+      "loc": "Cyprus",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "English",
+        "Cyprus"
       ],
       "live": true
     },
@@ -222,14 +237,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Richmondandtwickenhamtimes",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
-      "loc": "United Kingdom",
+      "src": "Yoursourceone",
+      "head": "Cruise ship hit by hantavirus outbreak arrives in the Dutch port of Rotterdam for disinfection",
+      "url": "https://www.yoursourceone.com/news/national_news/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-the-dutch-port-of-rotterdam-for-disinfection/article_f8665ed2-4a95-5b8f-9de5-2425f82b6336.html",
+      "loc": "",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        ""
       ],
       "live": true
     },
@@ -237,44 +252,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Echo-News",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.echo-news.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
-      "loc": "United Kingdom",
+      "src": "Bordermail",
+      "head": "Hantavirus - hit cruise ship arrives in the Netherlands",
+      "url": "https://www.bordermail.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kilburntimes",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.kilburntimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rhyljournal",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.rhyljournal.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
+        "Australia"
       ],
       "live": true
     },
@@ -283,8 +268,8 @@
       "date": "",
       "ts": "",
       "src": "Heraldseries",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.heraldseries.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.heraldseries.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -297,9 +282,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Penarthtimes",
-      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
-      "url": "https://www.penarthtimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "src": "News-Gazette",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
+      "url": "https://www.news-gazette.com/news/nation-world/hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/article_cb426a70-8787-5578-8bbe-51ee58af987d.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox17Online",
+      "head": "How likely is a hantavirus pandemic ? West MI expert weighs in",
+      "url": "https://www.fox17online.com/news/morning-news/how-likely-is-a-hantavirus-pandemic-west-mi-expert-weighs-in",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Milfordmercury",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.milfordmercury.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northwichguardian",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://www.northwichguardian.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -760,9 +790,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "STAT",
-      "head": "Ebola outbreak : Americans in Congo believed to have had exposure to suspected cases",
-      "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/",
+      "src": "Semissourian",
+      "head": "Argentina icy outpost at the end of the world fears the ha ... ",
+      "url": "https://www.semissourian.com/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism-c4398908",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -775,14 +805,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "CDC",
-      "head": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda , 5 / 17 / 2026",
-      "url": "https://www.cdc.gov/media/releases/2026/transcript-ebola-update-05-17-2026.html",
-      "loc": "United States",
-      "lang": "English",
+      "src": "DNES",
+      "head": "Круизният кораб , заразен с хантавирус , пристигна в Ротердам",
+      "url": "https://www.dnes.bg/a/2-svyat/721775-kruizniyat-korab-zarazen-s-hantavirus-pristigna-v-roterdam",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "English",
-        "United States"
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     },
@@ -790,44 +820,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTOP",
-      "head": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
-      "url": "https://wtop.com/animals-pets/2026/05/unwanted-lab-rats-find-new-homes-and-are-adopted-thanks-to-an-argentine-organization/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Manager",
+      "head": "Круизният кораб с огнище на хантавирус пристига в Нидерландия",
+      "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kruizniat-korab-s-ogniste-na-hantavirus-pristiga-v-niderlandia",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abcnews",
-      "head": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
-      "url": "https://abcnews.com/Health/wireStory/unwanted-lab-rats-find-new-homes-adopted-argentine-133057784",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Therecord",
-      "head": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
-      "url": "https://www.therecord.com/life/unwanted-lab-rats-find-new-homes-and-are-adopted-thanks-to-an-argentine-organization/article_3899de9b-cb6c-5bc0-a2e8-07e2e9d610cf.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     }
