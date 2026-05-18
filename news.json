@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-17T23:31:28.714807+00:00",
+  "generated_at": "2026-05-18T03:37:50.922750+00:00",
   "sources": [
+    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
-    "CDC EID",
     "GDELT"
   ],
   "count": 57,
@@ -12,14 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SAPO",
-      "head": "Hantavírus : caso positivo do Canadá esteve em voo de repatriamento com tripulao portuguesa",
-      "url": "https://sapo.pt/artigo/hantavirus-caso-positivo-do-canada-esteve-em-voo-de-repatriamento-com-tripulacao-portuguesa-6a0a382d7e8f006df64a716d",
-      "loc": "Portugal",
-      "lang": "Portuguese",
+      "src": "Arabnews",
+      "head": "Hantavirus - hit cruise ship nears end of voyage , to dock in Rotterdam",
+      "url": "https://www.arabnews.com/node/2643969/world",
+      "loc": "Saudi Arabia",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Portugal"
+        "English",
+        "Saudi Arabia"
       ],
       "live": true
     },
@@ -27,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SAPO",
-      "head": "DGS afasta risco de transmissão de hantavírus em voo com tripulao portuguesa",
-      "url": "https://sapo.pt/artigo/dgs-afasta-risco-de-transmissao-de-hantavirus-em-voo-com-tripulacao-portuguesa-6a0a35c27e8f006df649d6cb",
-      "loc": "Portugal",
-      "lang": "Portuguese",
+      "src": "Eppingforestguardian",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.eppingforestguardian.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Portugal"
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -42,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Executivedigest",
-      "head": "Hantavírus : Caso positivo do Canadá esteve em voo de repatriamento com tripulao portuguesa",
-      "url": "https://executivedigest.sapo.pt/hantavirus-caso-positivo-do-canada-esteve-em-voo-de-repatriamento-com-tripulacao-portuguesa/",
-      "loc": "",
-      "lang": "Portuguese",
+      "src": "Dailyecho",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.dailyecho.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        ""
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -57,9 +57,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "ABC15",
-      "head": "Colorado adult dies from hantavirus ; case not linked to cruise ship outbreak",
-      "url": "https://www.abc15.com/us-news/colorado-adult-dies-from-hantavirus-case-not-linked-to-cruise-ship-outbreak",
+      "src": "Greenocktelegraph",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.greenocktelegraph.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailystar",
+      "head": "Hantavirus : Medic with rat virus symptoms treated in united kingdom hospital as 9 more linked to infected cruise to arrive",
+      "url": "https://www.dailystar.co.uk/news/latest-news/hantavirus-medic-rat-virus-symptoms-37169518",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EADT",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.eadt.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Marinelink",
+      "head": "Hantavirus - Hit Cruise Ship Headed For Rotterdam",
+      "url": "https://www.marinelink.com/news/hantavirushit-cruise-ship-headed-539275",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,29 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SAPO",
-      "head": "Hantavírus : Caso positivo em voo com tripulao portuguesa",
-      "url": "https://sapo.pt/artigo/hantavirus-caso-positivo-em-voo-com-tripulacao-portuguesa-6a0a34de4faa8527a11aba71",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ABC7",
-      "head": "Canada hantavirus update : 1 of 4 who went home from cruise ship hit with hantavirus outbreak tests positive , health agency says",
-      "url": "https://abc7.com/post/canada-hantavirus-update-1-4-went-home-cruise-ship-hit-outbreak-tests-positive-health-agency-says/19119377/",
-      "loc": "United States",
+      "src": "Manilatimes",
+      "head": "WHO keeps evaluation of hantavirus as  low risk  ",
+      "url": "https://www.manilatimes.net/2026/05/18/world/who-keeps-evaluation-of-hantavirus-as-low-risk/2345788",
+      "loc": "Philippines",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Philippines"
       ],
       "live": true
     },
@@ -102,14 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Abc7News",
-      "head": "Canada hantavirus update : 1 of 4 who went home from cruise ship hit with hantavirus outbreak tests positive , health agency says",
-      "url": "https://abc7news.com/post/canada-hantavirus-update-1-4-went-home-cruise-ship-hit-outbreak-tests-positive-health-agency-says/19119377/",
-      "loc": "United States",
+      "src": "Bordertelegraph",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.bordertelegraph.com/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -117,69 +147,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KATC",
-      "head": "Colorado adult dies from hantavirus ; case not linked to cruise ship outbreak",
-      "url": "https://www.katc.com/us-news/colorado-adult-dies-from-hantavirus-case-not-linked-to-cruise-ship-outbreak",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "News4Sanantonio",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://news4sanantonio.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc17News",
-      "head": "Canadian cruise passenger gets presumptive positive hantavirus test",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcsandiego",
-      "head": "Where does hantavirus lurk in the U . S .? – NBC 7 San Diego",
-      "url": "https://www.nbcsandiego.com/news/national-international/where-does-hantavirus-lurk-in-us/4024800/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Calgaryherald",
-      "head": "Lab tests confirm positive hantavirus case in Yukon cruise passenger",
-      "url": "https://calgaryherald.com:443/news/national/lab-tests-confirms-positive-hantavirus-case-in-b-c-cruise-passenger/wcm/eeb543cf-1def-4702-bbd4-be4d3a3c4308",
+      "src": "Pentictonherald",
+      "head": "Canadian hantavirus case confirmed by national laboratory test",
+      "url": "https://www.pentictonherald.ca/news/national_news/article_28d9eed8-f57f-5cbe-9dea-e6902101f463.html",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -192,9 +162,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Foxbaltimore",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://foxbaltimore.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
+      "src": "Wiltsglosstandard",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.wiltsglosstandard.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KESQ",
+      "head": "Canadian cruise passenger gets presumptive positive hantavirus test",
+      "url": "https://kesq.com/news/national-world/cnn-world/2026/05/17/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -207,14 +192,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Observador",
-      "head": "Hantavírus : Caso positivo em voo com tripulao portuguesa – Observador",
-      "url": "https://observador.pt/2026/05/17/hantavirus-caso-positivo-do-canada-esteve-em-voo-de-repatriamento-com-tripulacao-portuguesa/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
+      "src": "Theboltonnews",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.theboltonnews.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Portugal"
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -222,9 +207,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Correiodopovo",
-      "head": "Canadense a bordo do MV Hondius testa positivo para hantavírus",
-      "url": "https://www.correiodopovo.com.br/not%c3%adcias/mundo/canadense-a-bordo-do-mv-hondius-testa-positivo-para-hantavirus-1.1714485",
+      "src": "EM",
+      "head": "Canadense que viajou no MV Hondius testa positivo para hantavírus",
+      "url": "http://www.em.com.br/internacional/2026/05/7421710-canadense-que-viajou-no-mv-hondius-testa-positivo-para-hantavirus.html",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -237,14 +222,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox4Beaumont",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://fox4beaumont.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
+      "src": "Richmondandtwickenhamtimes",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -252,14 +237,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSBY",
-      "head": "Colorado adult dies from hantavirus ; case not linked to cruise ship outbreak",
-      "url": "https://www.ksby.com/us-news/colorado-adult-dies-from-hantavirus-case-not-linked-to-cruise-ship-outbreak",
-      "loc": "United States",
+      "src": "Echo-News",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.echo-news.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -267,14 +252,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KOAA",
-      "head": "Douglas County adult dies from hantavirus ; case not linked to cruise ship",
-      "url": "https://www.koaa.com/news/local-news/douglas-county-adult-dies-from-hantavirus-case-not-linked-to-cruise-ship-outbreak",
-      "loc": "United States",
+      "src": "Kilburntimes",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.kilburntimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -282,14 +267,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Midmichigannow",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://midmichigannow.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "",
+      "src": "Rhyljournal",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.rhyljournal.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United Kingdom"
       ],
       "live": true
     },
@@ -297,14 +282,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTOV9",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://wtov9.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
+      "src": "Heraldseries",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.heraldseries.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -312,59 +297,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KOCO",
-      "head": "Demand for cruises appears undimmed despite hantavirus",
-      "url": "https://www.koco.com/article/cruise-demand-undimmed-hantavirus-outbreaks/71327287",
-      "loc": "United States",
+      "src": "Penarthtimes",
+      "head": "Medic with hantavirus symptoms in united kingdom hospital as nine virus contacts to arrive",
+      "url": "https://www.penarthtimes.co.uk/news/national/26114578.medic-hantavirus-symptoms-uk-hospital-nine-virus-contacts-arrive/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NBC16",
-      "head": "Canadian MV Hondius passenger posts  presumptive positive  hantavirus test after outbreak",
-      "url": "https://nbc16.com/news/nation-world/canadian-mv-hondius-passenger-posts-presumptive-positive-hantavirus-test-after-outbreak-dr-bonnie-henry-national-microbiology-lab-covid-19-british-columbia",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WPDH",
-      "head": "New Yorker Gives Inside Look Of Secret Hantavirus Quarantine Room",
-      "url": "https://wpdh.com/ixp/854/p/inside-look-of-hantavirus-quarantine-room/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nzherald",
-      "head": "Inside the MV Hondius hantavirus outbreak : How a nature cruise turned into a nightmare",
-      "url": "https://www.nzherald.co.nz/world/inside-the-mv-hondius-hantavirus-outbreak-how-a-nature-cruise-turned-into-a-nightmare/premium/BKAS5FWFLNHTFB2USIPHCXVTHA/",
-      "loc": "New Zealand",
-      "lang": "English",
-      "tags": [
-        "English",
-        "New Zealand"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -820,14 +760,74 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Aplateia",
-      "head": " » Germano Rigotto – NOTÍCIAS DO DIA – ANO 10 n° 3466",
-      "url": "https://www.aplateia.com.br/2026/05/germano-rigotto-noticias-do-dia-ano-10-n-3466/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "STAT",
+      "head": "Ebola outbreak : Americans in Congo believed to have had exposure to suspected cases",
+      "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CDC",
+      "head": "Transcript - Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda , 5 / 17 / 2026",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-ebola-update-05-17-2026.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTOP",
+      "head": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
+      "url": "https://wtop.com/animals-pets/2026/05/unwanted-lab-rats-find-new-homes-and-are-adopted-thanks-to-an-argentine-organization/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abcnews",
+      "head": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
+      "url": "https://abcnews.com/Health/wireStory/unwanted-lab-rats-find-new-homes-adopted-argentine-133057784",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Therecord",
+      "head": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
+      "url": "https://www.therecord.com/life/unwanted-lab-rats-find-new-homes-and-are-adopted-thanks-to-an-argentine-organization/article_3899de9b-cb6c-5bc0-a2e8-07e2e9d610cf.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
       ],
       "live": true
     }
