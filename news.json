@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-05-18T19:57:55.590445+00:00",
+  "generated_at": "2026-05-18T21:18:32.194689+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 61,
+  "count": 62,
   "items": [
     {
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Gdnonline",
-      "head": "World News : Adult dies of hantavirus in Colorado , state health officials say",
-      "url": "https://www.gdnonline.com:443/Details/1395092/Adult-dies-of-hantavirus-in-Colorado,-state-health-officials-say",
+      "src": "Dnoticias",
+      "head": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado  ",
+      "url": "https://www.dnoticias.pt/2026/5/18/492469-hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mesabitribune",
+      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "url": "https://www.mesabitribune.com/ap/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_fa748847-ba41-5b3c-83e4-2dbd46bd2564.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WFMJ",
+      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "url": "https://www.wfmj.com/news/international/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_689195f6-4bf1-5a70-ae9a-e13eee9378ea.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +57,99 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Acidadeon",
-      "head": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
-      "url": "https://acidadeon.com/tudoep/tudo-saude/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia/",
+      "src": "Lewistownsentinel",
+      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks | News , Sports , Jobs",
+      "url": "https://www.lewistownsentinel.com/news/national-news-apwire/2026/05/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Economic Times",
+      "head": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-hit-liner-reaches-rotterdam-crew-being-quarantined-and-ship-disinfected/articleshow/131185057.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "The-Messenger",
+      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "url": "https://www.the-messenger.com/news/world/article_68ea73af-1139-528c-831b-58dd4473a11f.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Executivedigest",
+      "head": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado , diz OMS",
+      "url": "https://executivedigest.sapo.pt/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-oms/",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sbsun",
+      "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
+      "url": "https://www.sbsun.com/2026/05/18/africa-health-funding/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hindustan Times",
+      "head": "Ebola and hantavirus outbreaks sign of our  dangerou times : WHO",
+      "url": "https://www.hindustantimes.com/world-news/us-news/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who-101779129945419.html",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Agenciabrasil",
+      "head": "Navio com hantavírus chega a Roterdã ; tripulao fica em quarentena",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/navio-com-hantavirus-chega-roterda-tripulacao-fica-em-quarentena",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -42,9 +162,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Gdnonline",
-      "head": "World News : Adult dies of hantavirus in Colorado , state health officials say",
-      "url": "https://www.gdnonline.com:443/Details/1395092",
+      "src": "CJME",
+      "head": "Canadian hantavirus case confirmed at national laboratory",
+      "url": "https://www.cjme.com/2026/05/18/canadian-hantavirus-case-confirmed-at-national-laboratory/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Manilatimes",
+      "head": "Ebola and hantavirus outbreaks sign of our  dangerou times WHO",
+      "url": "https://www.manilatimes.net/2026/05/19/world/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who/2346584",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fortmorgantimes",
+      "head": "Argentina remote Ushuaia fears the hantavirus will chill tourism",
+      "url": "https://www.fortmorgantimes.com/2026/05/18/ushuaia-argentina-hantavirus-tourism/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,24 +207,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Otempo",
-      "head": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
-      "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/5/18/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thegazette",
-      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "url": "https://www.thegazette.com/news/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_a7a4e87a-82b5-5177-bac0-1490e10152f2.html",
+      "src": "Article",
+      "head": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
+      "url": "https://article.wn.com/view/2026/05/18/Hantavirushit_liner_reaches_Rotterdam_crew_being_quarantined_g/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,9 +222,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Chicagotribune",
-      "head": "Illinois resident with suspected case of hantavirus tests negative",
-      "url": "https://www.chicagotribune.com/2026/05/18/hantavirus-illinois-negative/",
+      "src": "Manilatimes",
+      "head": "Hantavirus - hit cruise ship nears end of voyage , to dock in Rotterdam",
+      "url": "https://www.manilatimes.net/2026/05/19/world/americas-emea/hantavirus-hit-cruise-ship-nears-end-of-voyage-to-dock-in-rotterdam/2345998",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSLA",
+      "head": "Man threatened mass shooting at Walmart if hantavirus outbreak led to lockdown , sheriff says",
+      "url": "https://www.ksla.com/2026/05/18/man-threatened-mass-shooting-walmart-if-hantavirus-outbreak-led-lockdown-sheriff-says/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -102,189 +252,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ocregister",
+      "src": "Abc7Chicago",
+      "head": "Is hantavirus in Illinois in 2026 ? CDC says it did not detect virus in possible case in Winnebago County",
+      "url": "https://abc7chicago.com/post/is-hantavirus-illinois-2026-cdc-says-did-not-detect-virus-possible-case-winnebago-county/19125491/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Article",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
+      "url": "https://article.wn.com/view/2026/05/18/Hantavirusstricken_cruise_ship_docks_in_the_Netherlands_for__3l/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theprovince",
+      "head": "Hantavirus - hit MV Hondius ship docks in Netherlands , to be disinfected",
+      "url": "https://theprovince.com/news/world/hantavirus-mv-hondius-ship-docks-netherlands/wcm/2a672411-503b-4659-b240-68b3e4867695",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Whittierdailynews",
       "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
-      "url": "https://www.ocregister.com/2026/05/18/africa-health-funding/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WRAL",
-      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "url": "https://www.wral.com/news/ap/7e166-argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1011Now",
-      "head": "Person in Colorado dies from Hantavirus not related to cruise ship outbreak",
-      "url": "https://www.1011now.com/2026/05/18/person-colorado-dies-hantavirus-not-related-cruise-ship-outbreak/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lazer1033",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-      "url": "https://lazer1033.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Channelstv",
-      "head": "Hantavirus - Hit Cruise Ship Ends Deadly Voyage",
-      "url": "https://www.channelstv.com/2026/05/18/hantavirus-hit-cruise-ship-ends-deadly-voyage/",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGRD",
-      "head": "Understanding The Hantavirus Risk After Recent Cruise Illnesses",
-      "url": "https://wgrd.com/ixp/45/p/hantavirus-andes-virus-update/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGNA",
-      "head": "New York State Hantavirus Panic Buying Claims Go Viral",
-      "url": "https://wgna.com/ixp/854/p/new-york-state-hantavirus-panic-buying/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBS12",
-      "head": "Cruise ship hit by deadly hantavirus outbreak docks in Netherlands for disinfection",
-      "url": "https://cbs12.com/news/nation-world/cruise-ship-mv-hondius-hit-by-deadly-hantavirus-outbreak-docks-in-netherlands-for-disinfection-dutch-port-rotterdam-quarantine-symptoms-andes-virus-rodent-droppings-world-health-organization-cdc",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Washingtonexaminer",
-      "head": "Colorado adult dies from hantavirus , but case not linked to cruise ship",
-      "url": "https://www.washingtonexaminer.com/policy/healthcare/4572614/colorado-adult-dies-hantavirus-cruise-ship/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Scientificamerican",
-      "head": "How scientists developed a hantavirus PCR test in a weekend",
-      "url": "https://www.scientificamerican.com/article/how-scientists-developed-a-hantavirus-pcr-test-in-a-weekend-inside-the-race-to-develop-a-hantavirus-pcr-test/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1017Chuckfm",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-      "url": "https://1017chuckfm.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Pasadenastarnews",
-      "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
-      "url": "https://www.pasadenastarnews.com/2026/05/18/africa-health-funding/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hawaiinewsnow",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-      "url": "https://www.hawaiinewsnow.com/2026/05/18/hantavirus-stricken-cruise-ship-docks-netherlands/",
+      "url": "https://www.whittierdailynews.com/2026/05/18/africa-health-funding/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -300,6 +315,20 @@
       "src": "CDC EID",
       "head": "Public Health Response to Toxigenic Respiratory Diphtheria Outbreaks at Correctional Facility, South Africa, 2023–2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1957_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-18",
+      "ts": "2026-05-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Association of Frailty and Frailty Trajectory with Risk for Respiratory Infectious Diseases",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1235_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -801,9 +830,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wsbradio",
-      "head": "Health emergency : Ebola outbreak strains African resources amid donor cuts",
-      "url": "https://www.wsbradio.com/news/world/ebola-hantavirus/NUMXJIVUVE2E7EG2LH72TQCN3U/",
+      "src": "Maritime-Executive",
+      "head": "Expedition Cruise Ship Hondius Arrives in Rotterdam to Begin Disinfection",
+      "url": "https://maritime-executive.com/article/expedition-cruise-ship-hondius-arrives-in-rotterdam-to-begin-disinfection",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -816,9 +845,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Townhall",
-      "head": "CDC Issues Entry Ban for Certain African Countries As WHO Declares Ebola Outbreak Health Emergency",
-      "url": "https://townhall.com/tipsheet/amy-curtis/2026/05/18/ebola-congo-n2676264",
+      "src": "Messenger-Inquirer",
+      "head": "AP News Summary at 3 : 32 p . m . EDT",
+      "url": "https://www.messenger-inquirer.com/ap/elections/ap-news-summary-at-3-32-p-m-edt/article_80181ae1-af0d-5c19-b819-60e200f48876.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -831,9 +860,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WJTN",
+      "src": "WKSN",
       "head": "Health News - Media One Radio Group ( WWSE | WJTN | WHUG | WKSN | WQFX",
-      "url": "https://wjtn.com/news-and-closings/health-headlines/5c1a3475b04ed1682d10950492419cde",
+      "url": "https://wksn.com/news-and-closings/health-headlines/5c1a3475b04ed1682d10950492419cde",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -846,9 +875,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox4News",
+      "src": "Fox5Dc",
       "head": "New study shows increase in cruise demand despite recent outbreaks",
-      "url": "https://www.fox4news.com/news/new-study-shows-increase-cruise-demand-despite-recent-outbreaks",
+      "url": "https://www.fox5dc.com/news/new-study-shows-increase-cruise-demand-despite-recent-outbreaks",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -861,29 +890,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Yahoo",
-      "head": "How is Ebola spread ? What to know about causes , symptoms",
-      "url": "https://www.yahoo.com/news/articles/ebola-spread-know-causes-symptoms-155041523.html",
+      "src": "Ecori",
+      "head": "Decades - Long Fever Grips Southern New England",
+      "url": "https://ecori.org/decades-long-fever-grips-southern-new-england/",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "US says American contracted Ebola in Congo as CDC announces new travel screening measures",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/us-ebola-virus-congo-uganda",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
       ],
       "live": true
     }
