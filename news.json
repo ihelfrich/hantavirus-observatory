@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-18T18:00:45.051216+00:00",
+  "generated_at": "2026-05-18T19:57:55.590445+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 61,
@@ -12,54 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Darlingtonandstocktontimes",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ledburyreporter",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.ledburyreporter.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Whtimes",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.whtimes.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cbsnews",
-      "head": "Hantavirus - hit cruise ship arrives in Netherlands",
-      "url": "https://www.cbsnews.com/news/hantavirus-hit-cruise-ship-arrives-in-netherlands/",
+      "src": "Gdnonline",
+      "head": "World News : Adult dies of hantavirus in Colorado , state health officials say",
+      "url": "https://www.gdnonline.com:443/Details/1395092/Adult-dies-of-hantavirus-in-Colorado,-state-health-officials-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thewestonmercury",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.thewestonmercury.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
+      "src": "Acidadeon",
+      "head": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
+      "url": "https://acidadeon.com/tudoep/tudo-saude/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "United Kingdom"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -87,39 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Independent",
-      "head": "MV Hondius : Cruise ship hit by Hantavirus outbreak arrives in Rotterdam , Netherlands for disinfection as it wraps up troubled journey",
-      "url": "https://www.independent.co.uk/news/world/europe/hantavirus-outbreak-mv-hondius-netherlands-rotterdam-b2978491.html",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Portnews",
-      "head": "Hantavirus - hit cruise ship arrives in the Netherlands",
-      "url": "https://www.portnews.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "FOX61",
-      "head": "Hantavirus - stricken cruise ship arrives in the Netherlands for disinfection",
-      "url": "https://www.fox61.com/article/news/nation-world/hantavirus-netherlands-mv-hondius/507-d9593bc9-d67d-492f-bfa8-85de82e9559a",
+      "src": "Gdnonline",
+      "head": "World News : Adult dies of hantavirus in Colorado , state health officials say",
+      "url": "https://www.gdnonline.com:443/Details/1395092",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -132,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Sthelensstar",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.sthelensstar.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
+      "src": "Otempo",
+      "head": "Hantavírus : veja as formas de transmissão e se há risco de pandemia",
+      "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/5/18/hantavirus-veja-as-formas-de-transmissao-e-se-ha-risco-de-pandemia",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "United Kingdom"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -147,39 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Goulburnpost",
-      "head": "Hantavirus - hit cruise ship arrives in the Netherlands",
-      "url": "https://www.goulburnpost.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Halesowennews",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.halesowennews.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBS19",
-      "head": "Hantavirus - stricken cruise ship arrives in the Netherlands for disinfection",
-      "url": "https://www.cbs19.tv/article/news/nation-world/hantavirus-netherlands-mv-hondius/507-d9593bc9-d67d-492f-bfa8-85de82e9559a",
+      "src": "Thegazette",
+      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "url": "https://www.thegazette.com/news/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_a7a4e87a-82b5-5177-bac0-1490e10152f2.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Oxfordmail",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.oxfordmail.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
+      "src": "Chicagotribune",
+      "head": "Illinois resident with suspected case of hantavirus tests negative",
+      "url": "https://www.chicagotribune.com/2026/05/18/hantavirus-illinois-negative/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     },
@@ -207,14 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theboltonnews",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.theboltonnews.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
+      "src": "Ocregister",
+      "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
+      "url": "https://www.ocregister.com/2026/05/18/africa-health-funding/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     },
@@ -222,14 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cyprus-Mail",
-      "head": "Hantavirus - hit cruise ship arrives at Rotterdam port as final destination",
-      "url": "https://cyprus-mail.com/2026/05/18/hantavirus-hit-cruise-ship-arrives-at-rotterdam-port-as-final-destination",
-      "loc": "Cyprus",
+      "src": "WRAL",
+      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "url": "https://www.wral.com/news/ap/7e166-argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Cyprus"
+        "United States"
       ],
       "live": true
     },
@@ -237,14 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Yoursourceone",
-      "head": "Cruise ship hit by hantavirus outbreak arrives in the Dutch port of Rotterdam for disinfection",
-      "url": "https://www.yoursourceone.com/news/national_news/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-the-dutch-port-of-rotterdam-for-disinfection/article_f8665ed2-4a95-5b8f-9de5-2425f82b6336.html",
-      "loc": "",
+      "src": "1011Now",
+      "head": "Person in Colorado dies from Hantavirus not related to cruise ship outbreak",
+      "url": "https://www.1011now.com/2026/05/18/person-colorado-dies-hantavirus-not-related-cruise-ship-outbreak/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United States"
       ],
       "live": true
     },
@@ -252,39 +147,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bordermail",
-      "head": "Hantavirus - hit cruise ship arrives in the Netherlands",
-      "url": "https://www.bordermail.com.au/story/9249050/hantavirus-hit-cruise-ship-arrives-in-the-netherlands/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Heraldseries",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.heraldseries.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "News-Gazette",
+      "src": "Lazer1033",
       "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-      "url": "https://www.news-gazette.com/news/nation-world/hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/article_cb426a70-8787-5578-8bbe-51ee58af987d.html",
+      "url": "https://lazer1033.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -297,9 +162,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox17Online",
-      "head": "How likely is a hantavirus pandemic ? West MI expert weighs in",
-      "url": "https://www.fox17online.com/news/morning-news/how-likely-is-a-hantavirus-pandemic-west-mi-expert-weighs-in",
+      "src": "Channelstv",
+      "head": "Hantavirus - Hit Cruise Ship Ends Deadly Voyage",
+      "url": "https://www.channelstv.com/2026/05/18/hantavirus-hit-cruise-ship-ends-deadly-voyage/",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGRD",
+      "head": "Understanding The Hantavirus Risk After Recent Cruise Illnesses",
+      "url": "https://wgrd.com/ixp/45/p/hantavirus-andes-virus-update/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -312,14 +192,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Milfordmercury",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.milfordmercury.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
+      "src": "WGNA",
+      "head": "New York State Hantavirus Panic Buying Claims Go Viral",
+      "url": "https://wgna.com/ixp/854/p/new-york-state-hantavirus-panic-buying/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     },
@@ -327,14 +207,89 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Northwichguardian",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://www.northwichguardian.co.uk/news/national/26115232.hantavirus-stricken-cruise-ship-docks-netherlands/",
-      "loc": "United Kingdom",
+      "src": "CBS12",
+      "head": "Cruise ship hit by deadly hantavirus outbreak docks in Netherlands for disinfection",
+      "url": "https://cbs12.com/news/nation-world/cruise-ship-mv-hondius-hit-by-deadly-hantavirus-outbreak-docks-in-netherlands-for-disinfection-dutch-port-rotterdam-quarantine-symptoms-andes-virus-rodent-droppings-world-health-organization-cdc",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Washingtonexaminer",
+      "head": "Colorado adult dies from hantavirus , but case not linked to cruise ship",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/4572614/colorado-adult-dies-hantavirus-cruise-ship/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Scientificamerican",
+      "head": "How scientists developed a hantavirus PCR test in a weekend",
+      "url": "https://www.scientificamerican.com/article/how-scientists-developed-a-hantavirus-pcr-test-in-a-weekend-inside-the-race-to-develop-a-hantavirus-pcr-test/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "1017Chuckfm",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
+      "url": "https://1017chuckfm.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pasadenastarnews",
+      "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
+      "url": "https://www.pasadenastarnews.com/2026/05/18/africa-health-funding/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hawaiinewsnow",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
+      "url": "https://www.hawaiinewsnow.com/2026/05/18/hantavirus-stricken-cruise-ship-docks-netherlands/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -846,9 +801,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Semissourian",
-      "head": "Argentina icy outpost at the end of the world fears the ha ... ",
-      "url": "https://www.semissourian.com/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism-c4398908",
+      "src": "Wsbradio",
+      "head": "Health emergency : Ebola outbreak strains African resources amid donor cuts",
+      "url": "https://www.wsbradio.com/news/world/ebola-hantavirus/NUMXJIVUVE2E7EG2LH72TQCN3U/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -861,14 +816,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "DNES",
-      "head": "Круизният кораб , заразен с хантавирус , пристигна в Ротердам",
-      "url": "https://www.dnes.bg/a/2-svyat/721775-kruizniyat-korab-zarazen-s-hantavirus-pristigna-v-roterdam",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
+      "src": "Townhall",
+      "head": "CDC Issues Entry Ban for Certain African Countries As WHO Declares Ebola Outbreak Health Emergency",
+      "url": "https://townhall.com/tipsheet/amy-curtis/2026/05/18/ebola-congo-n2676264",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Bulgarian",
-        "Bulgaria"
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -876,14 +831,59 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manager",
-      "head": "Круизният кораб с огнище на хантавирус пристига в Нидерландия",
-      "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kruizniat-korab-s-ogniste-na-hantavirus-pristiga-v-niderlandia",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
+      "src": "WJTN",
+      "head": "Health News - Media One Radio Group ( WWSE | WJTN | WHUG | WKSN | WQFX",
+      "url": "https://wjtn.com/news-and-closings/health-headlines/5c1a3475b04ed1682d10950492419cde",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Bulgarian",
-        "Bulgaria"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox4News",
+      "head": "New study shows increase in cruise demand despite recent outbreaks",
+      "url": "https://www.fox4news.com/news/new-study-shows-increase-cruise-demand-despite-recent-outbreaks",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "How is Ebola spread ? What to know about causes , symptoms",
+      "url": "https://www.yahoo.com/news/articles/ebola-spread-know-causes-symptoms-155041523.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "US says American contracted Ebola in Congo as CDC announces new travel screening measures",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/us-ebola-virus-congo-uganda",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
       ],
       "live": true
     }
