@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-19T11:41:10.788482+00:00",
+  "generated_at": "2026-05-19T15:20:25.492180+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 62,
+  "count": 63,
   "items": [
     {
       "time": "—",
@@ -110,6 +110,20 @@
       "tags": [
         "English",
         "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-19",
+      "ts": "2026-05-19T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Neisseria gonorrhoeae Sequence Type 16676 in Disseminated Infections, Minnesota, USA, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0126_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
