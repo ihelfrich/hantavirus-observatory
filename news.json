@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-19T17:43:57.511745+00:00",
+  "generated_at": "2026-05-19T19:52:16.779335+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 63,
+  "count": 64,
   "items": [
     {
       "time": "—",
@@ -120,6 +120,20 @@
       "src": "CDC EID",
       "head": "Neisseria gonorrhoeae Sequence Type 16676 in Disseminated Infections, Minnesota, USA, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0126_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-19",
+      "ts": "2026-05-19T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Phormia regina Fly as Vector for Ignatzschineria spp. Bacteremia in Persons Experiencing Homelessness, Canada, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1914_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
