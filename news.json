@@ -1,13 +1,223 @@
 {
-  "generated_at": "2026-05-18T22:32:42.091125+00:00",
+  "generated_at": "2026-05-19T00:06:21.300223+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 62,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theconversation",
+      "head": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness",
+      "url": "https://theconversation.com/the-hantavirus-outbreak-is-the-warning-the-world-needs-to-improve-pandemic-preparedness-282717",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
+      "url": "https://www.yahoo.com/news/articles/canada-confirms-hantavirus-case-linked-021733980.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jamaicaobserver",
+      "head": "Ebola and hantavirus outbreaks sign of our  dangerou times WHO",
+      "url": "https://www.jamaicaobserver.com/2026/05/18/ebola-hantavirus-outbreaks-sign-dangerous-times/",
+      "loc": "Jamaica",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Jamaica"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Akronnewsreporter",
+      "head": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
+      "url": "https://www.akronnewsreporter.com/2026/05/18/hantavirus-cruise-travel-demand/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fortmorgantimes",
+      "head": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
+      "url": "https://www.fortmorgantimes.com/2026/05/18/hantavirus-cruise-travel-demand/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WRDW",
+      "head": "2 patients moved from Georgia to hantavirus quarantine in Nebraska",
+      "url": "https://www.wrdw.com/2026/05/18/2-patients-moved-georgia-hantavirus-quarantine-nebraska/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KJCT8",
+      "head": "Health leaders offer safety tips after Colorado hantavirus death",
+      "url": "https://www.kjct8.com/2026/05/18/health-leaders-offer-safety-tips-after-colorado-hantavirus-death/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "Hantavírus e ébola são crises de  mundo conturbado  ",
+      "url": "https://sapo.pt/artigo/hantavirus-e-ebola-sao-crises-de-mundo-conturbado-6a0b9748fbe134a3c1bc0ee4",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Miragenews",
+      "head": "Hantavirus Outbreak Signals Need for Pandemic Prep",
+      "url": "https://www.miragenews.com/hantavirus-outbreak-signals-need-for-pandemic-1675803/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Capitalgazette",
+      "head": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
+      "url": "https://www.capitalgazette.com/2026/05/18/hantavirus-cruise-travel-demand/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theweek",
+      "head": "Hantavirus : Are we ready for another pandemic ? ",
+      "url": "https://theweek.com/health/hantavirus-are-we-ready-for-another-pandemic",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bear953",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
+      "url": "https://bear953.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "English",
+      "head": "Hantavirus case confirmed in Romania - Xinhua",
+      "url": "https://english.news.cn/europe/20260519/f6fcc5a5bf744bec99cdff055c1089e1/c.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kkco11News",
+      "head": "Health leaders offer safety tips after Colorado hantavirus death",
+      "url": "https://www.kkco11news.com/2026/05/18/health-leaders-offer-safety-tips-after-colorado-hantavirus-death/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -60,246 +270,6 @@
       "src": "Lewistownsentinel",
       "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks | News , Sports , Jobs",
       "url": "https://www.lewistownsentinel.com/news/national-news-apwire/2026/05/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Economic Times",
-      "head": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-hit-liner-reaches-rotterdam-crew-being-quarantined-and-ship-disinfected/articleshow/131185057.cms",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "The-Messenger",
-      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "url": "https://www.the-messenger.com/news/world/article_68ea73af-1139-528c-831b-58dd4473a11f.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Executivedigest",
-      "head": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado , diz OMS",
-      "url": "https://executivedigest.sapo.pt/hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado-oms/",
-      "loc": "",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sbsun",
-      "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
-      "url": "https://www.sbsun.com/2026/05/18/africa-health-funding/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hindustan Times",
-      "head": "Ebola and hantavirus outbreaks sign of our  dangerou times : WHO",
-      "url": "https://www.hindustantimes.com/world-news/us-news/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who-101779129945419.html",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Agenciabrasil",
-      "head": "Navio com hantavírus chega a Roterdã ; tripulao fica em quarentena",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/navio-com-hantavirus-chega-roterda-tripulacao-fica-em-quarentena",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CJME",
-      "head": "Canadian hantavirus case confirmed at national laboratory",
-      "url": "https://www.cjme.com/2026/05/18/canadian-hantavirus-case-confirmed-at-national-laboratory/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Manilatimes",
-      "head": "Ebola and hantavirus outbreaks sign of our  dangerou times WHO",
-      "url": "https://www.manilatimes.net/2026/05/19/world/ebola-and-hantavirus-outbreaks-sign-of-our-dangerous-times-who/2346584",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fortmorgantimes",
-      "head": "Argentina remote Ushuaia fears the hantavirus will chill tourism",
-      "url": "https://www.fortmorgantimes.com/2026/05/18/ushuaia-argentina-hantavirus-tourism/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Article",
-      "head": "Hantavirus - hit liner reaches Rotterdam , crew being quarantined and ship disinfected",
-      "url": "https://article.wn.com/view/2026/05/18/Hantavirushit_liner_reaches_Rotterdam_crew_being_quarantined_g/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Manilatimes",
-      "head": "Hantavirus - hit cruise ship nears end of voyage , to dock in Rotterdam",
-      "url": "https://www.manilatimes.net/2026/05/19/world/americas-emea/hantavirus-hit-cruise-ship-nears-end-of-voyage-to-dock-in-rotterdam/2345998",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KSLA",
-      "head": "Man threatened mass shooting at Walmart if hantavirus outbreak led to lockdown , sheriff says",
-      "url": "https://www.ksla.com/2026/05/18/man-threatened-mass-shooting-walmart-if-hantavirus-outbreak-led-lockdown-sheriff-says/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc7Chicago",
-      "head": "Is hantavirus in Illinois in 2026 ? CDC says it did not detect virus in possible case in Winnebago County",
-      "url": "https://abc7chicago.com/post/is-hantavirus-illinois-2026-cdc-says-did-not-detect-virus-possible-case-winnebago-county/19125491/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Article",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-      "url": "https://article.wn.com/view/2026/05/18/Hantavirusstricken_cruise_ship_docks_in_the_Netherlands_for__3l/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theprovince",
-      "head": "Hantavirus - hit MV Hondius ship docks in Netherlands , to be disinfected",
-      "url": "https://theprovince.com/news/world/hantavirus-mv-hondius-ship-docks-netherlands/wcm/2a672411-503b-4659-b240-68b3e4867695",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Whittierdailynews",
-      "head": "Ebola , hantavirus have Africa talking health sovereignty as aid fades",
-      "url": "https://www.whittierdailynews.com/2026/05/18/africa-health-funding/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -830,69 +800,99 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "WRDW",
+      "head": "What to know about Georgia crackdown to enforce seat - belt laws",
+      "url": "https://www.wrdw.com/2026/05/18/what-know-about-georgias-crackdown-enforce-seat-belt-laws/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Channelstv",
+      "head": "US To Screen For Ebola At Airports",
+      "url": "https://www.channelstv.com/2026/05/18/us-to-screen-for-ebola-at-airports/",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SCMP",
+      "head": "Editorial | Hong Kong shares its public health bona fides with global investors",
+      "url": "https://www.scmp.com/opinion/comment/article/3353944/hong-kong-shares-its-public-health-bona-fides-global-investors",
+      "loc": "China",
+      "lang": "English",
+      "tags": [
+        "English",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theworld",
+      "head": "Zoonotic diseases : animal to human viruses are spreading",
+      "url": "https://theworld.org/segments/2026/05/18/zoonotic-diseases-animal-to-human-viruses-are-spreading",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox10Phoenix",
+      "head": "New study shows increase in cruise demand despite recent outbreaks",
+      "url": "https://www.fox10phoenix.com/news/new-study-shows-increase-cruise-demand-despite-recent-outbreaks",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SBS",
+      "head": "Iran shares renewed peace proposal with US | Morning News Bulletin 19 May 2026",
+      "url": "https://www.sbs.com.au/news/podcast-episode/iran-shares-renewed-peace-proposal-with-us-morning-news-bulletin-19-may-2026/250puqoe9",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Maritime-Executive",
       "head": "Expedition Cruise Ship Hondius Arrives in Rotterdam to Begin Disinfection",
       "url": "https://maritime-executive.com/article/expedition-cruise-ship-hondius-arrives-in-rotterdam-to-begin-disinfection",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Messenger-Inquirer",
-      "head": "AP News Summary at 3 : 32 p . m . EDT",
-      "url": "https://www.messenger-inquirer.com/ap/elections/ap-news-summary-at-3-32-p-m-edt/article_80181ae1-af0d-5c19-b819-60e200f48876.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WKSN",
-      "head": "Health News - Media One Radio Group ( WWSE | WJTN | WHUG | WKSN | WQFX",
-      "url": "https://wksn.com/news-and-closings/health-headlines/5c1a3475b04ed1682d10950492419cde",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox5Dc",
-      "head": "New study shows increase in cruise demand despite recent outbreaks",
-      "url": "https://www.fox5dc.com/news/new-study-shows-increase-cruise-demand-despite-recent-outbreaks",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ecori",
-      "head": "Decades - Long Fever Grips Southern New England",
-      "url": "https://ecori.org/decades-long-fever-grips-southern-new-england/",
       "loc": "United States",
       "lang": "English",
       "tags": [
