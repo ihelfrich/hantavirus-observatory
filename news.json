@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-19T04:42:23.221503+00:00",
+  "generated_at": "2026-05-19T08:27:54.006504+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 62,
@@ -12,14 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theconversation",
-      "head": "The hantavirus outbreak is the warning the world needs to improve pandemic preparedness",
-      "url": "https://theconversation.com/the-hantavirus-outbreak-is-the-warning-the-world-needs-to-improve-pandemic-preparedness-282717",
-      "loc": "Australia",
+      "src": "Taipeitimes",
+      "head": "Keelung reports suspected hantavirus case",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/19/2003857608",
+      "loc": "Taiwan",
       "lang": "English",
       "tags": [
         "English",
-        "Australia"
+        "Taiwan"
       ],
       "live": true
     },
@@ -27,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Yahoo",
-      "head": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
-      "url": "https://www.yahoo.com/news/articles/canada-confirms-hantavirus-case-linked-021733980.html",
-      "loc": "United States",
+      "src": "Allafrica",
+      "head": "Africa : Hantavirus in Africa - Why Climate Change , Rats and Weak Surveillance Are Worrying Scientists",
+      "url": "https://allafrica.com/stories/202605190005.html",
+      "loc": "Nigeria",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Nigeria"
       ],
       "live": true
     },
@@ -42,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Jamaicaobserver",
-      "head": "Ebola and hantavirus outbreaks sign of our  dangerou times WHO",
-      "url": "https://www.jamaicaobserver.com/2026/05/18/ebola-hantavirus-outbreaks-sign-dangerous-times/",
-      "loc": "Jamaica",
+      "src": "Straitstimes",
+      "head": "Bali increases surveillance for hantavirus",
+      "url": "https://www.straitstimes.com/asia/se-asia/bali-increases-surveillance-for-hantavirus",
+      "loc": "Singapore",
       "lang": "English",
       "tags": [
         "English",
-        "Jamaica"
+        "Singapore"
       ],
       "live": true
     },
@@ -57,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Akronnewsreporter",
-      "head": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
-      "url": "https://www.akronnewsreporter.com/2026/05/18/hantavirus-cruise-travel-demand/",
-      "loc": "United States",
+      "src": "Budapesttimes",
+      "head": "Minister says no reason for hantavirus panic - The Budapest Times",
+      "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
+      "loc": "Hungary",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Hungary"
       ],
       "live": true
     },
@@ -72,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fortmorgantimes",
-      "head": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
-      "url": "https://www.fortmorgantimes.com/2026/05/18/hantavirus-cruise-travel-demand/",
-      "loc": "United States",
+      "src": "Focustaiwan",
+      "head": "Suspected hantavirus case reported in Keelung",
+      "url": "https://focustaiwan.tw/society/202605190007",
+      "loc": "Taiwan",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Taiwan"
       ],
       "live": true
     },
@@ -87,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WRDW",
-      "head": "2 patients moved from Georgia to hantavirus quarantine in Nebraska",
-      "url": "https://www.wrdw.com/2026/05/18/2-patients-moved-georgia-hantavirus-quarantine-nebraska/",
-      "loc": "United States",
+      "src": "Focustaiwan",
+      "head": "Suspected hantavirus case reported in Keelung",
+      "url": "https://focustaiwan.tw:443/society/202605190007",
+      "loc": "Taiwan",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Taiwan"
       ],
       "live": true
     },
@@ -102,179 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KJCT8",
-      "head": "Health leaders offer safety tips after Colorado hantavirus death",
-      "url": "https://www.kjct8.com/2026/05/18/health-leaders-offer-safety-tips-after-colorado-hantavirus-death/",
-      "loc": "United States",
+      "src": "Allafrica",
+      "head": "Africa : WHO Assembly Opens Under Shadow of Ebola , Hantavirus and Funding Cuts",
+      "url": "https://allafrica.com/stories/202605190016.html",
+      "loc": "Nigeria",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Hantavírus e ébola são crises de  mundo conturbado  ",
-      "url": "https://sapo.pt/artigo/hantavirus-e-ebola-sao-crises-de-mundo-conturbado-6a0b9748fbe134a3c1bc0ee4",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Miragenews",
-      "head": "Hantavirus Outbreak Signals Need for Pandemic Prep",
-      "url": "https://www.miragenews.com/hantavirus-outbreak-signals-need-for-pandemic-1675803/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Capitalgazette",
-      "head": "Demand for cruises appears undimmed despite hantavirus , other outbreaks",
-      "url": "https://www.capitalgazette.com/2026/05/18/hantavirus-cruise-travel-demand/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theweek",
-      "head": "Hantavirus : Are we ready for another pandemic ? ",
-      "url": "https://theweek.com/health/hantavirus-are-we-ready-for-another-pandemic",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bear953",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands for disinfection",
-      "url": "https://bear953.com/news/030030-hantavirus-stricken-cruise-ship-docks-in-the-netherlands-for-disinfection/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "English",
-      "head": "Hantavirus case confirmed in Romania - Xinhua",
-      "url": "https://english.news.cn/europe/20260519/f6fcc5a5bf744bec99cdff055c1089e1/c.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kkco11News",
-      "head": "Health leaders offer safety tips after Colorado hantavirus death",
-      "url": "https://www.kkco11news.com/2026/05/18/health-leaders-offer-safety-tips-after-colorado-hantavirus-death/",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dnoticias",
-      "head": "Hantavírus e ébola  são as crises mais recentes no mundo conturbado  ",
-      "url": "https://www.dnoticias.pt/2026/5/18/492469-hantavirus-e-ebola-sao-as-crises-mais-recentes-no-mundo-conturbado/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mesabitribune",
-      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "url": "https://www.mesabitribune.com/ap/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_fa748847-ba41-5b3c-83e4-2dbd46bd2564.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WFMJ",
-      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "url": "https://www.wfmj.com/news/international/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_689195f6-4bf1-5a70-ae9a-e13eee9378ea.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lewistownsentinel",
-      "head": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks | News , Sports , Jobs",
-      "url": "https://www.lewistownsentinel.com/news/national-news-apwire/2026/05/demand-for-cruises-appears-undimmed-despite-hantavirus-and-other-onboard-outbreaks/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "Nigeria"
       ],
       "live": true
     },
@@ -800,14 +635,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WRDW",
-      "head": "What to know about Georgia crackdown to enforce seat - belt laws",
-      "url": "https://www.wrdw.com/2026/05/18/what-know-about-georgias-crackdown-enforce-seat-belt-laws/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Dnoticias",
+      "head": "Especialistas alertam que mundo está menos preparado para nova pandemia",
+      "url": "https://www.dnoticias.pt/2026/5/19/492505-especialistas-alertam-que-mundo-esta-menos-preparado-para-nova-pandemia/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "United States"
+        "Portuguese",
+        "Portugal"
       ],
       "live": true
     },
@@ -815,14 +650,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Channelstv",
-      "head": "US To Screen For Ebola At Airports",
-      "url": "https://www.channelstv.com/2026/05/18/us-to-screen-for-ebola-at-airports/",
-      "loc": "Nigeria",
-      "lang": "English",
+      "src": "Dariknews",
+      "head": "Тихата заплаха хантавирус : има ли повод за тревога у нас ? ",
+      "url": "https://dariknews.bg/novini/bylgariia/tihata-zaplaha-hantavirus-ima-li-povod-za-trevoga-u-nas-2455375",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "English",
-        "Nigeria"
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     },
@@ -830,13 +665,28 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SCMP",
-      "head": "Editorial | Hong Kong shares its public health bona fides with global investors",
-      "url": "https://www.scmp.com/opinion/comment/article/3353944/hong-kong-shares-its-public-health-bona-fides-global-investors",
+      "src": "Chinatimes",
+      "head": "台灣累計3例 「 首爾型漢他 」 疾管署曝全國機場港埠鼠陽性率5 ％ - 生活",
+      "url": "https://www.chinatimes.com/realtimenews/20260519002792-260405",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Singtaousa",
+      "head": "阿根廷烏斯懷亞漢他病毒疑雲衝擊南極郵輪旅遊 ， 業者憂心訂單取消",
+      "url": "https://www.singtaousa.com/2026/05/18/news/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/",
       "loc": "China",
-      "lang": "English",
+      "lang": "Chinese",
       "tags": [
-        "English",
+        "Chinese",
         "China"
       ],
       "live": true
@@ -845,14 +695,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theworld",
-      "head": "Zoonotic diseases : animal to human viruses are spreading",
-      "url": "https://theworld.org/segments/2026/05/18/zoonotic-diseases-animal-to-human-viruses-are-spreading",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Larioja",
+      "head": "Sylvia Sastre : Ciencia o ideología",
+      "url": "https://www.larioja.com/opinion/sylvia-sastre-ciencia-ideologia-20260519223702-nt.html",
+      "loc": "Spain",
+      "lang": "Spanish",
       "tags": [
-        "English",
-        "United States"
+        "Spanish",
+        "Spain"
       ],
       "live": true
     },
@@ -860,14 +710,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox10Phoenix",
-      "head": "New study shows increase in cruise demand despite recent outbreaks",
-      "url": "https://www.fox10phoenix.com/news/new-study-shows-increase-cruise-demand-despite-recent-outbreaks",
-      "loc": "United States",
-      "lang": "English",
+      "src": "UDN",
+      "head": "國內第三例漢他病毒 疾管署公布基因定序為首爾型病毒 不會人傳人 | 生活新聞 | 生活",
+      "url": "https://udn.com/news/story/7266/9512156",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "English",
-        "United States"
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -875,14 +725,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SBS",
-      "head": "Iran shares renewed peace proposal with US | Morning News Bulletin 19 May 2026",
-      "url": "https://www.sbs.com.au/news/podcast-episode/iran-shares-renewed-peace-proposal-with-us-morning-news-bulletin-19-may-2026/250puqoe9",
-      "loc": "Australia",
-      "lang": "English",
+      "src": "Chinatimes",
+      "head": "北部漢他病毒確診再＋1 疾管署 ： 檢驗為首爾病毒致死率15 ％ - 生活",
+      "url": "https://www.chinatimes.com/realtimenews/20260519002606-260405",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "English",
-        "Australia"
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -890,14 +740,164 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Maritime-Executive",
-      "head": "Expedition Cruise Ship Hondius Arrives in Rotterdam to Begin Disinfection",
-      "url": "https://maritime-executive.com/article/expedition-cruise-ship-hondius-arrives-in-rotterdam-to-begin-disinfection",
-      "loc": "United States",
+      "src": "Surinenglish",
+      "head": "Malaga doctors call new rally against working conditions",
+      "url": "https://www.surinenglish.com/malaga/malaga-city/malaga-doctors-call-new-rally-against-working-20260518082448-nt.html",
+      "loc": "Spain",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Spain"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UDN",
+      "head": "被鼠咬傷染漢他 基隆衛生局 ： 現場連3天捕鼠 補足環境病毒監測資訊 | 生活新聞 | 生活",
+      "url": "https://udn.com/news/story/7266/9512144",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Epochtimes",
+      "head": "新北第二例漢他病毒 侯友宜 ： 全市將二次清消 | 基隆 | 新北 | 漢他病毒",
+      "url": "http://www.epochtimes.com.tw/n503493/%E6%96%B0%E5%8C%97%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%BC%A2%E4%BB%96%E7%97%85%E6%AF%92-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E5%85%A8%E5%B8%82%E5%B0%87%E4%BA%8C%E6%AC%A1%E6%B8%85%E6%B6%88.html",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Focustaiwan",
+      "head": "Taiwan exclusion from WHA a  global crisi : Health minister",
+      "url": "https://focustaiwan.tw:443/politics/202605190008",
+      "loc": "Taiwan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "林口男基隆染漢他 疫調匡列11人無症狀監測至7 / 1 | 生活",
+      "url": "https://www.cna.com.tw:443/news/ahel/202605190111.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "侯友宜 ： 漢他病毒個案住家林口 全市將2次大清消 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202605190070.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ettoday",
+      "head": "基隆爆漢他病毒個案 「 住院治療中 」 市府 ： 1 、 2天就可出院 | ETtoday生活新聞",
+      "url": "https://www.ettoday.net/news/20260519/3168337.htm",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "男子基隆職場滅鼠遭咬 疑染漢他病毒輕症恢復良好 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202605190084.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chinatimes",
+      "head": "基隆傳漢他病毒感染 綠議員籲清消外 應強化防疫及宣傳 - 寶島",
+      "url": "https://www.chinatimes.com/realtimenews/20260519002411-260421",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Focustaiwan",
+      "head": "Taiwan exclusion from WHA a  global crisi : Health minister",
+      "url": "https://focustaiwan.tw/politics/202605190008",
+      "loc": "Taiwan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "基隆爆漢他病毒案例 市議員批防疫慢半拍 - 基隆市",
+      "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5441956",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     }
