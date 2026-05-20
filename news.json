@@ -1,13 +1,118 @@
 {
-  "generated_at": "2026-05-20T11:28:00.486155+00:00",
+  "generated_at": "2026-05-20T14:07:09.010927+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 64,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGAL",
+      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
+      "url": "https://www.wgal.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EM",
+      "head": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
+      "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cubaheadlines",
+      "head": "Cuban Hospital Overrun with Rats Amid Hantavirus Concerns",
+      "url": "https://www.cubaheadlines.com/articles/329762",
+      "loc": "Cuba",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Cuba"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WJCL",
+      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
+      "url": "https://www.wjcl.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WESH",
+      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
+      "url": "https://www.wesh.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WYFF4",
+      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
+      "url": "https://www.wyff4.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SOL",
+      "head": "Primeiro caso suspeito de hantavírus em Portugal mobilizou hospitais em Lisboa",
+      "url": "https://sol.iol.pt/sociedade/noticias/primeiro-caos-suspeito-de-hantavirus-em-portugal-mobilizou-hospitais-em-lisboa/20260520/6a0d811e0cf21fcd83774d02",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -95,186 +200,6 @@
       "tags": [
         "English",
         "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Saltlakecitysun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.saltlakecitysun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Torontotelegraph",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.torontotelegraph.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dallassun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.dallassun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cincinnatisun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.cincinnatisun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Afghanistansun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.afghanistansun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "Afghanistan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Afghanistan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "RTE",
-      "head": "From  Covid 2 . 0  to  crisis actor : How hantavirus myths spread",
-      "url": "https://www.rte.ie/news/primetime/2026/0520/1574100-hantavirus-myths-spread/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Respublika",
-      "head": "Nesąmonės apie hantavirusą",
-      "url": "https://www.respublika.lt/lt/naujienos/pasaulis/kitos_pasaulio_naujienos/nesamones-apie-hantavirusa/",
-      "loc": "Lithuania",
-      "lang": "Lithuanian",
-      "tags": [
-        "Lithuanian",
-        "Lithuania"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Milwaukeesun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.milwaukeesun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nashvilleherald",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.nashvilleherald.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Africaleader",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.africaleader.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Taiwansun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.taiwansun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "China",
-      "lang": "English",
-      "tags": [
-        "English",
-        "China"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Zimbabwestar",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.zimbabwestar.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "Zimbabwe",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Zimbabwe"
       ],
       "live": true
     },
@@ -828,6 +753,126 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "AOL",
+      "head": "Queen pulls  superb  pint of Guinness in Northern Ireland",
+      "url": "https://www.aol.co.uk/articles/queen-pulls-superb-pint-guinness-123826280.html",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ensonhaber",
+      "head": "DSÖ : Ebola salgınının bölgesel riski yüksek",
+      "url": "https://www.ensonhaber.com/dso-ebola-salgininin-bolgesel-riski-yuksek-h1535967",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Indianexpress",
+      "head": "UPSC Prelims 2026 Revision Checklist : Science and Technology",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-top-35-science-and-technology-topics-10699091/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CHIP",
+      "head": "Aşısı ve tedavisi yok : Ebola sınırları aşınca acil durum ilan edildi",
+      "url": "https://www.chip.com.tr/guncel/asisi-ve-tedavisi-yok-ebola-sinirlari-asinca-acil-durum-ilan-edildi_180441.html",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Laopiniondemurcia",
+      "head": "Insolidaridad",
+      "url": "https://www.laopiniondemurcia.es/opinion/2026/05/20/insolidaridad-130446144.html",
+      "loc": "Spain",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Spain"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arabic",
+      "head": "كارثة فوكوشيما  تخلق  خنازير  خارقة  تثير قلق العلماء",
+      "url": "https://arabic.rt.com/technology/1791063-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%88%D9%83%D9%88%D8%B4%D9%8A%D9%85%D8%A7-%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D9%82%D8%A9-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1/",
+      "loc": "Russia",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Russia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nakedcapitalism",
+      "head": "Links 5 / 20 / 2026 | naked capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-20-2026.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "基隆首例專家到府勘查 揪廚房排煙管未封堵恐引鼠 | 地方",
+      "url": "https://www.cna.com.tw/news/aloc/202605200277.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Nbcpalmsprings",
       "head": "CDC Enacts Mandatory Federal Quarantines in Nebraska as American Doctor Contracts Ebola in Overlapping Health Crises",
       "url": "https://www.nbcpalmsprings.com/2026/05/19/cdc-enacts-mandatory-federal-quarantines-in-nebraska-as-american-doctor-contracts-ebola-in-overlapping-health-crises",
@@ -881,51 +926,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Stomp",
-      "head": "Rat sighting at Kampung Admiralty eatery",
-      "url": "https://www.stomp.sg/trending-now/rat-spotted-crawling-kampung-admiralty-eatery-netizens-disgusted-they-are-everywhere",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diena",
-      "head": "Šogad četros mēnešos Latvijā reģistrēti deviņi leptospirozes gadījumi",
-      "url": "https://www.diena.lv/raksts/latvija/zinas/sogad-cetros-menesos-latvija-registreti-devini-leptospirozes-gadijumi-14352076",
-      "loc": "Latvia",
-      "lang": "Latvian",
-      "tags": [
-        "Latvian",
-        "Latvia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "影 ／ 基隆專業抓鼠首出動民宅驚見老鼠 查出抽油煙機煙管縫隙入侵 | 基宜花東 | 地方",
-      "url": "https://udn.com/news/story/7328/9514846",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
       ],
       "live": true
     }
