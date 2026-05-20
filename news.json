@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-20T08:26:06.844541+00:00",
+  "generated_at": "2026-05-20T11:28:00.486155+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 64,
@@ -12,14 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Taipeitimes",
-      "head": "Keelung reports suspected hantavirus case",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/19/2003857608",
-      "loc": "Taiwan",
-      "lang": "English",
+      "src": "Oglobo",
+      "head": "Ebola , hantavírus : qual o risco dos novos surtos virarem uma pandemia ? Especialistas explicam",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/05/20/ebola-hantavirus-qual-o-risco-dos-novos-surtos-virarem-uma-pandemia-especialistas-explicam.ghtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "Taiwan"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -27,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Allafrica",
-      "head": "Africa : Hantavirus in Africa - Why Climate Change , Rats and Weak Surveillance Are Worrying Scientists",
-      "url": "https://allafrica.com/stories/202605190005.html",
-      "loc": "Nigeria",
-      "lang": "English",
+      "src": "Sabado",
+      "head": "Primeiro caso suspeito de hantavírus em Portugal testa negativo",
+      "url": "http://www.sabado.pt/ciencia---saude/detalhe/primeiro-caso-suspeito-de-hantavirus-em-portugal-testa-negativo",
+      "loc": "Portugal",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "Nigeria"
+        "Portuguese",
+        "Portugal"
       ],
       "live": true
     },
@@ -42,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Straitstimes",
-      "head": "Bali increases surveillance for hantavirus",
-      "url": "https://www.straitstimes.com/asia/se-asia/bali-increases-surveillance-for-hantavirus",
-      "loc": "Singapore",
+      "src": "Ohiostandard",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.ohiostandard.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Singapore"
+        "United States"
       ],
       "live": true
     },
@@ -57,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Budapesttimes",
-      "head": "Minister says no reason for hantavirus panic - The Budapest Times",
-      "url": "https://www.budapesttimes.hu/health/minister-says-no-reason-for-hantavirus-panic/",
-      "loc": "Hungary",
+      "src": "Albuquerqueexpress",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.albuquerqueexpress.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Hungary"
+        "United States"
       ],
       "live": true
     },
@@ -72,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Focustaiwan",
-      "head": "Suspected hantavirus case reported in Keelung",
-      "url": "https://focustaiwan.tw/society/202605190007",
-      "loc": "Taiwan",
+      "src": "Sandiegosun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.sandiegosun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Taiwan"
+        "United States"
       ],
       "live": true
     },
@@ -87,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Focustaiwan",
-      "head": "Suspected hantavirus case reported in Keelung",
-      "url": "https://focustaiwan.tw:443/society/202605190007",
-      "loc": "Taiwan",
+      "src": "Philippinetimes",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.philippinetimes.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "Philippines",
       "lang": "English",
       "tags": [
         "English",
-        "Taiwan"
+        "Philippines"
       ],
       "live": true
     },
@@ -102,14 +102,179 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Allafrica",
-      "head": "Africa : WHO Assembly Opens Under Shadow of Ebola , Hantavirus and Funding Cuts",
-      "url": "https://allafrica.com/stories/202605190016.html",
-      "loc": "Nigeria",
+      "src": "Saltlakecitysun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.saltlakecitysun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Nigeria"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Torontotelegraph",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.torontotelegraph.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dallassun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.dallassun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cincinnatisun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.cincinnatisun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Afghanistansun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.afghanistansun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "Afghanistan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Afghanistan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "RTE",
+      "head": "From  Covid 2 . 0  to  crisis actor : How hantavirus myths spread",
+      "url": "https://www.rte.ie/news/primetime/2026/0520/1574100-hantavirus-myths-spread/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Respublika",
+      "head": "Nesąmonės apie hantavirusą",
+      "url": "https://www.respublika.lt/lt/naujienos/pasaulis/kitos_pasaulio_naujienos/nesamones-apie-hantavirusa/",
+      "loc": "Lithuania",
+      "lang": "Lithuanian",
+      "tags": [
+        "Lithuanian",
+        "Lithuania"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Milwaukeesun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.milwaukeesun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nashvilleherald",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.nashvilleherald.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Africaleader",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.africaleader.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Taiwansun",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.taiwansun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "China",
+      "lang": "English",
+      "tags": [
+        "English",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Zimbabwestar",
+      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
+      "url": "http://www.zimbabwestar.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "loc": "Zimbabwe",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Zimbabwe"
       ],
       "live": true
     },
@@ -663,119 +828,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dnoticias",
-      "head": "Especialistas alertam que mundo está menos preparado para nova pandemia",
-      "url": "https://www.dnoticias.pt/2026/5/19/492505-especialistas-alertam-que-mundo-esta-menos-preparado-para-nova-pandemia/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dariknews",
-      "head": "Тихата заплаха хантавирус : има ли повод за тревога у нас ? ",
-      "url": "https://dariknews.bg/novini/bylgariia/tihata-zaplaha-hantavirus-ima-li-povod-za-trevoga-u-nas-2455375",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "台灣累計3例 「 首爾型漢他 」 疾管署曝全國機場港埠鼠陽性率5 ％ - 生活",
-      "url": "https://www.chinatimes.com/realtimenews/20260519002792-260405",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Singtaousa",
-      "head": "阿根廷烏斯懷亞漢他病毒疑雲衝擊南極郵輪旅遊 ， 業者憂心訂單取消",
-      "url": "https://www.singtaousa.com/2026/05/18/news/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/",
-      "loc": "China",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "China"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Larioja",
-      "head": "Sylvia Sastre : Ciencia o ideología",
-      "url": "https://www.larioja.com/opinion/sylvia-sastre-ciencia-ideologia-20260519223702-nt.html",
-      "loc": "Spain",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Spain"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "國內第三例漢他病毒 疾管署公布基因定序為首爾型病毒 不會人傳人 | 生活新聞 | 生活",
-      "url": "https://udn.com/news/story/7266/9512156",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "北部漢他病毒確診再＋1 疾管署 ： 檢驗為首爾病毒致死率15 ％ - 生活",
-      "url": "https://www.chinatimes.com/realtimenews/20260519002606-260405",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Surinenglish",
-      "head": "Malaga doctors call new rally against working conditions",
-      "url": "https://www.surinenglish.com/malaga/malaga-city/malaga-doctors-call-new-rally-against-working-20260518082448-nt.html",
-      "loc": "Spain",
+      "src": "Nbcpalmsprings",
+      "head": "CDC Enacts Mandatory Federal Quarantines in Nebraska as American Doctor Contracts Ebola in Overlapping Health Crises",
+      "url": "https://www.nbcpalmsprings.com/2026/05/19/cdc-enacts-mandatory-federal-quarantines-in-nebraska-as-american-doctor-contracts-ebola-in-overlapping-health-crises",
+      "loc": "",
       "lang": "English",
       "tags": [
         "English",
-        "Spain"
+        ""
       ],
       "live": true
     },
@@ -783,134 +843,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "UDN",
-      "head": "被鼠咬傷染漢他 基隆衛生局 ： 現場連3天捕鼠 補足環境病毒監測資訊 | 生活新聞 | 生活",
-      "url": "https://udn.com/news/story/7266/9512144",
-      "loc": "Taiwan",
-      "lang": "Chinese",
+      "src": "Ogrenet",
+      "head": "Šogad četros mēnešos reģistrēti deviņi leptospirozes gadījumi . Kā sevi pasargāt ? - OGRENET",
+      "url": "https://www.ogrenet.lv/aktuali/sogad-cetros-menesos-registreti-devini-leptospirozes-gadijumi-ka-sevi-pasargat-20286",
+      "loc": "Latvia",
+      "lang": "Latvian",
       "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Epochtimes",
-      "head": "新北第二例漢他病毒 侯友宜 ： 全市將二次清消 | 基隆 | 新北 | 漢他病毒",
-      "url": "http://www.epochtimes.com.tw/n503493/%E6%96%B0%E5%8C%97%E7%AC%AC%E4%BA%8C%E4%BE%8B%E6%BC%A2%E4%BB%96%E7%97%85%E6%AF%92-%E4%BE%AF%E5%8F%8B%E5%AE%9C-%E5%85%A8%E5%B8%82%E5%B0%87%E4%BA%8C%E6%AC%A1%E6%B8%85%E6%B6%88.html",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Focustaiwan",
-      "head": "Taiwan exclusion from WHA a  global crisi : Health minister",
-      "url": "https://focustaiwan.tw:443/politics/202605190008",
-      "loc": "Taiwan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CNA",
-      "head": "林口男基隆染漢他 疫調匡列11人無症狀監測至7 / 1 | 生活",
-      "url": "https://www.cna.com.tw:443/news/ahel/202605190111.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CNA",
-      "head": "侯友宜 ： 漢他病毒個案住家林口 全市將2次大清消 | 地方",
-      "url": "https://www.cna.com.tw:443/news/aloc/202605190070.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ettoday",
-      "head": "基隆爆漢他病毒個案 「 住院治療中 」 市府 ： 1 、 2天就可出院 | ETtoday生活新聞",
-      "url": "https://www.ettoday.net/news/20260519/3168337.htm",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CNA",
-      "head": "男子基隆職場滅鼠遭咬 疑染漢他病毒輕症恢復良好 | 地方",
-      "url": "https://www.cna.com.tw:443/news/aloc/202605190084.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "基隆傳漢他病毒感染 綠議員籲清消外 應強化防疫及宣傳 - 寶島",
-      "url": "https://www.chinatimes.com/realtimenews/20260519002411-260421",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Focustaiwan",
-      "head": "Taiwan exclusion from WHA a  global crisi : Health minister",
-      "url": "https://focustaiwan.tw/politics/202605190008",
-      "loc": "Taiwan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Taiwan"
+        "Latvian",
+        "Latvia"
       ],
       "live": true
     },
@@ -919,8 +859,68 @@
       "date": "",
       "ts": "",
       "src": "NEWS",
-      "head": "基隆爆漢他病毒案例 市議員批防疫慢半拍 - 基隆市",
-      "url": "https://news.ltn.com.tw/news/Keelung/breakingnews/5441956",
+      "head": "基隆首例專家到府勘查 揪廚房排煙管未封堵恐引鼠 - 地方",
+      "url": "https://news.cts.com.tw/cna/local/202605/202605203033854.html",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "Afternoon Update : Tim Wilson calls budget an  earthquake ; NRL star shock MND diagnosis ; and a whale 15 , 000km odyssey | Australia news",
+      "url": "https://www.theguardian.com/australia-news/2026/may/20/afternoon-update-wednesday-ntwnfb",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Stomp",
+      "head": "Rat sighting at Kampung Admiralty eatery",
+      "url": "https://www.stomp.sg/trending-now/rat-spotted-crawling-kampung-admiralty-eatery-netizens-disgusted-they-are-everywhere",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diena",
+      "head": "Šogad četros mēnešos Latvijā reģistrēti deviņi leptospirozes gadījumi",
+      "url": "https://www.diena.lv/raksts/latvija/zinas/sogad-cetros-menesos-latvija-registreti-devini-leptospirozes-gadijumi-14352076",
+      "loc": "Latvia",
+      "lang": "Latvian",
+      "tags": [
+        "Latvian",
+        "Latvia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UDN",
+      "head": "影 ／ 基隆專業抓鼠首出動民宅驚見老鼠 查出抽油煙機煙管縫隙入侵 | 基宜花東 | 地方",
+      "url": "https://udn.com/news/story/7328/9514846",
       "loc": "Taiwan",
       "lang": "Chinese",
       "tags": [
