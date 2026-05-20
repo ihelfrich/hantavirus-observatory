@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-20T20:14:06.190992+00:00",
+  "generated_at": "2026-05-20T22:10:36.719222+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 68,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WGAL",
-      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-      "url": "https://www.wgal.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "src": "Beckershospitalreview",
+      "head": "What US hospitals actually need to worry about ( hint : it not Ebola or hantavirus ) ",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/what-us-hospitals-actually-need-to-worry-about-hint-its-not-ebola-or-hantavirus/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,39 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EM",
-      "head": "Ebola e hantavírus confirmam que mundo continua despreparado , diz especialista em pandemias",
-      "url": "http://www.em.com.br/internacional/2026/05/7423801-ebola-e-hantavirus-confirmam-que-mundo-continua-despreparado-diz-especialista-em-pandemias.html",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cubaheadlines",
-      "head": "Cuban Hospital Overrun with Rats Amid Hantavirus Concerns",
-      "url": "https://www.cubaheadlines.com/articles/329762",
-      "loc": "Cuba",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Cuba"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WJCL",
-      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-      "url": "https://www.wjcl.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "src": "Peoplesworld",
+      "head": "Clear and present danger : U . S . health officials , not hantavirus",
+      "url": "https://www.peoplesworld.org/article/clear-and-present-danger-u-s-health-officials-not-hantavirus/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +42,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WESH",
-      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-      "url": "https://www.wesh.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "src": "NEWS",
+      "head": "Hantavirus - hit cruise line says vessel not the source",
+      "url": "https://news.az/news/hantavirus-hit-cruise-line-says-vessel-not-the-source",
+      "loc": "Azerbaijan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Azerbaijan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Peoplesworld",
+      "head": "Clear and present danger : U . S . health officials , not hantavirus",
+      "url": "https://peoplesworld.org/article/clear-and-present-danger-u-s-health-officials-not-hantavirus/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WYFF4",
-      "head": "Hantavirus outbreak : CDC orders mandatory quarantine in Omaha",
-      "url": "https://www.wyff4.com/article/hantavirus-cdc-mandatory-quarantine-omaha/71359393",
+      "src": "Winonapost",
+      "head": "Health and Humor : Putting Hantavirus into perspective",
+      "url": "https://www.winonapost.com/opinion/health-and-humor-putting-hantavirus-into-perspective/article_7baa6926-3726-49d1-8a22-3844d1e509c6.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -102,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SOL",
-      "head": "Primeiro caso suspeito de hantavírus em Portugal mobilizou hospitais em Lisboa",
-      "url": "https://sol.iol.pt/sociedade/noticias/primeiro-caos-suspeito-de-hantavirus-em-portugal-mobilizou-hospitais-em-lisboa/20260520/6a0d811e0cf21fcd83774d02",
-      "loc": "",
-      "lang": "Portuguese",
+      "src": "Globalnews",
+      "head": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
+      "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
+      "loc": "Canada",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        ""
+        "English",
+        "Canada"
       ],
       "live": true
     },
@@ -117,39 +102,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Oglobo",
-      "head": "Ebola , hantavírus : qual o risco dos novos surtos virarem uma pandemia ? Especialistas explicam",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/05/20/ebola-hantavirus-qual-o-risco-dos-novos-surtos-virarem-uma-pandemia-especialistas-explicam.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sabado",
-      "head": "Primeiro caso suspeito de hantavírus em Portugal testa negativo",
-      "url": "http://www.sabado.pt/ciencia---saude/detalhe/primeiro-caso-suspeito-de-hantavirus-em-portugal-testa-negativo",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ohiostandard",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.ohiostandard.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "src": "KTBS",
+      "head": "Hantavirus outbreak revives memories of Louisiana first fatal case | Health",
+      "url": "https://www.ktbs.com/health/hantavirus-outbreak-revives-memories-of-louisiana-s-first-fatal-case/article_b1e42da5-a9d6-4106-b023-2d88e96fe161.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -162,9 +117,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Albuquerqueexpress",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.albuquerqueexpress.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
+      "src": "Athens-Times",
+      "head": "Hantaviruses : Rare but Deadly Zoonoses",
+      "url": "https://athens-times.com/hantaviruses-rare-but-potentially-fatal-zoonoses-with-global-public-health-significance/",
+      "loc": "Greece",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Greece"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Smokymountainnews",
+      "head": "Why Hantavirus outbreak deserves our attention",
+      "url": "https://smokymountainnews.com/opinion/item/41362-why-hantavirus-outbreak-deserves-our-attention",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -177,29 +147,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Sandiegosun",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.sandiegosun.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "United States",
+      "src": "Southwalesargus",
+      "head": "Welsh residents monitored after Hantavirus outbreak",
+      "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Philippinetimes",
-      "head": "Hantavirus - hit cruise ship reaches Rotterdam port as final destination",
-      "url": "http://www.philippinetimes.com/news/279059215/cruise-ship-which-reported-hantavirus-aboard-ends-trip-at-rotterdam",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -809,99 +764,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "AOL",
-      "head": "Queen pulls  superb  pint of Guinness in Northern Ireland",
-      "url": "https://www.aol.co.uk/articles/queen-pulls-superb-pint-guinness-123826280.html",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ensonhaber",
-      "head": "DSÖ : Ebola salgınının bölgesel riski yüksek",
-      "url": "https://www.ensonhaber.com/dso-ebola-salgininin-bolgesel-riski-yuksek-h1535967",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Indianexpress",
-      "head": "UPSC Prelims 2026 Revision Checklist : Science and Technology",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-top-35-science-and-technology-topics-10699091/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CHIP",
-      "head": "Aşısı ve tedavisi yok : Ebola sınırları aşınca acil durum ilan edildi",
-      "url": "https://www.chip.com.tr/guncel/asisi-ve-tedavisi-yok-ebola-sinirlari-asinca-acil-durum-ilan-edildi_180441.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Laopiniondemurcia",
-      "head": "Insolidaridad",
-      "url": "https://www.laopiniondemurcia.es/opinion/2026/05/20/insolidaridad-130446144.html",
-      "loc": "Spain",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Spain"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arabic",
-      "head": "كارثة فوكوشيما  تخلق  خنازير  خارقة  تثير قلق العلماء",
-      "url": "https://arabic.rt.com/technology/1791063-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%88%D9%83%D9%88%D8%B4%D9%8A%D9%85%D8%A7-%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D9%82%D8%A9-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1/",
-      "loc": "Russia",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nakedcapitalism",
-      "head": "Links 5 / 20 / 2026 | naked capitalism",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-20-2026.html",
+      "src": "KLCC",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.klcc.org/npr-news/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -914,29 +779,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "CNA",
-      "head": "基隆首例專家到府勘查 揪廚房排煙管未封堵恐引鼠 | 地方",
-      "url": "https://www.cna.com.tw/news/aloc/202605200277.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcpalmsprings",
-      "head": "CDC Enacts Mandatory Federal Quarantines in Nebraska as American Doctor Contracts Ebola in Overlapping Health Crises",
-      "url": "https://www.nbcpalmsprings.com/2026/05/19/cdc-enacts-mandatory-federal-quarantines-in-nebraska-as-american-doctor-contracts-ebola-in-overlapping-health-crises",
-      "loc": "",
+      "src": "Aspenpublicradio",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.aspenpublicradio.org/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United States"
       ],
       "live": true
     },
@@ -944,44 +794,194 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ogrenet",
-      "head": "Šogad četros mēnešos reģistrēti deviņi leptospirozes gadījumi . Kā sevi pasargāt ? - OGRENET",
-      "url": "https://www.ogrenet.lv/aktuali/sogad-cetros-menesos-registreti-devini-leptospirozes-gadijumi-ka-sevi-pasargat-20286",
-      "loc": "Latvia",
-      "lang": "Latvian",
-      "tags": [
-        "Latvian",
-        "Latvia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "基隆首例專家到府勘查 揪廚房排煙管未封堵恐引鼠 - 地方",
-      "url": "https://news.cts.com.tw/cna/local/202605/202605203033854.html",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "Afternoon Update : Tim Wilson calls budget an  earthquake ; NRL star shock MND diagnosis ; and a whale 15 , 000km odyssey | Australia news",
-      "url": "https://www.theguardian.com/australia-news/2026/may/20/afternoon-update-wednesday-ntwnfb",
-      "loc": "United Kingdom",
+      "src": "Dailyexpress",
+      "head": "Taiwan dog owners use mesh nets amid rat poison fears",
+      "url": "http://dailyexpress.com.my/news/281843/taiwan-dog-owners-use-mesh-nets-amid-rat-poison-fears/",
+      "loc": "Malaysia",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "Malaysia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WFAE",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.wfae.org/health/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theintercept",
+      "head": "Ebola Outbreak Rages After Trump Gutted Global Health Safeguards",
+      "url": "https://theintercept.com/2026/05/19/ebola-outbreak-trump-who/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WCLK",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.wclk.com/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WEEK",
+      "head": "Хантавірус : втеча з MV Hondius , 28 смертей , ситуація в Україні",
+      "url": "https://week.ukrainianwall.com/159703-vtekli-z-infikovanogo-laynera-mv-hondius-28-smertey-vid-hantavirusu-za-rik-63-vipadki-v-ukrajini",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KGOU",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.kgou.org/health/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KVNF",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.kvnf.org/npr-news/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WDIY",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.wdiy.org/npr-news/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abc17News",
+      "head": "5 things to know for May 20 : Election night takeaways , IRS immunity , mosque shooting , virus concerns , Raúl Castro",
+      "url": "https://abc17news.com/news/national-world/cnn-national/2026/05/20/5-things-to-know-for-may-20-election-night-takeaways-irs-immunity-mosque-shooting-virus-concerns-raul-castro/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailykos",
+      "head": "West Coast Cookbook & Speakeasy Daily Special , Smothered Benedict Wednesdays Podcast ( Audio ) ",
+      "url": "https://www.dailykos.com/stories/2026/5/20/800041922/community/west-coast-cookbook-speakeasy-daily-special-smothered-benedict-wednesdays-podcast-audio/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "APR",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.apr.org/science-health/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wknofm",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.wknofm.org/news-from-npr/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WYPR",
+      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
+      "url": "https://www.wypr.org/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
