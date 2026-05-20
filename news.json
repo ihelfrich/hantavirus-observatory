@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-20T17:40:04.497254+00:00",
+  "generated_at": "2026-05-20T20:14:06.190992+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 64,
+  "count": 68,
   "items": [
     {
       "time": "—",
@@ -200,6 +200,62 @@
       "tags": [
         "English",
         "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-20",
+      "ts": "2026-05-20T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Limitations of Global Surveillance for Neisseria gonorrhoeae Antimicrobial Resistance",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0378_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-20",
+      "ts": "2026-05-20T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Role of Households with Children in Community Spread of Multidrug-Resistant Enterobacterales, St. Louis, Missouri, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1655_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-20",
+      "ts": "2026-05-20T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Antimicrobial-Resistant Neisseria gonorrhoeae of Public Health Concern, New South Wales, Australia, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1399_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-20",
+      "ts": "2026-05-20T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Repeated Extraneous Introductions of Cholera, Thailand, 2007–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1747_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
