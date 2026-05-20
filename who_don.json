@@ -1,6 +1,357 @@
 {
-  "generated_at": "2026-05-20T14:07:09.110032+00:00",
+  "generated_at": "2026-05-20T17:40:04.611706+00:00",
   "source": "WHO Disease Outbreak News API",
-  "count": 0,
-  "items": []
+  "count": 50,
+  "items": [
+    {
+      "date": "2025-02-01",
+      "ts": "2025-02-01T07:00:00+00:00",
+      "title": "Sudan virus disease – Uganda",
+      "url": "https://www.who.int/2025-DON555",
+      "summary": "On 30 January 2025, the Ministry of Health of Uganda declared an outbreak of Sudan virus disease (SVD) following confirmation from three national reference laboratories. The case presented with signs and symptoms between 20 and 21 January and died on 29 January at the National Referral Hospital in Kampala. \r\nAs of 30 January 2025, 45 contacts have been identified, including 34 healthcare workers a"
+    },
+    {
+      "date": "2024-02-08",
+      "ts": "2024-02-08T07:39:22+00:00",
+      "title": "Avian Influenza A (H5N1) - Cambodia",
+      "url": "https://www.who.int/2024-DON501",
+      "summary": "Between 26 and 28 January 2024, the Cambodia National Focal Point (NFP) for the International Health Regulations (IHR) notified the World Health Organization (WHO) of two confirmed cases of human infection with avian influenza A(H5N1) virus. These cases were reported from Kampong Trabek district, Prey Veng province, and Puok district, Siem Reap province, Cambodia. These are the first two cases of "
+    },
+    {
+      "date": "2023-04-11",
+      "ts": "2023-04-11T18:00:00+00:00",
+      "title": "Avian Influenza A(H3N8)",
+      "url": "https://www.who.int/2023-DON456",
+      "summary": "On 27 March 2023, the National Health Commission of the People’s Republic of China notified WHO of one confirmed case of human infection with an avian influenza A(H3N8) virus. This is the third reported case of human infection with an avian influenza A(H3N8) virus; all three cases have been reported from China.\r\n\r\nEpidemiological investigation and close contact tracing have been carried out. There"
+    },
+    {
+      "date": "2023-03-14",
+      "ts": "2023-03-14T15:16:27+00:00",
+      "title": "Measles – Nepal",
+      "url": "https://www.who.int/2023-DON446",
+      "summary": "On 2 January 2023, an outbreak of measles was confirmed in Nepalgunj sub-metropolitan city (SMC) in Banke district, Nepal, following a cluster of cases of fever and rash. Following the confirmation and through active case search, the index case was identified, with the onset of symptoms on 24 November 2022. Between 24 November 2022 and 10 March 2023, 690 measles cases, including one associated dea"
+    },
+    {
+      "date": "2022-11-16",
+      "ts": "2022-11-16T19:00:27+00:00",
+      "title": "Middle East Respiratory Syndrome Coronavirus –Saudi Arabia",
+      "url": "https://www.who.int/2022-DON422",
+      "summary": "From 29 December 2021 to 31 October 2022, four laboratory-confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) were reported to WHO by the Ministry of Health of the Kingdom of Saudi Arabia. No deaths were reported.  Household contacts for the four cases were followed-up by the Ministry of Health, and no secondary cases were identified. The notification of these cases reiterat"
+    },
+    {
+      "date": "2019-07-03",
+      "ts": "2019-07-03T21:00:00+00:00",
+      "title": "HIV cases–Pakistan",
+      "url": "https://www.who.int/2019-DON163",
+      "summary": ""
+    },
+    {
+      "date": "2019-01-08",
+      "ts": "2019-01-08T00:00:00+00:00",
+      "title": "Circulating vaccine-derived poliovirus type 2 - Democratic Republic of the Congo",
+      "url": "https://www.who.int/08-january-2019-poliovirus-drc-en",
+      "summary": ""
+    },
+    {
+      "date": "2018-10-03",
+      "ts": "2018-10-03T00:00:00+00:00",
+      "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) – Saudi Arabia",
+      "url": "https://www.who.int/03-october-2018-mers-saudi-arabia-en",
+      "summary": ""
+    },
+    {
+      "date": "2017-12-19",
+      "ts": "2017-12-19T00:00:00+00:00",
+      "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) – Saudi Arabia",
+      "url": "https://www.who.int/19-december-2017-mers-saudi-arabia-en",
+      "summary": ""
+    },
+    {
+      "date": "2016-04-21",
+      "ts": "2016-04-21T00:00:00+00:00",
+      "title": "Zika virus infection – Peru",
+      "url": "https://www.who.int/21-april-2016-zika-peru-en",
+      "summary": ""
+    },
+    {
+      "date": "2015-07-21",
+      "ts": "2015-07-21T00:00:00+00:00",
+      "title": "Middle East respiratory syndrome coronavirus – Republic of Korea",
+      "url": "https://www.who.int/21-july-2015-mers-korea-en",
+      "summary": ""
+    },
+    {
+      "date": "2014-09-17",
+      "ts": "2014-09-17T00:00:00+00:00",
+      "title": "Enterovirus D68 in the United States of America",
+      "url": "https://www.who.int/17-september-2014-enterovirus-en",
+      "summary": "On 10 September 2014, the United States of America informed the Pan American Health Organization/World Health Organization (PAHO/WHO) about an outbreak of severe respiratory illness associated with Enterovirus D68 (EV-D68)."
+    },
+    {
+      "date": "2014-08-30",
+      "ts": "2014-08-30T00:00:00+00:00",
+      "title": "Ebola virus disease update - Senegal",
+      "url": "https://www.who.int/2014_08_30_ebola-en",
+      "summary": "On 30 August 2014, Senegal’s Ministry of Public Health and Social Affairs provided WHO with details about a case of Ebola virus disease (EVD) announced in that country on 29 August."
+    },
+    {
+      "date": "2014-08-06",
+      "ts": "2014-08-06T00:00:00+00:00",
+      "title": "Ebola virus disease update - West Africa",
+      "url": "https://www.who.int/2014_08_06_ebola-en",
+      "summary": "Between 2 and 4 August 2014, a total of 108 new cases of Ebola virus disease (laboratory-confirmed, probable, and suspect cases) as well as 45 deaths were reported from Guinea, Liberia, Nigeria, and Sierra Leone."
+    },
+    {
+      "date": "2014-05-15",
+      "ts": "2014-05-15T00:00:00+00:00",
+      "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) – update",
+      "url": "https://www.who.int/2014_05_15_mers-en",
+      "summary": ""
+    },
+    {
+      "date": "2014-03-07",
+      "ts": "2014-03-07T00:00:00+00:00",
+      "title": "Human infection with avian influenza A(H7N9) virus – update",
+      "url": "https://www.who.int/2014_03_07-en",
+      "summary": "On 4 March 2014, the Centre for Health Protection (CHP) of the Department of Health, Hong Kong SAR, China, notified WHO of an additional laboratory-confirmed case of human infection with avian influenza A(H7N9) virus."
+    },
+    {
+      "date": "2013-12-17",
+      "ts": "2013-12-17T00:00:00+00:00",
+      "title": "Human infection with avian influenza A(H7N9) virus – update",
+      "url": "https://www.who.int/2013_12_17influenza-en",
+      "summary": "On 15 and 16 December 2013, the National Health and Family Planning Commission, China notified WHO of two new laboratory-confirmed cases of human infection with avian influenza A(H7N9) virus."
+    },
+    {
+      "date": "2013-11-26",
+      "ts": "2013-11-26T00:00:00+00:00",
+      "title": "Polio in the Syrian Arab Republic - update",
+      "url": "https://www.who.int/2013_11_26polio-en",
+      "summary": "A total of 17 cases due to wild poliovirus type 1 (WPV1) have been confirmed in the Syrian Arab Republic.  In addition to 15 cases confirmed in Deir Al Zour province, two additional cases have been confirmed, one each in rural Damascus and Aleppo, confirming widespread circulation of the virus.  The case with most recent onset developed paralysis on 8 October 2013."
+    },
+    {
+      "date": "2013-06-23",
+      "ts": "2013-06-23T00:00:00+00:00",
+      "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) - update",
+      "url": "https://www.who.int/2013_06_23-en",
+      "summary": "The Ministry of Health (MoH) in Saudi Arabia has announced two additional laboratory-confirmed cases and a death in a previously confirmed case of Middle East respiratory syndrome coronavirus (MERS-CoV)."
+    },
+    {
+      "date": "2013-06-03",
+      "ts": "2013-06-03T00:00:00+00:00",
+      "title": "Poliovirus detected from environmental samples in Israel",
+      "url": "https://www.who.int/2013_06_03-en",
+      "summary": "In Israel, wild poliovirus type 1 (WPV1) was isolated from sewage samples collected on 9 April 2013 in Rahat, southern Israel.  The virus has been detected in sewage only; no case of paralytic polio has been reported."
+    },
+    {
+      "date": "2012-10-26",
+      "ts": "2012-10-26T00:00:00+00:00",
+      "title": "Ebola outbreak in Democratic Republic of Congo – update",
+      "url": "https://www.who.int/2012_10_26-en",
+      "summary": "As of 24 October 2012, 52 cases (35 laboratory confirmed, 17 probable) with Ebola haemorrhagic fever (EHF) have been reported in the Democratic Republic of Congo (DRC). Of these, 25 have been fatal (12 confirmed, 13 probable)."
+    },
+    {
+      "date": "2012-10-04",
+      "ts": "2012-10-04T00:00:00+00:00",
+      "title": "End of Ebola outbreak in Uganda",
+      "url": "https://www.who.int/2012_10_04-en",
+      "summary": ""
+    },
+    {
+      "date": "2012-08-10",
+      "ts": "2012-08-10T00:00:00+00:00",
+      "title": "Avian influenza – situation in Indonesia – update",
+      "url": "https://www.who.int/2012_08_10b-en",
+      "summary": ""
+    },
+    {
+      "date": "2010-11-04",
+      "ts": "2010-11-04T00:00:00+00:00",
+      "title": "Polio in Congo",
+      "url": "https://www.who.int/2010_11_04a-en",
+      "summary": ""
+    },
+    {
+      "date": "2010-05-06",
+      "ts": "2010-05-06T00:00:00+00:00",
+      "title": "Avian influenza – situation in Indonesia",
+      "url": "https://www.who.int/2010_05_06-en",
+      "summary": ""
+    },
+    {
+      "date": "2009-06-29",
+      "ts": "2009-06-29T00:00:00+00:00",
+      "title": "Influenza A(H1N1) - update 55",
+      "url": "https://www.who.int/2009_06_29-en",
+      "summary": ""
+    },
+    {
+      "date": "2009-02-09",
+      "ts": "2009-02-09T00:00:00+00:00",
+      "title": "Avian influenza - situation in Egypt - update 4",
+      "url": "https://www.who.int/2009_02_09-en",
+      "summary": ""
+    },
+    {
+      "date": "2007-07-30",
+      "ts": "2007-07-30T00:00:00+00:00",
+      "title": "Poliomyelitis in Angola and the Democratic Republic of the Congo",
+      "url": "https://www.who.int/2007_07_30-en",
+      "summary": ""
+    },
+    {
+      "date": "2007-05-30",
+      "ts": "2007-05-30T10:00:00+00:00",
+      "title": "Influenza A (H5N1) virus - China",
+      "url": "https://www.who.int/2007DON075",
+      "summary": ""
+    },
+    {
+      "date": "2007-05-24",
+      "ts": "2007-05-24T00:00:00+00:00",
+      "title": "Avian influenza – situation in Indonesia – update 7",
+      "url": "https://www.who.int/2007_05_24-en",
+      "summary": ""
+    },
+    {
+      "date": "2007-02-15",
+      "ts": "2007-02-15T00:00:00+00:00",
+      "title": "Avian influenza - situation in Egypt - update 4",
+      "url": "https://www.who.int/2007_02_15-en",
+      "summary": ""
+    },
+    {
+      "date": "2006-03-20",
+      "ts": "2006-03-20T00:00:00+00:00",
+      "title": "Avian influenza – situation in Egypt",
+      "url": "https://www.who.int/2006_03_20-en",
+      "summary": ""
+    },
+    {
+      "date": "2006-03-08",
+      "ts": "2006-03-08T00:00:00+00:00",
+      "title": "Avian influenza – situation in China – update 7",
+      "url": "https://www.who.int/2006_03_08-en",
+      "summary": ""
+    },
+    {
+      "date": "2005-12-30",
+      "ts": "2005-12-30T00:00:00+00:00",
+      "title": "Avian influenza – situation in China – update 51",
+      "url": "https://www.who.int/2005_12_30-en",
+      "summary": ""
+    },
+    {
+      "date": "2005-07-08",
+      "ts": "2005-07-08T10:00:00+00:00",
+      "title": "Poliomyelitis - Indonesia",
+      "url": "https://www.who.int/2005DON123",
+      "summary": ""
+    },
+    {
+      "date": "2005-01-19",
+      "ts": "2005-01-19T11:00:00+00:00",
+      "title": "Typhoid fever - Democratic Republic of the Congo",
+      "url": "https://www.who.int/2005DON106",
+      "summary": ""
+    },
+    {
+      "date": "2004-04-29",
+      "ts": "2004-04-29T00:00:00+00:00",
+      "title": "China confirms SARS infection in two previously reported cases – update 4",
+      "url": "https://www.who.int/2004_04_29-en",
+      "summary": ""
+    },
+    {
+      "date": "2004-04-28",
+      "ts": "2004-04-28T00:00:00+00:00",
+      "title": "China reports additional SARS case - update 3",
+      "url": "https://www.who.int/2004_04_28-en",
+      "summary": ""
+    },
+    {
+      "date": "2004-02-03",
+      "ts": "2004-02-03T00:00:00+00:00",
+      "title": "Avian influenza A(H5N1) - update 16: Situation in Viet Nam",
+      "url": "https://www.who.int/2004_02_03-en",
+      "summary": ""
+    },
+    {
+      "date": "2003-06-19",
+      "ts": "2003-06-19T00:00:00+00:00",
+      "title": "Cholera in Iraq - Update 3",
+      "url": "https://www.who.int/2003_06_17A-en",
+      "summary": ""
+    },
+    {
+      "date": "2003-05-24",
+      "ts": "2003-05-24T00:00:00+00:00",
+      "title": "Update 65 - Situation in Toronto",
+      "url": "https://www.who.int/2003_05_24-en",
+      "summary": ""
+    },
+    {
+      "date": "2003-04-23",
+      "ts": "2003-04-23T00:00:00+00:00",
+      "title": "Severe Acute Respiratory Syndrome (SARS) Multi-country outbreak Update 37",
+      "url": "https://www.who.int/2003_04_23-en",
+      "summary": ""
+    },
+    {
+      "date": "2002-09-13",
+      "ts": "2002-09-13T00:00:00+00:00",
+      "title": "2002 - Cholera in Liberia",
+      "url": "https://www.who.int/2002_09_13a-en",
+      "summary": ""
+    },
+    {
+      "date": "2001-05-16",
+      "ts": "2001-05-16T00:00:00+00:00",
+      "title": "2001 - Meningococcal disease, serogroup W135 - Update",
+      "url": "https://www.who.int/2001_05_16-en",
+      "summary": ""
+    },
+    {
+      "date": "2001-02-20",
+      "ts": "2001-02-20T00:00:00+00:00",
+      "title": "2001 - Meningococcal disease in the African Meningitis Belt",
+      "url": "https://www.who.int/2001_02_20-en",
+      "summary": ""
+    },
+    {
+      "date": "2000-04-21",
+      "ts": "2000-04-21T00:00:00+00:00",
+      "title": "2000 - Meningococcal disease in Francen(Update), United Kingdom (Update), Oman, Saudi ARabia, Netherlands",
+      "url": "https://www.who.int/2000_04_21b-en",
+      "summary": ""
+    },
+    {
+      "date": "1999-07-27",
+      "ts": "1999-07-27T00:00:00+00:00",
+      "title": "1999 - Plague in Malawi",
+      "url": "https://www.who.int/1999_07_27-en",
+      "summary": ""
+    },
+    {
+      "date": "1999-06-25",
+      "ts": "1999-06-25T00:00:00+00:00",
+      "title": "1999 - Malaria in Burundi",
+      "url": "https://www.who.int/1999_06_25-en",
+      "summary": ""
+    },
+    {
+      "date": "1998-03-10",
+      "ts": "1998-03-10T00:00:00+00:00",
+      "title": "1998 - Cholera in the Comoros Islands",
+      "url": "https://www.who.int/1998_02_10b-en",
+      "summary": ""
+    },
+    {
+      "date": "1997-01-08",
+      "ts": "1997-01-08T00:00:00+00:00",
+      "title": "1997 - Ebola haemorrhagic fever in Gabon (new outbreak) - Update 12",
+      "url": "https://www.who.int/1997_01_09b-en",
+      "summary": ""
+    }
+  ]
 }
