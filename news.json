@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-21T14:21:18.940557+00:00",
+  "generated_at": "2026-05-21T17:14:03.132128+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 68,
@@ -12,14 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EN",
-      "head": "Fact Check : Hantavirus Is Not Bioweapon for Depopulation",
-      "url": "https://en.tempo.co/read/2104688/fact-check-hantavirus-is-not-bioweapon-for-depopulation",
-      "loc": "",
-      "lang": "English",
+      "src": "Elcordillerano",
+      "head": "Hallazgo inquietante de la misión del Malbrán : otros ratones pueden portar el virus hanta",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/05/21/240681-hallazgo-inquietante-de-la-mision-del-malbran-otros-ratones-pueden-portar-el-virus-hanta",
+      "loc": "Argentina",
+      "lang": "Spanish",
       "tags": [
-        "English",
-        ""
+        "Spanish",
+        "Argentina"
       ],
       "live": true
     },
@@ -27,9 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox5Atlanta",
-      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-      "url": "https://www.fox5atlanta.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+      "src": "Womenshealthmag",
+      "head": "Why Is Nebraska Medical Center the National Quarantine Unit ? Why Hantavirus and Ebola Patients Have Been Sent to Nebraska",
+      "url": "https://www.womenshealthmag.com/health/a71365494/nebraska-medical-center-hantavirus-ebola/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,54 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Kristv",
-      "head": "South Texas doctor addresses hantavirus fears and misconceptions",
-      "url": "https://www.kristv.com/news/local-news/health-expert-addresses-hantavirus-concerns-says-south-texas-risk-remains-extremely-low",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Amsterdamnews",
-      "head": "Ebola and hantavirus have Africa talking  health sovereignty  as donor support fades",
-      "url": "https://amsterdamnews.com/news/2026/05/21/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "FOX29",
-      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-      "url": "https://www.fox29.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberyazar",
-      "head": "Doğanın Dengesi Bozulunca Tehdit Kapıya Dayandı : Ebola ve Hantavirüs Gerçeği",
-      "url": "https://www.haberyazar.com/genel/doganin-dengesi-bozulunca-tehdit-kapiya-dayandi-ebola-ve-hantavirus-gercegi/21921",
+      "src": "Medimagazin",
+      "head": "ABden yeni aşı sinyali : Hantavirüs salgına mı dönüşecek ? ",
+      "url": "https://medimagazin.com.tr/guncel/abden-yeni-asi-sinyali-hantavirus-salgina-mi-donusecek-120428",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -102,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "24Horas",
-      "head": " ¿ Perros y gatos transmiten el Virus Hanta ? Infectólogo responde",
-      "url": "https://www.24horas.cl/te-sirve/salud/perros-y-gatos-transmiten-virus-hanta-infectologo-responde",
-      "loc": "Chile",
-      "lang": "Spanish",
+      "src": "AA",
+      "head": "EU accelerates research into hantavirus vaccines",
+      "url": "https://aa.com.tr/en/world/eu-accelerates-research-into-hantavirus-vaccines/3944883",
+      "loc": "Turkey",
+      "lang": "English",
       "tags": [
-        "Spanish",
-        "Chile"
+        "English",
+        "Turkey"
       ],
       "live": true
     },
@@ -117,9 +72,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox10Phoenix",
-      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-      "url": "https://www.fox10phoenix.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+      "src": "NEWS",
+      "head": "EU boosts efforts on hantavirus vaccines",
+      "url": "https://news.az/news/eu-boosts-efforts-on-hantavirus-vaccines",
+      "loc": "Azerbaijan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Azerbaijan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SEJ",
+      "head": "Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
+      "url": "https://www.sej.org/headlines/wet-weather-argentina-helped-fuel-cruise-ship-hantavirus-outbreak",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -132,14 +102,179 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox13Seattle",
-      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
-      "url": "https://www.fox13seattle.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
-      "loc": "",
+      "src": "Maszol",
+      "head": "Gyógyultan hagyta el a kórházat a hantavírussal fertőzött fiatalember",
+      "url": "https://maszol.ro/belfold/Gyogyultan-hagyta-el-a-korhazat-a-hantavirussal-fertozoott-fiatalember",
+      "loc": "Romania",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Romania"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KVNF",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.kvnf.org/npr-news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WHRO",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.whro.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGCU",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.wgcu.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WFAE",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.wfae.org/science-environment/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Konhaber",
+      "head": "AB , hantavirüse karşı aşı ve tedavi yöntemleri geliştiriyor",
+      "url": "https://www.konhaber.com/dunya/ab_hantaviruse_karsi_asi_ve_tedavi_yontemleri_gelistiriyor-2000061h",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Trthaber",
+      "head": "AB , hantavirüse karşı aşı ve tedavi yöntemleri geliştiriyor",
+      "url": "https://www.trthaber.com/haber/dunya/ab-hantaviruse-karsi-asi-ve-tedavi-yontemleri-gelistiriyor-945868.html",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wnmufm",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.wnmufm.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WKMS",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.wkms.org/npr-news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WUTC",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.wutc.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wkyufm",
+      "head": "COVID is shaping American reaction to Ebola and hantavirus",
+      "url": "https://www.wkyufm.org/news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NPR",
+      "head": "Ebola and hantavirus arent the next COVID , experts say . Here what to know : NPR",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5825891/hantavirus-ebola-covid-pandemic-virus",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -749,14 +884,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "TSF",
-      "head": "Portugal é um dos países onde se vai concentrar a produo de fármacos na Europa",
-      "url": "https://www.tsf.pt/mundo/artigo/portugal-e-um-dos-paises-onde-se-vai-concentrar-a-producao-de-farmacos-na-europa/18086548",
-      "loc": "Portugal",
-      "lang": "Portuguese",
+      "src": "Elcordillerano",
+      "head": "Bariloche : intensifican la búsqueda de Ana Lía colocando afiches en toda la ciudad",
+      "url": "https://www.elcordillerano.com.ar/noticias/2026/05/21/240702-bariloche-intensifican-la-busqueda-de-ana-lia-colocando-afiches-en-toda-la-ciudad",
+      "loc": "Argentina",
+      "lang": "Spanish",
       "tags": [
-        "Portuguese",
-        "Portugal"
+        "Spanish",
+        "Argentina"
       ],
       "live": true
     },
@@ -764,9 +899,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thenational",
-      "head": "Ebola outbreak a warning over impact of overseas aid cuts",
-      "url": "https://www.thenational.scot/politics/26126182.ebola-outbreak-warning-impact-overseas-aid-cuts/",
+      "src": "Manilatimes",
+      "head": "Reshaping the response to global health emergencies",
+      "url": "https://www.manilatimes.net/2026/05/22/opinion/editorial/reshaping-the-response-to-global-health-emergencies/2349385",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Article",
+      "head": "Saudi Arabia tightens checks for arrivals from Ebola - affected region ahead of Hajj",
+      "url": "https://article.wn.com/view/2026/05/21/Saudi_Arabia_tightens_checks_for_arrivals_from_Ebolaaffected/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Express",
+      "head": "Ebola  kills immunity that would attack it  as  139 die  | World | News",
+      "url": "https://www.express.co.uk/news/world/2208175/ebola-virus-outbreak-congo-symptoms",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -779,24 +944,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "CNA",
-      "head": "基隆港嚴防漢他病毒 船舶未掛防鼠盾將開罰 | 地方",
-      "url": "https://www.cna.com.tw:443/news/aloc/202605210144.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSWS",
-      "head": "Rubio blames WHO for Ebola delay , as US aid cuts cripple public health in Africa",
-      "url": "https://www.wsws.org/en/articles/2026/05/21/egqs-m21.html",
+      "src": "ELLE",
+      "head": "Are Hot Workout Classes Actually Sanitary in 2026 ? A Microbiologist Weighs In",
+      "url": "https://www.elle.com/beauty/health-fitness/a71284608/hot-workout-studios-bacteria-sanitary-interview-2026/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -809,24 +959,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Allafrica",
-      "head": "Congo - Kinshasa : Health Authorities Are Racing to Contain Ebola in the DR Congo and Uganda . Here What Making It So Challenging",
-      "url": "https://allafrica.com/stories/202605210009.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "Sánchez is loved everywhere – but not so much in Spain , say Andalusia voters . Can he pull off another comeback ? | María Ramírez",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/21/pedro-sanchez-loved-everywhere-not-so-much-spain-andalusia-voters-another-comeback",
+      "src": "Dailystar",
+      "head": "  Im a doctor and this is why the African Ebola outbreak is so worrying  ",
+      "url": "https://www.dailystar.co.uk/health/im-doctor-african-ebola-outbreak-37187447",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -839,144 +974,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Freethoughtblogs",
-      "head": "How About Something Cool Now That It Too Late for Us ? ",
-      "url": "https://freethoughtblogs.com/stderr/2026/05/20/how-about-something-cool-now-that-its-too-late-for-us/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "基隆港3年前即監測到漢他病毒 港方 ： 巡檢防鼠盾 | 生活新聞 | 生活",
-      "url": "https://udn.com/news/story/7266/9516655",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Balticbusinessnews",
-      "head": "Hyundai Bioscience Discloses XAFTY® IC50 Data for Ebola - Secured Scientific Evidence for Immediate Treatment  ",
-      "url": "https://balticbusinessnews.com/hyundai-bioscience-discloses-xaftys-ic50-data-for-ebola-secured-scientific-evidence-for-immediate-treatment/",
-      "loc": "Estonia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Estonia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "基隆港老鼠一定比例帶漢他病毒 謝國樑 ： 長期存在環境中 - 生活",
-      "url": "https://www.chinatimes.com/realtimenews/20260521002010-260405",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WRVO",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.wrvo.org/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "N",
-      "head": "男遭鼠咬後染 「 首爾型漢他病毒 」 尚未見傳染人 疾管署籲落實防鼠3不",
-      "url": "https://n.yam.com/Article/20260521775880",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "RIA",
-      "head": "Врач назвал причину вспышек хантавируса",
-      "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SETN",
-      "head": "老鼠之亂怎麼辦 ？ 家裡怎防鼠患 ？ 專家曝新大樓兩大優勢 ： 讓牠們無路可走 | 房產 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1841623",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theconversation",
-      "head": "Health authorities are racing to contain Ebola in the DRC and Uganda . Here what making it so challenging",
-      "url": "https://theconversation.com/health-authorities-are-racing-to-contain-ebola-in-the-drc-and-uganda-heres-whats-making-it-so-challenging-283276",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1045Theteam",
-      "head": "New Yorkers Told To Avoid Some Travel As Ebola Spreads",
-      "url": "https://1045theteam.com/ixp/854/p/ebola-travel-restrictions-new-york/",
+      "src": "Miragenews",
+      "head": "Virologist Urges Global Pandemic Preparedness",
+      "url": "https://www.miragenews.com/virologist-urges-global-pandemic-preparedness-1678192/",
       "loc": "United States",
       "lang": "English",
       "tags": [
