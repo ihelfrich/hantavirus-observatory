@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-05-21T17:14:03.132128+00:00",
+  "generated_at": "2026-05-21T19:26:27.902546+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 68,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wfav951",
+      "head": "Health Department Adminsitrator addresses hantavirus concerns",
+      "url": "https://wfav951.com/2026/05/21/health-department-adminsitrator-addresses-hantavirus-concerns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcmiami",
+      "head": "N . Y . man who was on hantavirus cruise says Nebraska isolation feels like prison – NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/news/national-international/hantavirus-cruise-ship-passenger-nebraska-isolation-center/3811994/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcdfw",
+      "head": "N . Y . man who was on hantavirus cruise says Nebraska isolation feels like prison – NBC 5 Dallas - Fort Worth",
+      "url": "https://www.nbcdfw.com/news/national-international/hantavirus-cruise-ship-passenger-nebraska-isolation-center/4026996/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -42,21 +87,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Medimagazin",
-      "head": "ABden yeni aşı sinyali : Hantavirüs salgına mı dönüşecek ? ",
-      "url": "https://medimagazin.com.tr/guncel/abden-yeni-asi-sinyali-hantavirus-salgina-mi-donusecek-120428",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "AA",
       "head": "EU accelerates research into hantavirus vaccines",
       "url": "https://aa.com.tr/en/world/eu-accelerates-research-into-hantavirus-vaccines/3944883",
@@ -72,14 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "NEWS",
-      "head": "EU boosts efforts on hantavirus vaccines",
-      "url": "https://news.az/news/eu-boosts-efforts-on-hantavirus-vaccines",
-      "loc": "Azerbaijan",
-      "lang": "English",
+      "src": "Medimagazin",
+      "head": "ABden yeni aşı sinyali : Hantavirüs salgına mı dönüşecek ? ",
+      "url": "https://medimagazin.com.tr/guncel/abden-yeni-asi-sinyali-hantavirus-salgina-mi-donusecek-120428",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "Azerbaijan"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -95,6 +125,21 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "EU boosts efforts on hantavirus vaccines",
+      "url": "https://news.az/news/eu-boosts-efforts-on-hantavirus-vaccines",
+      "loc": "Azerbaijan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Azerbaijan"
       ],
       "live": true
     },
@@ -165,111 +210,6 @@
       "src": "WFAE",
       "head": "COVID is shaping American reaction to Ebola and hantavirus",
       "url": "https://www.wfae.org/science-environment/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Konhaber",
-      "head": "AB , hantavirüse karşı aşı ve tedavi yöntemleri geliştiriyor",
-      "url": "https://www.konhaber.com/dunya/ab_hantaviruse_karsi_asi_ve_tedavi_yontemleri_gelistiriyor-2000061h",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Trthaber",
-      "head": "AB , hantavirüse karşı aşı ve tedavi yöntemleri geliştiriyor",
-      "url": "https://www.trthaber.com/haber/dunya/ab-hantaviruse-karsi-asi-ve-tedavi-yontemleri-gelistiriyor-945868.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wnmufm",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.wnmufm.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WKMS",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.wkms.org/npr-news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WUTC",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.wutc.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wkyufm",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.wkyufm.org/news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NPR",
-      "head": "Ebola and hantavirus arent the next COVID , experts say . Here what to know : NPR",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5825891/hantavirus-ebola-covid-pandemic-virus",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -884,6 +824,111 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Cidrap",
+      "head": "Episode 209 : Awareness vs . Alarm : Making Sense of the Headlines",
+      "url": "https://www.cidrap.umn.edu/public-health/episode-209-awareness-vs-alarm-making-sense-headlines",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Torontosun",
+      "head": "Air France flight diverted to Montreal over U . S . Ebola restrictions",
+      "url": "https://torontosun.com/news/national/air-france-flight-diverted-montreal-ebola-restrictions",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBC",
+      "head": "First cruise ship of season arrives in St . John ",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stjohns-cruise-season-begins-9.7206939",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TSN",
+      "head": "Хантавірусна інфекція які перші симптоми легко пропустити після прибирання вдома Актуальна тема",
+      "url": "https://tsn.ua/lady/zdorovye/aktualnaya-tema/khantavirus-seryozna-infektsiia-symptomy-iakoyi-lehko-propustyty-pislia-zvychaynoho-prybyrannia-vdoma-3088586.html",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Noticiabrasil",
+      "head": "Eles estão aí : os vírus mais perigosos em circulao no mundo",
+      "url": "https://noticiabrasil.net.br/20260521/eles-estao-ai-os-virus-mais-perigosos-em-circulacao-no-mundo--50581408.html",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Al Jazeera",
+      "head": "الجائحة القادمة .. إيبولا وهانتا يكشفان هشاشة العالم",
+      "url": "https://www.aljazeera.net/health/2026/5/21/%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%88%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D9%83%D8%B4%D9%81%D8%A7%D9%86",
+      "loc": "Israel",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Zerohedge",
+      "head": "The News - to - Death Ratio Strikes Again",
+      "url": "https://www.zerohedge.com/medical/news-death-ratio-strikes-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Elcordillerano",
       "head": "Bariloche : intensifican la búsqueda de Ana Lía colocando afiches en toda la ciudad",
       "url": "https://www.elcordillerano.com.ar/noticias/2026/05/21/240702-bariloche-intensifican-la-busqueda-de-ana-lia-colocando-afiches-en-toda-la-ciudad",
@@ -937,51 +982,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ELLE",
-      "head": "Are Hot Workout Classes Actually Sanitary in 2026 ? A Microbiologist Weighs In",
-      "url": "https://www.elle.com/beauty/health-fitness/a71284608/hot-workout-studios-bacteria-sanitary-interview-2026/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailystar",
-      "head": "  Im a doctor and this is why the African Ebola outbreak is so worrying  ",
-      "url": "https://www.dailystar.co.uk/health/im-doctor-african-ebola-outbreak-37187447",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Miragenews",
-      "head": "Virologist Urges Global Pandemic Preparedness",
-      "url": "https://www.miragenews.com/virologist-urges-global-pandemic-preparedness-1678192/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
