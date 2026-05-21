@@ -1,13 +1,118 @@
 {
-  "generated_at": "2026-05-21T21:13:26.953776+00:00",
+  "generated_at": "2026-05-21T22:49:20.328621+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EM",
+      "head": "Missão científica em busca de hantavírus capturou cerca de 150 roedores em Ushuaia",
+      "url": "http://www.em.com.br/internacional/2026/05/7425246-missao-cientifica-em-busca-de-hantavirus-capturou-cerca-de-150-roedores-em-ushuaia.html",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northcountrypublicradio",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5827015/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsweek",
+      "head": "American Opens Up About Joys , Woes of Hantavirus Quarantine",
+      "url": "https://www.newsweek.com/american-opens-up-about-joys-woes-of-hantavirus-quarantine-11976611",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wknofm",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wknofm.org/news-from-npr/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Publicradiotulsa",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.publicradiotulsa.org/npr-national-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AOL",
+      "head": "El Niño  could increase risk of hantavirus  ",
+      "url": "https://www.aol.co.uk/news/el-ni-o-could-increase-191139405.html",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Naharnet",
+      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
+      "url": "https://naharnet.com/stories/en/320199-hantavirus-stricken-cruise-ship-docks-in-the-netherlands",
+      "loc": "Syria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Syria"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -75,141 +180,6 @@
       "src": "Womenshealthmag",
       "head": "Why Is Nebraska Medical Center the National Quarantine Unit ? Why Hantavirus and Ebola Patients Have Been Sent to Nebraska",
       "url": "https://www.womenshealthmag.com/health/a71365494/nebraska-medical-center-hantavirus-ebola/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "EU accelerates research into hantavirus vaccines",
-      "url": "https://aa.com.tr/en/world/eu-accelerates-research-into-hantavirus-vaccines/3944883",
-      "loc": "Turkey",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medimagazin",
-      "head": "ABden yeni aşı sinyali : Hantavirüs salgına mı dönüşecek ? ",
-      "url": "https://medimagazin.com.tr/guncel/abden-yeni-asi-sinyali-hantavirus-salgina-mi-donusecek-120428",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SEJ",
-      "head": "Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
-      "url": "https://www.sej.org/headlines/wet-weather-argentina-helped-fuel-cruise-ship-hantavirus-outbreak",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "EU boosts efforts on hantavirus vaccines",
-      "url": "https://news.az/news/eu-boosts-efforts-on-hantavirus-vaccines",
-      "loc": "Azerbaijan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Azerbaijan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Maszol",
-      "head": "Gyógyultan hagyta el a kórházat a hantavírussal fertőzött fiatalember",
-      "url": "https://maszol.ro/belfold/Gyogyultan-hagyta-el-a-korhazat-a-hantavirussal-fertozoott-fiatalember",
-      "loc": "Romania",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Romania"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KVNF",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.kvnf.org/npr-news/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WHRO",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.whro.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGCU",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.wgcu.org/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WFAE",
-      "head": "COVID is shaping American reaction to Ebola and hantavirus",
-      "url": "https://www.wfae.org/science-environment/2026-05-21/covid-is-shaping-americans-reaction-to-ebola-and-hantavirus",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -838,6 +808,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "KELO",
+      "head": "Acting head of US NIH infectious disease institute has left , senators say",
+      "url": "https://kelo.com/2026/05/21/acting-head-of-us-nih-infectious-disease-institute-has-left-senators-say/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ideastream",
+      "head": "Survey : Fuel prices , economic uncertainty affecting Memorial Day travel",
+      "url": "https://www.ideastream.org/2026-05-21/fuel-prices-economic-uncertainty-travel-survey",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eurekalert",
+      "head": "We can help the body fight entire viral families",
+      "url": "https://www.eurekalert.org:443/news-releases/1129108",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsday",
+      "head": "Republican mayor AWOL when Hochul shows up with a check",
+      "url": "https://www.newsday.com/opinion/the-point/the-point-newsday-hochul-fare-valley-stream-downtown-revitalization-as0rpp97",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Cidrap",
       "head": "Episode 209 : Awareness vs . Alarm : Making Sense of the Headlines",
       "url": "https://www.cidrap.umn.edu/public-health/episode-209-awareness-vs-alarm-making-sense-headlines",
@@ -898,21 +928,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Noticiabrasil",
-      "head": "Eles estão aí : os vírus mais perigosos em circulao no mundo",
-      "url": "https://noticiabrasil.net.br/20260521/eles-estao-ai-os-virus-mais-perigosos-em-circulacao-no-mundo--50581408.html",
-      "loc": "",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "Al Jazeera",
       "head": "الجائحة القادمة .. إيبولا وهانتا يكشفان هشاشة العالم",
       "url": "https://www.aljazeera.net/health/2026/5/21/%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%88%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D9%83%D8%B4%D9%81%D8%A7%D9%86",
@@ -921,6 +936,21 @@
       "tags": [
         "Arabic",
         "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Noticiabrasil",
+      "head": "Eles estão aí : os vírus mais perigosos em circulao no mundo",
+      "url": "https://noticiabrasil.net.br/20260521/eles-estao-ai-os-virus-mais-perigosos-em-circulacao-no-mundo--50581408.html",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
       ],
       "live": true
     },
@@ -966,36 +996,6 @@
       "tags": [
         "English",
         "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Article",
-      "head": "Saudi Arabia tightens checks for arrivals from Ebola - affected region ahead of Hajj",
-      "url": "https://article.wn.com/view/2026/05/21/Saudi_Arabia_tightens_checks_for_arrivals_from_Ebolaaffected/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Express",
-      "head": "Ebola  kills immunity that would attack it  as  139 die  | World | News",
-      "url": "https://www.express.co.uk/news/world/2208175/ebola-virus-outbreak-congo-symptoms",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
       ],
       "live": true
     }
