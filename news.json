@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-21T19:26:27.902546+00:00",
+  "generated_at": "2026-05-21T21:13:26.953776+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 68,
+  "count": 69,
   "items": [
     {
       "time": "—",
@@ -215,6 +215,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-21",
+      "ts": "2026-05-21T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "In Vitro Antifungal Drug Susceptibility of Feline Sporothrix schenckii Complex Isolates, Thailand, 2023–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0135_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
