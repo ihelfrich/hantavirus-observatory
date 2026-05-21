@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-21T03:37:55.286126+00:00",
+  "generated_at": "2026-05-21T07:52:33.089608+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 68,
@@ -12,9 +12,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Beckershospitalreview",
-      "head": "What US hospitals actually need to worry about ( hint : it not Ebola or hantavirus ) ",
-      "url": "https://www.beckershospitalreview.com/quality/public-health/what-us-hospitals-actually-need-to-worry-about-hint-its-not-ebola-or-hantavirus/",
+      "src": "EN",
+      "head": "Fact Check : Hantavirus Is Not Bioweapon for Depopulation",
+      "url": "https://en.tempo.co/read/2104688/fact-check-hantavirus-is-not-bioweapon-for-depopulation",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox5Atlanta",
+      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
+      "url": "https://www.fox5atlanta.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Peoplesworld",
-      "head": "Clear and present danger : U . S . health officials , not hantavirus",
-      "url": "https://www.peoplesworld.org/article/clear-and-present-danger-u-s-health-officials-not-hantavirus/",
+      "src": "Kristv",
+      "head": "South Texas doctor addresses hantavirus fears and misconceptions",
+      "url": "https://www.kristv.com/news/local-news/health-expert-addresses-hantavirus-concerns-says-south-texas-risk-remains-extremely-low",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,24 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "NEWS",
-      "head": "Hantavirus - hit cruise line says vessel not the source",
-      "url": "https://news.az/news/hantavirus-hit-cruise-line-says-vessel-not-the-source",
-      "loc": "Azerbaijan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Azerbaijan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Peoplesworld",
-      "head": "Clear and present danger : U . S . health officials , not hantavirus",
-      "url": "https://peoplesworld.org/article/clear-and-present-danger-u-s-health-officials-not-hantavirus/",
+      "src": "Amsterdamnews",
+      "head": "Ebola and hantavirus have Africa talking  health sovereignty  as donor support fades",
+      "url": "https://amsterdamnews.com/news/2026/05/21/ebola-and-hantavirus-have-africa-talking-health-sovereignty-as-donor-support-fades/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Winonapost",
-      "head": "Health and Humor : Putting Hantavirus into perspective",
-      "url": "https://www.winonapost.com/opinion/health-and-humor-putting-hantavirus-into-perspective/article_7baa6926-3726-49d1-8a22-3844d1e509c6.html",
+      "src": "FOX29",
+      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
+      "url": "https://www.fox29.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Globalnews",
-      "head": "Hantavirus - hit cruise operator says ship was not source of outbreak - National",
-      "url": "https://globalnews.ca/news/11857107/hantavirus-outbreak-cruise-ship-operator-says-it-was-not-source/",
-      "loc": "Canada",
-      "lang": "English",
+      "src": "Haberyazar",
+      "head": "Doğanın Dengesi Bozulunca Tehdit Kapıya Dayandı : Ebola ve Hantavirüs Gerçeği",
+      "url": "https://www.haberyazar.com/genel/doganin-dengesi-bozulunca-tehdit-kapiya-dayandi-ebola-ve-hantavirus-gercegi/21921",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "Canada"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -102,9 +102,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KTBS",
-      "head": "Hantavirus outbreak revives memories of Louisiana first fatal case | Health",
-      "url": "https://www.ktbs.com/health/hantavirus-outbreak-revives-memories-of-louisiana-s-first-fatal-case/article_b1e42da5-a9d6-4106-b023-2d88e96fe161.html",
+      "src": "24Horas",
+      "head": " ¿ Perros y gatos transmiten el Virus Hanta ? Infectólogo responde",
+      "url": "https://www.24horas.cl/te-sirve/salud/perros-y-gatos-transmiten-virus-hanta-infectologo-responde",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox10Phoenix",
+      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
+      "url": "https://www.fox10phoenix.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,44 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Athens-Times",
-      "head": "Hantaviruses : Rare but Deadly Zoonoses",
-      "url": "https://athens-times.com/hantaviruses-rare-but-potentially-fatal-zoonoses-with-global-public-health-significance/",
-      "loc": "Greece",
+      "src": "Fox13Seattle",
+      "head": "Sheriff : Man threatened Walmart mass shooting if hantavirus led to lockdown",
+      "url": "https://www.fox13seattle.com/news/-arkansas-man-arrested-walmart-threat-hantavirus-lockdown",
+      "loc": "",
       "lang": "English",
       "tags": [
         "English",
-        "Greece"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Smokymountainnews",
-      "head": "Why Hantavirus outbreak deserves our attention",
-      "url": "https://smokymountainnews.com/opinion/item/41362-why-hantavirus-outbreak-deserves-our-attention",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Southwalesargus",
-      "head": "Welsh residents monitored after Hantavirus outbreak",
-      "url": "https://www.southwalesargus.co.uk/news/26125862.welsh-residents-monitored-hantavirus-outbreak/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
+        ""
       ],
       "live": true
     },
@@ -764,9 +749,159 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KLCC",
+      "src": "TSF",
+      "head": "Portugal é um dos países onde se vai concentrar a produo de fármacos na Europa",
+      "url": "https://www.tsf.pt/mundo/artigo/portugal-e-um-dos-paises-onde-se-vai-concentrar-a-producao-de-farmacos-na-europa/18086548",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thenational",
+      "head": "Ebola outbreak a warning over impact of overseas aid cuts",
+      "url": "https://www.thenational.scot/politics/26126182.ebola-outbreak-warning-impact-overseas-aid-cuts/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "基隆港嚴防漢他病毒 船舶未掛防鼠盾將開罰 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202605210144.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WSWS",
+      "head": "Rubio blames WHO for Ebola delay , as US aid cuts cripple public health in Africa",
+      "url": "https://www.wsws.org/en/articles/2026/05/21/egqs-m21.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Allafrica",
+      "head": "Congo - Kinshasa : Health Authorities Are Racing to Contain Ebola in the DR Congo and Uganda . Here What Making It So Challenging",
+      "url": "https://allafrica.com/stories/202605210009.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "Sánchez is loved everywhere – but not so much in Spain , say Andalusia voters . Can he pull off another comeback ? | María Ramírez",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/21/pedro-sanchez-loved-everywhere-not-so-much-spain-andalusia-voters-another-comeback",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Freethoughtblogs",
+      "head": "How About Something Cool Now That It Too Late for Us ? ",
+      "url": "https://freethoughtblogs.com/stderr/2026/05/20/how-about-something-cool-now-that-its-too-late-for-us/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UDN",
+      "head": "基隆港3年前即監測到漢他病毒 港方 ： 巡檢防鼠盾 | 生活新聞 | 生活",
+      "url": "https://udn.com/news/story/7266/9516655",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Balticbusinessnews",
+      "head": "Hyundai Bioscience Discloses XAFTY® IC50 Data for Ebola - Secured Scientific Evidence for Immediate Treatment  ",
+      "url": "https://balticbusinessnews.com/hyundai-bioscience-discloses-xaftys-ic50-data-for-ebola-secured-scientific-evidence-for-immediate-treatment/",
+      "loc": "Estonia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Estonia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chinatimes",
+      "head": "基隆港老鼠一定比例帶漢他病毒 謝國樑 ： 長期存在環境中 - 生活",
+      "url": "https://www.chinatimes.com/realtimenews/20260521002010-260405",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WRVO",
       "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.klcc.org/npr-news/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "url": "https://www.wrvo.org/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -779,14 +914,59 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Aspenpublicradio",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.aspenpublicradio.org/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
+      "src": "N",
+      "head": "男遭鼠咬後染 「 首爾型漢他病毒 」 尚未見傳染人 疾管署籲落實防鼠3不",
+      "url": "https://n.yam.com/Article/20260521775880",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "RIA",
+      "head": "Врач назвал причину вспышек хантавируса",
+      "url": "https://ria.ru/20260521/khantavirus-2093683095.html",
+      "loc": "Russia",
+      "lang": "Russian",
+      "tags": [
+        "Russian",
+        "Russia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SETN",
+      "head": "老鼠之亂怎麼辦 ？ 家裡怎防鼠患 ？ 專家曝新大樓兩大優勢 ： 讓牠們無路可走 | 房產 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/News.aspx?NewsID=1841623",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theconversation",
+      "head": "Health authorities are racing to contain Ebola in the DRC and Uganda . Here what making it so challenging",
+      "url": "https://theconversation.com/health-authorities-are-racing-to-contain-ebola-in-the-drc-and-uganda-heres-whats-making-it-so-challenging-283276",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -794,189 +974,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailyexpress",
-      "head": "Taiwan dog owners use mesh nets amid rat poison fears",
-      "url": "http://dailyexpress.com.my/news/281843/taiwan-dog-owners-use-mesh-nets-amid-rat-poison-fears/",
-      "loc": "Malaysia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Malaysia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WFAE",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.wfae.org/health/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theintercept",
-      "head": "Ebola Outbreak Rages After Trump Gutted Global Health Safeguards",
-      "url": "https://theintercept.com/2026/05/19/ebola-outbreak-trump-who/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WCLK",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.wclk.com/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WEEK",
-      "head": "Хантавірус : втеча з MV Hondius , 28 смертей , ситуація в Україні",
-      "url": "https://week.ukrainianwall.com/159703-vtekli-z-infikovanogo-laynera-mv-hondius-28-smertey-vid-hantavirusu-za-rik-63-vipadki-v-ukrajini",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
-      "tags": [
-        "Ukrainian",
-        "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KGOU",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.kgou.org/health/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KVNF",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.kvnf.org/npr-news/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WDIY",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.wdiy.org/npr-news/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc17News",
-      "head": "5 things to know for May 20 : Election night takeaways , IRS immunity , mosque shooting , virus concerns , Raúl Castro",
-      "url": "https://abc17news.com/news/national-world/cnn-national/2026/05/20/5-things-to-know-for-may-20-election-night-takeaways-irs-immunity-mosque-shooting-virus-concerns-raul-castro/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailykos",
-      "head": "West Coast Cookbook & Speakeasy Daily Special , Smothered Benedict Wednesdays Podcast ( Audio ) ",
-      "url": "https://www.dailykos.com/stories/2026/5/20/800041922/community/west-coast-cookbook-speakeasy-daily-special-smothered-benedict-wednesdays-podcast-audio/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "APR",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.apr.org/science-health/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wknofm",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.wknofm.org/news-from-npr/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYPR",
-      "head": "A rare Ebola strain is spreading with no vaccine . Here what you need to know",
-      "url": "https://www.wypr.org/2026-05-20/a-rare-ebola-strain-is-spreading-with-no-vaccine-heres-what-you-need-to-know",
+      "src": "1045Theteam",
+      "head": "New Yorkers Told To Avoid Some Travel As Ebola Spreads",
+      "url": "https://1045theteam.com/ixp/854/p/ebola-travel-restrictions-new-york/",
       "loc": "United States",
       "lang": "English",
       "tags": [
