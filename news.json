@@ -1,13 +1,118 @@
 {
-  "generated_at": "2026-05-22T11:24:30.860934+00:00",
+  "generated_at": "2026-05-22T13:43:56.271050+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dutchnews",
+      "head": "All 27 on board Hondius test negative for hantavirus",
+      "url": "https://www.dutchnews.nl/2026/05/all-27-on-board-hondius-test-negative-for-hantavirus/",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "Digested week : memories of Covid resurface with hantavirus and Ebola news",
+      "url": "https://www.theguardian.com/uk-news/2026/may/22/digested-week-memories-covid-resurface-hantavirus-ebola-news",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailydispatch",
+      "head": "WATCH | Inside the African lab that helped crack hantavirus outbreak",
+      "url": "https://www.dailydispatch.co.za/news/2026-05-22-watch-inside-the-african-lab-that-helped-crack-hantavirus-outbreak/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bizcommunity",
+      "head": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
+      "url": "https://www.bizcommunity.com/article/hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists-623331a",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nltimes",
+      "head": "All Hondius crew members in Rotterdam test negative for hantavirus",
+      "url": "https://nltimes.nl/2026/05/22/hondius-crew-members-rotterdam-test-negative-hantavirus",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberyazar",
+      "head": "Hondius gemisinde korkutan hantavirüs alarmı : Bakanlıktan beklenen açıklama geldi",
+      "url": "https://www.haberyazar.com/genel/hondius-gemisinde-korkutan-hantavirus-alarmi-bakanliktan-beklenen-aciklama-geldi/22137",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cnbcafrica",
+      "head": "Inside an African lab that helped crack the hantavirus outbreak",
+      "url": "https://www.cnbcafrica.com/2026/inside-an-african-lab-that-helped-crack-the-hantavirus-outbreak",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -135,156 +240,6 @@
       "src": "WLRN",
       "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
       "url": "https://www.wlrn.org/npr-breaking-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KPCW",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.kpcw.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WFAE",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wfae.org/united-states-world/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WVTF",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wvtf.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Revistagalileu",
-      "head": "Como o clima da Argentina contribuiu para o surto de hantavírus em cruzeiro",
-      "url": "https://revistagalileu.globo.com/saude/noticia/2026/05/como-o-clima-da-argentina-contribuiu-para-o-surto-de-hantavirus-em-cruzeiro.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCLU",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.kclu.org/healthcare/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYPR",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wypr.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMXT",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.kmxt.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KALW",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.kalw.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WVIK",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wvik.org/npr-top-stories/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gjsentinel",
-      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "url": "https://www.gjsentinel.com/news/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_5cc73605-f61d-56b7-bb91-6984c16a74f4.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -913,6 +868,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Cnbcafrica",
+      "head": "WHO Africa head warns against underestimating risk of Ebola spread",
+      "url": "https://www.cnbcafrica.com/2026/who-africa-head-warns-against-underestimating-risk-of-ebola-spread",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "防疫漢他病毒 基市府公布10項稽查重點違者開罰 | 地方",
+      "url": "https://www.cna.com.tw:443/news/aloc/202605220218.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SETN",
+      "head": "新北三重校園教室竄老鼠 議員促分級支援補助清消 | 政治 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/News.aspx?NewsID=1842520",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mv-Voice",
+      "head": "Nature can be unpredictable . Here what Silicon Valley experts say you should do to have a mishap - free summer outdoors",
+      "url": "https://www.mv-voice.com/outdoor-recreation/2026/05/21/nature-can-be-unpredictable-heres-what-silicon-valley-experts-say-you-should-do-to-have-a-mishap-free-summer-outdoors/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "UDN",
       "head": "高雄KTV免洗餐具破洞遭疑鼠患 網友狂猜 「 哪一家 」... 衛生局出手了 | 高屏離島 | 地方",
       "url": "https://udn.com/news/story/7327/9519514",
@@ -981,21 +996,6 @@
       "tags": [
         "Portuguese",
         "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abstvradio",
-      "head": "INTENSIFIED SCREENING AT PORTS OF ENTRY AMID GLOBAL DISEASE RISK",
-      "url": "https://abstvradio.com/intensified-screening-at-ports-of-entry-amid-global-disease-risk/",
-      "loc": "Antigua and Barbuda",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Antigua and Barbuda"
       ],
       "live": true
     }
