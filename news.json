@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-22T13:43:56.271050+00:00",
+  "generated_at": "2026-05-22T16:26:18.865478+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
@@ -12,14 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dutchnews",
-      "head": "All 27 on board Hondius test negative for hantavirus",
-      "url": "https://www.dutchnews.nl/2026/05/all-27-on-board-hondius-test-negative-for-hantavirus/",
-      "loc": "Netherlands",
+      "src": "KFAB",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://kfab.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Netherlands"
+        "United States"
       ],
       "live": true
     },
@@ -27,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Guardian",
-      "head": "Digested week : memories of Covid resurface with hantavirus and Ebola news",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/digested-week-memories-covid-resurface-hantavirus-ebola-news",
-      "loc": "United Kingdom",
+      "src": "WJBO",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | WJBO Newsradio 1150 AM & 98 . 7 FM",
+      "url": "https://wjbo.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     },
@@ -42,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailydispatch",
-      "head": "WATCH | Inside the African lab that helped crack hantavirus outbreak",
-      "url": "https://www.dailydispatch.co.za/news/2026-05-22-watch-inside-the-african-lab-that-helped-crack-hantavirus-outbreak/",
-      "loc": "",
+      "src": "Athens-Times",
+      "head": "Hantavirus : WHO Confirms New Case on MV Hondius",
+      "url": "https://athens-times.com/hantavirus-who-confirms-new-case-in-crew-member-repatriated-to-the-netherlands/",
+      "loc": "Greece",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "Greece"
       ],
       "live": true
     },
@@ -57,9 +57,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bizcommunity",
-      "head": "Hantavirus in Africa : why climate change , rats and weak surveillance are worrying scientists",
-      "url": "https://www.bizcommunity.com/article/hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists-623331a",
+      "src": "Channel963",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://channel963.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bssnews",
+      "head": "WHO says new hantavirus case among Hondius ship crew",
+      "url": "https://www.bssnews.net/news/389541",
+      "loc": "Bangladesh",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Bangladesh"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "1011Now",
+      "head": "Officials to share update on cruise ship hantavirus quarantine in Omaha",
+      "url": "https://www.1011now.com/2026/05/22/live-915-officials-brief-cruise-ship-hantavirus-quarantine-omaha/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "ECR",
+      "head": "WHO says new hantavirus case among Hondius ship crew",
+      "url": "https://www.ecr.co.za/news/news/who-says-new-hantavirus-case-among-hondius-ships-crew/",
       "loc": "South Africa",
       "lang": "English",
       "tags": [
@@ -72,14 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nltimes",
-      "head": "All Hondius crew members in Rotterdam test negative for hantavirus",
-      "url": "https://nltimes.nl/2026/05/22/hondius-crew-members-rotterdam-test-negative-hantavirus",
-      "loc": "Netherlands",
-      "lang": "English",
+      "src": "SAPO",
+      "head": "OMS confirma novo caso de hantavírus nos Países Baixos",
+      "url": "https://sapo.pt/artigo/oms-confirma-novo-caso-de-hantavirus-nos-paises-baixos-6a105805eabb4004a48549ad",
+      "loc": "Portugal",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "Netherlands"
+        "Portuguese",
+        "Portugal"
       ],
       "live": true
     },
@@ -87,14 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Haberyazar",
-      "head": "Hondius gemisinde korkutan hantavirüs alarmı : Bakanlıktan beklenen açıklama geldi",
-      "url": "https://www.haberyazar.com/genel/hondius-gemisinde-korkutan-hantavirus-alarmi-bakanliktan-beklenen-aciklama-geldi/22137",
-      "loc": "Turkey",
-      "lang": "Turkish",
+      "src": "G1",
+      "head": "Confirmado Novo caso de hantavírus em tripulante do MV Hondius repatriado para os Países Baixos",
+      "url": "https://g1.globo.com/saude/noticia/2026/05/22/confirmado-novo-caso-de-hantavirus-em-tripulante-do-mv-hondius-repatriado-para-os-paises-baixos.ghtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "Turkish",
-        "Turkey"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -102,14 +147,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cnbcafrica",
-      "head": "Inside an African lab that helped crack the hantavirus outbreak",
-      "url": "https://www.cnbcafrica.com/2026/inside-an-african-lab-that-helped-crack-the-hantavirus-outbreak",
-      "loc": "South Africa",
-      "lang": "English",
+      "src": "Cartacapital",
+      "head": "Novo caso de hantavírus é confirmado em tripulante do MV Hondius repatriado para os Países Baixos",
+      "url": "https://www.cartacapital.com.br/mundo/novo-caso-de-hantavirus-e-confirmado-em-tripulante-do-mv-hondius-repatriado-para-os-paises-baixos/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "South Africa"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -117,134 +162,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Economic Times",
-      "head": "Hantavirus outbreak : How an African lab identified the deadly Andes strain",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-outbreak-how-an-african-lab-contributed-to-the-scientific-breakthrough/articleshow/131258821.cms",
-      "loc": "India",
-      "lang": "English",
+      "src": "Oregional",
+      "head": "Hantavírus em 2026 : um alerta que exige ateno",
+      "url": "https://oregional.com.br/blog/detalhes/hantavirus-em-2026-um-alerta-que-exige-atencao",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "TSPR",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.tspr.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NPR",
-      "head": "American passenger is angry about hantavirus quarantine order : NPR",
-      "url": "https://www.npr.org/transcripts/nx-s1-5827015",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WXPR",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wxpr.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRCU",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.krcu.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WNCW",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wncw.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WEMU",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wemu.org/npr-national-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Radio",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://radio.wpsu.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLRN",
-      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wlrn.org/npr-breaking-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -868,54 +793,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cnbcafrica",
-      "head": "WHO Africa head warns against underestimating risk of Ebola spread",
-      "url": "https://www.cnbcafrica.com/2026/who-africa-head-warns-against-underestimating-risk-of-ebola-spread",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CNA",
-      "head": "防疫漢他病毒 基市府公布10項稽查重點違者開罰 | 地方",
-      "url": "https://www.cna.com.tw:443/news/aloc/202605220218.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SETN",
-      "head": "新北三重校園教室竄老鼠 議員促分級支援補助清消 | 政治 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1842520",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mv-Voice",
-      "head": "Nature can be unpredictable . Here what Silicon Valley experts say you should do to have a mishap - free summer outdoors",
-      "url": "https://www.mv-voice.com/outdoor-recreation/2026/05/21/nature-can-be-unpredictable-heres-what-silicon-valley-experts-say-you-should-do-to-have-a-mishap-free-summer-outdoors/",
+      "src": "Foreignpolicy",
+      "head": "Trump , Inequality Threaten Global Health Efforts",
+      "url": "https://foreignpolicy.com/2026/05/22/hantavirus-who-cruise-ship-outbreak-ebola-congo-trump-cdc-vaccine-inequality-geopolitics/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -928,9 +808,84 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "UDN",
-      "head": "高雄KTV免洗餐具破洞遭疑鼠患 網友狂猜 「 哪一家 」... 衛生局出手了 | 高屏離島 | 地方",
-      "url": "https://udn.com/news/story/7327/9519514",
+      "src": "Dariknews",
+      "head": "СЗО потвърди нов случай на хантавирус в Нидерландия",
+      "url": "https://dariknews.bg/novini/sviat/szo-potvyrdi-nov-sluchaj-na-hantavirus-v-niderlandiia-2455837",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
+      "tags": [
+        "Bulgarian",
+        "Bulgaria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Al Jazeera",
+      "head": "هانتا يختبر جاهزية العالم العربي .. مصر تطمئن والسعودية تراقب قبيل موسم الحج",
+      "url": "https://www.aljazeera.net/health/2026/5/22/%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%85%D8%B5%D8%B1",
+      "loc": "Israel",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "DSÖ : Kongoda Ebola riski  çok yüksek  seviyede",
+      "url": "https://www.haberler.com/saglik/dso-kongo-demokratik-cumhuriyeti-ndeki-ebola-19872818-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Miragenews",
+      "head": "Gaza : Medicine Blocked Amid Ongoing Violence , Disease",
+      "url": "https://www.miragenews.com/gaza-medicine-blocked-amid-ongoing-violence-1679078/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Healthnews",
+      "head": "Хантавірус в Україні – чи були випадки , як передається – симптоми і профілактика",
+      "url": "https://healthnews.obozrevatel.com/ukr/u-moz-rozpovili-yakij-hantavirus-tsirkulyue-v-ukraini-chi-peredaetsya-vin-vid-lyudini-do-lyudini.htm",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "BLOG",
+      "head": "ホカンス - 苗栗債務整合諮詢 , 新竹關西鎮當舖借款 , 板橋合法借款",
+      "url": "https://blog.udn.com:443/fn79hd57nv/189082251",
       "loc": "Taiwan",
       "lang": "Chinese",
       "tags": [
@@ -943,14 +898,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Brasildefato",
-      "head": "Na OMS , ministro Padilha defende resposta global à crise climática e reduo das desigualdades em saúde",
-      "url": "https://www.brasildefato.com.br/2026/05/21/na-oms-ministro-padilha-defende-resposta-global-a-crise-climatica-e-reducao-das-desigualdades-em-saude/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "Chinatimes",
+      "head": "伊波拉疫情 》 剛果177死 WHO估風險極高 ！ 雙線作戰示警 - 健康",
+      "url": "https://www.chinatimes.com/realtimenews/20260522004372-260408",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -958,14 +913,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Brasildefato",
-      "head": "Assembleia Mundial debate crises globais , novos surtos e financiamento da saúde",
-      "url": "https://www.brasildefato.com.br/2026/05/21/assembleia-mundial-debate-crises-globais-novos-surtos-e-financiamento-da-saude/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "Timesofindia",
+      "head": "  It would be a big mistake : WHO Africa chief warns against underestimating Ebola virus risk in Congo , Uganda",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/it-would-be-a-big-mistake-who-africa-chief-warns-against-underestimating-ebola-virus-risk-in-congo-uganda/articleshow/131264292.cms",
+      "loc": "India",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "English",
+        "India"
       ],
       "live": true
     },
@@ -974,13 +929,13 @@
       "date": "",
       "ts": "",
       "src": "NEWS",
-      "head": "  Риск летального исхода до 40−50 %: Роспотребнадзор назвал ключевые характеристики хантавируса",
-      "url": "https://news.mail.ru/society/70980873/",
-      "loc": "Russia",
-      "lang": "Russian",
+      "head": "毋湯 ！ 民眾餵鴿引老鼠出沒 高雄環保局 : 最重可罰6千元 - 生活",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5446448",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "Russian",
-        "Russia"
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -988,14 +943,59 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Folha",
-      "head": "Viver ou morrer tornou - se mero ativo estratégico - 21 / 05 / 2026 - Laura Greenhalgh",
-      "url": "https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/05/viver-ou-morrer-tornou-se-mero-ativo-estrategico.shtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "Birgun",
+      "head": "DSÖ  den kritik uyarı : Ebola salgınının risk seviyesi yükseltildi",
+      "url": "https://www.birgun.net/haber/dsoden-kritik-uyari-ebola-salgininin-risk-seviyesi-yukseltildi-714335%20target=_blank%20class=stretched-link",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Tribuneindia",
+      "head": "WHO Africa head warns against underestimating risk of Ebola spread",
+      "url": "https://www.tribuneindia.com/news/world/who-africa-head-warns-against-underestimating-risk-of-ebola-spread/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ensonhaber",
+      "head": "DSÖ : 750 şüpheli vaka ve 177 şüpheli ölüm tespit edildi",
+      "url": "https://www.ensonhaber.com/dso-750-supheli-vaka-ve-177-supheli-olum-tespit-edildi-h1536539",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "Kongo Demokratik Cumhuriyetindeki Ebola salgını risk değerlendirmesi ulusal düzeyde  çok yüksek  olarak revize edildi",
+      "url": "https://www.aa.com.tr/tr/dunya/kongo-demokratik-cumhuriyetindeki-ebola-salgini-risk-degerlendirmesi-ulusal-duzeyde-cok-yuksek-olarak-revize-edildi/3945854",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     }
