@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T04:44:10.200107+00:00",
+  "generated_at": "2026-05-22T08:21:41.242985+00:00",
   "sources": [
     "CIDRAP",
     "CDC EID",
@@ -12,9 +12,189 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EM",
-      "head": "Missão científica em busca de hantavírus capturou cerca de 150 roedores em Ushuaia",
-      "url": "http://www.em.com.br/internacional/2026/05/7425246-missao-cientifica-em-busca-de-hantavirus-capturou-cerca-de-150-roedores-em-ushuaia.html",
+      "src": "Economic Times",
+      "head": "Hantavirus outbreak : How an African lab identified the deadly Andes strain",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hantavirus-outbreak-how-an-african-lab-contributed-to-the-scientific-breakthrough/articleshow/131258821.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TSPR",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.tspr.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NPR",
+      "head": "American passenger is angry about hantavirus quarantine order : NPR",
+      "url": "https://www.npr.org/transcripts/nx-s1-5827015",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WXPR",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wxpr.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KRCU",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.krcu.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WNCW",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wncw.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WEMU",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wemu.org/npr-national-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radio",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://radio.wpsu.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLRN",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wlrn.org/npr-breaking-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KPCW",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.kpcw.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WFAE",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wfae.org/united-states-world/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WVTF",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wvtf.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Revistagalileu",
+      "head": "Como o clima da Argentina contribuiu para o surto de hantavírus em cruzeiro",
+      "url": "https://revistagalileu.globo.com/saude/noticia/2026/05/como-o-clima-da-argentina-contribuiu-para-o-surto-de-hantavirus-em-cruzeiro.ghtml",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -27,9 +207,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Northcountrypublicradio",
+      "src": "KCLU",
       "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5827015/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "url": "https://www.kclu.org/healthcare/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,24 +222,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newsweek",
-      "head": "American Opens Up About Joys , Woes of Hantavirus Quarantine",
-      "url": "https://www.newsweek.com/american-opens-up-about-joys-woes-of-hantavirus-quarantine-11976611",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wknofm",
+      "src": "WYPR",
       "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.wknofm.org/news-from-npr/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "url": "https://www.wypr.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +237,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Publicradiotulsa",
+      "src": "KMXT",
       "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
-      "url": "https://www.publicradiotulsa.org/npr-national-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
+      "url": "https://www.kmxt.org/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,39 +252,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "AOL",
-      "head": "El Niño  could increase risk of hantavirus  ",
-      "url": "https://www.aol.co.uk/news/el-ni-o-could-increase-191139405.html",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Naharnet",
-      "head": "Hantavirus - stricken cruise ship docks in the Netherlands",
-      "url": "https://naharnet.com/stories/en/320199-hantavirus-stricken-cruise-ship-docks-in-the-netherlands",
-      "loc": "Syria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Syria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wfav951",
-      "head": "Health Department Adminsitrator addresses hantavirus concerns",
-      "url": "https://wfav951.com/2026/05/21/health-department-adminsitrator-addresses-hantavirus-concerns/",
+      "src": "KALW",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.kalw.org/npr-news/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -132,9 +267,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nbcmiami",
-      "head": "N . Y . man who was on hantavirus cruise says Nebraska isolation feels like prison – NBC 6 South Florida",
-      "url": "https://www.nbcmiami.com/news/national-international/hantavirus-cruise-ship-passenger-nebraska-isolation-center/3811994/",
+      "src": "WVIK",
+      "head": "American passenger feels  betrayed  by federal order to stay in hantavirus quarantine",
+      "url": "https://www.wvik.org/npr-top-stories/2026-05-21/american-passenger-feels-betrayed-by-federal-order-to-stay-in-hantavirus-quarantine",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -147,39 +282,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nbcdfw",
-      "head": "N . Y . man who was on hantavirus cruise says Nebraska isolation feels like prison – NBC 5 Dallas - Fort Worth",
-      "url": "https://www.nbcdfw.com/news/national-international/hantavirus-cruise-ship-passenger-nebraska-isolation-center/4026996/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elcordillerano",
-      "head": "Hallazgo inquietante de la misión del Malbrán : otros ratones pueden portar el virus hanta",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/05/21/240681-hallazgo-inquietante-de-la-mision-del-malbran-otros-ratones-pueden-portar-el-virus-hanta",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Womenshealthmag",
-      "head": "Why Is Nebraska Medical Center the National Quarantine Unit ? Why Hantavirus and Ebola Patients Have Been Sent to Nebraska",
-      "url": "https://www.womenshealthmag.com/health/a71365494/nebraska-medical-center-hantavirus-ebola/",
+      "src": "Gjsentinel",
+      "head": "Argentina icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "url": "https://www.gjsentinel.com/news/world/argentinas-icy-outpost-at-the-end-of-the-world-fears-the-hantavirus-will-chill-tourism/article_5cc73605-f61d-56b7-bb91-6984c16a74f4.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -808,14 +913,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KELO",
-      "head": "Acting head of US NIH infectious disease institute has left , senators say",
-      "url": "https://kelo.com/2026/05/21/acting-head-of-us-nih-infectious-disease-institute-has-left-senators-say/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "UDN",
+      "head": "高雄KTV免洗餐具破洞遭疑鼠患 網友狂猜 「 哪一家 」... 衛生局出手了 | 高屏離島 | 地方",
+      "url": "https://udn.com/news/story/7327/9519514",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "English",
-        "United States"
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -823,134 +928,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ideastream",
-      "head": "Survey : Fuel prices , economic uncertainty affecting Memorial Day travel",
-      "url": "https://www.ideastream.org/2026-05-21/fuel-prices-economic-uncertainty-travel-survey",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eurekalert",
-      "head": "We can help the body fight entire viral families",
-      "url": "https://www.eurekalert.org:443/news-releases/1129108",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsday",
-      "head": "Republican mayor AWOL when Hochul shows up with a check",
-      "url": "https://www.newsday.com/opinion/the-point/the-point-newsday-hochul-fare-valley-stream-downtown-revitalization-as0rpp97",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "Episode 209 : Awareness vs . Alarm : Making Sense of the Headlines",
-      "url": "https://www.cidrap.umn.edu/public-health/episode-209-awareness-vs-alarm-making-sense-headlines",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Torontosun",
-      "head": "Air France flight diverted to Montreal over U . S . Ebola restrictions",
-      "url": "https://torontosun.com/news/national/air-france-flight-diverted-montreal-ebola-restrictions",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBC",
-      "head": "First cruise ship of season arrives in St . John ",
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/stjohns-cruise-season-begins-9.7206939",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "TSN",
-      "head": "Хантавірусна інфекція які перші симптоми легко пропустити після прибирання вдома Актуальна тема",
-      "url": "https://tsn.ua/lady/zdorovye/aktualnaya-tema/khantavirus-seryozna-infektsiia-symptomy-iakoyi-lehko-propustyty-pislia-zvychaynoho-prybyrannia-vdoma-3088586.html",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
-      "tags": [
-        "Ukrainian",
-        "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Al Jazeera",
-      "head": "الجائحة القادمة .. إيبولا وهانتا يكشفان هشاشة العالم",
-      "url": "https://www.aljazeera.net/health/2026/5/21/%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%88%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D9%83%D8%B4%D9%81%D8%A7%D9%86",
-      "loc": "Israel",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Noticiabrasil",
-      "head": "Eles estão aí : os vírus mais perigosos em circulao no mundo",
-      "url": "https://noticiabrasil.net.br/20260521/eles-estao-ai-os-virus-mais-perigosos-em-circulacao-no-mundo--50581408.html",
-      "loc": "",
+      "src": "Brasildefato",
+      "head": "Na OMS , ministro Padilha defende resposta global à crise climática e reduo das desigualdades em saúde",
+      "url": "https://www.brasildefato.com.br/2026/05/21/na-oms-ministro-padilha-defende-resposta-global-a-crise-climatica-e-reducao-das-desigualdades-em-saude/",
+      "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
         "Portuguese",
-        ""
+        "Brazil"
       ],
       "live": true
     },
@@ -958,44 +943,59 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Zerohedge",
-      "head": "The News - to - Death Ratio Strikes Again",
-      "url": "https://www.zerohedge.com/medical/news-death-ratio-strikes-again",
-      "loc": "United States",
+      "src": "Brasildefato",
+      "head": "Assembleia Mundial debate crises globais , novos surtos e financiamento da saúde",
+      "url": "https://www.brasildefato.com.br/2026/05/21/assembleia-mundial-debate-crises-globais-novos-surtos-e-financiamento-da-saude/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "  Риск летального исхода до 40−50 %: Роспотребнадзор назвал ключевые характеристики хантавируса",
+      "url": "https://news.mail.ru/society/70980873/",
+      "loc": "Russia",
+      "lang": "Russian",
+      "tags": [
+        "Russian",
+        "Russia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Folha",
+      "head": "Viver ou morrer tornou - se mero ativo estratégico - 21 / 05 / 2026 - Laura Greenhalgh",
+      "url": "https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/05/viver-ou-morrer-tornou-se-mero-ativo-estrategico.shtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abstvradio",
+      "head": "INTENSIFIED SCREENING AT PORTS OF ENTRY AMID GLOBAL DISEASE RISK",
+      "url": "https://abstvradio.com/intensified-screening-at-ports-of-entry-amid-global-disease-risk/",
+      "loc": "Antigua and Barbuda",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elcordillerano",
-      "head": "Bariloche : intensifican la búsqueda de Ana Lía colocando afiches en toda la ciudad",
-      "url": "https://www.elcordillerano.com.ar/noticias/2026/05/21/240702-bariloche-intensifican-la-busqueda-de-ana-lia-colocando-afiches-en-toda-la-ciudad",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Manilatimes",
-      "head": "Reshaping the response to global health emergencies",
-      "url": "https://www.manilatimes.net/2026/05/22/opinion/editorial/reshaping-the-response-to-global-health-emergencies/2349385",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
+        "Antigua and Barbuda"
       ],
       "live": true
     }
