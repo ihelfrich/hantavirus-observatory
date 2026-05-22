@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T16:26:18.865478+00:00",
+  "generated_at": "2026-05-22T18:16:14.161733+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -8,6 +8,201 @@
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KWHN",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://kwhn.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Stcatharinesstandard",
+      "head": "Canada top doctor set to give an update on both Ebola and hantavirus today",
+      "url": "https://www.stcatharinesstandard.ca/news/canada/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/article_1576fd75-95a0-52f1-9412-6fecb475388d.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newstalk1090",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://newstalk1090.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Powertalk1460",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | PowerTalk 1460 AM & 101 . 1 FM",
+      "url": "https://powertalk1460.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newstalk1400Online",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+      "url": "https://newstalk1400online.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcnews",
+      "head": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive",
+      "url": "https://www.nbcnews.com/health/health-news/hantavirus-cases-linked-cruise-ship-rise-12-crew-member-tests-positive-rcna346481",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTOK",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://ktok.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Medicinehatnews",
+      "head": "Canada top doctor set to give an update on both Ebola and hantavirus today - Medicine Hat NewsMedicine Hat News",
+      "url": "https://medicinehatnews.com/news/national-news/2026/05/22/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "WHO chief says hantavirus cases linked to cruise ship rise to 12",
+      "url": "https://aa.com.tr/en/health/who-chief-says-hantavirus-cases-linked-to-cruise-ship-rise-to-12/3945916",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WHYN",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://whyn.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WSPD",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | NewsRadio 1370 AM & 92 . 9 FM WSPD",
+      "url": "https://wspd.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTKG",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://wtkg.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Moose106",
+      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
+      "url": "https://moose106.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -80,96 +275,6 @@
       "tags": [
         "English",
         "Bangladesh"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1011Now",
-      "head": "Officials to share update on cruise ship hantavirus quarantine in Omaha",
-      "url": "https://www.1011now.com/2026/05/22/live-915-officials-brief-cruise-ship-hantavirus-quarantine-omaha/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ECR",
-      "head": "WHO says new hantavirus case among Hondius ship crew",
-      "url": "https://www.ecr.co.za/news/news/who-says-new-hantavirus-case-among-hondius-ships-crew/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "OMS confirma novo caso de hantavírus nos Países Baixos",
-      "url": "https://sapo.pt/artigo/oms-confirma-novo-caso-de-hantavirus-nos-paises-baixos-6a105805eabb4004a48549ad",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "G1",
-      "head": "Confirmado Novo caso de hantavírus em tripulante do MV Hondius repatriado para os Países Baixos",
-      "url": "https://g1.globo.com/saude/noticia/2026/05/22/confirmado-novo-caso-de-hantavirus-em-tripulante-do-mv-hondius-repatriado-para-os-paises-baixos.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cartacapital",
-      "head": "Novo caso de hantavírus é confirmado em tripulante do MV Hondius repatriado para os Países Baixos",
-      "url": "https://www.cartacapital.com.br/mundo/novo-caso-de-hantavirus-e-confirmado-em-tripulante-do-mv-hondius-repatriado-para-os-paises-baixos/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Oregional",
-      "head": "Hantavírus em 2026 : um alerta que exige ateno",
-      "url": "https://oregional.com.br/blog/detalhes/hantavirus-em-2026-um-alerta-que-exige-atencao",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
       ],
       "live": true
     },
@@ -793,6 +898,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Tribune",
+      "head": "WHO raises risk of Ebola outbreak in Congo to  very high  at national level",
+      "url": "https://tribune.com.pk/story/2609531/who-raises-risk-of-ebola-outbreak-in-congo-to-very-high-at-national-level",
+      "loc": "Pakistan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Pakistan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Birgun",
+      "head": "DSÖ  den kritik uyarı : Ebola salgınının risk seviyesi yükseltildi",
+      "url": "https://www.birgun.net/haber/dsoden-kritik-uyari-ebola-salgininin-risk-seviyesi-yukseltildi-714335",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dominicanrepublicpost",
+      "head": "WHO raises Ebola public health risk to  very high  in DR Congo - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/who-raises-ebola-public-health-risk-to-very-high-in-dr-congo/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thenationalnews",
+      "head": "Oxford scientists developing Ebola vaccine using Covid breakthrough",
+      "url": "https://www.thenationalnews.com/health/2026/05/22/oxford-scientists-developing-ebola-vaccine-using-covid-breakthrough/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Foreignpolicy",
       "head": "Trump , Inequality Threaten Global Health Efforts",
       "url": "https://foreignpolicy.com/2026/05/22/hantavirus-who-cruise-ship-outbreak-ebola-congo-trump-cdc-vaccine-inequality-geopolitics/",
@@ -831,171 +996,6 @@
       "tags": [
         "Arabic",
         "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "DSÖ : Kongoda Ebola riski  çok yüksek  seviyede",
-      "url": "https://www.haberler.com/saglik/dso-kongo-demokratik-cumhuriyeti-ndeki-ebola-19872818-haberi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Miragenews",
-      "head": "Gaza : Medicine Blocked Amid Ongoing Violence , Disease",
-      "url": "https://www.miragenews.com/gaza-medicine-blocked-amid-ongoing-violence-1679078/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Healthnews",
-      "head": "Хантавірус в Україні – чи були випадки , як передається – симптоми і профілактика",
-      "url": "https://healthnews.obozrevatel.com/ukr/u-moz-rozpovili-yakij-hantavirus-tsirkulyue-v-ukraini-chi-peredaetsya-vin-vid-lyudini-do-lyudini.htm",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
-      "tags": [
-        "Ukrainian",
-        "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "BLOG",
-      "head": "ホカンス - 苗栗債務整合諮詢 , 新竹關西鎮當舖借款 , 板橋合法借款",
-      "url": "https://blog.udn.com:443/fn79hd57nv/189082251",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "伊波拉疫情 》 剛果177死 WHO估風險極高 ！ 雙線作戰示警 - 健康",
-      "url": "https://www.chinatimes.com/realtimenews/20260522004372-260408",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timesofindia",
-      "head": "  It would be a big mistake : WHO Africa chief warns against underestimating Ebola virus risk in Congo , Uganda",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/it-would-be-a-big-mistake-who-africa-chief-warns-against-underestimating-ebola-virus-risk-in-congo-uganda/articleshow/131264292.cms",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "毋湯 ！ 民眾餵鴿引老鼠出沒 高雄環保局 : 最重可罰6千元 - 生活",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5446448",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Birgun",
-      "head": "DSÖ  den kritik uyarı : Ebola salgınının risk seviyesi yükseltildi",
-      "url": "https://www.birgun.net/haber/dsoden-kritik-uyari-ebola-salgininin-risk-seviyesi-yukseltildi-714335%20target=_blank%20class=stretched-link",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Tribuneindia",
-      "head": "WHO Africa head warns against underestimating risk of Ebola spread",
-      "url": "https://www.tribuneindia.com/news/world/who-africa-head-warns-against-underestimating-risk-of-ebola-spread/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ensonhaber",
-      "head": "DSÖ : 750 şüpheli vaka ve 177 şüpheli ölüm tespit edildi",
-      "url": "https://www.ensonhaber.com/dso-750-supheli-vaka-ve-177-supheli-olum-tespit-edildi-h1536539",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "Kongo Demokratik Cumhuriyetindeki Ebola salgını risk değerlendirmesi ulusal düzeyde  çok yüksek  olarak revize edildi",
-      "url": "https://www.aa.com.tr/tr/dunya/kongo-demokratik-cumhuriyetindeki-ebola-salgini-risk-degerlendirmesi-ulusal-duzeyde-cok-yuksek-olarak-revize-edildi/3945854",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
       ],
       "live": true
     }
