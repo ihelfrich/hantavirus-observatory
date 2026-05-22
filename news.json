@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-22T20:19:36.802951+00:00",
+  "generated_at": "2026-05-22T21:42:54.958126+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
@@ -12,9 +12,144 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KWHN",
+      "src": "Fox10Phoenix",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.fox10phoenix.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lmtonline",
+      "head": "Laredo Public Health encourages awareness , not fear , over hantavirus",
+      "url": "https://www.lmtonline.com/local/article/laredo-public-health-hantavirus-response-covid-19-22272258.php",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox35Orlando",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.fox35orlando.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KCCI",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.kcci.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WMUR",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.wmur.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Premiumtimesng",
+      "head": "WHO raises Ebola risk level as DRC outbreak worsens , reports new hantavirus cases",
+      "url": "https://www.premiumtimesng.com/health/health-news/881964-who-raises-ebola-risk-level-as-drc-outbreak-worsens-reports-new-hantavirus-cases.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGAL",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.wgal.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mynbc5",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.mynbc5.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KETV",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.ketv.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71386429",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KMOD",
       "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://kwhn.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "url": "https://kmod.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,118 +162,13 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Stcatharinesstandard",
-      "head": "Canada top doctor set to give an update on both Ebola and hantavirus today",
-      "url": "https://www.stcatharinesstandard.ca/news/canada/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/article_1576fd75-95a0-52f1-9412-6fecb475388d.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newstalk1090",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://newstalk1090.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Powertalk1460",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | PowerTalk 1460 AM & 101 . 1 FM",
-      "url": "https://powertalk1460.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newstalk1400Online",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-      "url": "https://newstalk1400online.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcnews",
-      "head": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive",
-      "url": "https://www.nbcnews.com/health/health-news/hantavirus-cases-linked-cruise-ship-rise-12-crew-member-tests-positive-rcna346481",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTOK",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://ktok.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medicinehatnews",
-      "head": "Canada top doctor set to give an update on both Ebola and hantavirus today - Medicine Hat NewsMedicine Hat News",
-      "url": "https://medicinehatnews.com/news/national-news/2026/05/22/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "WHO chief says hantavirus cases linked to cruise ship rise to 12",
-      "url": "https://aa.com.tr/en/health/who-chief-says-hantavirus-cases-linked-to-cruise-ship-rise-to-12/3945916",
+      "src": "Haberyazar",
+      "head": "Hantavirüs alarmı : İspanyadan temaslılar için kritik karar",
+      "url": "https://www.haberyazar.com/genel/hantavirus-alarmi-ispanyadan-temaslilar-icin-kritik-karar/22207",
       "loc": "Turkey",
-      "lang": "English",
+      "lang": "Turkish",
       "tags": [
-        "English",
+        "Turkish",
         "Turkey"
       ],
       "live": true
@@ -147,9 +177,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WHYN",
+      "src": "Euronews",
+      "head": "Spain allows hantavirus contacts who test negative to spend last 14 quarantine days at home",
+      "url": "https://www.euronews.com/health/2026/05/22/spain-allows-hantavirus-contacts-who-test-negative-to-spend-last-14-quarantine-days-at-hom",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLAC",
       "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://whyn.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "url": "https://wlac.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -162,9 +207,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WSPD",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | NewsRadio 1370 AM & 92 . 9 FM WSPD",
-      "url": "https://wspd.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "src": "Rttnews",
+      "head": "Researchers Discover Widespread Sin Nombre Virus In Pacific Northwest Rodents",
+      "url": "https://www.rttnews.com/3654904/researchers-discover-widespread-sin-nombre-virus-in-pacific-northwest-rodents.aspx",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -177,9 +222,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTKG",
+      "src": "WCVB",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.wcvb.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kxly920",
+      "head": "Hantavirus More Common In The Northwest That Originally Thought",
+      "url": "https://kxly920.com/2026/05/22/hantavirus-more-common-in-the-northwest-that-originally-thought/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLWT",
+      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
+      "url": "https://www.wlwt.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTAG",
       "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://wtkg.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "url": "https://wtag.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,9 +282,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Moose106",
+      "src": "790Waeb",
       "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://moose106.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "url": "https://790waeb.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -207,74 +297,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KFAB",
+      "src": "Wflafm",
       "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://kfab.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "url": "https://wflafm.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WJBO",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns | WJBO Newsradio 1150 AM & 98 . 7 FM",
-      "url": "https://wjbo.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Athens-Times",
-      "head": "Hantavirus : WHO Confirms New Case on MV Hondius",
-      "url": "https://athens-times.com/hantavirus-who-confirms-new-case-in-crew-member-repatriated-to-the-netherlands/",
-      "loc": "Greece",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Greece"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Channel963",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://channel963.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bssnews",
-      "head": "WHO says new hantavirus case among Hondius ship crew",
-      "url": "https://www.bssnews.net/news/389541",
-      "loc": "Bangladesh",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Bangladesh"
       ],
       "live": true
     },
@@ -898,14 +928,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Tribune",
-      "head": "WHO raises risk of Ebola outbreak in Congo to  very high  at national level",
-      "url": "https://tribune.com.pk/story/2609531/who-raises-risk-of-ebola-outbreak-in-congo-to-very-high-at-national-level",
-      "loc": "Pakistan",
-      "lang": "English",
+      "src": "Albayan",
+      "head": " « الصحة العالمية » ترفع خطر تفشي « إيبولا » في الكونغو إلى مرتفع جداً",
+      "url": "https://www.albayan.ae/news/middle-east/other-countries/1311084",
+      "loc": "United Arab Emirates",
+      "lang": "Arabic",
       "tags": [
-        "English",
-        "Pakistan"
+        "Arabic",
+        "United Arab Emirates"
       ],
       "live": true
     },
@@ -913,44 +943,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Birgun",
-      "head": "DSÖ  den kritik uyarı : Ebola salgınının risk seviyesi yükseltildi",
-      "url": "https://www.birgun.net/haber/dsoden-kritik-uyari-ebola-salgininin-risk-seviyesi-yukseltildi-714335",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dominicanrepublicpost",
-      "head": "WHO raises Ebola public health risk to  very high  in DR Congo - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/who-raises-ebola-public-health-risk-to-very-high-in-dr-congo/",
-      "loc": "United States",
+      "src": "Nationalpost",
+      "head": "Ontario man tests negative for Ebola",
+      "url": "https://nationalpost.com/news/canada/ontario-ebola-british-columbia-hantavirus",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thenationalnews",
-      "head": "Oxford scientists developing Ebola vaccine using Covid breakthrough",
-      "url": "https://www.thenationalnews.com/health/2026/05/22/oxford-scientists-developing-ebola-vaccine-using-covid-breakthrough/",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
+        "Canada"
       ],
       "live": true
     },
@@ -959,8 +959,8 @@
       "date": "",
       "ts": "",
       "src": "Foreignpolicy",
-      "head": "Trump , Inequality Threaten Global Health Efforts",
-      "url": "https://foreignpolicy.com/2026/05/22/hantavirus-who-cruise-ship-outbreak-ebola-congo-trump-cdc-vaccine-inequality-geopolitics/",
+      "head": "Ebola Outbreak Shows Why the Next Pandemic Will Come From a Conflict Zone",
+      "url": "https://foreignpolicy.com/2026/05/22/ebola-outbreak-congo-uganda-pandemic-preparedness-conflict/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -973,14 +973,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dariknews",
-      "head": "СЗО потвърди нов случай на хантавирус в Нидерландия",
-      "url": "https://dariknews.bg/novini/sviat/szo-potvyrdi-nov-sluchaj-na-hantavirus-v-niderlandiia-2455837",
-      "loc": "Bulgaria",
+      "src": "DW",
+      "head": "  109 ,  271 ,  кутия сок : прикрит антисемитизъм в мрежата",
+      "url": "https://www.dw.com/bg/109-271-kutia-sok-prikrit-antisemitizm-v-mrezata/a-77266762",
+      "loc": "Germany",
       "lang": "Bulgarian",
       "tags": [
         "Bulgarian",
-        "Bulgaria"
+        "Germany"
       ],
       "live": true
     },
@@ -988,14 +988,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Al Jazeera",
-      "head": "هانتا يختبر جاهزية العالم العربي .. مصر تطمئن والسعودية تراقب قبيل موسم الحج",
-      "url": "https://www.aljazeera.net/health/2026/5/22/%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%85%D8%B5%D8%B1",
-      "loc": "Israel",
-      "lang": "Arabic",
+      "src": "Lethbridgeherald",
+      "head": "Ontario patient tests negative for Ebola , while new border screening measures are in place amid Congo outbreak",
+      "url": "https://lethbridgeherald.com/news/national-news/2026/05/22/ontario-patient-tests-negative-for-ebola-while-new-border-screening-measures-are-in-place-amid-congo-outbreak/",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Arabic",
-        "Israel"
+        "English",
+        "United States"
       ],
       "live": true
     }
