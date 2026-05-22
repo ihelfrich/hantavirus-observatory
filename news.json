@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-05-22T21:42:54.958126+00:00",
+  "generated_at": "2026-05-22T22:58:29.909323+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Rondoniadinamica",
+      "head": "Novo caso de hantavírus é confirmado nos Países Baixos",
+      "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245269.shtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Surenio",
+      "head": "La provincia y el Malbrán concluyeron el operativo de vigilancia por hantavirus en Ushuaia",
+      "url": "https://www.surenio.com.ar/la-provincia-y-el-malbran-concluyeron-el-operativo-de-vigilancia-por-hantavirus-en-ushuaia/",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "FOX9",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.fox9.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radaronline",
+      "head": "Deadly Hantavirus Lockdown is Here As Millions Are Infected Worldwide",
+      "url": "https://radaronline.com/p/deadly-hantavirus-lockdown-outbreak-more-contagious-covid/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -225,81 +285,6 @@
       "src": "WCVB",
       "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
       "url": "https://www.wcvb.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kxly920",
-      "head": "Hantavirus More Common In The Northwest That Originally Thought",
-      "url": "https://kxly920.com/2026/05/22/hantavirus-more-common-in-the-northwest-that-originally-thought/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLWT",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.wlwt.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WTAG",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://wtag.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "790Waeb",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://790waeb.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wflafm",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://wflafm.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -928,6 +913,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Chroniclejournal",
+      "head": "Ontario patient tests negative for Ebola , while new border screening measures are in place amid Congo outbreak",
+      "url": "https://www.chroniclejournal.com/life/national_life/ontario-patient-tests-negative-for-ebola-while-new-border-screening-measures-are-in-place-amid/article_5ff7b9c5-b940-511f-ac8d-e7c4d637517b.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thejournal",
+      "head": "Amid outbreaks , an age - old theory is being resurrected online : viruses dont exist",
+      "url": "https://www.thejournal.ie/debunked-viruses-dont-exist-terrrain-theory-germs-electron-microscope-robery-f-kennedy-jr-7047783-May2026/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Albayan",
       "head": " « الصحة العالمية » ترفع خطر تفشي « إيبولا » في الكونغو إلى مرتفع جداً",
       "url": "https://www.albayan.ae/news/middle-east/other-countries/1311084",
@@ -981,21 +996,6 @@
       "tags": [
         "Bulgarian",
         "Germany"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lethbridgeherald",
-      "head": "Ontario patient tests negative for Ebola , while new border screening measures are in place amid Congo outbreak",
-      "url": "https://lethbridgeherald.com/news/national-news/2026/05/22/ontario-patient-tests-negative-for-ebola-while-new-border-screening-measures-are-in-place-amid-congo-outbreak/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
