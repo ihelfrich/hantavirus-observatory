@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-05-23T20:51:46.607807+00:00",
+  "generated_at": "2026-05-23T21:54:39.166307+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arabnews",
+      "head": "Should Arab region worry about the Hantavirus and Ebola outbreaks ? ",
+      "url": "https://www.arabnews.com/node/2644731/middle-east",
+      "loc": "Saudi Arabia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Saudi Arabia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hojeemdia",
+      "head": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
+      "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Athens-Times",
+      "head": "Hantavirus : Hondius Captain Cleared to Disembark",
+      "url": "https://athens-times.com/hantavirus-captain-of-mv-hondius-cleared-to-leave-quarantined-cruise-ship-who-says/",
+      "loc": "Greece",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Greece"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -110,21 +155,6 @@
       "tags": [
         "Spanish",
         "Spain"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "RTP",
-      "head": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
-      "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
       ],
       "live": true
     },
@@ -748,6 +778,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Breitbart",
+      "head": "Carnival Cruise Line Cancels Bookings After Glitch Dramatically Cut Fares :  Literally a Steal  ",
+      "url": "https://www.breitbart.com/tech/2026/05/23/carnival-cruise-line-cancels-bookings-after-glitch-dramatically-cut-fares-literally-a-steal/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Drudge",
+      "head": "Trump Aid Cuts Are Fueling the Ebola Outbreak",
+      "url": "https://drudge.com/news/292217/trumps-aid-cuts-fueling-ebola",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jordantimes",
+      "head": "UN warns Gaza recovery efforts hindered by aid restrictions , collapse of services",
+      "url": "https://jordantimes.com/news/local/un-warns-gaza-recovery-efforts-hindered-by-aid-restrictions-collapse-of-services",
+      "loc": "Jordan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Jordan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Singtaousa",
+      "head": "荷蘭郵輪漢他病毒疫情擴大 ， 世衛確認總病例數增至12宗",
+      "url": "https://www.singtaousa.com/2026/05/23/news/world/hantavirus-cases-linked-to-cruise-ship-rise-to-12-after-crew-member-tests-positive/",
+      "loc": "China",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Nigeriahealthwatch",
       "head": "Beyond Emergency Response : Strengthening Nigeria Health Communication Infrastructure",
       "url": "https://nigeriahealthwatch.com/beyond-emergency-response-strengthening-nigerias-health-communication-infrastructure/",
@@ -901,96 +991,6 @@
       "src": "APR",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
       "url": "https://www.apr.org/science-health/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KUAF",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.kuaf.com/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYSO",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wyso.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Northcountrypublicradio",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRCU",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.krcu.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Delawarepublic",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.delawarepublic.org/npr-headlines/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WBAA",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wbaa.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
