@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T11:59:43.440144+00:00",
+  "generated_at": "2026-05-23T13:57:59.994748+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 69,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Lethbridgeherald",
-      "head": "Canada top doctor set to give an update on both Ebola and hantavirus today",
-      "url": "https://lethbridgeherald.com/news/national-news/2026/05/22/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/",
+      "src": "Dailyadvance",
+      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "url": "https://www.dailyadvance.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_15c0f2eb-6154-5875-8e86-f12493844d88.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,24 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Noticiasdecoimbra",
-      "head": "Hantavírus : Não representará qualquer risco para a saúde ou para o turismo em Cabo Verde",
-      "url": "https://www.noticiasdecoimbra.pt/hantavirus-nao-representara-qualquer-risco-para-a-saude-ou-para-o-turismo-em-cabo-verde/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox7Austin",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.fox7austin.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "src": "The-Messenger",
+      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "url": "https://www.the-messenger.com/news/world/article_7c9609b8-14e1-5f99-9bea-ce3a30d3ac32.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KTVU",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.ktvu.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "src": "Reflector",
+      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "url": "https://www.reflector.com/news/national/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_5d037486-a89e-5c95-859b-ddc69b21a875.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Stcatharinesstandard",
-      "head": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
-      "url": "https://www.stcatharinesstandard.ca/life/health-wellness/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/article_ec57ab68-c8c4-57d4-8a98-68efe2092dce.html",
+      "src": "Therecord",
+      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "url": "https://www.therecord.com/life/health-wellness/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_ed563401-c2f9-551e-a58a-f27d92461d09.html",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -87,204 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Rondoniadinamica",
-      "head": "Novo caso de hantavírus é confirmado nos Países Baixos",
-      "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245269.shtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Surenio",
-      "head": "La provincia y el Malbrán concluyeron el operativo de vigilancia por hantavirus en Ushuaia",
-      "url": "https://www.surenio.com.ar/la-provincia-y-el-malbran-concluyeron-el-operativo-de-vigilancia-por-hantavirus-en-ushuaia/",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Radaronline",
-      "head": "Deadly Hantavirus Lockdown is Here As Millions Are Infected Worldwide",
-      "url": "https://radaronline.com/p/deadly-hantavirus-lockdown-outbreak-more-contagious-covid/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "FOX9",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.fox9.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox10Phoenix",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.fox10phoenix.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lmtonline",
-      "head": "Laredo Public Health encourages awareness , not fear , over hantavirus",
-      "url": "https://www.lmtonline.com/local/article/laredo-public-health-hantavirus-response-covid-19-22272258.php",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox35Orlando",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.fox35orlando.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCCI",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.kcci.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WMUR",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.wmur.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Premiumtimesng",
-      "head": "WHO raises Ebola risk level as DRC outbreak worsens , reports new hantavirus cases",
-      "url": "https://www.premiumtimesng.com/health/health-news/881964-who-raises-ebola-risk-level-as-drc-outbreak-worsens-reports-new-hantavirus-cases.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGAL",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.wgal.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mynbc5",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.mynbc5.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KETV",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.ketv.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71386429",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMOD",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://kmod.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
+      "src": "Abcnews",
+      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -913,9 +703,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cidrap",
-      "head": "People with Ebola pose little risk to public in US , experts say",
-      "url": "https://www.cidrap.umn.edu/ebola/people-ebola-pose-little-risk-public-us-experts-say",
+      "src": "KSFR",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.ksfr.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -928,9 +718,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Chroniclejournal",
-      "head": "Ontario patient tests negative for Ebola , while new border screening measures are in place amid Congo outbreak",
-      "url": "https://www.chroniclejournal.com/life/national_life/ontario-patient-tests-negative-for-ebola-while-new-border-screening-measures-are-in-place-amid/article_5ff7b9c5-b940-511f-ac8d-e7c4d637517b.html",
+      "src": "Nakedcapitalism",
+      "head": "Links 5 / 23 / 2026 | naked capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-23-2026.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -943,14 +733,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thejournal",
-      "head": "Amid outbreaks , an age - old theory is being resurrected online : viruses dont exist",
-      "url": "https://www.thejournal.ie/debunked-viruses-dont-exist-terrrain-theory-germs-electron-microscope-robery-f-kennedy-jr-7047783-May2026/",
-      "loc": "Ireland",
+      "src": "KVNF",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.kvnf.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Ireland"
+        "United States"
       ],
       "live": true
     },
@@ -958,14 +748,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Albayan",
-      "head": " « الصحة العالمية » ترفع خطر تفشي « إيبولا » في الكونغو إلى مرتفع جداً",
-      "url": "https://www.albayan.ae/news/middle-east/other-countries/1311084",
-      "loc": "United Arab Emirates",
-      "lang": "Arabic",
+      "src": "Wxxinews",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.wxxinews.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Arabic",
-        "United Arab Emirates"
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -973,9 +763,189 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nationalpost",
-      "head": "Ontario man tests negative for Ebola",
-      "url": "https://nationalpost.com/news/canada/ontario-ebola-british-columbia-hantavirus",
+      "src": "KPBS",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.kpbs.org/news/health/2026/05/23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NPR",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NPR",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.npr.org/transcripts/nx-s1-5831963",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://news.wfsu.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KVPR",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.kvpr.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wknofm",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.wknofm.org/news-from-npr/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WGCU",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.wgcu.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WAER",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.waer.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TSPR",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.tspr.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesofindia",
+      "head": "Uganda confirms 3 new Ebola cases as WHO warns against underestimating outbreak risk",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/uganda-confirms-3-new-ebola-cases-as-who-warns-against-underestimating-outbreak-risk/articleshow/131277784.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Globalsecurity",
+      "head": "Gaza : Life - saving medicines blocked as killing continues , disease gains ground",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260522-unnews01.htm",
+      "loc": "Syria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Syria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Tv6Tnt",
+      "head": "AWARENESS NOT PANIC URGED",
+      "url": "https://www.tv6tnt.com/news/7pmnews/awareness-not-panic-urged/article_51fe2322-62d5-4509-97ee-ef46f975fc8e.html",
+      "loc": "Trinidad and Tobago",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Trinidad and Tobago"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theglobeandmail",
+      "head": "Morning Update : The Ebola outbreak head start - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/canada/article-morning-update-the-ebola-outbreaks-head-start/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -988,14 +958,44 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Foreignpolicy",
-      "head": "Ebola Outbreak Shows Why the Next Pandemic Will Come From a Conflict Zone",
-      "url": "https://foreignpolicy.com/2026/05/22/ebola-outbreak-congo-uganda-pandemic-preparedness-conflict/",
-      "loc": "United States",
+      "src": "Borsonline",
+      "head": "Véres tünetekkel rohant a kórházba , patkányvírussal fertőződött meg a saját kertjében",
+      "url": "https://www.borsonline.hu/igaz-tortenetek/2026/05/patkanyvirus-sokkolo-tunetekkel-jar",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thelocal",
+      "head": "Inside Spain : The overlooked fight to prevent another pandemic",
+      "url": "https://www.thelocal.es/20260523/inside-spain-the-overlooked-fight-to-prevent-another-pandemic",
+      "loc": "Spain",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Spain"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nltimes",
+      "head": "Suspected Ebola patient visited African outbreak zone ; Test results expected today",
+      "url": "https://nltimes.nl/2026/05/23/suspected-ebola-patient-visited-african-outbreak-zone-test-results-expected-today",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
       ],
       "live": true
     }
