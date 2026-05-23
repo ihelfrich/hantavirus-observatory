@@ -1,13 +1,88 @@
 {
-  "generated_at": "2026-05-22T22:58:29.909323+00:00",
+  "generated_at": "2026-05-23T00:13:01.486763+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lethbridgeherald",
+      "head": "Canada top doctor set to give an update on both Ebola and hantavirus today",
+      "url": "https://lethbridgeherald.com/news/national-news/2026/05/22/canadas-top-doctor-set-to-give-an-update-on-both-ebola-and-hantavirus-today/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Noticiasdecoimbra",
+      "head": "Hantavírus : Não representará qualquer risco para a saúde ou para o turismo em Cabo Verde",
+      "url": "https://www.noticiasdecoimbra.pt/hantavirus-nao-representara-qualquer-risco-para-a-saude-ou-para-o-turismo-em-cabo-verde/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox7Austin",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.fox7austin.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTVU",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.ktvu.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Stcatharinesstandard",
+      "head": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
+      "url": "https://www.stcatharinesstandard.ca/life/health-wellness/americans-exposed-to-hantavirus-on-ship-enjoy-some-nebraska-hospitality-while-waiting-in-quarantine/article_ec57ab68-c8c4-57d4-8a98-68efe2092dce.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -42,9 +117,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "FOX9",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.fox9.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "src": "Radaronline",
+      "head": "Deadly Hantavirus Lockdown is Here As Millions Are Infected Worldwide",
+      "url": "https://radaronline.com/p/deadly-hantavirus-lockdown-outbreak-more-contagious-covid/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +132,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Radaronline",
-      "head": "Deadly Hantavirus Lockdown is Here As Millions Are Infected Worldwide",
-      "url": "https://radaronline.com/p/deadly-hantavirus-lockdown-outbreak-more-contagious-covid/",
+      "src": "FOX9",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.fox9.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -210,81 +285,6 @@
       "src": "KMOD",
       "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
       "url": "https://kmod.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberyazar",
-      "head": "Hantavirüs alarmı : İspanyadan temaslılar için kritik karar",
-      "url": "https://www.haberyazar.com/genel/hantavirus-alarmi-ispanyadan-temaslilar-icin-kritik-karar/22207",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Euronews",
-      "head": "Spain allows hantavirus contacts who test negative to spend last 14 quarantine days at home",
-      "url": "https://www.euronews.com/health/2026/05/22/spain-allows-hantavirus-contacts-who-test-negative-to-spend-last-14-quarantine-days-at-hom",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLAC",
-      "head": "Hantavirus Exposure Risk Higher Than Believed In US , Study Warns",
-      "url": "https://wlac.iheart.com/content/2026-05-22-hantavirus-exposure-risk-higher-than-believed-in-us-study-warns/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rttnews",
-      "head": "Researchers Discover Widespread Sin Nombre Virus In Pacific Northwest Rodents",
-      "url": "https://www.rttnews.com/3654904/researchers-discover-widespread-sin-nombre-virus-in-pacific-northwest-rodents.aspx",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WCVB",
-      "head": "Nebraska quarantine unit could help with Ebola response after hantavirus",
-      "url": "https://www.wcvb.com/article/nebraska-quarantine-unit-ebola-response-hantavirus/71387827",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -913,6 +913,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Cidrap",
+      "head": "People with Ebola pose little risk to public in US , experts say",
+      "url": "https://www.cidrap.umn.edu/ebola/people-ebola-pose-little-risk-public-us-experts-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Chroniclejournal",
       "head": "Ontario patient tests negative for Ebola , while new border screening measures are in place amid Congo outbreak",
       "url": "https://www.chroniclejournal.com/life/national_life/ontario-patient-tests-negative-for-ebola-while-new-border-screening-measures-are-in-place-amid/article_5ff7b9c5-b940-511f-ac8d-e7c4d637517b.html",
@@ -981,21 +996,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "DW",
-      "head": "  109 ,  271 ,  кутия сок : прикрит антисемитизъм в мрежата",
-      "url": "https://www.dw.com/bg/109-271-kutia-sok-prikrit-antisemitizm-v-mrezata/a-77266762",
-      "loc": "Germany",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Germany"
       ],
       "live": true
     }
