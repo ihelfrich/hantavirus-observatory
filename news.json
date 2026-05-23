@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T18:01:24.993517+00:00",
+  "generated_at": "2026-05-23T19:43:52.876777+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
@@ -12,9 +12,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Correiodopovo",
+      "src": "Dnoticias",
+      "head": "Capitão do Hondius , onde foi detectado surto de hantavírus , abandona hoje o navio",
+      "url": "https://www.dnoticias.pt/2026/5/23/493006-capitao-do-hondius-onde-foi-detectado-surto-de-hantavirus-abandona-hoje-o-navio/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SOL",
+      "head": "Capitão do cruzeiro afetado por surto de hantavírus deixa navio sem sintomas",
+      "url": "https://sol.iol.pt/internacional/noticias/capitao-do-cruzeiro-afetado-por-surto-de-hantavirus-deixa-navio-sem-sintomas/20260523/6a11e25c0cf27cac6fcf4c5d",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Noticias",
       "head": "Capitão de navio com surto de hantavírus deixa a embarcao",
-      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-1.1716093",
+      "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
       "loc": "Brazil",
       "lang": "Portuguese",
       "tags": [
@@ -27,9 +57,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Smdailyjournal",
+      "src": "Rondoniadinamica",
+      "head": "Novo caso de hantavírus é confirmado nos Países Baixos",
+      "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245309.shtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Agenciabrasil",
+      "head": "Capitão de navio com surto de hantavírus deixa a embarcao",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/capitao-de-navio-com-surto-de-hantavirus-deixa-embarcacao",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Union-Bulletin",
       "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-      "url": "https://www.smdailyjournal.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_1ce818d6-e6e7-5155-b14c-71006fa25568.html",
+      "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,9 +102,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Elperiodico",
-      "head": "El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina",
-      "url": "https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043",
+      "src": "Heraldo",
+      "head": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus",
+      "url": "https://www.heraldo.es/noticias/internacional/2026/05/23/operativo-ushuaia-termina-sin-capturas-roedor-asociado-hantavirus-2022848.html",
       "loc": "Spain",
       "lang": "Spanish",
       "tags": [
@@ -57,29 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Timesofindia",
-      "head": "Hantavirus panic : Are we reliving Covid fears all over again ? ",
-      "url": "https://timesofindia.indiatimes.com/science/hantavirus-panic-are-we-reliving-covid-fears-all-over-again/articleshow/131280700.cms",
-      "loc": "India",
-      "lang": "English",
+      "src": "RTP",
+      "head": "Capitão do Hondius , onde foi detetado surto de hantavírus , abandona hoje o navio",
+      "url": "https://www.rtp.pt/noticias/mundo/capitao-do-hondius-onde-foi-detetado-surto-de-hantavirus-abandona-hoje-o-navio_n1743086",
+      "loc": "Portugal",
+      "lang": "Portuguese",
       "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KING5",
-      "head": "Researchers highlight hidden spread of Hantavirus in Pacific Northwest rodents",
-      "url": "https://www.king5.com/article/news/local/researchers-highlight-hidden-spread-hantavirus-pacific-northwest-rodents/293-82000dbb-d8a9-4400-b520-f967fb82a569",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "Portuguese",
+        "Portugal"
       ],
       "live": true
     },
@@ -703,14 +748,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wnmufm",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wnmufm.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
+      "src": "Nigeriahealthwatch",
+      "head": "Beyond Emergency Response : Strengthening Nigeria Health Communication Infrastructure",
+      "url": "https://nigeriahealthwatch.com/beyond-emergency-response-strengthening-nigerias-health-communication-infrastructure/",
+      "loc": "Nigeria",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Nigeria"
       ],
       "live": true
     },
@@ -718,14 +763,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Southcarolinapublicradio",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.southcarolinapublicradio.org/news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
+      "src": "Nigeriahealthwatch",
+      "head": "Onyinye Oranezi | Nigeria Health Watch",
+      "url": "https://nigeriahealthwatch.com/author/ooranezinigeriahealthwatch-com/",
+      "loc": "Nigeria",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Nigeria"
       ],
       "live": true
     },
@@ -733,14 +778,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ideastream",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.ideastream.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
+      "src": "Guardian",
+      "head": "US temporarily bans green - card holders from entering country from African nations",
+      "url": "https://www.theguardian.com/us-news/2026/may/23/us-green-card-holders-ebola-africa",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "United Kingdom"
       ],
       "live": true
     },
@@ -748,144 +793,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WCLK",
+      "src": "KPCW",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wclk.com/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WVIK",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wvik.org/npr-top-stories/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KEDM",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.kedm.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WWNO",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wwno.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYSU",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://wysu.org/npr-national-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wvasfm",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wvasfm.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KWIT",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.kwit.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMXT",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.kmxt.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Capeandislands",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.capeandislands.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "IJPR",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.ijpr.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "url": "https://www.kpcw.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -900,7 +810,7 @@
       "ts": "",
       "src": "NEWS",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://news.wjct.org/national-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "url": "https://news.prairiepublic.org/news-from-npr/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -913,9 +823,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WUFT",
+      "src": "KRWG",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wuft.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "url": "https://www.krwg.org/national-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -928,9 +838,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WBOI",
+      "src": "WYPR",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wboi.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "url": "https://www.wypr.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -943,9 +853,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WCBE",
+      "src": "WMUK",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wcbe.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "url": "https://www.wmuk.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -958,9 +868,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KLCC",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.klcc.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "src": "Macombdaily",
+      "head": "FOUTS : Memorial Day honors and other reflections",
+      "url": "https://www.macombdaily.com/2026/05/23/fouts-memorial-day-honors-and-other-reflections/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -973,9 +883,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WUWF",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wuwf.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "src": "Medicaldaily",
+      "head": "NYC Defied Washington and Rejoined the WHO Here What That Really Means",
+      "url": "https://www.medicaldaily.com/nyc-defied-washington-rejoined-who-heres-what-that-really-means-475425",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -988,9 +898,99 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WRVO",
+      "src": "APR",
       "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wrvo.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "url": "https://www.apr.org/science-health/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KUAF",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.kuaf.com/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WYSO",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.wyso.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northcountrypublicradio",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KRCU",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.krcu.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Delawarepublic",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.delawarepublic.org/npr-headlines/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WBAA",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.wbaa.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
