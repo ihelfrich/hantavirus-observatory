@@ -1,13 +1,88 @@
 {
-  "generated_at": "2026-05-24T12:02:02.586403+00:00",
+  "generated_at": "2026-05-24T14:08:07.788802+00:00",
   "sources": [
+    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
-    "CDC EID",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "G1",
+      "head": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
+      "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thejournal",
+      "head": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
+      "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
+      "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theweek",
+      "head": "Understanding Ebola and hantavirus : What India needs to know",
+      "url": "https://www.theweek.in/columns/shyla-jovitha-abraham-and-dr-jame-abraham/2026/05/23/understanding-ebola-and-hantavirus-what-india-needs-to-know.html",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Meionews",
+      "head": "Capitão do navio MV Hondius desembarca após surto de hantavírus",
+      "url": "https://www.meionews.com/noticias/capitao-do-navio-mv-hondius-desembarca-apos-surto-de-hantavirus-564635",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -20,141 +95,6 @@
       "tags": [
         "Spanish",
         ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arabnews",
-      "head": "Should Arab region worry about the Hantavirus and Ebola outbreaks ? ",
-      "url": "https://www.arabnews.com/node/2644731/middle-east",
-      "loc": "Saudi Arabia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Saudi Arabia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hojeemdia",
-      "head": "Capitão desembarca de navio de cruzeiro após surto de hantavírus",
-      "url": "https://www.hojeemdia.com.br/saudeebemestar/capit-o-desembarca-de-navio-de-cruzeiro-apos-surto-de-hantavirus-1.1118309",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Athens-Times",
-      "head": "Hantavirus : Hondius Captain Cleared to Disembark",
-      "url": "https://athens-times.com/hantavirus-captain-of-mv-hondius-cleared-to-leave-quarantined-cruise-ship-who-says/",
-      "loc": "Greece",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Greece"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dnoticias",
-      "head": "Capitão do Hondius , onde foi detectado surto de hantavírus , abandona hoje o navio",
-      "url": "https://www.dnoticias.pt/2026/5/23/493006-capitao-do-hondius-onde-foi-detectado-surto-de-hantavirus-abandona-hoje-o-navio/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SOL",
-      "head": "Capitão do cruzeiro afetado por surto de hantavírus deixa navio sem sintomas",
-      "url": "https://sol.iol.pt/internacional/noticias/capitao-do-cruzeiro-afetado-por-surto-de-hantavirus-deixa-navio-sem-sintomas/20260523/6a11e25c0cf27cac6fcf4c5d",
-      "loc": "",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Noticias",
-      "head": "Capitão de navio com surto de hantavírus deixa a embarcao",
-      "url": "https://noticias.r7.com/brasilia/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao-23052026/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rondoniadinamica",
-      "head": "Novo caso de hantavírus é confirmado nos Países Baixos",
-      "url": "https://www.rondoniadinamica.com/noticias/2026/05/novo-caso-de-hantavirus-e-confirmado-nos-paises-baixos,245309.shtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Agenciabrasil",
-      "head": "Capitão de navio com surto de hantavírus deixa a embarcao",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/capitao-de-navio-com-surto-de-hantavirus-deixa-embarcacao",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Union-Bulletin",
-      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-      "url": "https://www.union-bulletin.com/news/world/how-south-african-scientists-identified-hantavirus-on-a-cruise-ship-thousands-of-miles-away/article_03b2dfb5-66ea-502b-8e9e-45b181ff0a07.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -778,6 +718,216 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "WUKY",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wuky.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KETR",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.ketr.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "New Yorker",
+      "head": "How Prepared Are We for a Public - Health Emergency ? ",
+      "url": "https://www.newyorker.com/magazine/2026/06/01/how-prepared-are-we-for-a-public-health-emergency",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sunstar",
+      "head": "DMW checks on Pinoy crew members in Netherlands quarantine",
+      "url": "https://www.sunstar.com.ph/manila/dmw-checks-on-pinoy-crew-members-in-quarantine-in-netherlands",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jpost",
+      "head": "Voices from the Arab press : Gulf tensions over Iran deepen regional fears",
+      "url": "http://www.jpost.com/middle-east/article-896783",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Shorouknews",
+      "head": "كيف ساعد علماء من جنوب أفريقيا في التعرف على فيروس هانتا على بعد آلاف الأميال ؟ ",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=24052026&id=9c20a9da-a050-4231-be70-7b381071eddf",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Albayan",
+      "head": "كيف ساعد علماء من جنوب أفريقيا في التعرف على فيروس هانتا ؟ ",
+      "url": "https://www.albayan.ae/news/world/1315911",
+      "loc": "United Arab Emirates",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "United Arab Emirates"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hürriyet",
+      "head": "Yeni pandemi kapıda mı",
+      "url": "https://www.hurriyet.com.tr/yazarlar/dr-furkan-burak/yeni-pandemi-kapida-mi-43182600",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elwatannews",
+      "head": "تونس تبدأ تشديد الإجراءات الوقائية بالمطارات والحدود بسبب « إيبولا » و « هانتا » ",
+      "url": "https://www.elwatannews.com/news/details/8290089",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLTX",
+      "head": "As Memorial Day travel begins , SC doctor says misinformation is bigger threat than outbreaks",
+      "url": "https://www.wltx.com/article/news/local/memorial-day-travel-sc-doctor-says-misinformation-bigger-threat-than-outbreaks/101-6d1d3661-325d-40e4-b388-9bda7e986bed",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesofindia",
+      "head": "Ebola Outbreak : India Issues Urgent Travel Advisory for Travelers | India News",
+      "url": "https://timesofindia.indiatimes.com/india/ebola-outbreak-india-issues-travel-advisory-against-three-african-countries/articleshow/131288610.cms",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thedailystar",
+      "head": "Difference Between Endemic Epidemic & Pandemic | Endemic , epidemic , pandemic : What the difference ? ",
+      "url": "https://www.thedailystar.net/health/news/endemic-epidemic-pandemic-whats-the-difference-4183241",
+      "loc": "Bangladesh",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Bangladesh"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Menorca",
+      "head": "Senilidades",
+      "url": "https://www.menorca.info/opinion/firmas-del-dia/2026/05/24/2635153/senilidades.html",
+      "loc": "Spain",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Spain"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TPR",
+      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
+      "url": "https://www.tpr.org/news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Virginislandsnewsonline",
       "head": "Virgin Islanders called on to be vigilant rather than worried - Ronald E . Georges",
       "url": "https://www.virginislandsnewsonline.com/en/news/virgin-islanders-called-on-to-be-vigilant-rather-than-worried-ronald-e-georges",
@@ -841,156 +991,6 @@
       "src": "Breitbart",
       "head": "Carnival Cruise Line Cancels Bookings After Glitch Dramatically Cut Fares :  Literally a Steal  ",
       "url": "https://www.breitbart.com/tech/2026/05/23/carnival-cruise-line-cancels-bookings-after-glitch-dramatically-cut-fares-literally-a-steal/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Drudge",
-      "head": "Trump Aid Cuts Are Fueling the Ebola Outbreak",
-      "url": "https://drudge.com/news/292217/trumps-aid-cuts-fueling-ebola",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jordantimes",
-      "head": "UN warns Gaza recovery efforts hindered by aid restrictions , collapse of services",
-      "url": "https://jordantimes.com/news/local/un-warns-gaza-recovery-efforts-hindered-by-aid-restrictions-collapse-of-services",
-      "loc": "Jordan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Jordan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Singtaousa",
-      "head": "荷蘭郵輪漢他病毒疫情擴大 ， 世衛確認總病例數增至12宗",
-      "url": "https://www.singtaousa.com/2026/05/23/news/world/hantavirus-cases-linked-to-cruise-ship-rise-to-12-after-crew-member-tests-positive/",
-      "loc": "China",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "China"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nigeriahealthwatch",
-      "head": "Beyond Emergency Response : Strengthening Nigeria Health Communication Infrastructure",
-      "url": "https://nigeriahealthwatch.com/beyond-emergency-response-strengthening-nigerias-health-communication-infrastructure/",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nigeriahealthwatch",
-      "head": "Onyinye Oranezi | Nigeria Health Watch",
-      "url": "https://nigeriahealthwatch.com/author/ooranezinigeriahealthwatch-com/",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "US temporarily bans green - card holders from entering country from African nations",
-      "url": "https://www.theguardian.com/us-news/2026/may/23/us-green-card-holders-ebola-africa",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KPCW",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.kpcw.org/npr-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://news.prairiepublic.org/news-from-npr/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRWG",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.krwg.org/national-news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYPR",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.wypr.org/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
       "loc": "United States",
       "lang": "English",
       "tags": [
