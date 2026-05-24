@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T14:08:07.788802+00:00",
+  "generated_at": "2026-05-24T15:43:13.457965+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 69,
@@ -50,51 +50,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theweek",
-      "head": "Understanding Ebola and hantavirus : What India needs to know",
-      "url": "https://www.theweek.in/columns/shyla-jovitha-abraham-and-dr-jame-abraham/2026/05/23/understanding-ebola-and-hantavirus-what-india-needs-to-know.html",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Meionews",
-      "head": "Capitão do navio MV Hondius desembarca após surto de hantavírus",
-      "url": "https://www.meionews.com/noticias/capitao-do-navio-mv-hondius-desembarca-apos-surto-de-hantavirus-564635",
-      "loc": "",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bitlysdowssl-Aws",
-      "head": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus",
-      "url": "https://bitlysdowssl-aws.com/2026/05/operativo-en-ushuaia-termina-sin-capturas-del-roedor-asociado-al-hantavirus/",
-      "loc": "",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        ""
       ],
       "live": true
     },
@@ -718,6 +673,156 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "WUWF",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wuwf.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KUNM",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kunm.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KBIA",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kbia.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Capeandislands",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.capeandislands.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WYSU",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://wysu.org/npr-national-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wcsufm",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KCBX",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kcbx.org/npr-top-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Allafrica",
+      "head": "Congo - Kinshasa : WHO Chief Calls for Urgent Ebola Action and Pandemic Preparedness",
+      "url": "https://allafrica.com/stories/202605240026.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KENW",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kenw.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KRVS",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.krvs.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "WUKY",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "url": "https://www.wuky.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
@@ -891,111 +996,6 @@
       "tags": [
         "English",
         "Bangladesh"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Menorca",
-      "head": "Senilidades",
-      "url": "https://www.menorca.info/opinion/firmas-del-dia/2026/05/24/2635153/senilidades.html",
-      "loc": "Spain",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Spain"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "TPR",
-      "head": "U . S . passengers flying from Ebola - affected countries rerouted",
-      "url": "https://www.tpr.org/news/2026-05-23/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Virginislandsnewsonline",
-      "head": "Virgin Islanders called on to be vigilant rather than worried - Ronald E . Georges",
-      "url": "https://www.virginislandsnewsonline.com/en/news/virgin-islanders-called-on-to-be-vigilant-rather-than-worried-ronald-e-georges",
-      "loc": "Virgin Islands",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Virgin Islands"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTVU",
-      "head": "WHO declares Ebola emergency as rare strain spreads through central African cities",
-      "url": "https://www.ktvu.com/news/who-declares-ebola-emergency-rare-strain-spreads-through-central-african-cities",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailymail",
-      "head": "Experts sound alarm on outbreak of deadly eye - bleeding virus",
-      "url": "https://www.dailymail.com/health/article-15830865/ebola-america-world-cup-fears-vaccine.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Virginislandsnewsonline",
-      "head": "Virgin Islanders called on to be vigilant rather than worried - Ronald E . Georges",
-      "url": "https://www.virginislandsnewsonline.com/en/news/virgin-islanders-called-on-to-be-vigilant-rather-than-worried-ronald-e-georges/",
-      "loc": "Virgin Islands",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Virgin Islands"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Breitbart",
-      "head": "Carnival Cruise Line Cancels Bookings After Glitch Dramatically Cut Fares :  Literally a Steal  ",
-      "url": "https://www.breitbart.com/tech/2026/05/23/carnival-cruise-line-cancels-bookings-after-glitch-dramatically-cut-fares-literally-a-steal/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
