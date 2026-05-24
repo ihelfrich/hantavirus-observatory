@@ -1,58 +1,13 @@
 {
-  "generated_at": "2026-05-24T17:00:36.540470+00:00",
+  "generated_at": "2026-05-24T18:07:12.151988+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "G1",
-      "head": "Ebola , hantavírus , Influenza A e mais : quais os vírus mais perigosos hoje e como eles podem afetar sua rotina ? ",
-      "url": "https://g1.globo.com/saude/noticia/2026/05/24/ebola-hantavirus-influenza-a-e-mais-quais-os-virus-mais-perigosos-hoje-e-como-eles-podem-afetar-sua-rotina.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thejournal",
-      "head": "Sitdown Sunday : Inside the hantavirus - hit cruise ship",
-      "url": "https://www.thejournal.ie/sitdown-sunday-245-7045414-May2026/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yahoo",
-      "head": "Hantavirus exposure risk may be higher than believed in parts of US , study finds",
-      "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposure-risk-may-higher-110002622.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
     {
       "time": "04:00",
       "date": "2026-05-21",
@@ -673,9 +628,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WUWF",
+      "src": "KMUW",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wuwf.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "url": "https://www.kmuw.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -688,99 +643,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KUNM",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kunm.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KBIA",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kbia.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Capeandislands",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.capeandislands.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYSU",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://wysu.org/npr-national-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wcsufm",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wcsufm.org/latest-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCBX",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kcbx.org/npr-top-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Allafrica",
-      "head": "Congo - Kinshasa : WHO Chief Calls for Urgent Ebola Action and Pandemic Preparedness",
-      "url": "https://allafrica.com/stories/202605240026.html",
+      "src": "Premiumtimesng",
+      "head": "Gates Foundation commits $15 million to support Ebola response in DRC , Uganda",
+      "url": "https://www.premiumtimesng.com/health/health-news/882460-gates-foundation-commits-15-million-to-support-ebola-response-in-drc-uganda.html",
       "loc": "Nigeria",
       "lang": "English",
       "tags": [
@@ -793,9 +658,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KENW",
+      "src": "KPBS",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kenw.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "url": "https://www.kpbs.org/news/health/2026/05/24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -808,9 +673,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KRVS",
+      "src": "KUAF",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.krvs.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "url": "https://www.kuaf.com/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -823,9 +688,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WUKY",
+      "src": "WAMC",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wuky.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "url": "https://www.wamc.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -838,9 +703,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KETR",
+      "src": "WGCU",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.ketr.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "url": "https://www.wgcu.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -853,9 +718,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "New Yorker",
-      "head": "How Prepared Are We for a Public - Health Emergency ? ",
-      "url": "https://www.newyorker.com/magazine/2026/06/01/how-prepared-are-we-for-a-public-health-emergency",
+      "src": "WYPR",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wypr.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -868,99 +733,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Sunstar",
-      "head": "DMW checks on Pinoy crew members in Netherlands quarantine",
-      "url": "https://www.sunstar.com.ph/manila/dmw-checks-on-pinoy-crew-members-in-quarantine-in-netherlands",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jpost",
-      "head": "Voices from the Arab press : Gulf tensions over Iran deepen regional fears",
-      "url": "http://www.jpost.com/middle-east/article-896783",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Shorouknews",
-      "head": "كيف ساعد علماء من جنوب أفريقيا في التعرف على فيروس هانتا على بعد آلاف الأميال ؟ ",
-      "url": "https://www.shorouknews.com/news/view.aspx?cdate=24052026&id=9c20a9da-a050-4231-be70-7b381071eddf",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Albayan",
-      "head": "كيف ساعد علماء من جنوب أفريقيا في التعرف على فيروس هانتا ؟ ",
-      "url": "https://www.albayan.ae/news/world/1315911",
-      "loc": "United Arab Emirates",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "United Arab Emirates"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hürriyet",
-      "head": "Yeni pandemi kapıda mı",
-      "url": "https://www.hurriyet.com.tr/yazarlar/dr-furkan-burak/yeni-pandemi-kapida-mi-43182600",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elwatannews",
-      "head": "تونس تبدأ تشديد الإجراءات الوقائية بالمطارات والحدود بسبب « إيبولا » و « هانتا » ",
-      "url": "https://www.elwatannews.com/news/details/8290089",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLTX",
-      "head": "As Memorial Day travel begins , SC doctor says misinformation is bigger threat than outbreaks",
-      "url": "https://www.wltx.com/article/news/local/memorial-day-travel-sc-doctor-says-misinformation-bigger-threat-than-outbreaks/101-6d1d3661-325d-40e4-b388-9bda7e986bed",
+      "src": "KVNF",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kvnf.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -973,14 +748,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Timesofindia",
-      "head": "Ebola Outbreak : India Issues Urgent Travel Advisory for Travelers | India News",
-      "url": "https://timesofindia.indiatimes.com/india/ebola-outbreak-india-issues-travel-advisory-against-three-african-countries/articleshow/131288610.cms",
-      "loc": "India",
+      "src": "Mynspr",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.mynspr.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "India"
+        "United States"
       ],
       "live": true
     },
@@ -988,14 +763,239 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thedailystar",
-      "head": "Difference Between Endemic Epidemic & Pandemic | Endemic , epidemic , pandemic : What the difference ? ",
-      "url": "https://www.thedailystar.net/health/news/endemic-epidemic-pandemic-whats-the-difference-4183241",
-      "loc": "Bangladesh",
+      "src": "NPR",
+      "head": "Measles kills more than 500 children in Bangladesh : NPR",
+      "url": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Bangladesh"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://news.wfsu.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Interlochenpublicradio",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.interlochenpublicradio.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSFR",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.ksfr.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KUNC",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kunc.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WBAA",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wbaa.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WEMU",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wemu.org/npr-national-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KNPR",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://knpr.org/npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wknofm",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wknofm.org/news-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northcountrypublicradio",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.northcountrypublicradio.org/news/npr/g-s1-123661/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KPCW",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kpcw.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KIOS",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.kios.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KRCU",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.krcu.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wnmufm",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wnmufm.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Iowapublicradio",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLRN",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wlrn.org/npr-breaking-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
