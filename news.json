@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T09:11:55.119462+00:00",
+  "generated_at": "2026-05-25T12:49:07.074490+00:00",
   "sources": [
     "CIDRAP",
     "CDC EID",
@@ -8,6 +8,126 @@
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "Hantavírus : Situao epidemiológica está controlada em Cabo Verde",
+      "url": "https://sapo.pt/artigo/hantavirus-situacao-epidemiologica-esta-controlada-em-cabo-verde-dgs-6a116863cd43b947e5ca7245",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "DSÖ , Hollanda bandıralı gemide görülen hantavirüs vakalarıyla ilgili durumun istikrarlı olduğunu bildirdi",
+      "url": "https://www.haberler.com/guncel/dso-hantavirus-gemisinde-durum-istikrarli-3-can-kaybi-var-19880921-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailystar",
+      "head": "UK hospital staff  drowning  due to hantavirus patients isolating after cruise",
+      "url": "https://www.dailystar.co.uk/news/latest-news/uk-hospital-staff-drowning-due-37201194",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UPI",
+      "head": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
+      "url": "https://www.upi.com/Top_News/World-News/2026/05/24/switzerland-WHO-hantavirus-stable/3451779678560/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yahoo",
+      "head": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
+      "url": "https://www.yahoo.com/news/science/articles/chief-cruise-ship-hantavirus-outbreak-035927171.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diariolaguino",
+      "head": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+      "url": "https://www.diariolaguino.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSL",
+      "head": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine",
+      "url": "https://www.ksl.com:443/article/51501598/americans-exposed-to-hantavirus-on-ship-enjoy-nebraska-hospitality-while-in-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diariofutrono",
+      "head": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
+      "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
     {
       "time": "04:00",
       "date": "2026-05-21",
@@ -628,6 +748,141 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Ensonhaber",
+      "head": "DSÖ : 900  den fazla şüpheli Ebola vakası tespit edildi",
+      "url": "https://www.ensonhaber.com/dso-900den-fazla-supheli-ebola-vakasi-tespit-edildi-h1537151",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nakedcapitalism",
+      "head": "Links 5 / 25 / 2026 | naked capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-25-2026.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Khaberni",
+      "head": "مكتشف ( إيبولا ) يدعو العالم لعدم الذعر",
+      "url": "https://www.khaberni.com/news/813287-%D9%85%D9%83%D8%AA%D8%B4%D9%81-%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%B0%D8%B9%D8%B1",
+      "loc": "Jordan",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Jordan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sunstar",
+      "head": "Pinoy crew members to get paid while under quarantine",
+      "url": "https://www.sunstar.com.ph/manila/pinoy-crew-members-to-get-paid-while-under-quarantine-for-hantavirus",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "Um momento para relembrar a importância do One Health e preveno das Zoonoses",
+      "url": "https://sapo.pt/artigo/um-momento-para-relembrar-a-importancia-do-one-health-e-prevencao-das-zoonoses-6a140ef2cd43b947e54c536f",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Calgarysun",
+      "head": "Congo tightens travel as Ebola spreads and supplies run low",
+      "url": "https://calgarysun.com/news/world/congo-tightens-travel-as-ebola-spreads-and-supplies-run-low/wcm/3ddf92c2-530b-45f1-a898-aa8a88fb1910",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newser",
+      "head": "Nation Answer to Lab Rats Without a Home :  Ratapalooza  ",
+      "url": "https://www.newser.com/story/389332/in-argentina-adopt-a-new-pet-at-ratapalooza.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dostor",
+      "head": "أستاذ تطوير اللقاحات : انتشار  الإيبولا  يحتاج تلامس مباشر بالسوائل الجسدية ( فيديو ) ",
+      "url": "https://www.dostor.org/5570488",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WVXU",
+      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "url": "https://www.wvxu.org/news-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "KMUW",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "url": "https://www.kmuw.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
@@ -736,261 +991,6 @@
       "src": "KVNF",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "url": "https://www.kvnf.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mynspr",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.mynspr.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NPR",
-      "head": "Measles kills more than 500 children in Bangladesh : NPR",
-      "url": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://news.wfsu.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Interlochenpublicradio",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.interlochenpublicradio.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KSFR",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.ksfr.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KUNC",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kunc.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WBAA",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wbaa.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WEMU",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wemu.org/npr-national-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KNPR",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://knpr.org/npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wknofm",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wknofm.org/news-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Northcountrypublicradio",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.northcountrypublicradio.org/news/npr/g-s1-123661/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KPCW",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kpcw.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KIOS",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kios.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRCU",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.krcu.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wnmufm",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wnmufm.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Iowapublicradio",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.iowapublicradio.org/news-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLRN",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wlrn.org/npr-breaking-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
