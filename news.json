@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-05-25T17:43:04.705981+00:00",
+  "generated_at": "2026-05-25T19:38:48.220132+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "US",
+      "head": "Spanish citizen evacuated from cruise ship tests positive for hantavirus",
+      "url": "https://us.cnn.com/2026/05/25/europe/spain-hantavirus-cruise-ship-intl-latam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Hantavirüs Bir Salgına Dönüşür mü ? – Haber – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/hantavirus-bir-salgina-donusur-mu/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Westfaironline",
+      "head": "Protect yourself and your home with these hantavirus awareness and prevention tips",
+      "url": "https://westfaironline.com/animals/protect-yourself-and-your-home-with-these-hantavirus-awareness-and-prevention-tips/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gazetadigital",
+      "head": "Capitão de navio com surto de hantavírus deixa a embarcao",
+      "url": "https://www.gazetadigital.com.br/variedades/variedades/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao/847870",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -155,21 +215,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diariofutrono",
-      "head": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-      "url": "https://www.diariofutrono.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
       ],
       "live": true
     },
@@ -793,6 +838,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Forbes",
+      "head": "Deaths , Burned Clinics - What Different About Ebola 2026 Return ? ",
+      "url": "https://www.forbes.com/sites/stephenbrozak/2026/05/25/deaths-burned-clinicswhats-different-about-ebolas-2026-return/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timeslive",
+      "head": "Ageing , outdated infrastructure hampers rollout of Sassa grants , parliament hears",
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-05-25-social-grant-delays-leave-vulnerable-south-africans-at-risk/",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radios",
+      "head": "Alô Alô Brasil : país está preparado para eventual pandemia de ebola ? ",
+      "url": "https://radios.ebc.com.br/alo-alo-brasil/2026/05/alo-alo-brasil-pais-esta-preparado-para-eventual-pandemia-de-ebola",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Indiablooms",
       "head": "Ebola crisis deepens : India sends urgent relief as DRC reports nearly 900 cases | Indiablooms - First Portal on Digital News Management",
       "url": "https://www.indiablooms.com/health/ebola-crisis-deepens-india-sends-urgent-relief-as-drc-reports-nearly-900-cases/details",
@@ -901,96 +991,6 @@
       "src": "Newser",
       "head": "Nation Answer to Lab Rats Without a Home :  Ratapalooza  ",
       "url": "https://www.newser.com/story/389332/in-argentina-adopt-a-new-pet-at-ratapalooza.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dostor",
-      "head": "أستاذ تطوير اللقاحات : انتشار  الإيبولا  يحتاج تلامس مباشر بالسوائل الجسدية ( فيديو ) ",
-      "url": "https://www.dostor.org/5570488",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WVXU",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wvxu.org/news-from-npr/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMUW",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kmuw.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Premiumtimesng",
-      "head": "Gates Foundation commits $15 million to support Ebola response in DRC , Uganda",
-      "url": "https://www.premiumtimesng.com/health/health-news/882460-gates-foundation-commits-15-million-to-support-ebola-response-in-drc-uganda.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KPBS",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kpbs.org/news/health/2026/05/24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KUAF",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kuaf.com/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
