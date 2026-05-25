@@ -1,13 +1,208 @@
 {
-  "generated_at": "2026-05-25T21:05:48.939423+00:00",
+  "generated_at": "2026-05-25T22:34:25.246298+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "Spain reports new hantavirus case linked to Madrid hospital",
+      "url": "https://news.az/news/spain-reports-new-hantavirus-case-linked-to-madrid-hospital",
+      "loc": "Azerbaijan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Azerbaijan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNN",
+      "head": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
+      "url": "https://www.cnn.com/2026/05/25/europe/spain-hantavirus-cruise-ship-intl-latam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Athens-Times",
+      "head": "Spain Hantavirus Cruise Ship Case",
+      "url": "https://athens-times.com/spain-another-hantavirus-case-among-quarantined-passengers-of-cruise-ship/",
+      "loc": "Greece",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Greece"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
+      "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Columbian",
+      "head": "More than a quarter of mice on the Palouse show signs of previous Hantavirus infection , WSU study finds",
+      "url": "https://www.columbian.com/news/2026/may/25/more-than-a-quarter-of-mice-on-the-palouse-show-signs-of-previous-hantavirus-infection-wsu-study-finds/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TR",
+      "head": "İspanyada ikinci hantavirüs vakası doğrulandı : Yolcu , karantina altında",
+      "url": "https://tr.euronews.com/saglik/2026/05/25/ispanyada-hantavirus-madriddeki-karantinada-pozitif-vaka-sayisi-2ye-cikti",
+      "loc": "United States",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thejournal",
+      "head": "Quarantined Spanish national evacuated from hantavirus cruise ship tests positive",
+      "url": "https://www.thejournal.ie/quarantined-spanish-national-evacuated-from-hantavirus-cruise-ship-tests-positive-7051383-May2026/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "HU",
+      "head": "Új hantavírusos esetek Romániában és Spanyolországban",
+      "url": "https://hu.euronews.com/egeszseg/2026/05/25/uj-hantavirusos-esetet-erositett-meg-az-egeszsegugy-spanyolorszagban-ketten-karantenban-ma",
+      "loc": "United States",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Euronews",
+      "head": "Health ministry confirms second hantavirus case in Spain : 2 patients in Madrid quarantine",
+      "url": "https://www.euronews.com/health/2026/05/25/health-ministry-confirms-second-hantavirus-case-in-spain-2-patients-in-madrid-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBC",
+      "head": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus",
+      "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "Espanha confirma novo caso de hantavírus",
+      "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-6a149b2614f3d731cfd9756e",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Edition",
+      "head": "Spanish citizen evacuated from cruise ship tests positive for hantavirus",
+      "url": "https://edition.cnn.com/2026/05/25/europe/spain-hantavirus-cruise-ship-intl-latam",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Publico",
+      "head": "Confirmado novo caso de hantavírus em Espanha",
+      "url": "https://www.publico.pt/2026/05/25/mundo/noticia/confirmado-novo-caso-hantavirus-espanha-2175972",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -80,141 +275,6 @@
       "tags": [
         "Turkish",
         "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailysabah",
-      "head": "Hantavirus - exposed Americans under quarantine in Nebraska",
-      "url": "https://www.dailysabah.com/world/americas/hantavirus-exposed-americans-under-quarantine-in-nebraska",
-      "loc": "Turkey",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Detaykibris",
-      "head": "DSÖ : Hantavirüs vakalarıyla ilgili durum istikrarlı",
-      "url": "https://www.detaykibris.com/dso-hantavirus-vakalariyla-ilgili-durum-istikrarli-357299h.htm",
-      "loc": "Cyprus",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Cyprus"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Hantavírus : Situao epidemiológica está controlada em Cabo Verde",
-      "url": "https://sapo.pt/artigo/hantavirus-situacao-epidemiologica-esta-controlada-em-cabo-verde-dgs-6a116863cd43b947e5ca7245",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "DSÖ , Hollanda bandıralı gemide görülen hantavirüs vakalarıyla ilgili durumun istikrarlı olduğunu bildirdi",
-      "url": "https://www.haberler.com/guncel/dso-hantavirus-gemisinde-durum-istikrarli-3-can-kaybi-var-19880921-haberi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailystar",
-      "head": "UK hospital staff  drowning  due to hantavirus patients isolating after cruise",
-      "url": "https://www.dailystar.co.uk/news/latest-news/uk-hospital-staff-drowning-due-37201194",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UPI",
-      "head": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
-      "url": "https://www.upi.com/Top_News/World-News/2026/05/24/switzerland-WHO-hantavirus-stable/3451779678560/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yahoo",
-      "head": "WHO chief : Cruise ship hantavirus outbreak  stable for now  ",
-      "url": "https://www.yahoo.com/news/science/articles/chief-cruise-ship-hantavirus-outbreak-035927171.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diariolaguino",
-      "head": "Expertas de Los Ríos presentan modelo de seguimiento del Hantavirus en panel internacional",
-      "url": "https://www.diariolaguino.cl/noticia/salud/2026/05/expertas-de-los-rios-presentan-modelo-de-seguimiento-del-hantavirus-en-panel-internacional",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KSL",
-      "head": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine",
-      "url": "https://www.ksl.com:443/article/51501598/americans-exposed-to-hantavirus-on-ship-enjoy-nebraska-hospitality-while-in-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -838,6 +898,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Hespress",
+      "head": "حالة إصابة مؤكدة بـ  هانتا  في مدريد",
+      "url": "https://www.hespress.com/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%A4%D9%83%D8%AF%D8%A9-%D8%A8%D9%80%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%81%D9%8A-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-1752646.html",
+      "loc": "Morocco",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Morocco"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Taipeitimes",
+      "head": "Are dust storms the new hurricanes ? ",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/05/26/2003857968",
+      "loc": "Taiwan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Rttnews",
+      "head": "Ebola Fears Push US To Tighten Entry Rules For Green Cardholders From DRC , Uganda And South Sudan",
+      "url": "https://www.rttnews.com/3655110/ebola-fears-push-us-to-tighten-entry-rules-for-green-cardholders-from-drc-uganda-and-south-sudan.aspx",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Focus-News",
+      "head": "Испания потвърди нов случай на хантавирус от кораба  Hondiu , пациентът е в изолация",
+      "url": "https://www.focus-news.net/novini/mejdunarodni/Ispaniya-potvurdi-nov-sluchai-na-hantavirus-ot-koraba-Hondius-pacientut-e-v-izolaciya-2971078",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
+      "tags": [
+        "Bulgarian",
+        "Bulgaria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Forbes",
       "head": "Deaths , Burned Clinics - What Different About Ebola 2026 Return ? ",
       "url": "https://www.forbes.com/sites/stephenbrozak/2026/05/25/deaths-burned-clinicswhats-different-about-ebolas-2026-return/",
@@ -876,126 +996,6 @@
       "tags": [
         "Portuguese",
         "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Indiablooms",
-      "head": "Ebola crisis deepens : India sends urgent relief as DRC reports nearly 900 cases | Indiablooms - First Portal on Digital News Management",
-      "url": "https://www.indiablooms.com/health/ebola-crisis-deepens-india-sends-urgent-relief-as-drc-reports-nearly-900-cases/details",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ensonhaber",
-      "head": "DSÖ : 900  den fazla şüpheli Ebola vakası tespit edildi",
-      "url": "https://www.ensonhaber.com/dso-900den-fazla-supheli-ebola-vakasi-tespit-edildi-h1537151",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nakedcapitalism",
-      "head": "Links 5 / 25 / 2026 | naked capitalism",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-25-2026.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Khaberni",
-      "head": "مكتشف ( إيبولا ) يدعو العالم لعدم الذعر",
-      "url": "https://www.khaberni.com/news/813287-%D9%85%D9%83%D8%AA%D8%B4%D9%81-%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%B0%D8%B9%D8%B1",
-      "loc": "Jordan",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Jordan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sunstar",
-      "head": "Pinoy crew members to get paid while under quarantine",
-      "url": "https://www.sunstar.com.ph/manila/pinoy-crew-members-to-get-paid-while-under-quarantine-for-hantavirus",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Um momento para relembrar a importância do One Health e preveno das Zoonoses",
-      "url": "https://sapo.pt/artigo/um-momento-para-relembrar-a-importancia-do-one-health-e-prevencao-das-zoonoses-6a140ef2cd43b947e54c536f",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Calgarysun",
-      "head": "Congo tightens travel as Ebola spreads and supplies run low",
-      "url": "https://calgarysun.com/news/world/congo-tightens-travel-as-ebola-spreads-and-supplies-run-low/wcm/3ddf92c2-530b-45f1-a898-aa8a88fb1910",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newser",
-      "head": "Nation Answer to Lab Rats Without a Home :  Ratapalooza  ",
-      "url": "https://www.newser.com/story/389332/in-argentina-adopt-a-new-pet-at-ratapalooza.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
