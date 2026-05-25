@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-05-25T12:49:07.074490+00:00",
+  "generated_at": "2026-05-25T15:50:31.415097+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Posta",
+      "head": "DSÖ  den hantavirüs açıklaması ! 12 vaka ve 3 can kaybı var - Son Dakika Dünya Haberleri",
+      "url": "https://www.posta.com.tr/dunya/dsoden-hantavirus-aciklamasi-12-vaka-ve-3-can-kaybi-var-2996486",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailysabah",
+      "head": "Hantavirus - exposed Americans under quarantine in Nebraska",
+      "url": "https://www.dailysabah.com/world/americas/hantavirus-exposed-americans-under-quarantine-in-nebraska",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Detaykibris",
+      "head": "DSÖ : Hantavirüs vakalarıyla ilgili durum istikrarlı",
+      "url": "https://www.detaykibris.com/dso-hantavirus-vakalariyla-ilgili-durum-istikrarli-357299h.htm",
+      "loc": "Cyprus",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Cyprus"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -748,6 +793,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Indiablooms",
+      "head": "Ebola crisis deepens : India sends urgent relief as DRC reports nearly 900 cases | Indiablooms - First Portal on Digital News Management",
+      "url": "https://www.indiablooms.com/health/ebola-crisis-deepens-india-sends-urgent-relief-as-drc-reports-nearly-900-cases/details",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Ensonhaber",
       "head": "DSÖ : 900  den fazla şüpheli Ebola vakası tespit edildi",
       "url": "https://www.ensonhaber.com/dso-900den-fazla-supheli-ebola-vakasi-tespit-edildi-h1537151",
@@ -931,66 +991,6 @@
       "src": "KUAF",
       "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
       "url": "https://www.kuaf.com/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WAMC",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wamc.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGCU",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wgcu.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WYPR",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.wypr.org/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KVNF",
-      "head": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "url": "https://www.kvnf.org/npr-news/2026-05-24/more-than-500-children-have-died-in-an-outbreak-that-the-world-is-virtually-ignoring",
       "loc": "United States",
       "lang": "English",
       "tags": [
