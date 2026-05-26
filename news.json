@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T22:34:25.246298+00:00",
+  "generated_at": "2026-05-26T00:05:50.449266+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
@@ -8,6 +8,156 @@
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KVIA",
+      "head": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
+      "url": "https://kvia.com/news/us-world/cnn-world/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "9NEWS",
+      "head": "Coloradan tests positive for hantavirus",
+      "url": "https://www.9news.com/article/news/health/colorado-hantavirus-arapahoe-county/73-15fc6e79-ffcd-41d3-b31c-070218a80712",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "English",
+      "head": "New positive for hantavirus confirmed among quarantined Spaniards - Xinhua",
+      "url": "https://english.news.cn/europe/20260526/f387443a160d45feb6bb1b1c76d04ccb/c.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WPDH",
+      "head": "New York Man In Hantavirus Quarantine Shares Unexpected Updates",
+      "url": "https://wpdh.com/ixp/854/p/new-york-man-celebrates-hantavirus-quarantine-milestones/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KESQ",
+      "head": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
+      "url": "https://kesq.com/news/national-world/cnn-world/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTVZ",
+      "head": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
+      "url": "https://ktvz.com/news/national-world/cnn-world/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "English",
+      "head": "New positive for hantavirus confirmed among quarantined Spaniards - Xinhua",
+      "url": "https://english.news.cn/20260526/ba5befc7d4714de3b198458a63237444/c.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thenewamerican",
+      "head": "Kennedy Hantavirus PREP Act Declaration Reopens Emergency Powers Debate",
+      "url": "https://thenewamerican.com/us/healthcare/kennedys-hantavirus-prep-act-declaration-reopens-emergency-powers-debate/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thetyee",
+      "head": "Hantavirus Shrinks the Lines Between Human and Animal Health",
+      "url": "https://thetyee.ca/Analysis/2026/05/21/Hantavirus-Shrinks-Lines-Between-Human-Animal-Health/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KRDO",
+      "head": "Spanish citizen evacuated from hantavirus - hit cruise ship tests positive",
+      "url": "https://krdo.com/news/2026/05/25/spanish-citizen-evacuated-from-cruise-ship-tests-positive-for-hantavirus/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -57,21 +207,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "AA",
-      "head": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
-      "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
-      "loc": "Turkey",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "Columbian",
       "head": "More than a quarter of mice on the Palouse show signs of previous Hantavirus infection , WSU study finds",
       "url": "https://www.columbian.com/news/2026/may/25/more-than-a-quarter-of-mice-on-the-palouse-show-signs-of-previous-hantavirus-infection-wsu-study-finds/",
@@ -95,6 +230,21 @@
       "tags": [
         "Turkish",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "Spain confirms new hantavirus case among those quarantined at Madrid hospital",
+      "url": "https://aa.com.tr/en/health/spain-confirms-new-hantavirus-case-among-those-quarantined-at-madrid-hospital/3948418",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
       ],
       "live": true
     },
@@ -155,126 +305,6 @@
       "tags": [
         "English",
         "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Espanha confirma novo caso de hantavírus",
-      "url": "https://sapo.pt/artigo/espanha-confirma-novo-caso-de-hantavirus-6a149b2614f3d731cfd9756e",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Edition",
-      "head": "Spanish citizen evacuated from cruise ship tests positive for hantavirus",
-      "url": "https://edition.cnn.com/2026/05/25/europe/spain-hantavirus-cruise-ship-intl-latam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Publico",
-      "head": "Confirmado novo caso de hantavírus em Espanha",
-      "url": "https://www.publico.pt/2026/05/25/mundo/noticia/confirmado-novo-caso-hantavirus-espanha-2175972",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "US",
-      "head": "Spanish citizen evacuated from cruise ship tests positive for hantavirus",
-      "url": "https://us.cnn.com/2026/05/25/europe/spain-hantavirus-cruise-ship-intl-latam",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Hantavirüs Bir Salgına Dönüşür mü ? – Haber – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/hantavirus-bir-salgina-donusur-mu/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Westfaironline",
-      "head": "Protect yourself and your home with these hantavirus awareness and prevention tips",
-      "url": "https://westfaironline.com/animals/protect-yourself-and-your-home-with-these-hantavirus-awareness-and-prevention-tips/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gazetadigital",
-      "head": "Capitão de navio com surto de hantavírus deixa a embarcao",
-      "url": "https://www.gazetadigital.com.br/variedades/variedades/capitao-de-navio-com-surto-de-hantavirus-deixa-a-embarcacao/847870",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Posta",
-      "head": "DSÖ  den hantavirüs açıklaması ! 12 vaka ve 3 can kaybı var - Son Dakika Dünya Haberleri",
-      "url": "https://www.posta.com.tr/dunya/dsoden-hantavirus-aciklamasi-12-vaka-ve-3-can-kaybi-var-2996486",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
       ],
       "live": true
     },
@@ -898,6 +928,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Albayan",
+      "head": "إسبانيا .. تأكيد إصابة محجور في مدريد بفيروس هانتا",
+      "url": "https://www.albayan.ae/news/world/europe/1321803",
+      "loc": "United Arab Emirates",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "United Arab Emirates"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Hespress",
       "head": "حالة إصابة مؤكدة بـ  هانتا  في مدريد",
       "url": "https://www.hespress.com/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%A4%D9%83%D8%AF%D8%A9-%D8%A8%D9%80%D9%87%D8%A7%D9%86%D8%AA%D8%A7-%D9%81%D9%8A-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-1752646.html",
@@ -951,51 +996,6 @@
       "tags": [
         "Bulgarian",
         "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Forbes",
-      "head": "Deaths , Burned Clinics - What Different About Ebola 2026 Return ? ",
-      "url": "https://www.forbes.com/sites/stephenbrozak/2026/05/25/deaths-burned-clinicswhats-different-about-ebolas-2026-return/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timeslive",
-      "head": "Ageing , outdated infrastructure hampers rollout of Sassa grants , parliament hears",
-      "url": "https://www.timeslive.co.za/news/south-africa/2026-05-25-social-grant-delays-leave-vulnerable-south-africans-at-risk/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Radios",
-      "head": "Alô Alô Brasil : país está preparado para eventual pandemia de ebola ? ",
-      "url": "https://radios.ebc.com.br/alo-alo-brasil/2026/05/alo-alo-brasil-pais-esta-preparado-para-eventual-pandemia-de-ebola",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
       ],
       "live": true
     }
