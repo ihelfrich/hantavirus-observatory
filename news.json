@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T18:41:55.909247+00:00",
+  "generated_at": "2026-05-26T20:53:05.221012+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 69,
@@ -310,6 +310,90 @@
     },
     {
       "time": "04:00",
+      "date": "2026-05-26",
+      "ts": "2026-05-26T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Outcomes of Hospitalized and Critically Ill Adults with Murine Typhus, Galveston, Texas, USA, 2019–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1015_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-26",
+      "ts": "2026-05-26T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Wickerhamomyces anomalus Fungemia during Healthcare-Associated Outbreak, Pereira, Colombia, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1980_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-26",
+      "ts": "2026-05-26T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Outbreak of Wickerhamomyces anomalus (formerly Candida pelliculosa) Bloodstream Infections, Venezuela, 2022–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1978_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-26",
+      "ts": "2026-05-26T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Identification of Novel Recombinant Human Adenovirus Genotype B117 from Pediatric Cases, China",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-0940_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-26",
+      "ts": "2026-05-26T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Yellow Fever Virus Surveillance in Callithrix spp. Marmosets during Epizootic Outbreak, Brazil, 2024–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1388_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-26",
+      "ts": "2026-05-26T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Disseminated Coccidioidomycosis and Coccidioidal Meningitis Hospitalization, Texas, USA, 2016–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1469_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
       "date": "2026-05-21",
       "ts": "2026-05-21T04:00:00+00:00",
       "src": "CDC EID",
@@ -567,90 +651,6 @@
       "src": "CDC EID",
       "head": "Adeno-Associated Virus Type 2 and Human Adenovirus Species F Type 41 Co-infection Associated with Acute Severe Hepatitis in Children, California, USA",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0284_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-08",
-      "ts": "2026-05-08T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of Ceftriaxone-Resistant Neisseria gonorrhoeae penA-60–Carrying Strains, Thailand, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1860_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-01",
-      "ts": "2026-05-01T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Therapeutic Challenges in Case of Trichophyton indotineae Dermatophytosis, Singapore, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1606_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-01",
-      "ts": "2026-05-01T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Placental Vascular Pathology Associated with Congenital Lymphocytic Choriomeningitis Virus Infection, Philadelphia, Pennsylvania, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0165_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "14:45",
-      "date": "2026-04-30",
-      "ts": "2026-04-30T14:45:54+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of Klebsiella pneumoniae Carbapenemase–Producing K. pneumoniae with Penicillin-Binding Protein 3 Insertions, Taiwan, 2021",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0478_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-04-30",
-      "ts": "2026-04-30T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Suspected Sexual Transmission of Dermatophilosis among Men Who Have Sex with Men, Barcelona, Spain, 2025–2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0476_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-04-30",
-      "ts": "2026-04-30T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Suspected Sexual Transmission of Dermatophilosis among Men Who Have Sex with Men, Lyon and Paris, France, 2025–2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0401_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
