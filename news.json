@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-05-27T03:43:22.518438+00:00",
+  "generated_at": "2026-05-27T08:03:57.887200+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Allafrica",
+      "head": "Africa : Planes , Trains and Pandemics - Lessons From Covid - 19 About Travel Risks Posed By Hantavirus and Ebola",
+      "url": "https://allafrica.com/stories/202605270005.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Medicaldaily",
+      "head": "Deadly Hantavirus Reaches U . S . Soil : Quarantined Patients in Nebraska and Atlanta After Cruise Ship Outbreak Kills Three and Infects Dozens Worldwide",
+      "url": "https://www.medicaldaily.com/deadly-hantavirus-reaches-us-soil-quarantined-patients-nebraska-atlanta-after-cruise-ship-475449",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSL",
+      "head": "Poll : Utahns concerned about hantavirus outbreak",
+      "url": "https://www.ksl.com:443/article/news/utah/health/poll-utahns-concerned-about-hantavirus-outbreak/51502063",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EN",
+      "head": "Fact Check : WHO Never Linked Hantavirus to Child Vaccination",
+      "url": "https://en.tempo.co/read/2105620/fact-check-who-never-linked-hantavirus-to-child-vaccination",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "HNGN",
+      "head": "Deadly Hantavirus Reaches U . S . Soil : Quarantined Patients in Nebraska and Atlanta After Cruise Ship Outbreak Kills Three and Infects Dozens Worldwide",
+      "url": "http://www.hngn.com/articles/271366/20260526/deadly-hantavirus-reaches-us-soil-quarantined-patients-nebraska-atlanta-after-cruise-ship.htm",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Aspentimes",
+      "head": "PitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak",
+      "url": "https://www.aspentimes.com/news/pitco-confirms-local-hantavirus-risk-differs-from-strain-linked-to-cruise-ship-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -165,111 +255,6 @@
       "src": "Wvtm13",
       "head": "Spain confirms second hantavirus case from MV Hondius",
       "url": "https://www.wvtm13.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mynbc5",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.mynbc5.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KETV",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.ketv.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "LBC",
-      "head": "Briton treated in Netherlands for hantavirus returns to united kingdom ",
-      "url": "https://www.lbc.co.uk/article/briton-treated-in-netherlands-for-hantavirus-returns-to-uk-5HjdZgS_2/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KSBW",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.ksbw.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WDIO",
-      "head": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
-      "url": "https://www.wdio.com/ap-top-news/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gulfcoastnewsnow",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.gulfcoastnewsnow.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KOCO",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.koco.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -898,6 +883,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Lewrockwell",
+      "head": "The Nocebo Effect : The Real Psyop Behind Fake Pandemics",
+      "url": "https://www.lewrockwell.com/2026/05/no_author/the-nocebo-effect-the-real-psyop-behind-fake-pandemics/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thesun",
+      "head": "Ebola and the World Cup",
+      "url": "https://thesun.ng/ebola-and-the-world-cup/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "N",
+      "head": "基北北桃聯合治理 新北推 「 科學防疫 、 跨域治水 」 雙重策略",
+      "url": "https://n.yam.com/Article/20260527298073",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Brisbanetimes",
       "head": "Perth biotech duo Avicena , Syngenis forge biosecurity shield",
       "url": "https://www.brisbanetimes.com.au/business/companies/perth-biotech-duo-avicena-syngenis-forge-biosecurity-shield-20260527-p60152.html",
@@ -961,36 +991,6 @@
       "src": "WGAL",
       "head": "West Hempfield couple waives hearings in animal cruelty case",
       "url": "https://www.wgal.com/article/west-hempfield-couple-waives-hearings-animal-cruelty-case/71413904",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Edaily",
-      "head": "Biotech Stocks Rally on Clinical Momentum , Virus Concerns [ K - Bio Pulse ] ",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02725686645453184&mediaCodeNo=257",
-      "loc": "South Korea",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Korea"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "HUB",
-      "head": "What we know about the current Ebola outbreak",
-      "url": "https://hub.jhu.edu/2026/05/26/ebola-outbreak-central-africa/",
       "loc": "United States",
       "lang": "English",
       "tags": [
