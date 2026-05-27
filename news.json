@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T11:53:23.935496+00:00",
+  "generated_at": "2026-05-27T15:40:15.576542+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
@@ -260,6 +260,34 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-27",
+      "ts": "2026-05-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Caballeronia Bacteremia in Children with Cancer, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0342_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-27",
+      "ts": "2026-05-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Increase in blaNDM among Carbapenemase-Producing, Carbapenem-Resistant Enterobacterales, United States, 2016–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1404_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -578,34 +606,6 @@
       "src": "CDC EID",
       "head": "Concurrent Detection of Swine-Origin Influenza A(H1N1) Virus in Pigs and Farmer, Switzerland",
       "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1487_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-12",
-      "ts": "2026-05-12T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Photo Quiz",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0531_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-12",
-      "ts": "2026-05-12T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Adeno-Associated Virus Type 2 and Human Adenovirus Species F Type 41 Co-infection Associated with Acute Severe Hepatitis in Children, California, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0284_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
