@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T15:40:15.576542+00:00",
+  "generated_at": "2026-05-27T18:27:04.302568+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
@@ -12,24 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Allafrica",
-      "head": "Africa : Planes , Trains and Pandemics - Lessons From Covid - 19 About Travel Risks Posed By Hantavirus and Ebola",
-      "url": "https://allafrica.com/stories/202605270005.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medicaldaily",
-      "head": "Deadly Hantavirus Reaches U . S . Soil : Quarantined Patients in Nebraska and Atlanta After Cruise Ship Outbreak Kills Three and Infects Dozens Worldwide",
-      "url": "https://www.medicaldaily.com/deadly-hantavirus-reaches-us-soil-quarantined-patients-nebraska-atlanta-after-cruise-ship-475449",
+      "src": "Nbcnews",
+      "head": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
+      "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,9 +27,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSL",
-      "head": "Poll : Utahns concerned about hantavirus outbreak",
-      "url": "https://www.ksl.com:443/article/news/utah/health/poll-utahns-concerned-about-hantavirus-outbreak/51502063",
+      "src": "PT",
+      "head": "Verificao de factos : mapa viral sobre o hantavírus não exibe casos confirmados",
+      "url": "https://pt.euronews.com/my-europe/2026/05/27/verificacao-de-factos-mapa-viral-sobre-o-hantavirus-nao-exibe-casos-confirmados",
+      "loc": "United States",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ftnnews",
+      "head": "Spain confirms 2nd Hantavirus case after cruise ship evacuation",
+      "url": "https://ftnnews.com/travel-news/health-a-spa/spain-confirms-2nd-hantavirus-case-after-cruise-ship-evacuation/",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newser",
+      "head": "WHO Confirms 13th Hantavirus Case",
+      "url": "https://www.newser.com/story/389912/hantavirus-cruise-outbreak-grows-to-13-cases-who-says.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EN",
-      "head": "Fact Check : WHO Never Linked Hantavirus to Child Vaccination",
-      "url": "https://en.tempo.co/read/2105620/fact-check-who-never-linked-hantavirus-to-child-vaccination",
+      "src": "Dailydispatch",
+      "head": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
+      "url": "https://www.dailydispatch.co.za/news/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
       "loc": "",
       "lang": "English",
       "tags": [
@@ -72,9 +87,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "HNGN",
-      "head": "Deadly Hantavirus Reaches U . S . Soil : Quarantined Patients in Nebraska and Atlanta After Cruise Ship Outbreak Kills Three and Infects Dozens Worldwide",
-      "url": "http://www.hngn.com/articles/271366/20260526/deadly-hantavirus-reaches-us-soil-quarantined-patients-nebraska-atlanta-after-cruise-ship.htm",
+      "src": "Infomoney",
+      "head": "OMS : Casos de hantavírus em cruzeiro aumentam para 13 com novo caso na Espanha",
+      "url": "https://www.infomoney.com.br/mundo/oms-casos-de-hantavirus-em-cruzeiro-aumentam-para-13-com-novo-caso-na-espanha/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theepochtimes",
+      "head": "Hantavirus Cases From Cruise Outbreak Rise to 13 , Situation Remains Stable , WHO Says",
+      "url": "https://www.theepochtimes.com/world/hantavirus-cases-from-cruise-outbreak-rise-to-13-situation-remains-stable-who-says-6039246",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,13 +117,73 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Aspentimes",
-      "head": "PitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak",
-      "url": "https://www.aspentimes.com/news/pitco-confirms-local-hantavirus-risk-differs-from-strain-linked-to-cruise-ship-outbreak/",
-      "loc": "United States",
+      "src": "Manilatimes",
+      "head": "Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
+      "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks/2352681",
+      "loc": "Philippines",
       "lang": "English",
       "tags": [
         "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theherald",
+      "head": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
+      "url": "https://www.theherald.co.za/news/world/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northweststar",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.northweststar.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hardenexpress",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.hardenexpress.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ujszo",
+      "head": "Tizenháromra emelkedett a Hondius óceánjáróhoz köthető hantavírusos esetek száma",
+      "url": "https://ujszo.com/kulfold/tizenharomra-emelkedett-az-oceanjarohoz-kotheto-esetek-szama",
+      "loc": "United States",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
         "United States"
       ],
       "live": true
@@ -102,14 +192,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Attackofthefanboy",
-      "head": "MAHA activists arent happy with RFK Jr ., and the fallout is over HHS Secretary decision on legal protections for hantavirus treatment drugmakers",
-      "url": "https://attackofthefanboy.com/politics/maha-activists-arent-happy-with-rfk-jr-and-the-fallout-is-over-hhs-secretarys-decision-on-legal-protections-for-hantavirus-treatment-drugmakers/",
-      "loc": "Japan",
+      "src": "Centralwesterndaily",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.centralwesterndaily.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "Japan"
+        "Australia"
       ],
       "live": true
     },
@@ -117,14 +207,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "HOME",
-      "head": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689",
-      "loc": "New Zealand",
+      "src": "Newcastleherald",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.newcastleherald.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "",
       "lang": "English",
       "tags": [
         "English",
-        "New Zealand"
+        ""
       ],
       "live": true
     },
@@ -132,14 +222,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "HOME",
-      "head": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tst",
-      "loc": "New Zealand",
+      "src": "Easternriverinachronicle",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.easternriverinachronicle.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "New Zealand"
+        "Australia"
       ],
       "live": true
     },
@@ -147,24 +237,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "HOME",
-      "head": "Planes , trains and pandemics : Lessons from COVID - 19 about travel risks posed by hantavirus and Ebola - 27 - May - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=446689&fm=psp,tsf",
-      "loc": "New Zealand",
-      "lang": "English",
-      "tags": [
-        "English",
-        "New Zealand"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Independent",
-      "head": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to united kingdom ",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
+      "src": "Express",
+      "head": "WHO issues major update over new hantavirus case in Europe",
+      "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
@@ -177,14 +252,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KWCH",
-      "head": "Three people released from Kansas hospital after hantavirus exposure",
-      "url": "https://www.kwch.com/2026/05/26/three-people-released-kansas-city-kansas-hospital-after-hantavirus-exposure/",
-      "loc": "United States",
+      "src": "Mandurahmail",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.mandurahmail.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -192,14 +267,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "95Rockfm",
-      "head": "Hantavirus Cases In Colorado Have Health Officials Concerned",
-      "url": "https://95rockfm.com/ixp/48/p/hantavirus-mice-illness-colorado-safety/",
-      "loc": "United States",
+      "src": "Manningrivertimes",
+      "head": "Hantavirus cruise outbreak rises with new case in Spain",
+      "url": "https://www.manningrivertimes.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -207,59 +282,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bostonherald",
-      "head": "Cruise ship at center of hantavirus outbreak to undergo extra cleaning",
-      "url": "https://www.bostonherald.com/2026/05/26/hantavirus-ship-cleaning/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Birgun",
+      "head": "DSÖ  den Hantavirüs açıklaması : Vaka sayısı 13  e yükseldi",
+      "url": "https://www.birgun.net/haber/dso-den-hantavirus-aciklamasi-vaka-sayisi-13-e-yukseldi-715058",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLWT",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.wlwt.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGAL",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.wgal.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wvtm13",
-      "head": "Spain confirms second hantavirus case from MV Hondius",
-      "url": "https://www.wvtm13.com/article/spanish-citizen-tests-positive-hantavirus-cruise-ship/71402776",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -284,6 +314,20 @@
       "src": "CDC EID",
       "head": "Increase in blaNDM among Carbapenemase-Producing, Carbapenem-Resistant Enterobacterales, United States, 2016–2023",
       "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1404_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-27",
+      "ts": "2026-05-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Delft Neighbors—Vermeer and van Leeuwenhoek",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/ac-3206_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -600,20 +644,6 @@
       "live": true
     },
     {
-      "time": "04:00",
-      "date": "2026-05-13",
-      "ts": "2026-05-13T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Concurrent Detection of Swine-Origin Influenza A(H1N1) Virus in Pigs and Farmer, Switzerland",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1487_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
       "time": "17:36",
       "date": "2026-03-19",
       "ts": "2026-03-19T17:36:00+00:00",
@@ -883,9 +913,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Lewrockwell",
-      "head": "The Nocebo Effect : The Real Psyop Behind Fake Pandemics",
-      "url": "https://www.lewrockwell.com/2026/05/no_author/the-nocebo-effect-the-real-psyop-behind-fake-pandemics/",
+      "src": "Assabeel",
+      "head": "الصحة العالمية : إصابة جديدة بفيروس هانتا ترفع عدد الحالات إلى 13",
+      "url": "https://assabeel.net/73559",
+      "loc": "Israel",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Assabeel",
+      "head": "الصحة العالمية : إصابة جديدة بفيروس هانتا ترفع عدد الحالات إلى 13",
+      "url": "https://assabeel.net/73546",
+      "loc": "Israel",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KIMT",
+      "head": "This year World Cup is testing the public health playbook | News",
+      "url": "https://www.kimt.com/news/this-year-s-world-cup-is-testing-the-public-health-playbook/article_7d1d331a-bdcc-5c5d-8296-910c893f9df2.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -898,14 +958,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thesun",
-      "head": "Ebola and the World Cup",
-      "url": "https://thesun.ng/ebola-and-the-world-cup/",
-      "loc": "",
+      "src": "Ibtimes",
+      "head": "US Restricts Disease Experts from Communicating With WHO Amid Ebola Outbreak and Global Health , Reports Reveal",
+      "url": "https://www.ibtimes.co.uk/us-experts-barred-who-ebola-crisis-1799244",
+      "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United Kingdom"
       ],
       "live": true
     },
@@ -913,89 +973,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "N",
-      "head": "基北北桃聯合治理 新北推 「 科學防疫 、 跨域治水 」 雙重策略",
-      "url": "https://n.yam.com/Article/20260527298073",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Brisbanetimes",
-      "head": "Perth biotech duo Avicena , Syngenis forge biosecurity shield",
-      "url": "https://www.brisbanetimes.com.au/business/companies/perth-biotech-duo-avicena-syngenis-forge-biosecurity-shield-20260527-p60152.html",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theage",
-      "head": "Perth biotech duo Avicena , Syngenis forge biosecurity shield",
-      "url": "https://www.theage.com.au/business/companies/perth-biotech-duo-avicena-syngenis-forge-biosecurity-shield-20260527-p60152.html",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ettoday",
-      "head": "恐成 「 零號病人 」！ 專家列旅行10大NG行為 別隨便喝當地水 | ETtoday國際新聞",
-      "url": "https://www.ettoday.net/news/20260527/3172736.htm",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Ébola : Codescobridor da doença estima que atual epidemia pode ser controlada brevemente",
-      "url": "https://sapo.pt/artigo/ebola-codescobridor-da-doenca-estima-que-atual-epidemia-pode-ser-controlada-brevemente-6a164411cd43b947e5df96a2",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGAL",
-      "head": "West Hempfield couple waives hearings in animal cruelty case",
-      "url": "https://www.wgal.com/article/west-hempfield-couple-waives-hearings-animal-cruelty-case/71413904",
+      "src": "Dailymail",
+      "head": "Ebola outbreak  spreading faster than can be controlled  warns WHO",
+      "url": "https://www.dailymail.com/health/article-15851441/Ebola-outbreak-spreading-faster-controlled-warns-cases-rise-1-000.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thecable",
+      "head": "Ebola return and Africa familiar warning",
+      "url": "https://www.thecable.ng/ebolas-return-and-africas-familiar-warning/",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
       ],
       "live": true
     }
