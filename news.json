@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T18:27:04.302568+00:00",
+  "generated_at": "2026-05-27T20:33:59.519228+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
@@ -312,8 +312,50 @@
       "date": "2026-05-27",
       "ts": "2026-05-27T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Phenotypic and Genomic Characterization of Antimicrobial-Resistant Neisseria gonorrhoeae of Public Health Concern",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0310_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-27",
+      "ts": "2026-05-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Cutibacterium avidum Bacteria in Post-Mastectomy Breast with Prior Silicone Injections, Singapore",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1717_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-27",
+      "ts": "2026-05-27T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Increase in blaNDM among Carbapenemase-Producing, Carbapenem-Resistant Enterobacterales, United States, 2016–2023",
       "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1404_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-05-27",
+      "ts": "2026-05-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Assessing Evidence to Guide Primary Prevention of Pathogen X",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0293_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -594,48 +636,6 @@
       "src": "CDC EID",
       "head": "Group A Streptococcus Disease Outbreak Associated with Large Congregate Shelter, Chicago, Illinois, USA, October 2023–January 2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-0726_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-15",
-      "ts": "2026-05-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Characteristics of Plausible Source Cases Responsible for Recent Mycobacterium tuberculosis Transmission, United States, 2018–2022",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0104_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-15",
-      "ts": "2026-05-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Bacteria [bak-tēr′-ē-ә]",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1514_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-15",
-      "ts": "2026-05-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "New Delhi metallo-β-lactamase 1 [nū del′ē mә-tal′ō bāt′ә lak′tә-mās wuhn]",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/24-1434_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
