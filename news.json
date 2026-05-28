@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T04:23:19.003138+00:00",
+  "generated_at": "2026-05-28T08:27:35.825953+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
@@ -12,69 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nbcnews",
-      "head": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
-      "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "PT",
-      "head": "Verificao de factos : mapa viral sobre o hantavírus não exibe casos confirmados",
-      "url": "https://pt.euronews.com/my-europe/2026/05/27/verificacao-de-factos-mapa-viral-sobre-o-hantavirus-nao-exibe-casos-confirmados",
-      "loc": "United States",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ftnnews",
-      "head": "Spain confirms 2nd Hantavirus case after cruise ship evacuation",
-      "url": "https://ftnnews.com/travel-news/health-a-spa/spain-confirms-2nd-hantavirus-case-after-cruise-ship-evacuation/",
-      "loc": "Turkey",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newser",
-      "head": "WHO Confirms 13th Hantavirus Case",
-      "url": "https://www.newser.com/story/389912/hantavirus-cruise-outbreak-grows-to-13-cases-who-says.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailydispatch",
-      "head": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
-      "url": "https://www.dailydispatch.co.za/news/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
+      "src": "English",
+      "head": "Australia extends quarantine for 6 cruise passengers linked to hantavirus outbreak - Xinhua",
+      "url": "https://english.news.cn/20260528/dcd8c288ea5241d2b65ba1a5aaf4e5c3/c.html",
       "loc": "",
       "lang": "English",
       "tags": [
@@ -87,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Infomoney",
-      "head": "OMS : Casos de hantavírus em cruzeiro aumentam para 13 com novo caso na Espanha",
-      "url": "https://www.infomoney.com.br/mundo/oms-casos-de-hantavirus-em-cruzeiro-aumentam-para-13-com-novo-caso-na-espanha/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "9NEWS",
+      "head": "Hantavirus update : Quarantine extended for five Australians and one New Zealander in WA",
+      "url": "https://www.9news.com.au/national/hantavirus-update-australians-in-quarantine-to-stay-for-three-extra-weeks/bd24ad53-9239-471a-9b60-55d270c93f7d",
+      "loc": "Australia",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "English",
+        "Australia"
       ],
       "live": true
     },
@@ -102,9 +42,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theepochtimes",
-      "head": "Hantavirus Cases From Cruise Outbreak Rise to 13 , Situation Remains Stable , WHO Says",
-      "url": "https://www.theepochtimes.com/world/hantavirus-cases-from-cruise-outbreak-rise-to-13-situation-remains-stable-who-says-6039246",
+      "src": "SBS",
+      "head": "Australians from hantavirus - hit cruise issued extended quarantine orders",
+      "url": "https://www.sbs.com.au/news/article/australian-hantavirus-passengers-will-serve-full-42-day-quarantine-period-following-extension/1ielkr410",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "ABC",
+      "head": "Hantavirus cruise ship passengers have WA quarantine period extended",
+      "url": "https://www.abc.net.au/news/2026-05-28/hantavirus-cruise-ship-passengers-have-wa-quarantine-extended/106733322",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Perthnow",
+      "head": "Australian passengers from deadly hantavirus cruise ship forced to remain in quarantine for three more weeks",
+      "url": "https://www.perthnow.com.au/wa/australian-passengers-from-deadly-hantavirus-cruise-ship-forced-to-remain-in-quarantine-for-three-more-weeks-c-22350161",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Vindy",
+      "head": "Ship at center of a deadly hantavirus outbreak in need of extra cleaning | News , Sports , Jobs",
+      "url": "https://www.vindy.com/news/international-news/2026/05/ship-at-center-of-a-deadly-hantavirus-outbreak-in-need-of-extra-cleaning/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,73 +102,13 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manilatimes",
-      "head": "Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
-      "url": "https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks/2352681",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theherald",
-      "head": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain , WHO says",
-      "url": "https://www.theherald.co.za/news/world/2026-05-27-hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-who-says/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Northweststar",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.northweststar.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hardenexpress",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.hardenexpress.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ujszo",
-      "head": "Tizenháromra emelkedett a Hondius óceánjáróhoz köthető hantavírusos esetek száma",
-      "url": "https://ujszo.com/kulfold/tizenharomra-emelkedett-az-oceanjarohoz-kotheto-esetek-szama",
+      "src": "Naturalnews",
+      "head": "Kennedy signs PREP Act for hantavirus , faces backlash from medical freedom allies – NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-05-27-kennedy-signs-prep-act-hantavirus.html",
       "loc": "United States",
-      "lang": "Hungarian",
+      "lang": "English",
       "tags": [
-        "Hungarian",
+        "English",
         "United States"
       ],
       "live": true
@@ -192,14 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Centralwesterndaily",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.centralwesterndaily.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "Australia",
+      "src": "Thestar",
+      "head": "How dangerous is the hantavirus ? ",
+      "url": "https://www.thestar.com.my/lifestyle/health/tell-me-about/2026/05/28/how-dangerous-is-the-hantavirus",
+      "loc": "Malaysia",
       "lang": "English",
       "tags": [
         "English",
-        "Australia"
+        "Malaysia"
       ],
       "live": true
     },
@@ -207,89 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newcastleherald",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.newcastleherald.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "",
+      "src": "KTVZ",
+      "head": "Hantavirus outbreak on cruise ship triggers painful memories for Bend family",
+      "url": "https://ktvz.com/news/central-oregon/2026/05/27/hantavirus-outbreak-on-cruise-ship-triggers-painful-memories-for-bend-family/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Easternriverinachronicle",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.easternriverinachronicle.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Express",
-      "head": "WHO issues major update over new hantavirus case in Europe",
-      "url": "https://www.express.co.uk/news/world/2210068/hantavirus-new-case-spain",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mandurahmail",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.mandurahmail.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Manningrivertimes",
-      "head": "Hantavirus cruise outbreak rises with new case in Spain",
-      "url": "https://www.manningrivertimes.com.au/story/9255251/hantavirus-cruise-outbreak-rises-with-new-case-in-spain/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Birgun",
-      "head": "DSÖ  den Hantavirüs açıklaması : Vaka sayısı 13  e yükseldi",
-      "url": "https://www.birgun.net/haber/dso-den-hantavirus-aciklamasi-vaka-sayisi-13-e-yukseldi-715058",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
+        "United States"
       ],
       "live": true
     },
@@ -913,14 +763,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Assabeel",
-      "head": "الصحة العالمية : إصابة جديدة بفيروس هانتا ترفع عدد الحالات إلى 13",
-      "url": "https://assabeel.net/73559",
-      "loc": "Israel",
-      "lang": "Arabic",
+      "src": "Singletonargus",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.singletonargus.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
       "tags": [
-        "Arabic",
-        "Israel"
+        "English",
+        "Australia"
       ],
       "live": true
     },
@@ -928,14 +778,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Assabeel",
-      "head": "الصحة العالمية : إصابة جديدة بفيروس هانتا ترفع عدد الحالات إلى 13",
-      "url": "https://assabeel.net/73546",
-      "loc": "Israel",
-      "lang": "Arabic",
+      "src": "Hardenexpress",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.hardenexpress.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
       "tags": [
-        "Arabic",
-        "Israel"
+        "English",
+        "Australia"
       ],
       "live": true
     },
@@ -943,59 +793,209 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KIMT",
-      "head": "This year World Cup is testing the public health playbook | News",
-      "url": "https://www.kimt.com/news/this-year-s-world-cup-is-testing-the-public-health-playbook/article_7d1d331a-bdcc-5c5d-8296-910c893f9df2.html",
+      "src": "Arabic",
+      "head": "منظمة الصحة العالمية : ارتفاع الإصابات بفيروس هانتا المتفشي على متن السفينة السياحية إلى 13",
+      "url": "http://arabic.people.com.cn/n3/2026/0528/c31663-20461278.html",
+      "loc": "China",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Redlandcitybulletin",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.redlandcitybulletin.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Perthnow",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.perthnow.com.au/news/politics/quarantine-extended-for-passengers-after-virus-outbreak-c-22350591",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cootamundraherald",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.cootamundraherald.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Standard",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.standard.net.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theleader",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.theleader.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailyadvertiser",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.dailyadvertiser.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lithgowmercury",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.lithgowmercury.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Canberratimes",
+      "head": "Quarantine extended for passengers after virus outbreak",
+      "url": "https://www.canberratimes.com.au/story/9255779/quarantine-extended-for-passengers-after-virus-outbreak/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arabic",
+      "head": "منظمة الصحة العالمية : ارتفاع الإصابات بفيروس هانتا المتفشي على متن السفينة السياحية إلى 13",
+      "url": "http://arabic.peopledaily.com.cn/n3/2026/0528/c31663-20461278.html",
+      "loc": "China",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "天熱病毒蠢動 ！ 彰化防蚊滅鼠動起來 專家曝 「 1動作 」 很重要 - 彰化縣",
+      "url": "https://news.ltn.com.tw/news/Changhua/breakingnews/5452434",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brandonsun",
+      "head": "COVID - 19 supplies lessons for travel risks during outbreaks – Brandon Sun",
+      "url": "https://www.brandonsun.com/opinion/2026/05/27/covid-19-supplies-lessons-for-travel-risks-during-outbreaks",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arabic",
+      "head": "منظمة الصحة العالمية : ارتفاع الإصابات بفيروس هانتا المتفشي على متن السفينة السياحية إلى 13",
+      "url": "http://arabic.news.cn/20260528/2ad28a30109947d4af6c97590b9fe5cf/c.html",
+      "loc": "China",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KUER",
+      "head": "Utah cases are slowing , but measles isnt done with us yet , says health expert",
+      "url": "https://www.kuer.org/health/2026-05-27/utah-cases-are-slowing-but-measles-isnt-done-with-us-yet-says-health-expert",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ibtimes",
-      "head": "US Restricts Disease Experts from Communicating With WHO Amid Ebola Outbreak and Global Health , Reports Reveal",
-      "url": "https://www.ibtimes.co.uk/us-experts-barred-who-ebola-crisis-1799244",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailymail",
-      "head": "Ebola outbreak  spreading faster than can be controlled  warns WHO",
-      "url": "https://www.dailymail.com/health/article-15851441/Ebola-outbreak-spreading-faster-controlled-warns-cases-rise-1-000.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thecable",
-      "head": "Ebola return and Africa familiar warning",
-      "url": "https://www.thecable.ng/ebolas-return-and-africas-familiar-warning/",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
       ],
       "live": true
     }
