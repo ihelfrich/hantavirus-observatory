@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:29:20.344669+00:00",
+  "generated_at": "2026-05-29T13:46:11.753348+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
@@ -8,6 +8,21 @@
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NTV",
+      "head": "AB deneysel hantavirüs ilaçlarını teslim aldı",
+      "url": "https://www.ntv.com.tr/dunya/ab-deneysel-hantavirus-ilaclarini-teslim-aldi-1726296",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -87,21 +102,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "EN",
-      "head": "Fact Check : Hantavirus Outbreak Wasnt a Cover - Up for Disney Crew Child Porn Case",
-      "url": "https://en.tempo.co/read/2105853/fact-check-hantavirus-outbreak-wasnt-a-cover-up-for-disney-crew-child-porn-case",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "Edition",
       "head": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch",
       "url": "https://edition.cnn.com/2026/05/28/health/hantavirus-passengers-states-quarantine",
@@ -125,6 +125,21 @@
       "tags": [
         "Turkish",
         "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EN",
+      "head": "Fact Check : Hantavirus Outbreak Wasnt a Cover - Up for Disney Crew Child Porn Case",
+      "url": "https://en.tempo.co/read/2105853/fact-check-hantavirus-outbreak-wasnt-a-cover-up-for-disney-crew-child-porn-case",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
       ],
       "live": true
     },
@@ -255,21 +270,6 @@
       "src": "Breitbart",
       "head": "Australia Extends Hantavirus Quarantine for Cruise Ship Passengers",
       "url": "https://www.breitbart.com/health/2026/05/28/australia-extends-hantavirus-quarantine-for-cruise-ship-passengers/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSFA",
-      "head": "Hantavirus risk in Alabama is  low : what you need to know",
-      "url": "https://www.wsfa.com/2026/05/29/hantavirus-risk-alabama-is-low-what-you-need-know/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -898,6 +898,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Theglobeandmail",
+      "head": "A pandemic is a real and serious threat to Canada security . Military spending should reflect that reality",
+      "url": "https://www.theglobeandmail.com/opinion/article-a-pandemic-is-a-real-and-serious-threat-to-canadas-security-military/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Winnipegfreepress",
       "head": "The invisible lifeguards of public health – Winnipeg Free Press",
       "url": "https://www.winnipegfreepress.com/opinion/analysis/2026/05/29/the-invisible-lifeguards-of-public-health",
@@ -981,21 +996,6 @@
       "tags": [
         "Portuguese",
         "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "The State of US Vaccine Policy May 28 , 2026",
-      "url": "https://www.cidrap.umn.edu/childhood-vaccines/state-us-vaccine-policy-may-28-2026",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
