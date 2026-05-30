@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-05-30T02:58:45.309932+00:00",
+  "generated_at": "2026-05-30T06:28:59.124598+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Straitstimes",
+      "head": "Surveillance ordered for US hantavirus ship passengers who go home",
+      "url": "https://www.straitstimes.com/world/united-states/surveillance-ordered-for-us-hantavirus-ship-passengers-who-go-home",
+      "loc": "Singapore",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Singapore"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -125,36 +140,6 @@
       "tags": [
         "Turkish",
         "Cyprus"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NTV",
-      "head": "AB deneysel hantavirüs ilaçlarını teslim aldı",
-      "url": "https://www.ntv.com.tr/dunya/ab-deneysel-hantavirus-ilaclarini-teslim-aldi-1726296",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WJCL",
-      "head": "Hantavirus - exposed cruise passengers may return home soon",
-      "url": "https://www.wjcl.com/article/hantavirus-cruise-passengers-may-return-home-soon/71438104",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -771,6 +756,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Castanetkamloops",
+      "head": "  Really important : What Canadians need to know about infectious diseases and travel in 2026",
+      "url": "https://www.castanetkamloops.net/news/BC/617075/Really-important-What-Canadians-need-to-know-about-infectious-diseases-and-travel-in-2026",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
       ],
       "live": true
     },
