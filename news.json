@@ -1,13 +1,148 @@
 {
-  "generated_at": "2026-05-31T10:30:20.958975+00:00",
+  "generated_at": "2026-05-31T12:01:41.542572+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thejakartapost",
+      "head": "Dutch health officials clear hantavirus ship to sail again - Europe",
+      "url": "https://www.thejakartapost.com/world/2026/05/31/dutch-health-officials-clear-hantavirus-ship-to-sail-again.html",
+      "loc": "Indonesia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Indonesia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Manilatimes",
+      "head": "Dutch health officials clear hantavirus ship to sail again",
+      "url": "https://www.manilatimes.net/2026/05/31/world/dutch-health-officials-clear-hantavirus-ship-to-sail-again/2355111",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Article",
+      "head": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
+      "url": "https://article.wn.com/view/2026/05/31/MV_Hondius_cruise_ship_given_allclear_to_sail_after_deadly_h/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Manchestereveningnews",
+      "head": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
+      "url": "https://www.manchestereveningnews.co.uk/news/world-news/mv-hondius-cruise-ship-given-34039459",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Express",
+      "head": "MV Hondius hantavirus cruise ship cleared to sail again after deadly outbreak",
+      "url": "https://www.express.co.uk/news/world/2211578/hantavirus-outbreak-cruise-ship-cleared-sail-again-weeks-after-three-deaths",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eldoradonews",
+      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
+      "url": "https://www.eldoradonews.com/news/2026/may/30/how-south-african-scientists-identified/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Liverpoolecho",
+      "head": "Hantavirus cruise ship MV Hondius given green light to sail again after disinfection",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/hantavirus-cruise-ship-mv-hondius-34039463",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailystar",
+      "head": "MV Hondius to resume voyages after hantavirus outbreak clearance by authorities",
+      "url": "https://www.dailystar.co.uk/news/world-news/mv-hondius-resume-voyages-after-37227366",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "GEO",
+      "head": "Dutch health officials clear hantavirus ship to sail again",
+      "url": "https://www.geo.tv/latest/666657-dutch-health-officials-clear-hantavirus-ship-to-sail-again",
+      "loc": "Pakistan",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Pakistan"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -30,126 +165,6 @@
       "src": "Seattletimes",
       "head": "Surveillance ordered for hantavirus ship passengers who go home",
       "url": "https://www.seattletimes.com/nation-world/strict-monitoring-could-delay-homecoming-of-hantavirus-ship-passengers/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Straitstimes",
-      "head": "Surveillance ordered for US hantavirus ship passengers who go home",
-      "url": "https://www.straitstimes.com/world/united-states/surveillance-ordered-for-us-hantavirus-ship-passengers-who-go-home",
-      "loc": "Singapore",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Singapore"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSVN",
-      "head": "Hantavirus - exposed cruise passengers may soon be allowed to return home but must remain under 24 / 7 watch - WSVN 7News | Miami News , Weather , Sports",
-      "url": "https://wsvn.com/news/us-world/hantavirus-exposed-cruise-passengers-may-soon-be-allowed-to-return-home-but-must-remain-under-24-7-watch/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSLS",
-      "head": "What going around ? Hantavirus outbreak update : what Virginians need to know this week",
-      "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "WHO warns of hantavirus on cruise ship , with 3 dead , 3 others sickened",
-      "url": "https://www.cidrap.umn.edu/hantavirus/who-warns-hantavirus-cruise-ship-3-dead-3-others-sickened",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "Osterholm on hantavirus : Were missing  main point of this outbreak  ",
-      "url": "https://www.cidrap.umn.edu/hantavirus/osterholm-hantavirus-we-re-missing-main-point-outbreak",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "More details emerge on hantavirus patients on cruise ship",
-      "url": "https://www.cidrap.umn.edu/hantavirus/more-details-emerge-hantavirus-patients-cruise-ship",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday",
-      "url": "https://www.cidrap.umn.edu/hantavirus/cruise-ship-center-hantavirus-outbreak-dock-spain-sunday",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WTVQ",
-      "head": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
-      "url": "https://www.wtvq.com/the-cruise-ship-at-center-of-a-deadly-hantavirus-outbreak-has-to-undergo-extra-cleaning/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -778,6 +793,111 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Thepeninsulaqatar",
+      "head": "Hajj season free of epidemic outbreaks : Saudi Arabia",
+      "url": "http://thepeninsulaqatar.com/article/31/05/2026/hajj-season-free-of-epidemic-outbreaks-saudi-arabia",
+      "loc": "Qatar",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Qatar"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yeniakit",
+      "head": "Küresel virüs alarmı büyüyor ! Gemideki yolcular için flaş karantina kararı",
+      "url": "https://www.yeniakit.com.tr/haber/kuresel-virus-alarmi-buyuyor-gemideki-yolcular-icin-flas-karantina-karari-2004818.html",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mirror",
+      "head": "  My daughter was left in a coma after horror gap year scooter crash in India  ",
+      "url": "https://www.mirror.co.uk/news/uk-news/travel-insuracne-scooter-crash-india-37227424",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mirror",
+      "head": "Three children rescued from sea after inflatables drift off Ayr beach",
+      "url": "https://www.mirror.co.uk/news/uk-news/ayr-beach-heatwave-safety-warning-37227381",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mirror",
+      "head": "Amanda Holden  hasnt stopped crying  as she issues Britain Got Talent update",
+      "url": "https://www.mirror.co.uk/tv/amanda-holden-britains-got-talent-37227360",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "RIA",
+      "head": "Врач - инфекционист рассказала , опасен ли для россиян хантавирус Андес",
+      "url": "https://ria.ru/20260531/khantavirus-2095786050.html",
+      "loc": "Russia",
+      "lang": "Russian",
+      "tags": [
+        "Russian",
+        "Russia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Alwasat",
+      "head": "بعد تعقيمها من آثار فيروس « هانتا ».. السلطات الصحية الهولندية تسمح للسفينة هونديوس بالإبحار مجددا",
+      "url": "https://alwasat.ly/news/international/519932",
+      "loc": "Libya",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Libya"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Wyomingnews",
       "head": "Wyoming News Briefs",
       "url": "https://www.wyomingnews.com/rawlinstimes/rawlinstimes/wyoming-news-briefs/article_e8a13967-578a-4f65-a214-0af06ab1aeba.html",
@@ -876,126 +996,6 @@
       "tags": [
         "English",
         ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "Pam Bondi Just Threw Todd Blanche Under the Bus , and Im All Here for It",
-      "url": "https://www.esquire.com/news-politics/politics/a71446100/pam-bondi-todd-blanch-epstein-files/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "FDA vaccine advisers recommend XFG variant as target for fall updated COVID vaccines",
-      "url": "https://www.cidrap.umn.edu/covid-19/fda-vaccine-advisers-recommend-xfg-variant-target-fall-s-updated-covid-vaccines",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Redstate",
-      "head": "Three RNA Viruses , One Big Problem : Cytokine Storm Explained",
-      "url": "https://redstate.com/wardclark/2026/05/29/three-rna-viruses-one-big-problem-cytokine-storm-explained-n2202837",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCCI",
-      "head": "Protect yourself from contagious viruses with these expert tips",
-      "url": "https://www.kcci.com/article/protect-yourself-from-contagious-viruses/71444266",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WISN",
-      "head": "Protect yourself from contagious viruses with these expert tips",
-      "url": "https://www.wisn.com/article/protect-yourself-from-contagious-viruses/71444266",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mynbc5",
-      "head": "Protect yourself from contagious viruses with these expert tips",
-      "url": "https://www.mynbc5.com/article/protect-yourself-from-contagious-viruses/71444266",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eastbaytimes",
-      "head": "Stop worrying about Ebola : Protect yourself from contagious viruses you may actually encounter",
-      "url": "https://www.eastbaytimes.com/2026/05/29/stop-worrying-about-ebola-protect-yourself-from-contagious-viruses-you-may-actually-encounter/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jdsupra",
-      "head": "Bergeson & Campbell , P . C . ",
-      "url": "https://www.jdsupra.com:443/profile/Bergeson_Campbell_docs/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
