@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-05-31T18:43:27.228049+00:00",
+  "generated_at": "2026-05-31T20:07:18.456441+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Havasunews",
+      "head": "Hantavirus quarantine to end for some US cruise passengers",
+      "url": "https://www.havasunews.com/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mirror",
+      "head": "Four key checks before infamous hantavirus cruise ship MV Hondius was allowed to finally return to sea",
+      "url": "https://www.mirror.co.uk/news/world-news/hantavirus-cruise-checks-mv-hondius-37228033",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nltimes",
+      "head": "MV Hondius fully disinfected after deadly hantavirus outbreak ; Cleared for voyages",
+      "url": "https://nltimes.nl/2026/05/31/mv-hondius-fully-disinfected-deadly-hantavirus-outbreak-cleared-voyages",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -150,21 +195,6 @@
       "src": "Dailymail",
       "head": "Fancy a holiday on the hantavirus cruise ship ? Vessel hit by lethal outbreak cleared to sail again after huge disinfection",
       "url": "https://www.dailymail.com/news/article-15861141/Cruise-ship-global-health-crisis-hantavirus-outbreak-huge-disinfection.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Seattletimes",
-      "head": "Surveillance ordered for hantavirus ship passengers who go home",
-      "url": "https://www.seattletimes.com/nation-world/strict-monitoring-could-delay-homecoming-of-hantavirus-ship-passengers/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -793,6 +823,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Nationalpost",
+      "head": "Congo expands testing for Ebola outbreak with unknown scale , severity",
+      "url": "https://nationalpost.com/news/world/congo-ebola-testing-expanding-outbreak-scale-severity-unknow",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Observador",
+      "head": "Mundial . Há risco de infeo por Ébola para a seleo ? – Observador",
+      "url": "https://observador.pt/programas/resposta-pronta/mundial-ha-risco-de-infecao-por-ebola-para-a-selecao/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jamaicaobserver",
+      "head": "A call to strengthen veterinary public health programmes",
+      "url": "https://www.jamaicaobserver.com/2026/05/31/call-strengthen-veterinary-public-health-programmes/",
+      "loc": "Jamaica",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Jamaica"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Thepeninsulaqatar",
       "head": "Hajj season free of epidemic outbreaks : Saudi Arabia",
       "url": "http://thepeninsulaqatar.com/article/31/05/2026/hajj-season-free-of-epidemic-outbreaks-saudi-arabia",
@@ -921,81 +996,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Reporterherald",
-      "head": "Views from the nation press",
-      "url": "https://www.reporterherald.com/2026/05/30/views-from-the-nations-press-549/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nypost",
-      "head": "RFK Jr new interim surgeon general a dancing phenom and former TV doc",
-      "url": "https://nypost.com/2026/05/30/us-news/rfk-jrs-new-interim-surgeon-general-a-dancing-phenom-and-former-tv-doc/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rheaheraldnews",
-      "head": "Vanderbilt health researchers call for pandemic prevention",
-      "url": "https://www.rheaheraldnews.com/news/article_df46a7c2-152d-4179-ad0c-ba3d1de4b302.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Borsonline",
-      "head": "Ebola - járvány : kell - e félni nekünk Európában ? ",
-      "url": "https://www.borsonline.hu/kozelet/2026/05/ebola-jarvany-afrika",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Castanetkamloops",
-      "head": "  Really important : What Canadians need to know about infectious diseases and travel in 2026",
-      "url": "https://www.castanetkamloops.net/news/BC/617075/Really-important-What-Canadians-need-to-know-about-infectious-diseases-and-travel-in-2026",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
       ],
       "live": true
     }
