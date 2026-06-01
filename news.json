@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T05:25:19.653907+00:00",
+  "generated_at": "2026-06-01T10:37:51.261890+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
@@ -8,6 +8,66 @@
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsweek",
+      "head": "Super El Niño Could Mean More US Hantavirus Cases This Summer",
+      "url": "https://www.newsweek.com/super-el-nino-more-hantavirus-cases-this-summer-us-11994190",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cairoscene",
+      "head": "Ibn Hattuta Was on the Hantavirus Ship . His Message : Free Palestine . ",
+      "url": "https://cairoscene.com/Society/Ibn-Hattuta-Was-on-the-Hantavirus-Ship-His-Message-Free-Palestine",
+      "loc": "Egypt",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Standardmedia",
+      "head": "Hantavirus sparks pandemic fears despite limited evidence of human transmission",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001549197/hantavirus-sparks-pandemic-fears-despite-limited-evidence-of-human-transmission",
+      "loc": "Kenya",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Kenya"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brisbanetimes",
+      "head": "Inside the Sydney quarantine centre built to keep Ebola and hantavirus at bay",
+      "url": "https://www.brisbanetimes.com.au/national/nsw/inside-sydney-s-future-proof-quarantine-centre-20260511-p5zvmw.html",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -170,51 +230,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailystar",
-      "head": "MV Hondius to resume voyages after hantavirus outbreak clearance by authorities",
-      "url": "https://www.dailystar.co.uk/news/world-news/mv-hondius-resume-voyages-after-37227366",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "GEO",
-      "head": "Dutch health officials clear hantavirus ship to sail again",
-      "url": "https://www.geo.tv/latest/666657-dutch-health-officials-clear-hantavirus-ship-to-sail-again",
-      "loc": "Pakistan",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Pakistan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailymail",
-      "head": "Fancy a holiday on the hantavirus cruise ship ? Vessel hit by lethal outbreak cleared to sail again after huge disinfection",
-      "url": "https://www.dailymail.com/news/article-15861141/Cruise-ship-global-health-crisis-hantavirus-outbreak-huge-disinfection.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -838,6 +853,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Newstatesman",
+      "head": "The viruses that heal us",
+      "url": "https://www.newstatesman.com/culture/radio-podcasts/2026/05/the-viruses-that-heal-us",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Calgarysun",
       "head": "Ebola testing expanded in Congo where  true scale and severity  of outbreak remains unknown",
       "url": "https://calgarysun.com/news/world/congo-ebola-testing-expanding-outbreak-scale-severity-unknow/wcm/8b8870bb-155c-4d6d-8191-f572b244fb70",
@@ -966,36 +996,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "RIA",
-      "head": "Врач - инфекционист рассказала , опасен ли для россиян хантавирус Андес",
-      "url": "https://ria.ru/20260531/khantavirus-2095786050.html",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Alwasat",
-      "head": "بعد تعقيمها من آثار فيروس « هانتا ».. السلطات الصحية الهولندية تسمح للسفينة هونديوس بالإبحار مجددا",
-      "url": "https://alwasat.ly/news/international/519932",
-      "loc": "Libya",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Libya"
       ],
       "live": true
     }
