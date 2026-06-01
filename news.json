@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-01T16:36:29.998646+00:00",
+  "generated_at": "2026-06-01T20:54:23.427861+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 69,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newsweek",
-      "head": "Super El Niño Could Mean More US Hantavirus Cases This Summer",
-      "url": "https://www.newsweek.com/super-el-nino-more-hantavirus-cases-this-summer-us-11994190",
+      "src": "KSHB",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.kshb.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,39 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cairoscene",
-      "head": "Ibn Hattuta Was on the Hantavirus Ship . His Message : Free Palestine . ",
-      "url": "https://cairoscene.com/Society/Ibn-Hattuta-Was-on-the-Hantavirus-Ship-His-Message-Free-Palestine",
-      "loc": "Egypt",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Standardmedia",
-      "head": "Hantavirus sparks pandemic fears despite limited evidence of human transmission",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001549197/hantavirus-sparks-pandemic-fears-despite-limited-evidence-of-human-transmission",
-      "loc": "Kenya",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Kenya"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Brisbanetimes",
-      "head": "Inside the Sydney quarantine centre built to keep Ebola and hantavirus at bay",
-      "url": "https://www.brisbanetimes.com.au/national/nsw/inside-sydney-s-future-proof-quarantine-centre-20260511-p5zvmw.html",
+      "src": "Perthnow",
+      "head": "Cruise ready to sail again after hantavirus outbreak",
+      "url": "https://www.perthnow.com.au/news/coronavirus/cruise-ready-to-sail-again-after-hantavirus-outbreak-c-22368228",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -72,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Havasunews",
-      "head": "Hantavirus quarantine to end for some US cruise passengers",
-      "url": "https://www.havasunews.com/parker_pioneer/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
+      "src": "KBZK",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.kbzk.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,9 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Havasunews",
-      "head": "Hantavirus quarantine to end for some US cruise passengers",
-      "url": "https://www.havasunews.com/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
+      "src": "Fox17Online",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.fox17online.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -102,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mirror",
-      "head": "Four key checks before infamous hantavirus cruise ship MV Hondius was allowed to finally return to sea",
-      "url": "https://www.mirror.co.uk/news/world-news/hantavirus-cruise-checks-mv-hondius-37228033",
-      "loc": "United Kingdom",
+      "src": "Northumberlandnews",
+      "head": "Canada warns of hantavirus travel risk in Chile",
+      "url": "https://www.northumberlandnews.com/news/canadian-hantavirus-travel-advice-for-chile/article_841c954d-7f94-5add-ada4-bf4642ab5b90.html",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "Canada"
       ],
       "live": true
     },
@@ -117,54 +87,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nltimes",
-      "head": "MV Hondius fully disinfected after deadly hantavirus outbreak ; Cleared for voyages",
-      "url": "https://nltimes.nl/2026/05/31/mv-hondius-fully-disinfected-deadly-hantavirus-outbreak-cleared-voyages",
-      "loc": "Netherlands",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Netherlands"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thejakartapost",
-      "head": "Dutch health officials clear hantavirus ship to sail again - Europe",
-      "url": "https://www.thejakartapost.com/world/2026/05/31/dutch-health-officials-clear-hantavirus-ship-to-sail-again.html",
-      "loc": "Indonesia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Indonesia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Manilatimes",
-      "head": "Dutch health officials clear hantavirus ship to sail again",
-      "url": "https://www.manilatimes.net/2026/05/31/world/dutch-health-officials-clear-hantavirus-ship-to-sail-again/2355111",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Article",
-      "head": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
-      "url": "https://article.wn.com/view/2026/05/31/MV_Hondius_cruise_ship_given_allclear_to_sail_after_deadly_h/",
+      "src": "Turnto23",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.turnto23.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -177,39 +102,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manchestereveningnews",
-      "head": "MV Hondius cruise ship given all - clear to sail after deadly hantavirus outbreak",
-      "url": "https://www.manchestereveningnews.co.uk/news/world-news/mv-hondius-cruise-ship-given-34039459",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Express",
-      "head": "MV Hondius hantavirus cruise ship cleared to sail again after deadly outbreak",
-      "url": "https://www.express.co.uk/news/world/2211578/hantavirus-outbreak-cruise-ship-cleared-sail-again-weeks-after-three-deaths",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eldoradonews",
-      "head": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-      "url": "https://www.eldoradonews.com/news/2026/may/30/how-south-african-scientists-identified/",
+      "src": "LEX18",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.lex18.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -222,14 +117,119 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Liverpoolecho",
-      "head": "Hantavirus cruise ship MV Hondius given green light to sail again after disinfection",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/hantavirus-cruise-ship-mv-hondius-34039463",
-      "loc": "United Kingdom",
+      "src": "KXLF",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.kxlf.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cambridgetimes",
+      "head": "Canada warns of hantavirus travel risk in Chile",
+      "url": "https://www.cambridgetimes.ca/news/canadian-hantavirus-travel-advice-for-chile/article_80dd5726-1542-5046-8005-774a18cebf47.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTVH",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.ktvh.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Connectradio",
+      "head": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days – Connect FM | Local News Radio",
+      "url": "https://www.connectradio.fm/abc-national/us-cruise-passenger-quarantining-for-hantavirus-says-he-will-remain-in-nebraska-for-full-42-days/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kztv10",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.kztv10.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kristv",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.kristv.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KJRH",
+      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
+      "url": "https://www.kjrh.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Midutahradio",
+      "head": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days",
+      "url": "https://midutahradio.com/news/national-news/us-cruise-passenger-quarantining-for-hantavirus-says-he-will-remain-in-nebraska-for-full-42-days/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -350,8 +350,8 @@
       "date": "2026-05-26",
       "ts": "2026-05-26T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Wickerhamomyces anomalus Fungemia during Healthcare-Associated Outbreak, Pereira, Colombia, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1980_article",
+      "head": "Outbreak of Wickerhamomyces anomalus (formerly Candida pelliculosa) Bloodstream Infections, Venezuela, 2022–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1978_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -364,8 +364,8 @@
       "date": "2026-05-26",
       "ts": "2026-05-26T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Outbreak of Wickerhamomyces anomalus (formerly Candida pelliculosa) Bloodstream Infections, Venezuela, 2022–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1978_article",
+      "head": "Wickerhamomyces anomalus Fungemia during Healthcare-Associated Outbreak, Pereira, Colombia, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1980_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -448,8 +448,8 @@
       "date": "2026-05-20",
       "ts": "2026-05-20T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Role of Households with Children in Community Spread of Multidrug-Resistant Enterobacterales, St. Louis, Missouri, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1655_article",
+      "head": "Antimicrobial-Resistant Neisseria gonorrhoeae of Public Health Concern, New South Wales, Australia, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1399_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -462,8 +462,8 @@
       "date": "2026-05-20",
       "ts": "2026-05-20T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Antimicrobial-Resistant Neisseria gonorrhoeae of Public Health Concern, New South Wales, Australia, 2022–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1399_article",
+      "head": "Role of Households with Children in Community Spread of Multidrug-Resistant Enterobacterales, St. Louis, Missouri, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1655_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -853,14 +853,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newstatesman",
-      "head": "The viruses that heal us",
-      "url": "https://www.newstatesman.com/culture/radio-podcasts/2026/05/the-viruses-that-heal-us",
-      "loc": "United Kingdom",
+      "src": "RNZ",
+      "head": "Why the world is on virus watch again",
+      "url": "https://www.rnz.co.nz/news/health/596952/why-the-world-is-on-virus-watch-again",
+      "loc": "",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        ""
       ],
       "live": true
     },
@@ -868,9 +868,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Calgarysun",
-      "head": "Ebola testing expanded in Congo where  true scale and severity  of outbreak remains unknown",
-      "url": "https://calgarysun.com/news/world/congo-ebola-testing-expanding-outbreak-scale-severity-unknow/wcm/8b8870bb-155c-4d6d-8191-f572b244fb70",
+      "src": "Beach951",
+      "head": "ABC National News - Beach 95 . 1 - WBPC The Gulf Coast Classic Hits",
+      "url": "https://beach951.com/abc-national-news/7a73c723250535b45fb767c05e392f59",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Standard-Freeholder",
+      "head": "CLIMATE CHAT : What are the odds ? | Cornwall Standard - Freeholder",
+      "url": "https://www.standard-freeholder.com:443/opinion/columnists/climate-chat-what-are-the-odds",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -883,9 +898,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nationalpost",
-      "head": "Congo expands testing for Ebola outbreak with unknown scale , severity",
-      "url": "https://nationalpost.com/news/world/congo-ebola-testing-expanding-outbreak-scale-severity-unknow",
+      "src": "Ujszo",
+      "head": "Ismét kihajózhat a fertőtlenített Hondius óceánjáró",
+      "url": "https://ujszo.com/panorama/ismet-kihajozhat-a-fertotlenitett-hondius-oceanjaro",
+      "loc": "United States",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Communitypress",
+      "head": "CLIMATE CHAT : What are the odds ? | The Community Press",
+      "url": "https://www.communitypress.ca:443/opinion/columnists/climate-chat-what-are-the-odds",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -898,29 +928,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Observador",
-      "head": "Mundial . Há risco de infeo por Ébola para a seleo ? – Observador",
-      "url": "https://observador.pt/programas/resposta-pronta/mundial-ha-risco-de-infecao-por-ebola-para-a-selecao/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jamaicaobserver",
-      "head": "A call to strengthen veterinary public health programmes",
-      "url": "https://www.jamaicaobserver.com/2026/05/31/call-strengthen-veterinary-public-health-programmes/",
-      "loc": "Jamaica",
+      "src": "Wondradio",
+      "head": "ABC National - WOND",
+      "url": "https://wondradio.com/abc-national/228a842574897eea876cafec73e1f18a",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Jamaica"
+        "United States"
       ],
       "live": true
     },
@@ -928,14 +943,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thepeninsulaqatar",
-      "head": "Hajj season free of epidemic outbreaks : Saudi Arabia",
-      "url": "http://thepeninsulaqatar.com/article/31/05/2026/hajj-season-free-of-epidemic-outbreaks-saudi-arabia",
-      "loc": "Qatar",
+      "src": "Hitsfm",
+      "head": "National - HITS FM",
+      "url": "https://hitsfm.net/national/b77981532f08c10bbcc0835da58cf92a",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Qatar"
+        "United States"
       ],
       "live": true
     },
@@ -943,29 +958,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Yeniakit",
-      "head": "Küresel virüs alarmı büyüyor ! Gemideki yolcular için flaş karantina kararı",
-      "url": "https://www.yeniakit.com.tr/haber/kuresel-virus-alarmi-buyuyor-gemideki-yolcular-icin-flas-karantina-karari-2004818.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mirror",
-      "head": "  My daughter was left in a coma after horror gap year scooter crash in India  ",
-      "url": "https://www.mirror.co.uk/news/uk-news/travel-insuracne-scooter-crash-india-37227424",
-      "loc": "United Kingdom",
+      "src": "Napaneeguide",
+      "head": "CLIMATE CHAT : What are the odds ? | The Napanee Guide",
+      "url": "https://www.napaneeguide.com:443/opinion/columnists/climate-chat-what-are-the-odds",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "Canada"
       ],
       "live": true
     },
@@ -973,14 +973,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mirror",
-      "head": "Three children rescued from sea after inflatables drift off Ayr beach",
-      "url": "https://www.mirror.co.uk/news/uk-news/ayr-beach-heatwave-safety-warning-37227381",
-      "loc": "United Kingdom",
+      "src": "Cruiseindustrynews",
+      "head": "Hondius Cleared for Operations After Deep Clean and Disinfection - Cruise Industry News",
+      "url": "https://cruiseindustrynews.com/cruise-news/2026/06/hondius-cleared-for-operations-after-deep-clean-and-disinfection/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     },
@@ -988,14 +988,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mirror",
-      "head": "Amanda Holden  hasnt stopped crying  as she issues Britain Got Talent update",
-      "url": "https://www.mirror.co.uk/tv/amanda-holden-britains-got-talent-37227360",
-      "loc": "United Kingdom",
+      "src": "SE933",
+      "head": "National News - Glenora Radio Network - WWSE | WJTN | WHUG | WKSN | WQFX",
+      "url": "https://se933.com/news-and-closings/national-headlines/f1a483ec6936e325141085ce4ea9e872",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "United Kingdom"
+        "United States"
       ],
       "live": true
     }
