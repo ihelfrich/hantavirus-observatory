@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-05-31T22:59:18.857993+00:00",
+  "generated_at": "2026-06-01T00:13:06.664739+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Havasunews",
+      "head": "Hantavirus quarantine to end for some US cruise passengers",
+      "url": "https://www.havasunews.com/parker_pioneer/news/nation/hantavirus-quarantine-to-end-for-some-us-cruise-passengers/article_993f811d-e299-4041-be88-0bf8a64ab38e.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -823,6 +838,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Calgarysun",
+      "head": "Ebola testing expanded in Congo where  true scale and severity  of outbreak remains unknown",
+      "url": "https://calgarysun.com/news/world/congo-ebola-testing-expanding-outbreak-scale-severity-unknow/wcm/8b8870bb-155c-4d6d-8191-f572b244fb70",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Nationalpost",
       "head": "Congo expands testing for Ebola outbreak with unknown scale , severity",
       "url": "https://nationalpost.com/news/world/congo-ebola-testing-expanding-outbreak-scale-severity-unknow",
@@ -966,36 +996,6 @@
       "tags": [
         "Arabic",
         "Libya"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wyomingnews",
-      "head": "Wyoming News Briefs",
-      "url": "https://www.wyomingnews.com/rawlinstimes/rawlinstimes/wyoming-news-briefs/article_e8a13967-578a-4f65-a214-0af06ab1aeba.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timescall",
-      "head": "Views from the nation press",
-      "url": "https://www.timescall.com/2026/05/30/views-from-the-nations-press-549/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
