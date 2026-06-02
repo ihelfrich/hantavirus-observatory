@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-06-02T11:17:53.728340+00:00",
+  "generated_at": "2026-06-02T15:41:35.137573+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 69,
+  "count": 47,
   "items": [
     {
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSHB",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.kshb.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
+      "src": "SAPO",
+      "head": "O que aconteceu aos restantes passageiros do cruzeiro com hantavírus ? Há novidades",
+      "url": "https://sapo.pt/artigo/o-que-aconteceu-aos-restantes-passageiros-do-cruzeiro-com-hantavirus-ha-novidades-6a1ebaf3bc2bfc709f01bf19",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Allafrica",
+      "head": "Congo - Kinshasa : Ebola , Hantavirus ... How Eroding Global Health Cooperation Could Threaten Worse Crises Ahead",
+      "url": "https://allafrica.com/stories/202606020320.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theepochtimes",
+      "head": "5 Cruise Ship Passengers Leave Nebraska Facility to Complete Hantavirus Quarantine at Home",
+      "url": "https://www.theepochtimes.com/us/5-cruise-ship-passengers-leave-nebraska-facility-to-complete-hantavirus-quarantine-at-home-6041890",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +57,114 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Perthnow",
-      "head": "Cruise ready to sail again after hantavirus outbreak",
-      "url": "https://www.perthnow.com.au/news/coronavirus/cruise-ready-to-sail-again-after-hantavirus-outbreak-c-22368228",
+      "src": "Dnoticias",
+      "head": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
+      "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "Hantavirüs Vakalarının Görüldüğü Kruvaziyer Gemisi Yeniden Seferlere Hazırlanıyor",
+      "url": "https://www.haberler.com/guncel/hantaviruslu-kruvaziyer-gemisi-hondius-yeniden-hizmete-hazir-19901887-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Executivedigest",
+      "head": "Cinco dos 18 passageiros de cruzeiro afetado por hantavírus saem de quarentena nos EUA",
+      "url": "https://executivedigest.sapo.pt/cinco-dos-18-passageiros-de-cruzeiro-afetado-por-hantavirus-saem-de-quarentena-nos-eua/",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yeniakit",
+      "head": "Bilim dünyası bu sorunun yanıtını arıyor : Hantavirüs gemide nasıl yayıldı ? ",
+      "url": "https://www.yeniakit.com.tr/foto-galeri/bilim-dunyasi-bu-sorunun-yanitini-ariyor-hantavirus-gemide-nasil-yayildi-158995",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "Hantavirüs görülen yolcu gemisindeki 18 ABDliden 5  i karantina tesisinden ayrılıyor",
+      "url": "https://www.haberler.com/guncel/hantavirus-gemisindeki-5-abd-li-yolcu-karantinadan-evlerine-donuyor-19901542-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Virginislandsdailynews",
+      "head": "Health Department : Hantavirus risk to USVI remains very low",
+      "url": "https://www.virginislandsdailynews.com/news/health-department-hantavirus-risk-to-usvi-remains-very-low/article_eaf3b274-1e12-4fe4-8cfb-8d9e2da5b638.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Castanetkamloops",
+      "head": "Have recent outbreaks of hantavirus and Ebola made you less likely to travel this summer ? ",
+      "url": "https://www.castanetkamloops.net/news/Poll/617491/Have-recent-outbreaks-of-hantavirus-and-Ebola-made-you-less-likely-to-travel-this-summer",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Travelweekly",
+      "head": "Hantavirus ship cleared as Aussies and Kiwis remains in isolation",
+      "url": "https://travelweekly.com.au/hantavirus-ship-cleared-as-aussies-and-kiwis-remains-in-isolation/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
@@ -39,459 +174,12 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KBZK",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.kbzk.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox17Online",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.fox17online.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Northumberlandnews",
-      "head": "Canada warns of hantavirus travel risk in Chile",
-      "url": "https://www.northumberlandnews.com/news/canadian-hantavirus-travel-advice-for-chile/article_841c954d-7f94-5add-ada4-bf4642ab5b90.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Turnto23",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.turnto23.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "LEX18",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.lex18.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KXLF",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.kxlf.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cambridgetimes",
-      "head": "Canada warns of hantavirus travel risk in Chile",
-      "url": "https://www.cambridgetimes.ca/news/canadian-hantavirus-travel-advice-for-chile/article_80dd5726-1542-5046-8005-774a18cebf47.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTVH",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.ktvh.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Connectradio",
-      "head": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days – Connect FM | Local News Radio",
-      "url": "https://www.connectradio.fm/abc-national/us-cruise-passenger-quarantining-for-hantavirus-says-he-will-remain-in-nebraska-for-full-42-days/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kztv10",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.kztv10.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kristv",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.kristv.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KJRH",
-      "head": "Cruise passengers isolated after hantavirus scare can leave quarantine facility",
-      "url": "https://www.kjrh.com/health/cruise-passengers-isolated-after-hantavirus-outbreak-allowed-to-leave-quarantine-facility",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Midutahradio",
-      "head": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days",
-      "url": "https://midutahradio.com/news/national-news/us-cruise-passenger-quarantining-for-hantavirus-says-he-will-remain-in-nebraska-for-full-42-days/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
       "time": "04:00",
-      "date": "2026-05-29",
-      "ts": "2026-05-29T04:00:00+00:00",
+      "date": "2026-06-02",
+      "ts": "2026-06-02T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Cerebrospinal Fluid Findings among Patients with Anaplasmosis and Central Nervous Involvement, Minnesota and Wisconsin, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0240_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-27",
-      "ts": "2026-05-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Caballeronia Bacteremia in Children with Cancer, United States",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0342_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-27",
-      "ts": "2026-05-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Phenotypic and Genomic Characterization of Antimicrobial-Resistant Neisseria gonorrhoeae of Public Health Concern",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0310_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-27",
-      "ts": "2026-05-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Cutibacterium avidum Bacteria in Post-Mastectomy Breast with Prior Silicone Injections, Singapore",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1717_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-27",
-      "ts": "2026-05-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Increase in blaNDM among Carbapenemase-Producing, Carbapenem-Resistant Enterobacterales, United States, 2016–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1404_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-27",
-      "ts": "2026-05-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Assessing Evidence to Guide Primary Prevention of Pathogen X",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0293_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-27",
-      "ts": "2026-05-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Delft Neighbors—Vermeer and van Leeuwenhoek",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/ac-3206_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-26",
-      "ts": "2026-05-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Outcomes of Hospitalized and Critically Ill Adults with Murine Typhus, Galveston, Texas, USA, 2019–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1015_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-26",
-      "ts": "2026-05-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Outbreak of Wickerhamomyces anomalus (formerly Candida pelliculosa) Bloodstream Infections, Venezuela, 2022–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1978_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-26",
-      "ts": "2026-05-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Wickerhamomyces anomalus Fungemia during Healthcare-Associated Outbreak, Pereira, Colombia, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1980_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-26",
-      "ts": "2026-05-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Identification of Novel Recombinant Human Adenovirus Genotype B117 from Pediatric Cases, China",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-0940_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-26",
-      "ts": "2026-05-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Yellow Fever Virus Surveillance in Callithrix spp. Marmosets during Epizootic Outbreak, Brazil, 2024–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1388_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-26",
-      "ts": "2026-05-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Disseminated Coccidioidomycosis and Coccidioidal Meningitis Hospitalization, Texas, USA, 2016–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1469_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-21",
-      "ts": "2026-05-21T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "In Vitro Antifungal Drug Susceptibility of Feline Sporothrix schenckii Complex Isolates, Thailand, 2023–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0135_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-20",
-      "ts": "2026-05-20T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Limitations of Global Surveillance for Neisseria gonorrhoeae Antimicrobial Resistance",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0378_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-20",
-      "ts": "2026-05-20T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Antimicrobial-Resistant Neisseria gonorrhoeae of Public Health Concern, New South Wales, Australia, 2022–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1399_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-20",
-      "ts": "2026-05-20T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Role of Households with Children in Community Spread of Multidrug-Resistant Enterobacterales, St. Louis, Missouri, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1655_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-20",
-      "ts": "2026-05-20T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Repeated Extraneous Introductions of Cholera, Thailand, 2007–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1747_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-19",
-      "ts": "2026-05-19T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Neisseria gonorrhoeae Sequence Type 16676 in Disseminated Infections, Minnesota, USA, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0126_article",
+      "head": "Outbreak of Legionnaires’ Disease Linked to Newly Installed Residential Water Heaters, the Netherlands, 2022–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0171_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -515,67 +203,11 @@
     },
     {
       "time": "04:00",
-      "date": "2026-05-18",
-      "ts": "2026-05-18T04:00:00+00:00",
+      "date": "2026-05-12",
+      "ts": "2026-05-12T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Public Health Response to Toxigenic Respiratory Diphtheria Outbreaks at Correctional Facility, South Africa, 2023–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1957_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-18",
-      "ts": "2026-05-18T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Association of Frailty and Frailty Trajectory with Risk for Respiratory Infectious Diseases",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/25-1235_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-18",
-      "ts": "2026-05-18T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Dangerous Miracle: The Astonishing Rise and Looming Disaster of Antibiotics",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0224_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-18",
-      "ts": "2026-05-18T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Myriad, Microscopic and Marvelous: The World of Antoni van Leeuwenhoek",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/26-0353_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-18",
-      "ts": "2026-05-18T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Correction: Vol. 32, No. 5",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/6/c1-3206_article",
+      "head": "Adeno-Associated Virus Type 2 and Human Adenovirus Species F Type 41 Co-infection Associated with Acute Severe Hepatitis in Children, California, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0284_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -853,84 +485,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "RNZ",
-      "head": "Why the world is on virus watch again",
-      "url": "https://www.rnz.co.nz/news/health/596952/why-the-world-is-on-virus-watch-again",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Beach951",
-      "head": "ABC National News - Beach 95 . 1 - WBPC The Gulf Coast Classic Hits",
-      "url": "https://beach951.com/abc-national-news/7a73c723250535b45fb767c05e392f59",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Standard-Freeholder",
-      "head": "CLIMATE CHAT : What are the odds ? | Cornwall Standard - Freeholder",
-      "url": "https://www.standard-freeholder.com:443/opinion/columnists/climate-chat-what-are-the-odds",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ujszo",
-      "head": "Ismét kihajózhat a fertőtlenített Hondius óceánjáró",
-      "url": "https://ujszo.com/panorama/ismet-kihajozhat-a-fertotlenitett-hondius-oceanjaro",
-      "loc": "United States",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Communitypress",
-      "head": "CLIMATE CHAT : What are the odds ? | The Community Press",
-      "url": "https://www.communitypress.ca:443/opinion/columnists/climate-chat-what-are-the-odds",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wondradio",
-      "head": "ABC National - WOND",
-      "url": "https://wondradio.com/abc-national/228a842574897eea876cafec73e1f18a",
+      "src": "WHEC",
+      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
+      "url": "https://www.whec.com/ap-top-news/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -943,9 +500,99 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Hitsfm",
-      "head": "National - HITS FM",
-      "url": "https://hitsfm.net/national/b77981532f08c10bbcc0835da58cf92a",
+      "src": "Oireachtas",
+      "head": "European Update | The Oireachtas National Parliament Office for the European Union",
+      "url": "https://www.oireachtas.ie/en/press-centre/news-and-features/20260602-european-update-the-oireachtas-national-parliament-office-for-the-european-union/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chinatimes",
+      "head": "嚴防伊波拉入侵 ！ 4國人自非洲返台列管 1人曾發燒採檢 - 生活",
+      "url": "https://www.chinatimes.com/realtimenews/20260602003244-260405",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "漢他郵輪紐籍客已38天沒症狀 羅一鈞 ： 6 / 7出關 | 生活",
+      "url": "https://www.cna.com.tw:443/news/ahel/202606020230.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Publico",
+      "head": "Estamos preparados para futuras epidemias ? Não . Mas devíamos",
+      "url": "https://www.publico.pt/2026/06/02/ciencia/noticia/preparados-futuras-epidemias-nao-deviamos-2176207",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "基隆廟口今休市清溝消毒 遊客撲空 - 生活 - 自由時報電子報",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5457906",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Health",
+      "head": "伊波拉4人疫區返台 「 1人發燒檢驗陰性 」 漢他郵輪紐籍客6 / 7出關 | ETtoday健康雲",
+      "url": "https://health.ettoday.net/news/3176329",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Miragenews",
+      "head": "Pandemic In Fast Forward",
+      "url": "https://www.miragenews.com/pandemic-in-fast-forward-1684668/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -958,14 +605,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Napaneeguide",
-      "head": "CLIMATE CHAT : What are the odds ? | The Napanee Guide",
-      "url": "https://www.napaneeguide.com:443/opinion/columnists/climate-chat-what-are-the-odds",
-      "loc": "Canada",
+      "src": "Manilatimes",
+      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
+      "url": "https://www.manilatimes.net/2026/06/02/world/americas-emea/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility/2356405",
+      "loc": "Philippines",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "Philippines"
       ],
       "live": true
     },
@@ -973,9 +620,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cruiseindustrynews",
-      "head": "Hondius Cleared for Operations After Deep Clean and Disinfection - Cruise Industry News",
-      "url": "https://cruiseindustrynews.com/cruise-news/2026/06/hondius-cleared-for-operations-after-deep-clean-and-disinfection/",
+      "src": "WLTX",
+      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
+      "url": "https://www.wltx.com/article/news/nation-world/hantavirus-cruise-ship-passengers-leave-quarantine/507-89b992e2-6bae-4f4f-b8f3-3146c90d40d3",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -988,9 +635,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SE933",
-      "head": "National News - Glenora Radio Network - WWSE | WJTN | WHUG | WKSN | WQFX",
-      "url": "https://se933.com/news-and-closings/national-headlines/f1a483ec6936e325141085ce4ea9e872",
+      "src": "FOX61",
+      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
+      "url": "https://www.fox61.com/article/news/nation-world/hantavirus-cruise-ship-passengers-leave-quarantine/507-89b992e2-6bae-4f4f-b8f3-3146c90d40d3",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theyeshivaworld",
+      "head": "5 American Cruise Ship Passengers Leave Nebraska Quarantine Facility",
+      "url": "https://www.theyeshivaworld.com/news/general/2556657/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SBS",
+      "head": "SBS News in Easy English 02 June 2026",
+      "url": "https://www.sbs.com.au/news/podcast-episode/sbs-news-in-easy-english-02-june-2026/6f1frvbke",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kiiitv",
+      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
+      "url": "https://www.kiiitv.com/article/news/nation-world/hantavirus-cruise-ship-passengers-leave-quarantine/507-89b992e2-6bae-4f4f-b8f3-3146c90d40d3",
       "loc": "United States",
       "lang": "English",
       "tags": [
