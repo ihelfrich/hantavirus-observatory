@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-02T22:22:26.684208+00:00",
+  "generated_at": "2026-06-03T00:10:45.297985+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
@@ -12,39 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SAPO",
-      "head": "O que aconteceu aos restantes passageiros do cruzeiro com hantavírus ? Há novidades",
-      "url": "https://sapo.pt/artigo/o-que-aconteceu-aos-restantes-passageiros-do-cruzeiro-com-hantavirus-ha-novidades-6a1ebaf3bc2bfc709f01bf19",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Allafrica",
-      "head": "Congo - Kinshasa : Ebola , Hantavirus ... How Eroding Global Health Cooperation Could Threaten Worse Crises Ahead",
-      "url": "https://allafrica.com/stories/202606020320.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theepochtimes",
-      "head": "5 Cruise Ship Passengers Leave Nebraska Facility to Complete Hantavirus Quarantine at Home",
-      "url": "https://www.theepochtimes.com/us/5-cruise-ship-passengers-leave-nebraska-facility-to-complete-hantavirus-quarantine-at-home-6041890",
+      "src": "Nypost",
+      "head": "Arizona hantavirus case known as  Sin Nombre  kills 1",
+      "url": "https://nypost.com/2026/06/02/us-news/arizona-hantavirus-case-known-as-sin-nombre-kills-1/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,84 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dnoticias",
-      "head": "Cinco dos 18 passageiros de cruzeiro onde foi relatado um surto de hantavírus saem de quarentena nos EUA",
-      "url": "https://www.dnoticias.pt/2026/6/2/494047-cinco-dos-18-passageiros-de-cruzeiro-onde-foi-relatado-um-surto-de-hantavirus-saem-de-quarentena-nos-eua/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "Hantavirüs Vakalarının Görüldüğü Kruvaziyer Gemisi Yeniden Seferlere Hazırlanıyor",
-      "url": "https://www.haberler.com/guncel/hantaviruslu-kruvaziyer-gemisi-hondius-yeniden-hizmete-hazir-19901887-haberi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Executivedigest",
-      "head": "Cinco dos 18 passageiros de cruzeiro afetado por hantavírus saem de quarentena nos EUA",
-      "url": "https://executivedigest.sapo.pt/cinco-dos-18-passageiros-de-cruzeiro-afetado-por-hantavirus-saem-de-quarentena-nos-eua/",
-      "loc": "",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yeniakit",
-      "head": "Bilim dünyası bu sorunun yanıtını arıyor : Hantavirüs gemide nasıl yayıldı ? ",
-      "url": "https://www.yeniakit.com.tr/foto-galeri/bilim-dunyasi-bu-sorunun-yanitini-ariyor-hantavirus-gemide-nasil-yayildi-158995",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "Hantavirüs görülen yolcu gemisindeki 18 ABDliden 5  i karantina tesisinden ayrılıyor",
-      "url": "https://www.haberler.com/guncel/hantavirus-gemisindeki-5-abd-li-yolcu-karantinadan-evlerine-donuyor-19901542-haberi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Virginislandsdailynews",
-      "head": "Health Department : Hantavirus risk to USVI remains very low",
-      "url": "https://www.virginislandsdailynews.com/news/health-department-hantavirus-risk-to-usvi-remains-very-low/article_eaf3b274-1e12-4fe4-8cfb-8d9e2da5b638.html",
+      "src": "KATU",
+      "head": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
+      "url": "https://katu.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -147,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Castanetkamloops",
-      "head": "Have recent outbreaks of hantavirus and Ebola made you less likely to travel this summer ? ",
-      "url": "https://www.castanetkamloops.net/news/Poll/617491/Have-recent-outbreaks-of-hantavirus-and-Ebola-made-you-less-likely-to-travel-this-summer",
-      "loc": "",
+      "src": "1190Kex",
+      "head": "Oregonian Exposed To Andes Virus Returns | News Radio 1190 KEX",
+      "url": "https://1190kex.iheart.com/content/2026-06-02-oregonian-exposed-to-andes-virus-returns/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "United States"
       ],
       "live": true
     },
@@ -162,14 +57,239 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Travelweekly",
-      "head": "Hantavirus ship cleared as Aussies and Kiwis remains in isolation",
-      "url": "https://travelweekly.com.au/hantavirus-ship-cleared-as-aussies-and-kiwis-remains-in-isolation/",
-      "loc": "Australia",
+      "src": "KRTV",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.krtv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Australia"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KPIC",
+      "head": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
+      "url": "https://kpic.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WPTV",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.wptv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTVQ",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.ktvq.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KBZK",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.kbzk.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Infectioncontroltoday",
+      "head": "Hantavirus : A Podcast With an Infectious Disease Doctor | Infection Control Today",
+      "url": "https://www.infectioncontroltoday.com/view/hantavirus-podcast-infectious-disease-doctor",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTKR",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.wtkr.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WCPO",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.wcpo.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KXLF",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.kxlf.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailymail",
+      "head": "Quarantined hantavirus patients transferred from isolation center to homes across US",
+      "url": "https://www.dailymail.com/health/article-15867561/hantavirus-quarantine-patients-transfer-new-york.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KCBY",
+      "head": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
+      "url": "https://kcby.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kristv",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.kristv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTVH",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.ktvh.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KXXV",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.kxxv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kztv10",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.kztv10.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "10News",
+      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
+      "url": "https://www.10news.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -485,74 +605,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WHEC",
-      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "url": "https://www.whec.com/ap-top-news/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility/",
+      "src": "Matsu-News",
+      "head": "健康話題 ／ 預防漢他病毒威脅 ！ 三不原則抵抗鼠患",
+      "url": "https://www.matsu-news.gov.tw/news/article/241603",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AFR",
+      "head": "Google releasing mosquitos , Iran Latest , Charlie Kirk Trial Update",
+      "url": "https://afr.net/podcasts/jenna-ellis-in-the-morning/2026/june/google-releasing-mosquitos-iran-latest-charlie-kirk-trial-update/",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Oireachtas",
-      "head": "European Update | The Oireachtas National Parliament Office for the European Union",
-      "url": "https://www.oireachtas.ie/en/press-centre/news-and-features/20260602-european-update-the-oireachtas-national-parliament-office-for-the-european-union/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "嚴防伊波拉入侵 ！ 4國人自非洲返台列管 1人曾發燒採檢 - 生活",
-      "url": "https://www.chinatimes.com/realtimenews/20260602003244-260405",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CNA",
-      "head": "漢他郵輪紐籍客已38天沒症狀 羅一鈞 ： 6 / 7出關 | 生活",
-      "url": "https://www.cna.com.tw:443/news/ahel/202606020230.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Publico",
-      "head": "Estamos preparados para futuras epidemias ? Não . Mas devíamos",
-      "url": "https://www.publico.pt/2026/06/02/ciencia/noticia/preparados-futuras-epidemias-nao-deviamos-2176207",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
       ],
       "live": true
     },
@@ -561,38 +636,8 @@
       "date": "",
       "ts": "",
       "src": "NEWS",
-      "head": "基隆廟口今休市清溝消毒 遊客撲空 - 生活 - 自由時報電子報",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5457906",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Health",
-      "head": "伊波拉4人疫區返台 「 1人發燒檢驗陰性 」 漢他郵輪紐籍客6 / 7出關 | ETtoday健康雲",
-      "url": "https://health.ettoday.net/news/3176329",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Miragenews",
-      "head": "Pandemic In Fast Forward",
-      "url": "https://www.miragenews.com/pandemic-in-fast-forward-1684668/",
+      "head": "On Wednesday show : A House Call from Dr . Joe",
+      "url": "https://news.wjct.org/show/first-coast-connect/2026-06-02/on-wednesdays-show-a-house-call-from-dr-joe",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -605,24 +650,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manilatimes",
-      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "url": "https://www.manilatimes.net/2026/06/02/world/americas-emea/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility/2356405",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLTX",
-      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "url": "https://www.wltx.com/article/news/nation-world/hantavirus-cruise-ship-passengers-leave-quarantine/507-89b992e2-6bae-4f4f-b8f3-3146c90d40d3",
+      "src": "ABC15",
+      "head": "Norovirus remains at high levels across much of the US",
+      "url": "https://www.abc15.com/health/norovirus-is-spreading-across-most-of-the-us-heres-what-to-know",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -635,9 +665,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "FOX61",
-      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "url": "https://www.fox61.com/article/news/nation-world/hantavirus-cruise-ship-passengers-leave-quarantine/507-89b992e2-6bae-4f4f-b8f3-3146c90d40d3",
+      "src": "News-Medical",
+      "head": "Cross - reactive T cells target measles and dangerous Nipah viruses",
+      "url": "https://www.news-medical.net/news/20260602/Cross-reactive-T-cells-target-measles-and-dangerous-Nipah-viruses.aspx",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -650,39 +680,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theyeshivaworld",
-      "head": "5 American Cruise Ship Passengers Leave Nebraska Quarantine Facility",
-      "url": "https://www.theyeshivaworld.com/news/general/2556657/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SBS",
-      "head": "SBS News in Easy English 02 June 2026",
-      "url": "https://www.sbs.com.au/news/podcast-episode/sbs-news-in-easy-english-02-june-2026/6f1frvbke",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kiiitv",
+      "src": "WHEC",
       "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "url": "https://www.kiiitv.com/article/news/nation-world/hantavirus-cruise-ship-passengers-leave-quarantine/507-89b992e2-6bae-4f4f-b8f3-3146c90d40d3",
+      "url": "https://www.whec.com/ap-top-news/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility/",
       "loc": "United States",
       "lang": "English",
       "tags": [
