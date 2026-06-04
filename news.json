@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-06-04T18:33:56.414228+00:00",
+  "generated_at": "2026-06-04T20:55:38.275389+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 47,
+  "count": 48,
   "items": [
     {
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nypost",
-      "head": "Arizona hantavirus case known as  Sin Nombre  kills 1",
-      "url": "https://nypost.com/2026/06/02/us-news/arizona-hantavirus-case-known-as-sin-nombre-kills-1/",
+      "src": "TVI",
+      "head": "O primeiro caso positivo de hantavírus em Espanha já teve alta",
+      "url": "https://tvi.iol.pt/noticias/hantavirus/espanha/o-primeiro-caso-positivo-de-hantavirus-em-espanha-ja-teve-alta/20260604/6a21ad40d34e28842c84d4dc",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Asiaone",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.asiaone.com/world/tools-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-continue",
+      "loc": "Singapore",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Singapore"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Click2Houston",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.click2houston.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,9 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KATU",
-      "head": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
-      "url": "https://katu.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
+      "src": "Abcnews",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://abcnews.com/Technology/wireStory/tools-fight-hantavirus-show-promise-despite-limited-funding-133568971",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "1190Kex",
-      "head": "Oregonian Exposed To Andes Virus Returns | News Radio 1190 KEX",
-      "url": "https://1190kex.iheart.com/content/2026-06-02-oregonian-exposed-to-andes-virus-returns/",
+      "src": "Wsbradio",
+      "head": "Deadly cruise ship outbreak renews the push for hantavirus treatments and vaccines",
+      "url": "https://www.wsbradio.com/news/health/tools-fight/7WUU7JKEHUY2JJOGCNASIXZ6ZI/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +87,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KRTV",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.krtv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "KSAT",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.ksat.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +102,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KPIC",
-      "head": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
-      "url": "https://kpic.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
+      "src": "EN",
+      "head": "Fact Check : Did a 2022 Tweet Predict the 2026 Hantavirus ? ",
+      "url": "https://en.tempo.co/read/2106759/fact-check-did-a-2022-tweet-predict-the-2026-hantavirus",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sitkasentinel",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "http://www.sitkasentinel.com/stories/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue,146238",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,9 +132,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WPTV",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.wptv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Advocate-News",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.advocate-news.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -102,9 +147,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KTVQ",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.ktvq.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Dailylocal",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.dailylocal.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,9 +162,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KBZK",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.kbzk.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Timescall",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.timescall.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -132,9 +177,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Infectioncontroltoday",
-      "head": "Hantavirus : A Podcast With an Infectious Disease Doctor | Infection Control Today",
-      "url": "https://www.infectioncontroltoday.com/view/hantavirus-podcast-infectious-disease-doctor",
+      "src": "ISP",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://isp.netscape.com:443/news/story/0001/20260604/363981f63100e1d2229f8b19686a377b",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -147,9 +192,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTKR",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.wtkr.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Journal-Advocate",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.journal-advocate.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -162,9 +207,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WCPO",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.wcpo.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Greeleytribune",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.greeleytribune.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -177,9 +222,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KXLF",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.kxlf.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Sun-Sentinel",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.sun-sentinel.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,9 +237,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailymail",
-      "head": "Quarantined hantavirus patients transferred from isolation center to homes across US",
-      "url": "https://www.dailymail.com/health/article-15867561/hantavirus-quarantine-patients-transfer-new-york.html",
+      "src": "Capitalgazette",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.capitalgazette.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -207,9 +252,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KCBY",
-      "head": "Oregon Health Authority monitors returning MV Hondius passenger after hantavirus outbreak",
-      "url": "https://kcby.com/news/local/oregon-health-authority-monitors-returning-mv-hondius-passenger-after-hantavirus-outbreak-bend-oregon-nebraska-oha-doctor",
+      "src": "Timesherald",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.timesherald.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -222,9 +267,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Kristv",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.kristv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
+      "src": "Mainlinemedianews",
+      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
+      "url": "https://www.mainlinemedianews.com/2026/06/03/hantavirus-research/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -234,62 +279,16 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTVH",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.ktvh.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
-      "loc": "United States",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-06-04",
+      "ts": "2026-06-04T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "National Surveillance of Enterovirus D68 Upsurge, France, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0044_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KXXV",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.kxxv.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kztv10",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.kztv10.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "10News",
-      "head": "5 Americans released from quarantine after cruise ship hantavirus exposure",
-      "url": "https://www.10news.com/health/5-americans-released-from-quarantine-after-cruise-ship-hantavirus-exposure",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "CDC EID"
       ],
       "live": true
     },
@@ -605,24 +604,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Matsu-News",
-      "head": "健康話題 ／ 預防漢他病毒威脅 ！ 三不原則抵抗鼠患",
-      "url": "https://www.matsu-news.gov.tw/news/article/241603",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AFR",
-      "head": "Google releasing mosquitos , Iran Latest , Charlie Kirk Trial Update",
-      "url": "https://afr.net/podcasts/jenna-ellis-in-the-morning/2026/june/google-releasing-mosquitos-iran-latest-charlie-kirk-trial-update/",
+      "src": "Truthout",
+      "head": "As Ebola Virus Spreads , We See the Terrifying Effects of Trump Dismantling USAID",
+      "url": "https://truthout.org/articles/as-ebola-virus-spreads-we-see-the-terrifying-effects-of-trump-dismantling-usaid/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -635,9 +619,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "NEWS",
-      "head": "On Wednesday show : A House Call from Dr . Joe",
-      "url": "https://news.wjct.org/show/first-coast-connect/2026-06-02/on-wednesdays-show-a-house-call-from-dr-joe",
+      "src": "Finanznachrichten",
+      "head": "Roche rapidly develops a PCR test for Ebola within six days as rare Bundibugyo virus drives urgent need for detection",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68684437-roche-rapidly-develops-a-pcr-test-for-ebola-within-six-days-as-rare-bundibugyo-virus-drives-urgent-need-for-detection-008.htm",
+      "loc": "Germany",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Germany"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Prnewswire",
+      "head": "Roche rapidly develops a PCR test for Ebola within six days as rare Bundibugyo virus drives urgent need for detection",
+      "url": "http://www.prnewswire.com/news-releases/roche-rapidly-develops-a-pcr-test-for-ebola-within-six-days-as-rare-bundibugyo-virus-drives-urgent-need-for-detection-302791786.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -650,9 +649,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "ABC15",
-      "head": "Norovirus remains at high levels across much of the US",
-      "url": "https://www.abc15.com/health/norovirus-is-spreading-across-most-of-the-us-heres-what-to-know",
+      "src": "Dailykos",
+      "head": "Infectious Information 6 / 4 / 2026",
+      "url": "https://www.dailykos.com/stories/2026/6/4/800050006/community/infectious-information-6-4-2026/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -665,14 +664,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "News-Medical",
-      "head": "Cross - reactive T cells target measles and dangerous Nipah viruses",
-      "url": "https://www.news-medical.net/news/20260602/Cross-reactive-T-cells-target-measles-and-dangerous-Nipah-viruses.aspx",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Mediapool",
+      "head": "ЕС си осигури спешни доставки на експериментален медикамент за потенциално лечение на хантавирус",
+      "url": "https://www.mediapool.bg/es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-potentsialno-lechenie-na-hantavirus-news384060.html",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "English",
-        "United States"
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     },
@@ -680,14 +679,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WHEC",
-      "head": "5 American cruise ship passengers leave Nebraska quarantine facility",
-      "url": "https://www.whec.com/ap-top-news/5-american-cruise-ship-passengers-leave-nebraska-quarantine-facility/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Fakti",
+      "head": "ЕС си осигури спешни доставки на експериментален медикамент за лечение на хантавирус ᐉ Новини от Fakti . bg - Свят",
+      "url": "https://fakti.bg/world/1058807-es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-lechenie-na-hantavirus",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
       "tags": [
-        "English",
-        "United States"
+        "Bulgarian",
+        "Bulgaria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Actualno",
+      "head": "Спешни дози на експериментално лекарство срещу хантавирус са изпратени в Европа",
+      "url": "https://www.actualno.com/europe/speshni-dozi-na-eksperimentalno-lekarstvo-sreshtu-hantavirus-sa-izprateni-v-evropa-news_2602625.html",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
+      "tags": [
+        "Bulgarian",
+        "Bulgaria"
       ],
       "live": true
     }
