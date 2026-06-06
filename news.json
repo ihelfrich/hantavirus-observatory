@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T19:53:25.078165+00:00",
+  "generated_at": "2026-06-06T21:03:53.528589+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 49,
@@ -12,9 +12,69 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "TVI",
-      "head": "O primeiro caso positivo de hantavírus em Espanha já teve alta",
-      "url": "https://tvi.iol.pt/noticias/hantavirus/espanha/o-primeiro-caso-positivo-de-hantavirus-em-espanha-ja-teve-alta/20260604/6a21ad40d34e28842c84d4dc",
+      "src": "Independent",
+      "head": "Scientists testing rodents for hantavirus in Argentina famous wine region of Mendoza after cruise ship outbreak",
+      "url": "https://www.independent.co.uk/news/world/americas/hantavirus-origin-cruise-ship-rats-b2990941.html",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thepeninsulaqatar",
+      "head": "Argentina to expand hantavirus search to a second province",
+      "url": "http://thepeninsulaqatar.com/article/06/06/2026/argentina-to-expand-hantavirus-search-to-a-second-province",
+      "loc": "Qatar",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Qatar"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WDIO",
+      "head": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+      "url": "https://www.wdio.com/ap-top-news/ap-top-news-health/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "Hantavirus cases remain at 13 , no new deaths reported in over month : WHO chief",
+      "url": "https://aa.com.tr/en/health/hantavirus-cases-remain-at-13-no-new-deaths-reported-in-over-month-who-chief/3958632",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "Hantavírus : Argentina alarga análise de roedores a mais uma província",
+      "url": "https://sapo.pt/artigo/hantavirus-argentina-alarga-analise-de-roedores-a-mais-uma-provincia-6a240813434934ab04b89455",
       "loc": "Portugal",
       "lang": "Portuguese",
       "tags": [
@@ -27,9 +87,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Asiaone",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.asiaone.com/world/tools-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-continue",
+      "src": "Rionegro",
+      "head": "Del laboratorio en Nueva York al Instituto Leloir en Argentina para ganarle la batalla al hantavirus",
+      "url": "https://www.rionegro.com.ar/sociedad/del-laboratorio-en-nueva-york-al-instituto-leloir-en-argentina-para-ganarle-la-batalla-al-hantavirus/",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Straitstimes",
+      "head": "Argentina to expand hantavirus search to a second province",
+      "url": "https://www.straitstimes.com/world/argentina-to-expand-hantavirus-search-to-a-second-province",
       "loc": "Singapore",
       "lang": "English",
       "tags": [
@@ -42,9 +117,114 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Click2Houston",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.click2houston.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
+      "src": "EN",
+      "head": "Hantavirus : Argentina Expands Probe to Trace Outbreak Source",
+      "url": "https://en.tempo.co/read/2107133/hantavirus-argentina-expands-probe-to-trace-outbreak-source",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Siasat",
+      "head": "Hantavirus : Argentina expands probe , sends tests rats in Mendoza",
+      "url": "https://www.siasat.com/hantavirus-argentina-expands-probe-sends-tests-rats-in-mendoza-3483721/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Singletonargus",
+      "head": "Argentina traps , tests rats as hantavirus probe expands",
+      "url": "https://www.singletonargus.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newuniversity",
+      "head": "Hantavirus and the value of public trust | New University",
+      "url": "https://newuniversity.org/2026/06/05/hantavirus-and-the-value-of-public-trust/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Goulburnpost",
+      "head": "Argentina traps , tests rats as hantavirus probe expands",
+      "url": "https://www.goulburnpost.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsday",
+      "head": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+      "url": "https://www.newsday.com/news/nation/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-d60695",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Barbadostoday",
+      "head": "Scientist warns of possible climate link to hantavirus outbreaks",
+      "url": "https://barbadostoday.bb/2026/06/05/scientist-warns-of-possible-climate-link-to-hantavirus-outbreaks/",
+      "loc": "Barbados",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Barbados"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesargus",
+      "head": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+      "url": "https://www.timesargus.com/news/world/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza/article_b9e01476-f34a-5006-9785-83b97dc00f52.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -58,8 +238,8 @@
       "date": "",
       "ts": "",
       "src": "Abcnews",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://abcnews.com/Technology/wireStory/tools-fight-hantavirus-show-promise-despite-limited-funding-133568971",
+      "head": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+      "url": "https://abcnews.com/Health/wireStory/argentina-expands-hantavirus-probe-sending-teams-trap-test-133634821",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +252,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wsbradio",
-      "head": "Deadly cruise ship outbreak renews the push for hantavirus treatments and vaccines",
-      "url": "https://www.wsbradio.com/news/health/tools-fight/7WUU7JKEHUY2JJOGCNASIXZ6ZI/",
+      "src": "Clickondetroit",
+      "head": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
+      "url": "https://www.clickondetroit.com/health/2026/06/05/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,194 +267,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSAT",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.ksat.com/health/2026/06/03/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue/",
-      "loc": "United States",
+      "src": "Centralwesterndaily",
+      "head": "Argentina traps , tests rats as hantavirus probe expands",
+      "url": "https://www.centralwesterndaily.com.au/story/9287188/argentina-traps-tests-rats-as-hantavirus-probe-expands/",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "EN",
-      "head": "Fact Check : Did a 2022 Tweet Predict the 2026 Hantavirus ? ",
-      "url": "https://en.tempo.co/read/2106759/fact-check-did-a-2022-tweet-predict-the-2026-hantavirus",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sitkasentinel",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "http://www.sitkasentinel.com/stories/tools-to-fight-hantavirus-show-promise-despite-limited-funding-now-researchers-hope-to-continue,146238",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Advocate-News",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.advocate-news.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailylocal",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.dailylocal.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timescall",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.timescall.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ISP",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://isp.netscape.com:443/news/story/0001/20260604/363981f63100e1d2229f8b19686a377b",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Journal-Advocate",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.journal-advocate.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Greeleytribune",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.greeleytribune.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sun-Sentinel",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.sun-sentinel.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Capitalgazette",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.capitalgazette.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timesherald",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.timesherald.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mainlinemedianews",
-      "head": "Tools to fight hantavirus show promise despite limited funding . Now researchers hope to continue",
-      "url": "https://www.mainlinemedianews.com/2026/06/03/hantavirus-research/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -618,9 +618,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Truthout",
-      "head": "As Ebola Virus Spreads , We See the Terrifying Effects of Trump Dismantling USAID",
-      "url": "https://truthout.org/articles/as-ebola-virus-spreads-we-see-the-terrifying-effects-of-trump-dismantling-usaid/",
+      "src": "Niagarafallsreview",
+      "head": "Trump funding cuts will make the next pandemic deadlier",
+      "url": "https://www.niagarafallsreview.ca/opinion/columnists/trumps-war-on-science-ensures-the-next-pandemic-will-happen-sooner--and-be-deadlier/article_874ae5ab-2f86-5811-998f-28cd424f4294.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Scientificamerican",
+      "head": "How prediction markets could forecast the future of science",
+      "url": "https://www.scientificamerican.com/article/how-prediction-markets-could-forecast-the-future-of-science/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -633,14 +648,44 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Finanznachrichten",
-      "head": "Roche rapidly develops a PCR test for Ebola within six days as rare Bundibugyo virus drives urgent need for detection",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68684437-roche-rapidly-develops-a-pcr-test-for-ebola-within-six-days-as-rare-bundibugyo-virus-drives-urgent-need-for-detection-008.htm",
-      "loc": "Germany",
+      "src": "Chinatimes",
+      "head": "教宗良十四世宣布訪問西班牙 呼籲全球 「 尊重每一個人 」 - 政治圈",
+      "url": "https://www.chinatimes.com/realtimenews/20260606002667-260408",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "N",
+      "head": "嘉市加強環境清潔與鼠害防治 共同築起漢他病毒防護網",
+      "url": "https://n.yam.com/Article/20260606805069",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBC",
+      "head": "Legionnaire disease was discovered 50 years ago . Here what experts say weve learned since then",
+      "url": "https://www.cbc.ca/radio/legionnaires-disease-health-9.7217124",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "Germany"
+        "Canada"
       ],
       "live": true
     },
@@ -648,14 +693,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Prnewswire",
-      "head": "Roche rapidly develops a PCR test for Ebola within six days as rare Bundibugyo virus drives urgent need for detection",
-      "url": "http://www.prnewswire.com/news-releases/roche-rapidly-develops-a-pcr-test-for-ebola-within-six-days-as-rare-bundibugyo-virus-drives-urgent-need-for-detection-302791786.html",
-      "loc": "United States",
+      "src": "Torontosun",
+      "head": "McCAUGHEY : Young American voters falling for socialist myths",
+      "url": "https://torontosun.com/opinion/columnists/mccaughey-young-american-voters-falling-for-socialist-myths",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -663,59 +708,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailykos",
-      "head": "Infectious Information 6 / 4 / 2026",
-      "url": "https://www.dailykos.com/stories/2026/6/4/800050006/community/infectious-information-6-4-2026/",
-      "loc": "United States",
-      "lang": "English",
+      "src": "Bianet",
+      "head": "Kruvaziyer gemilerinin sırrı mı kaldı ? ",
+      "url": "https://bianet.org/yazi/kruvaziyer-gemilerinin-sirri-mi-kaldi-320246",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mediapool",
-      "head": "ЕС си осигури спешни доставки на експериментален медикамент за потенциално лечение на хантавирус",
-      "url": "https://www.mediapool.bg/es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-potentsialno-lechenie-na-hantavirus-news384060.html",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fakti",
-      "head": "ЕС си осигури спешни доставки на експериментален медикамент за лечение на хантавирус ᐉ Новини от Fakti . bg - Свят",
-      "url": "https://fakti.bg/world/1058807-es-si-osiguri-speshni-dostavki-na-eksperimentalen-medikament-za-lechenie-na-hantavirus",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Actualno",
-      "head": "Спешни дози на експериментално лекарство срещу хантавирус са изпратени в Европа",
-      "url": "https://www.actualno.com/europe/speshni-dozi-na-eksperimentalno-lekarstvo-sreshtu-hantavirus-sa-izprateni-v-evropa-news_2602625.html",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     }
