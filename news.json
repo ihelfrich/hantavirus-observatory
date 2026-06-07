@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-06-07T08:35:01.472943+00:00",
+  "generated_at": "2026-06-07T11:08:35.845234+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 49,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "Two Singapore residents who were on hantavirus - hit cruise ship complete quarantine",
+      "url": "https://www.channelnewsasia.com/singapore/hantavirus-quarantine-mv-hondius-test-negative-cda-6167161",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox7Austin",
+      "head": "Texas cruise passengers complete hantavirus monitoring with no infections , state says",
+      "url": "https://www.fox7austin.com/news/texas-passengers-complete-hantavirus-monitoring-no-infections-state-says",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -260,36 +290,6 @@
       "tags": [
         "English",
         "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Hantavírus : Argentina alarga análise de roedores a mais uma província",
-      "url": "https://sapo.pt/artigo/hantavirus-argentina-alarga-analise-de-roedores-a-mais-uma-provincia-6a240813434934ab04b89455",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rionegro",
-      "head": "Del laboratorio en Nueva York al Instituto Leloir en Argentina para ganarle la batalla al hantavirus",
-      "url": "https://www.rionegro.com.ar/sociedad/del-laboratorio-en-nueva-york-al-instituto-leloir-en-argentina-para-ganarle-la-batalla-al-hantavirus/",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
       ],
       "live": true
     },
@@ -633,6 +633,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Chinatimes",
+      "head": "郵輪漢他病毒風暴 ！ 紐籍客42天加強自主健康管理 今解隔離 - 生活",
+      "url": "https://www.chinatimes.com/realtimenews/20260607001578-260405",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "漢他郵輪紐籍客4採陰 解除加強型自主健康管理 | 生活",
+      "url": "https://www.cna.com.tw:443/news/ahel/202606070062.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Health",
       "head": " 「 漢他病毒郵輪 」 1乘客入境台灣 ！ 42天無症狀 6 / 7解除自主健康管理 | 祝你健康 | 三立新聞網 HEALTH . SETN . COM",
       "url": "https://health.setn.com/news/1851477",
@@ -686,36 +716,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chinatimes",
-      "head": "教宗良十四世宣布訪問西班牙 呼籲全球 「 尊重每一個人 」 - 政治圈",
-      "url": "https://www.chinatimes.com/realtimenews/20260606002667-260408",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "N",
-      "head": "嘉市加強環境清潔與鼠害防治 共同築起漢他病毒防護網",
-      "url": "https://n.yam.com/Article/20260606805069",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
       ],
       "live": true
     }
