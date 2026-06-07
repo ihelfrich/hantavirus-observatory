@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-06-07T21:12:02.345848+00:00",
+  "generated_at": "2026-06-07T22:37:12.391309+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 49,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nltimes",
+      "head": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak",
+      "url": "https://nltimes.nl/2026/06/07/cruise-ship-hondius-departs-rotterdam-norway-deadly-hantavirus-outbreak",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -260,36 +275,6 @@
       "tags": [
         "English",
         "Qatar"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WDIO",
-      "head": "Argentina expands hantavirus probe , sending teams to trap and test rats in Mendoza",
-      "url": "https://www.wdio.com/ap-top-news/ap-top-news-health/argentina-expands-hantavirus-probe-sending-teams-to-trap-and-test-rats-in-mendoza/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "Hantavirus cases remain at 13 , no new deaths reported in over month : WHO chief",
-      "url": "https://aa.com.tr/en/health/hantavirus-cases-remain-at-13-no-new-deaths-reported-in-over-month-who-chief/3958632",
-      "loc": "Turkey",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Turkey"
       ],
       "live": true
     },
@@ -633,6 +618,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Shorouknews",
+      "head": "حزب الغد يناقش مخاطر الفيروسات العالمية على المجتمعات .. وجمال مصطفى سعيد : اللقاحات خط الدفاع الأول",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=07062026&id=8eec2b72-19e2-4d3c-97c8-c21d741431fb",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Borgenproject",
+      "head": "Eliminating the Pests That Spread Infectious Diseases in Taiwan",
+      "url": "https://borgenproject.org/infectious-diseases-in-taiwan/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Chinatimes",
       "head": "郵輪漢他病毒風暴 ！ 紐籍客42天加強自主健康管理 今解隔離 - 生活",
       "url": "https://www.chinatimes.com/realtimenews/20260607001578-260405",
@@ -701,21 +716,6 @@
       "tags": [
         "English",
         "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Scientificamerican",
-      "head": "How prediction markets could forecast the future of science",
-      "url": "https://www.scientificamerican.com/article/how-prediction-markets-could-forecast-the-future-of-science/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
