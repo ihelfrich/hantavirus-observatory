@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:06:54.862393+00:00",
+  "generated_at": "2026-06-08T05:12:36.455436+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
@@ -245,36 +245,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Independent",
-      "head": "Scientists testing rodents for hantavirus in Argentina famous wine region of Mendoza after cruise ship outbreak",
-      "url": "https://www.independent.co.uk/news/world/americas/hantavirus-origin-cruise-ship-rats-b2990941.html",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thepeninsulaqatar",
-      "head": "Argentina to expand hantavirus search to a second province",
-      "url": "http://thepeninsulaqatar.com/article/06/06/2026/argentina-to-expand-hantavirus-search-to-a-second-province",
-      "loc": "Qatar",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Qatar"
       ],
       "live": true
     },
@@ -611,6 +581,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Inquirer",
+      "head": "Kennedy shows minimal engagement with vast health portfolio",
+      "url": "https://www.inquirer.com/news/nation-world/robert-kennedy-jr-health-secretary-leadership-style-hands-off-staff-departures-ebola-hantavirus-vaccines-nutrition-20260607.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Seattletimes",
+      "head": "Kennedy shows minimal engagement with vast health portfolio",
+      "url": "https://www.seattletimes.com/nation-world/nation-politics/kennedy-shows-minimal-engagement-with-vast-health-portfolio/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
