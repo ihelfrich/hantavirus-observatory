@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-09T16:31:12.488740+00:00",
+  "generated_at": "2026-06-09T19:13:03.644050+00:00",
   "sources": [
-    "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 49,
+  "count": 50,
   "items": [
     {
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nltimes",
-      "head": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak",
-      "url": "https://nltimes.nl/2026/06/07/cruise-ship-hondius-departs-rotterdam-norway-deadly-hantavirus-outbreak",
-      "loc": "Netherlands",
+      "src": "CJME",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+      "url": "https://www.cjme.com/2026/06/09/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered-2/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "Netherlands"
+        "Canada"
       ],
       "live": true
     },
@@ -27,9 +27,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "CNA",
-      "head": "Two Singapore residents who were on hantavirus - hit cruise ship complete quarantine",
-      "url": "https://www.channelnewsasia.com/singapore/hantavirus-quarantine-mv-hondius-test-negative-cda-6167161",
+      "src": "Globalnews",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+      "url": "https://globalnews.ca/news/11895930/b-c-hantavirus-recovery/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Globalnews",
+      "head": "Canadian who tested positive for hantavirus on cruise ship has recovered - National",
+      "url": "https://globalnews.ca/news/11895909/canadian-tested-positive-hantavirus-cruise-ship-recovered/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lethbridgeherald",
+      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
+      "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -42,9 +72,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fox7Austin",
-      "head": "Texas cruise passengers complete hantavirus monitoring with no infections , state says",
-      "url": "https://www.fox7austin.com/news/texas-passengers-complete-hantavirus-monitoring-no-infections-state-says",
+      "src": "Niagarafallsreview",
+      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
+      "url": "https://www.niagarafallsreview.ca/news/canada/in-the-news-today-mps-plan-taiwan-trip-bc-hantavirus-recovery-energy-show-begins/article_92239ed9-77d2-5749-a148-99e836c2212f.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brandonsun",
+      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Brandon Sun",
+      "url": "https://www.brandonsun.com/national/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kdminer",
+      "head": "Our View : Mohave County first hantavirus case is a reminder , not a shock",
+      "url": "https://www.kdminer.com/opinion/our-view-mohave-countys-first-hantavirus-case-is-a-reminder-not-a-shock/article_b9f1ecd3-9f13-4121-ae78-afc90f6df028.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +117,54 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSBW",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.ksbw.com/article/tools-to-fight-hantavirus/71514153",
+      "src": "Winnipegfreepress",
+      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/canada/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Panow",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+      "url": "https://panow.com/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Energeticcity",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+      "url": "https://energeticcity.ca/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Medicinehatnews",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered - Medicine Hat NewsMedicine Hat News",
+      "url": "https://medicinehatnews.com/news/national-news/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +177,84 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WMTW",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wmtw.com/article/tools-to-fight-hantavirus/71514153",
+      "src": "Brandonsun",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Brandon Sun",
+      "url": "https://www.brandonsun.com/lifestyles/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Winnipegfreepress",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Stcatharinesstandard",
+      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
+      "url": "https://www.stcatharinesstandard.ca/news/canada/bc-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/article_b7bdcd82-0c24-5c69-9f6e-426ca14a1fa6.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theprovince",
+      "head": "B . C . first hantavirus patient is recovered , discharged from hospital",
+      "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theprovince",
+      "head": "B . C . first hantavirus patient has recovered , discharged from hospital",
+      "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital/wcm/61295c39-b170-4186-b9ba-236bac0ed475",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "HPPR",
+      "head": "Two Texans cleared of hantavirus risk after period of isolation",
+      "url": "https://www.hppr.org/hppr-news/2026-06-08/two-texans-cleared-of-hantavirus-risk-after-period-of-isolation",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,164 +267,28 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTAE",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wtae.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
+      "src": "Balidiscovery",
+      "head": "13 Cases of Hantavirus in Indonesia with a Fatality Rate of 13 % ",
+      "url": "https://balidiscovery.com/13-cases-of-hantavirus-in-indonesia-with-a-fatality-rate-of-13/",
+      "loc": "Indonesia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Indonesia"
       ],
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox4News",
-      "head": "Texas cruise passengers complete hantavirus monitoring with no infections , state says",
-      "url": "https://www.fox4news.com/news/texas-passengers-complete-hantavirus-monitoring-no-infections-state-says",
-      "loc": "United States",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-06-09",
+      "ts": "2026-06-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Molecular Epidemiology of Skin-Dwelling Filariae and Risk Factors for Mansonella streptocerca Infection, Gabon",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1800_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WJCL",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wjcl.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WAPT",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wapt.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCRA",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.kcra.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMBC",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.kmbc.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WDSU",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wdsu.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WESH",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wesh.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WPBF",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.wpbf.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ABC13",
-      "head": "Hantavirus monitoring complete for 2 Texas passengers from cruise ship outbreak , health officials say",
-      "url": "https://abc13.com/post/hantavirus-monitoring-complete-2-texas-passengers-cruise-ship-outbreak-health-officials-say/19247972/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCCI",
-      "head": "Tools to fight hantavirus show promise despite limited funding",
-      "url": "https://www.kcci.com/article/tools-to-fight-hantavirus/71514153",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "CDC EID"
       ],
       "live": true
     },
@@ -588,39 +632,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Inquirer",
-      "head": "Kennedy shows minimal engagement with vast health portfolio",
-      "url": "https://www.inquirer.com/news/nation-world/robert-kennedy-jr-health-secretary-leadership-style-hands-off-staff-departures-ebola-hantavirus-vaccines-nutrition-20260607.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Seattletimes",
-      "head": "Kennedy shows minimal engagement with vast health portfolio",
-      "url": "https://www.seattletimes.com/nation-world/nation-politics/kennedy-shows-minimal-engagement-with-vast-health-portfolio/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Shorouknews",
-      "head": "حزب الغد يناقش مخاطر الفيروسات العالمية على المجتمعات .. وجمال مصطفى سعيد : اللقاحات خط الدفاع الأول",
-      "url": "https://www.shorouknews.com/news/view.aspx?cdate=07062026&id=8eec2b72-19e2-4d3c-97c8-c21d741431fb",
+      "src": "Almasryalyoum",
+      "head": "أول تعليق من فريدة سيف النصر عن مزاعم إصابتها بفيروس « هانتا » ",
+      "url": "https://www.almasryalyoum.com/news/details/4289098",
       "loc": "Egypt",
       "lang": "Arabic",
       "tags": [
@@ -633,9 +647,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Borgenproject",
-      "head": "Eliminating the Pests That Spread Infectious Diseases in Taiwan",
-      "url": "https://borgenproject.org/infectious-diseases-in-taiwan/",
+      "src": "LB",
+      "head": "Кузін : хантавірусна інфекція в Україні частіше фіксується на прифронтових територіях",
+      "url": "https://lb.ua/health/2026/06/09/744100_kuzin_hantavirusna_infektsiya.html",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Miragenews",
+      "head": "Defence Medics Parachute to Tristan Da Cunha for Patient",
+      "url": "https://www.miragenews.com/defence-medics-parachute-to-tristan-da-cunha-1688821/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -648,9 +677,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Chinatimes",
-      "head": "郵輪漢他病毒風暴 ！ 紐籍客42天加強自主健康管理 今解隔離 - 生活",
-      "url": "https://www.chinatimes.com/realtimenews/20260607001578-260405",
+      "src": "UDN",
+      "head": "115分科測驗 ／ 自然三科總複習 ！ 科學時事全掌握 北一女師曝1步驟物理多得分 | 大學考招 | 文教",
+      "url": "https://udn.com/news/story/6925/9554999",
       "loc": "Taiwan",
       "lang": "Chinese",
       "tags": [
@@ -663,59 +692,44 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "CNA",
-      "head": "漢他郵輪紐籍客4採陰 解除加強型自主健康管理 | 生活",
-      "url": "https://www.cna.com.tw:443/news/ahel/202606070062.aspx",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Health",
-      "head": " 「 漢他病毒郵輪 」 1乘客入境台灣 ！ 42天無症狀 6 / 7解除自主健康管理 | 祝你健康 | 三立新聞網 HEALTH . SETN . COM",
-      "url": "https://health.setn.com/news/1851477",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SETN",
-      "head": " 「 漢他病毒郵輪 」 1乘客入境台灣 ！ 42天無症狀 6 / 7解除自主健康管理 | 健康 | 三立新聞網 SETN . COM",
-      "url": "https://www.setn.com/News.aspx?NewsID=1851477",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Niagarafallsreview",
-      "head": "Trump funding cuts will make the next pandemic deadlier",
-      "url": "https://www.niagarafallsreview.ca/opinion/columnists/trumps-war-on-science-ensures-the-next-pandemic-will-happen-sooner--and-be-deadlier/article_874ae5ab-2f86-5811-998f-28cd424f4294.html",
-      "loc": "Canada",
+      "src": "Newsroom",
+      "head": "Making sense of America low fertility rate and more UCLA media",
+      "url": "https://newsroom.ucla.edu/in-the-news/making-sense-of-americas-low-fertility-rate-and-more-ucla-media",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Acritica",
+      "head": "Vacinao é essencial para quem vai à Copa do Mundo de 2026",
+      "url": "https://www.acritica.com/saude/vacinac-o-e-essencial-para-quem-vai-a-copa-do-mundo-de-2026-1.406241",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WPDH",
+      "head": "Unchecked People From Ebola Outbreak Are Being Sent to New York",
+      "url": "https://wpdh.com/ixp/854/p/ebola-entry-point-in-new-york/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
