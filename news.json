@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-10T19:10:13.921950+00:00",
+  "generated_at": "2026-06-10T21:35:19.689242+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 50,
+  "count": 51,
   "items": [
     {
       "time": "—",
@@ -230,6 +230,20 @@
       "tags": [
         "English",
         "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-10",
+      "ts": "2026-06-10T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Cat-Scratch Disease Associated with Acute Hearing Loss, Israel",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0592_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
