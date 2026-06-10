@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-06-10T12:20:16.307043+00:00",
+  "generated_at": "2026-06-10T16:14:19.271264+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 50,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Castanetkamloops",
+      "head": "Hantavirus patient discharged from Victoria hospital",
+      "url": "https://www.castanetkamloops.net/news/BC/618870/Hantavirus-patient-discharged-from-Victoria-hospital",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -215,66 +230,6 @@
       "tags": [
         "English",
         "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theprovince",
-      "head": "B . C . first hantavirus patient is recovered , discharged from hospital",
-      "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theprovince",
-      "head": "B . C . first hantavirus patient has recovered , discharged from hospital",
-      "url": "https://theprovince.com/news/bc-first-hantavirus-patient-recovered-discharged-from-hospital/wcm/61295c39-b170-4186-b9ba-236bac0ed475",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "HPPR",
-      "head": "Two Texans cleared of hantavirus risk after period of isolation",
-      "url": "https://www.hppr.org/hppr-news/2026-06-08/two-texans-cleared-of-hantavirus-risk-after-period-of-isolation",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Balidiscovery",
-      "head": "13 Cases of Hantavirus in Indonesia with a Fatality Rate of 13 % ",
-      "url": "https://balidiscovery.com/13-cases-of-hantavirus-in-indonesia-with-a-fatality-rate-of-13/",
-      "loc": "Indonesia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Indonesia"
       ],
       "live": true
     },
@@ -632,6 +587,96 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "KCUR",
+      "head": "Kansas City hospitals are ready for the World Cup , but visitors may not be ready for U . S . healthcare",
+      "url": "https://www.kcur.org/health/2026-06-10/kansas-city-hospitals-world-cup-healthcare",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Premiumtimesng",
+      "head": "Lagos issues hotels , clubs , establishments preventive hygiene guidelines against Ebola outbreak",
+      "url": "https://www.premiumtimesng.com/health/health-news/886467-lagos-issues-hotels-clubs-establishments-preventive-hygiene-guidelines-against-ebola-outbreak.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Medicaldaily",
+      "head": "Measles Surge Hits 2 , 030 U . S . Cases as New York City Prepares for World Cup Influx",
+      "url": "https://www.medicaldaily.com/measles-2030-cases-new-york-city-world-cup-2026-475552",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Prokerala",
+      "head": "US Democrats warn Ebola threat amid HHS cuts",
+      "url": "https://www.prokerala.com/news/articles/a1773515.html",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ianslive",
+      "head": "US Democrats warn Ebola threat amid HHS cuts",
+      "url": "https://ianslive.in/democrats-warn-ebola-threat-amid-hhs-cuts--20260610083603",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Komonews",
+      "head": "World Cup visitor surge raises risk of flu and measles spread , health experts warn",
+      "url": "https://komonews.com/news/local/harborview-medical-center-plans-disease-response-for-world-cup-in-seattle-hospitals-spread-of-infectious-diseases-ebola-hantavirus-measles",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Almasryalyoum",
       "head": "أول تعليق من فريدة سيف النصر عن مزاعم إصابتها بفيروس « هانتا » ",
       "url": "https://www.almasryalyoum.com/news/details/4289098",
@@ -685,51 +730,6 @@
       "tags": [
         "Chinese",
         "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsroom",
-      "head": "Making sense of America low fertility rate and more UCLA media",
-      "url": "https://newsroom.ucla.edu/in-the-news/making-sense-of-americas-low-fertility-rate-and-more-ucla-media",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Acritica",
-      "head": "Vacinao é essencial para quem vai à Copa do Mundo de 2026",
-      "url": "https://www.acritica.com/saude/vacinac-o-e-essencial-para-quem-vai-a-copa-do-mundo-de-2026-1.406241",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WPDH",
-      "head": "Unchecked People From Ebola Outbreak Are Being Sent to New York",
-      "url": "https://wpdh.com/ixp/854/p/ebola-entry-point-in-new-york/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
