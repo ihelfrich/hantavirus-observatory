@@ -1,80 +1,20 @@
 {
-  "generated_at": "2026-06-12T17:21:57.861787+00:00",
+  "generated_at": "2026-06-12T19:29:45.890098+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Castanetkamloops",
-      "head": "Hantavirus patient discharged from Victoria hospital",
-      "url": "https://www.castanetkamloops.net/news/BC/618870/Hantavirus-patient-discharged-from-Victoria-hospital",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CJME",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-      "url": "https://www.cjme.com/2026/06/09/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered-2/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Globalnews",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-      "url": "https://globalnews.ca/news/11895930/b-c-hantavirus-recovery/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Globalnews",
-      "head": "Canadian who tested positive for hantavirus on cruise ship has recovered - National",
-      "url": "https://globalnews.ca/news/11895909/canadian-tested-positive-hantavirus-cruise-ship-recovered/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lethbridgeherald",
-      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
-      "url": "https://lethbridgeherald.com/news/national-news/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins/",
+      "src": "Latimes",
+      "head": "Officials investigating possible hantavirus case in San Quentin prison",
+      "url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Niagarafallsreview",
-      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins",
-      "url": "https://www.niagarafallsreview.ca/news/canada/in-the-news-today-mps-plan-taiwan-trip-bc-hantavirus-recovery-energy-show-begins/article_92239ed9-77d2-5749-a148-99e836c2212f.html",
-      "loc": "Canada",
+      "src": "Channelafrica",
+      "head": "Global study launched to investigate Andes virus outbreak – Channel Africa",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/global-study-launched-to-investigate-andes-virus-outbreak/",
+      "loc": "South Africa",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "South Africa"
       ],
       "live": true
     },
@@ -102,24 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Brandonsun",
-      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Brandon Sun",
-      "url": "https://www.brandonsun.com/national/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kdminer",
-      "head": "Our View : Mohave County first hantavirus case is a reminder , not a shock",
-      "url": "https://www.kdminer.com/opinion/our-view-mohave-countys-first-hantavirus-case-is-a-reminder-not-a-shock/article_b9f1ecd3-9f13-4121-ae78-afc90f6df028.html",
+      "src": "Eastbaytimes",
+      "head": "San Quentin prison reports possible hantavirus case",
+      "url": "https://www.eastbaytimes.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -132,54 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "In the news today : MPs plan Taiwan trip , B . C . hantavirus recovery , Energy show begins – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/canada/2026/06/09/in-the-news-today-mps-plan-taiwan-trip-b-c-hantavirus-recovery-energy-show-begins",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Panow",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-      "url": "https://panow.com/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Energeticcity",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-      "url": "https://energeticcity.ca/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medicinehatnews",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered - Medicine Hat NewsMedicine Hat News",
-      "url": "https://medicinehatnews.com/news/national-news/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/",
+      "src": "WESH",
+      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
+      "url": "https://www.wesh.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -192,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Brandonsun",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Brandon Sun",
-      "url": "https://www.brandonsun.com/lifestyles/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
-      "loc": "Canada",
+      "src": "4029Tv",
+      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
+      "url": "https://www.4029tv.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "United States"
       ],
       "live": true
     },
@@ -207,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/06/08/b-c-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered",
-      "loc": "Canada",
+      "src": "KMBC",
+      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
+      "url": "https://www.kmbc.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "United States"
       ],
       "live": true
     },
@@ -222,14 +102,58 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Stcatharinesstandard",
-      "head": "B . C . health officials say Canadian who tested positive for hantavirus has recovered",
-      "url": "https://www.stcatharinesstandard.ca/news/canada/bc-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/article_b7bdcd82-0c24-5c69-9f6e-426ca14a1fa6.html",
-      "loc": "Canada",
+      "src": "WMUR",
+      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
+      "url": "https://www.wmur.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Canada"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WXII-12",
+      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
+      "url": "https://www.wxii12.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Miragenews",
+      "head": "21 Nations Launch Joint Andes Virus Research Effort",
+      "url": "https://www.miragenews.com/21-nations-launch-joint-andes-virus-research-1691453/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-12",
+      "ts": "2026-06-12T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Emerging Risk for Human T-Cell Leukemia Virus Type 1 Transmission with HIV-Positive Breastfeeding Support",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1525_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -615,9 +539,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KCUR",
-      "head": "Kansas City hospitals are ready for the World Cup , but visitors may not be ready for U . S . healthcare",
-      "url": "https://www.kcur.org/health/2026-06-10/kansas-city-hospitals-world-cup-healthcare",
+      "src": "Kfoxtv",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://kfoxtv.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -630,24 +554,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Premiumtimesng",
-      "head": "Lagos issues hotels , clubs , establishments preventive hygiene guidelines against Ebola outbreak",
-      "url": "https://www.premiumtimesng.com/health/health-news/886467-lagos-issues-hotels-clubs-establishments-preventive-hygiene-guidelines-against-ebola-outbreak.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medicaldaily",
-      "head": "Measles Surge Hits 2 , 030 U . S . Cases as New York City Prepares for World Cup Influx",
-      "url": "https://www.medicaldaily.com/measles-2030-cases-new-york-city-world-cup-2026-475552",
+      "src": "KATU",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://katu.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -660,39 +569,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Prokerala",
-      "head": "US Democrats warn Ebola threat amid HHS cuts",
-      "url": "https://www.prokerala.com/news/articles/a1773515.html",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ianslive",
-      "head": "US Democrats warn Ebola threat amid HHS cuts",
-      "url": "https://ianslive.in/democrats-warn-ebola-threat-amid-hhs-cuts--20260610083603",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Komonews",
-      "head": "World Cup visitor surge raises risk of flu and measles spread , health experts warn",
-      "url": "https://komonews.com/news/local/harborview-medical-center-plans-disease-response-for-world-cup-in-seattle-hospitals-spread-of-infectious-diseases-ebola-hantavirus-measles",
+      "src": "Weartv",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://weartv.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -705,39 +584,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Almasryalyoum",
-      "head": "أول تعليق من فريدة سيف النصر عن مزاعم إصابتها بفيروس « هانتا » ",
-      "url": "https://www.almasryalyoum.com/news/details/4289098",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "LB",
-      "head": "Кузін : хантавірусна інфекція в Україні частіше фіксується на прифронтових територіях",
-      "url": "https://lb.ua/health/2026/06/09/744100_kuzin_hantavirusna_infektsiya.html",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
-      "tags": [
-        "Ukrainian",
-        "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Miragenews",
-      "head": "Defence Medics Parachute to Tristan Da Cunha for Patient",
-      "url": "https://www.miragenews.com/defence-medics-parachute-to-tristan-da-cunha-1688821/",
+      "src": "Mynews4",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://mynews4.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -750,14 +599,179 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "UDN",
-      "head": "115分科測驗 ／ 自然三科總複習 ！ 科學時事全掌握 北一女師曝1步驟物理多得分 | 大學考招 | 文教",
-      "url": "https://udn.com/news/story/6925/9554999",
-      "loc": "Taiwan",
-      "lang": "Chinese",
+      "src": "Local21News",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://local21news.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Chinese",
-        "Taiwan"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Esquire",
+      "head": "Trump Too Busy with His UFC Birthday Party to Sign a Ceasefire Agreement with Iran",
+      "url": "https://www.esquire.com/news-politics/politics/a71571150/iran-ceasefire-agreement-trump-vance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Harrisondaily",
+      "head": "AP News Summary at 12 : 28 a . m . EDT - Harrison Daily",
+      "url": "http://harrisondaily.com/stories/ap-news-summary-at-1228-am-edt,385702",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mariettatimes",
+      "head": "Round up | News , Sports , Jobs - Marietta Times",
+      "url": "https://www.mariettatimes.com/news/2026/06/round-up-106/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arkansasonline",
+      "head": "US pays $750 , 000 to evacuate cruise passenger from island | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/jun/12/us-pays-750000-to-evacuate-cruise-passenger-from/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Santafenewmexican",
+      "head": "Santa Fe County woman dies of plague in first human case this year in New Mexico",
+      "url": "https://www.santafenewmexican.com/news/local_news/santa-fe-county-woman-dies-of-plague-in-first-human-case-this-year-in-new/article_aed08920-2474-41a1-9fe5-5f2713644713.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Spectator",
+      "head": "America on the Brink | The American Spectator | united states News and Politics",
+      "url": "https://spectator.org/america-on-the-brink/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CBC",
+      "head": "As World Cup boosts infection risk , Toronto and Vancouver arent sitting on the sidelines",
+      "url": "https://www.cbc.ca/news/health/world-cup-health-risks-9.7228749",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Idahostatejournal",
+      "head": "AP News in Brief at 11 : 04 p . m . EDT",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_3b824eb8-60d2-540c-8ea7-40db672cea6d.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesrepublican",
+      "head": "Health sleuths are watching for disease threats during the World Cup | News , Sports , Jobs",
+      "url": "http://www.timesrepublican.com/wire/?category=5181&ID=394964",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Siouxcityjournal",
+      "head": "June 11 recap : Siouxland news you may have missed today",
+      "url": "https://siouxcityjournal.com/news/local/collection_3f752ff1-a506-5813-bec6-a1fc38cccd15.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thegazette",
+      "head": "AP News in Brief at 11 : 04 p . m . EDT",
+      "url": "http://www.thegazette.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_cb92a689-85c2-5b41-a2b7-e2b5cd14d558.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
