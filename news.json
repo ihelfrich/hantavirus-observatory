@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-13T13:04:41.435597+00:00",
+  "generated_at": "2026-06-13T15:16:51.338624+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Latimes",
-      "head": "Officials investigating possible hantavirus case in San Quentin prison",
-      "url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
+      "src": "Abc7News",
+      "head": "San Quentin Rehabilitation Center suspected hantavirus case in 38 - year - old male inmate ruled a false positive , officials say",
+      "url": "https://abc7news.com/post/san-quentin-rehabilitation-center-suspected-hantavirus-case-38-year-old-male-inmate-ruled-false-positive-officials-say/19284773/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,24 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Channelafrica",
-      "head": "Global study launched to investigate Andes virus outbreak – Channel Africa",
-      "url": "https://www.channelafrica.co.za/channelafrica/news/global-study-launched-to-investigate-andes-virus-outbreak/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eastbaytimes",
-      "head": "San Quentin prison reports possible hantavirus case",
-      "url": "https://www.eastbaytimes.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
+      "src": "Jdsupra",
+      "head": "Hantavirus and the EPA : A Collaborative Defense Against Viral Threats A Conversation with Dana S . Lateulere and James V . Aidala | Bergeson & Campbell , P . C . ",
+      "url": "https://www.jdsupra.com:443/legalnews/hantavirus-and-the-epa-a-collaborative-8476951/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,84 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WESH",
-      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
-      "url": "https://www.wesh.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "4029Tv",
-      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
-      "url": "https://www.4029tv.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMBC",
-      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
-      "url": "https://www.kmbc.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WMUR",
-      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
-      "url": "https://www.wmur.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WXII-12",
-      "head": "US pays to evacuate American on hantavirus ship from Pitcairn",
-      "url": "https://www.wxii12.com/article/us-750k-pitcairn-hantavirus-evacuation/71568302",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Miragenews",
-      "head": "21 Nations Launch Joint Andes Virus Research Effort",
-      "url": "https://www.miragenews.com/21-nations-launch-joint-andes-virus-research-1691453/",
+      "src": "Pressdemocrat",
+      "head": "Hantavirus ruled out for San Quentin inmate",
+      "url": "https://www.pressdemocrat.com/2026/06/12/hantavirus-ruled-out-for-san-quentin-inmate/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -539,234 +449,324 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "WFDD",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.wfdd.org/health-safety/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ualrpublicradio",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.ualrpublicradio.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KRCU",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.krcu.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wnmufm",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.wnmufm.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://news.wfsu.org/npr-news/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wknofm",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.wknofm.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Spokanepublicradio",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.spokanepublicradio.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jpost",
+      "head": "Israeli , Czech scientists recreate COVID - 19 evolution in lab",
+      "url": "http://www.jpost.com/health-and-wellness/article-899246",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcwashington",
+      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC4 Washington",
+      "url": "https://www.nbcwashington.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/4116270/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcnewyork",
+      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC New York",
+      "url": "https://www.nbcnewyork.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/6512650/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Vindy",
+      "head": "Health sleuths are watching for disease threats during the World Cup | News , Sports , Jobs",
+      "url": "http://www.vindy.com/wire/?category=5&ID=394964",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mizonews",
+      "head": "تدفع الولايات المتحدة 750 , 000 دولار لإجلاء أمريكي على متن سفينة سياحية مصابة بفيروس هانتا من جزيرة نائية",
+      "url": "https://mizonews.net/politics/11697/",
+      "loc": "India",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbclosangeles",
+      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC Los Angeles",
+      "url": "https://www.nbclosangeles.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/3903592/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcchicago",
+      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC Chicago",
+      "url": "https://www.nbcchicago.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/3948027/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cnycentral",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://cnycentral.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WJLA",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://wjla.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WSBT",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://wsbt.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KPIC",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://kpic.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Foxbaltimore",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://foxbaltimore.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox11Online",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://fox11online.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cbs2Iowa",
+      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
+      "url": "https://cbs2iowa.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Kfoxtv",
       "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
       "url": "https://kfoxtv.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KATU",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://katu.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Weartv",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://weartv.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mynews4",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://mynews4.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Local21News",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://local21news.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "Trump Too Busy with His UFC Birthday Party to Sign a Ceasefire Agreement with Iran",
-      "url": "https://www.esquire.com/news-politics/politics/a71571150/iran-ceasefire-agreement-trump-vance/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Harrisondaily",
-      "head": "AP News Summary at 12 : 28 a . m . EDT - Harrison Daily",
-      "url": "http://harrisondaily.com/stories/ap-news-summary-at-1228-am-edt,385702",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mariettatimes",
-      "head": "Round up | News , Sports , Jobs - Marietta Times",
-      "url": "https://www.mariettatimes.com/news/2026/06/round-up-106/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arkansasonline",
-      "head": "US pays $750 , 000 to evacuate cruise passenger from island | The Arkansas Democrat - Gazette",
-      "url": "https://www.arkansasonline.com/news/2026/jun/12/us-pays-750000-to-evacuate-cruise-passenger-from/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Santafenewmexican",
-      "head": "Santa Fe County woman dies of plague in first human case this year in New Mexico",
-      "url": "https://www.santafenewmexican.com/news/local_news/santa-fe-county-woman-dies-of-plague-in-first-human-case-this-year-in-new/article_aed08920-2474-41a1-9fe5-5f2713644713.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Spectator",
-      "head": "America on the Brink | The American Spectator | united states News and Politics",
-      "url": "https://spectator.org/america-on-the-brink/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBC",
-      "head": "As World Cup boosts infection risk , Toronto and Vancouver arent sitting on the sidelines",
-      "url": "https://www.cbc.ca/news/health/world-cup-health-risks-9.7228749",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Idahostatejournal",
-      "head": "AP News in Brief at 11 : 04 p . m . EDT",
-      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_3b824eb8-60d2-540c-8ea7-40db672cea6d.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timesrepublican",
-      "head": "Health sleuths are watching for disease threats during the World Cup | News , Sports , Jobs",
-      "url": "http://www.timesrepublican.com/wire/?category=5181&ID=394964",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Siouxcityjournal",
-      "head": "June 11 recap : Siouxland news you may have missed today",
-      "url": "https://siouxcityjournal.com/news/local/collection_3f752ff1-a506-5813-bec6-a1fc38cccd15.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thegazette",
-      "head": "AP News in Brief at 11 : 04 p . m . EDT",
-      "url": "http://www.thegazette.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_cb92a689-85c2-5b41-a2b7-e2b5cd14d558.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
