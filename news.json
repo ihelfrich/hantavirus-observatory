@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-13T15:16:51.338624+00:00",
+  "generated_at": "2026-06-13T16:55:33.237022+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 53,
@@ -449,6 +449,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "KVNF",
+      "head": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.kvnf.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "WFDD",
       "head": "Some quarantined cruise ship passengers push to return home",
       "url": "https://www.wfdd.org/health-safety/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
@@ -752,21 +767,6 @@
       "src": "Cbs2Iowa",
       "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
       "url": "https://cbs2iowa.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kfoxtv",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://kfoxtv.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
