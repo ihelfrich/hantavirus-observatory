@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-06-13T20:00:57.008952+00:00",
+  "generated_at": "2026-06-13T21:44:51.183643+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 53,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nltimes",
+      "head": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
+      "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
+      "loc": "Netherlands",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Netherlands"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -449,6 +464,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Hayspost",
+      "head": "Health sleuths are watching for disease threats during the World Cup",
+      "url": "https://hayspost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Aletihad",
+      "head": "كيف نمنع الجائحة القادمة قبل أن تبدأ ؟ ",
+      "url": "https://www.aletihad.ae/opinion/4672322/%D9%83%D9%8A%D9%81-%D9%86%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%82%D8%A8%D9%84-%D8%A3%D9%86-%D8%AA%D8%A8%D8%AF%D8%A3",
+      "loc": "",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Singtaousa",
+      "head": "南太平洋撤僑 ： 美國斥資75萬美元包租遊艇 撤離曾登漢他病毒郵輪女公民",
+      "url": "https://www.singtaousa.com/2026/06/13/news/world/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
+      "loc": "China",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Littleapplepost",
+      "head": "Health sleuths are watching for disease threats during the World Cup",
+      "url": "https://littleapplepost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "KVNF",
       "head": "Some quarantined cruise ship passengers push to return home",
       "url": "https://www.kvnf.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
@@ -692,81 +767,6 @@
       "src": "WJLA",
       "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
       "url": "https://wjla.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSBT",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://wsbt.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KPIC",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://kpic.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Foxbaltimore",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://foxbaltimore.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox11Online",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://fox11online.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cbs2Iowa",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://cbs2iowa.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
