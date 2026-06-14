@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-13T23:03:49.704753+00:00",
+  "generated_at": "2026-06-14T01:43:09.157589+00:00",
   "sources": [
+    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
-    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -464,6 +464,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Greatbendpost",
+      "head": "Health sleuths are watching for disease threats during the World Cup",
+      "url": "https://greatbendpost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Hayspost",
       "head": "Health sleuths are watching for disease threats during the World Cup",
       "url": "https://hayspost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
@@ -752,21 +767,6 @@
       "src": "Cnycentral",
       "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
       "url": "https://cnycentral.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WJLA",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://wjla.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
