@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-06-15T20:38:40.515457+00:00",
+  "generated_at": "2026-06-15T23:02:32.693420+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 53,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Allafrica",
+      "head": "Africa : Ebola , Hantavirus , Diphtheria - How Distrust in Health Care Is Fuelling Multiple Outbreaks Across the Globe",
+      "url": "https://allafrica.com/stories/202606150019.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "HOME",
+      "head": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe - 15 - Jun - 2026",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=447945",
+      "loc": "New Zealand",
+      "lang": "English",
+      "tags": [
+        "English",
+        "New Zealand"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theconversation",
+      "head": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
+      "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -20,51 +65,6 @@
       "tags": [
         "English",
         "Netherlands"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abc7News",
-      "head": "San Quentin Rehabilitation Center suspected hantavirus case in 38 - year - old male inmate ruled a false positive , officials say",
-      "url": "https://abc7news.com/post/san-quentin-rehabilitation-center-suspected-hantavirus-case-38-year-old-male-inmate-ruled-false-positive-officials-say/19284773/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jdsupra",
-      "head": "Hantavirus and the EPA : A Collaborative Defense Against Viral Threats A Conversation with Dana S . Lateulere and James V . Aidala | Bergeson & Campbell , P . C . ",
-      "url": "https://www.jdsupra.com:443/legalnews/hantavirus-and-the-epa-a-collaborative-8476951/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Pressdemocrat",
-      "head": "Hantavirus ruled out for San Quentin inmate",
-      "url": "https://www.pressdemocrat.com/2026/06/12/hantavirus-ruled-out-for-san-quentin-inmate/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -464,6 +464,216 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Communitypress",
+      "head": "Toxins masquerading as  disease  | The Community Press",
+      "url": "https://www.communitypress.ca:443/opinion/columnists/toxins-masquerading-as-disease",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Napaneeguide",
+      "head": "Toxins masquerading as  disease  | The Napanee Guide",
+      "url": "https://www.napaneeguide.com:443/opinion/columnists/toxins-masquerading-as-disease",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kansaspublicradio",
+      "head": "Headlines for Monday , June 15 , 2026",
+      "url": "https://kansaspublicradio.org/daily-headlines/2026-06-15/headlines-for-monday-june-15-2026",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gananoquereporter",
+      "head": "Toxins masquerading as  disease  | Gananoque Reporter",
+      "url": "https://www.gananoquereporter.com:443/opinion/columnists/toxins-masquerading-as-disease",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Irishtimes",
+      "head": "Ebola risk low in Ireland , watchdog says , as WHO monitors emergency in DRC and Uganda",
+      "url": "https://www.irishtimes.com/health/2026/06/15/ebola-risk-low-in-ireland-watchdog-says-as-who-monitors-emergency-in-drc-and-uganda/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Intelligencer",
+      "head": "Toxins masquerading as  disease  | Belleville Intelligencer",
+      "url": "https://www.intelligencer.ca:443/opinion/columnists/toxins-masquerading-as-disease",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Trentonian",
+      "head": "Toxins masquerading as  disease  | Trenton Trentonian",
+      "url": "https://www.trentonian.ca:443/opinion/columnists/toxins-masquerading-as-disease",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Foxnews",
+      "head": "Deadly parasitic tapeworm detected in West Coast wildlife for first time",
+      "url": "https://www.foxnews.com/health/deadly-fox-tapeworm-linked-lethal-disease-detected-west-coast-wildlife",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Manilatimes",
+      "head": "Dyadic Highlights Accelerated Interest in C1 Biomanufacturing Platform Amid Ebola Preparedness Activities and Growing Commercial Adoption",
+      "url": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/dyadic-highlights-accelerated-interest-in-c1-biomanufacturing-platform-amid-ebola-preparedness-activities-and-growing-commercial-adoption/2365498",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nakedcapitalism",
+      "head": "Links 6 / 15 / 2026 | naked capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/06/links-6-15-2026.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UDN",
+      "head": "115分科生物 ／ 持續往素養導向發展 ！ 師分析趨勢 「 5單元 、 2能力 」 成致勝關鍵 | 大學考招 | 文教",
+      "url": "https://udn.com/news/story/6925/9567548",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Aksam",
+      "head": "Ýstanbul kruvaziyer merkezi oluyor",
+      "url": "https://www.aksam.com.tr/ekonomi/istanbul-kruvaziyer-merkezi-oluyor/haber-1674796",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Twincities",
+      "head": "William Robiner : Are we prepared to respond to the next pandemic ? ",
+      "url": "https://www.twincities.com/2026/06/14/william-robiner-are-we-prepared-to-respond-to-the-next-pandemic/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "İstanbulu ana liman olarak kullanan kruvaziyer şirketi sayısı arttı",
+      "url": "https://www.aa.com.tr/tr/ekonomi/istanbulu-ana-liman-olarak-kullanan-kruvaziyer-sirketi-sayisi-artti/3966462",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Greatbendpost",
       "head": "Health sleuths are watching for disease threats during the World Cup",
       "url": "https://greatbendpost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
@@ -557,216 +767,6 @@
       "src": "WFDD",
       "head": "Some quarantined cruise ship passengers push to return home",
       "url": "https://www.wfdd.org/health-safety/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ualrpublicradio",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.ualrpublicradio.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRCU",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.krcu.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wnmufm",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.wnmufm.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://news.wfsu.org/npr-news/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wknofm",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.wknofm.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Spokanepublicradio",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.spokanepublicradio.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jpost",
-      "head": "Israeli , Czech scientists recreate COVID - 19 evolution in lab",
-      "url": "http://www.jpost.com/health-and-wellness/article-899246",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcwashington",
-      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC4 Washington",
-      "url": "https://www.nbcwashington.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/4116270/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcnewyork",
-      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC New York",
-      "url": "https://www.nbcnewyork.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/6512650/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vindy",
-      "head": "Health sleuths are watching for disease threats during the World Cup | News , Sports , Jobs",
-      "url": "http://www.vindy.com/wire/?category=5&ID=394964",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mizonews",
-      "head": "تدفع الولايات المتحدة 750 , 000 دولار لإجلاء أمريكي على متن سفينة سياحية مصابة بفيروس هانتا من جزيرة نائية",
-      "url": "https://mizonews.net/politics/11697/",
-      "loc": "India",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbclosangeles",
-      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC Los Angeles",
-      "url": "https://www.nbclosangeles.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/3903592/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcchicago",
-      "head": "2026 FIFA World Cup : Here which infectious diseases could spread – NBC Chicago",
-      "url": "https://www.nbcchicago.com/world-cup/world-cup-disease-outbreak-doctors-highest-risk-illnesses/3948027/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cnycentral",
-      "head": "Kylie Kelce rodent infestation is pure nightmare fuel",
-      "url": "https://cnycentral.com/news/entertainment/kylie-kelce-rodent-infestation-is-pure-nightmare-fuel-jason-kelce",
       "loc": "United States",
       "lang": "English",
       "tags": [
