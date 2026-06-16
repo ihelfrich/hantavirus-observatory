@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-16T13:12:37.130176+00:00",
+  "generated_at": "2026-06-16T18:15:18.530871+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 53,
+  "count": 54,
   "items": [
     {
       "time": "—",
@@ -80,6 +80,20 @@
       "tags": [
         "English",
         "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-16",
+      "ts": "2026-06-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Epidemiology and Clinical Features of Balamuthia mandrillaris Infection, China",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1771_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
