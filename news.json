@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-06-16T02:07:03.258948+00:00",
+  "generated_at": "2026-06-16T08:26:35.380175+00:00",
   "sources": [
-    "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 53,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Seattletimes",
+      "head": "RFK Jr . orders woman to stay in hantavirus quarantine , despite CDC recommendation",
+      "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nzdoctor",
+      "head": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
+      "url": "https://www.nzdoctor.co.nz/article/opinion/ebola-hantavirus-diphtheria-how-distrust-health-care-fuelling-multiple-outbreaks",
+      "loc": "New Zealand",
+      "lang": "English",
+      "tags": [
+        "English",
+        "New Zealand"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -50,21 +80,6 @@
       "tags": [
         "English",
         "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nltimes",
-      "head": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
-      "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
-      "loc": "Netherlands",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Netherlands"
       ],
       "live": true
     },
@@ -464,6 +479,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Reviewonline",
+      "head": "County health district receives mosquito grant | News , Sports , Jobs",
+      "url": "https://www.reviewonline.com/news/local-news/2026/06/county-health-district-receives-mosquito-grant/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Charkoosta",
+      "head": "Rocky Mountain Laboratories researchers arrested as lab critics campaign against animal testing",
+      "url": "https://www.charkoosta.com/news/rocky-mountain-laboratories-researchers-arrested-as-lab-critics-campaign-against-animal-testing/article_736420c0-a022-4844-ae19-b3ee9177128c.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Insidetucsonbusiness",
+      "head": "Diseases know no borders ! ",
+      "url": "https://www.insidetucsonbusiness.com/commentary/diseases-know-no-borders/article_8b8eca16-a279-4942-a2ae-7eb4b3426b83.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Communitypress",
       "head": "Toxins masquerading as  disease  | The Community Press",
       "url": "https://www.communitypress.ca:443/opinion/columnists/toxins-masquerading-as-disease",
@@ -539,9 +599,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Intelligencer",
-      "head": "Toxins masquerading as  disease  | Belleville Intelligencer",
-      "url": "https://www.intelligencer.ca:443/opinion/columnists/toxins-masquerading-as-disease",
+      "src": "Trentonian",
+      "head": "Toxins masquerading as  disease  | Trenton Trentonian",
+      "url": "https://www.trentonian.ca:443/opinion/columnists/toxins-masquerading-as-disease",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -554,9 +614,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Trentonian",
-      "head": "Toxins masquerading as  disease  | Trenton Trentonian",
-      "url": "https://www.trentonian.ca:443/opinion/columnists/toxins-masquerading-as-disease",
+      "src": "Intelligencer",
+      "head": "Toxins masquerading as  disease  | Belleville Intelligencer",
+      "url": "https://www.intelligencer.ca:443/opinion/columnists/toxins-masquerading-as-disease",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -712,66 +772,6 @@
       "tags": [
         "Arabic",
         ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Singtaousa",
-      "head": "南太平洋撤僑 ： 美國斥資75萬美元包租遊艇 撤離曾登漢他病毒郵輪女公民",
-      "url": "https://www.singtaousa.com/2026/06/13/news/world/us-puts-up-750k-to-evacuate-an-american-who-was-aboard-hantavirus-cruise-ship-from-remote-island/",
-      "loc": "China",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "China"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Littleapplepost",
-      "head": "Health sleuths are watching for disease threats during the World Cup",
-      "url": "https://littleapplepost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KVNF",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.kvnf.org/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WFDD",
-      "head": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.wfdd.org/health-safety/2026-06-13/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
