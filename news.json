@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-17T18:41:17.356174+00:00",
+  "generated_at": "2026-06-17T21:05:46.539671+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 54,
+  "count": 59,
   "items": [
     {
       "time": "—",
@@ -320,6 +320,76 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-17",
+      "ts": "2026-06-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Predictive Approach to Mapping Angiostrongylus cantonensis Nematode Distribution, Canary Islands, Spain",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1930_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-17",
+      "ts": "2026-06-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Nipah Virus Shedding in Urine from Fruit Bats, Sri Lanka, 2018–2019",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1567_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-17",
+      "ts": "2026-06-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Cluster of Human Tanapox Cases in Wildlife Reserve, South Africa, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1961_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-17",
+      "ts": "2026-06-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Fasciolopsis buski",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/24-1403_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-17",
+      "ts": "2026-06-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Jimmy Carter and Eradication of Guinea Worm Disease",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/ac-0746_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
