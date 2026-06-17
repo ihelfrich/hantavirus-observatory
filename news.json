@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-17T12:15:42.168748+00:00",
+  "generated_at": "2026-06-17T16:11:51.768176+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
@@ -12,9 +12,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Seattletimes",
-      "head": "RFK Jr . orders woman to stay in hantavirus quarantine , despite CDC recommendation",
-      "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
+      "src": "Travelwires",
+      "head": "KLM Confirms Hantavirus Patient Was Briefly on Board JNB Flight",
+      "url": "https://www.travelwires.com/klm-confirms-hantavirus-patient-was-briefly-on-board-jnb-flight/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Saglikaktuel",
+      "head": "DSÖ  den Yolcu Gemisindeki Hantavirüs Salgınına İlişkin Açıklama : Durum İstikrarlı",
+      "url": "https://www.saglikaktuel.com/haber/dsoden-yolcu-gemisindeki-hantavirus-salginina-iliskin-aciklama-durum-istikrarli-107574.htm",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Paradisepost",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.paradisepost.com/2026/06/16/hantavirus-quarantine/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Nzdoctor",
-      "head": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
-      "url": "https://www.nzdoctor.co.nz/article/opinion/ebola-hantavirus-diphtheria-how-distrust-health-care-fuelling-multiple-outbreaks",
-      "loc": "New Zealand",
-      "lang": "English",
+      "src": "Aksam",
+      "head": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
+      "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "New Zealand"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -42,14 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Allafrica",
-      "head": "Africa : Ebola , Hantavirus , Diphtheria - How Distrust in Health Care Is Fuelling Multiple Outbreaks Across the Globe",
-      "url": "https://allafrica.com/stories/202606150019.html",
-      "loc": "Nigeria",
+      "src": "Surinenglish",
+      "head": "Madrid Gómez Ulla hospital discharges last hantavirus patient",
+      "url": "https://www.surinenglish.com/spain/madrids-gomez-ulla-hospital-discharges-last-hantavirus-20260617093535-nt.html",
+      "loc": "Spain",
       "lang": "English",
       "tags": [
         "English",
-        "Nigeria"
+        "Spain"
       ],
       "live": true
     },
@@ -57,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "HOME",
-      "head": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe - 15 - Jun - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=447945",
-      "loc": "New Zealand",
+      "src": "Oneidadispatch",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.oneidadispatch.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "New Zealand"
+        "United States"
       ],
       "live": true
     },
@@ -72,14 +102,224 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theconversation",
-      "head": "Ebola , hantavirus , diphtheria : how distrust in health care is fuelling multiple outbreaks across the globe",
-      "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
-      "loc": "Australia",
+      "src": "Nationalmemo",
+      "head": "COVID Lockdown Critic Kennedy Orders Hanta Cruise Survivor Held In Quarantine",
+      "url": "https://www.nationalmemo.com/hantavirus-rfk-jr",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Australia"
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WBOC",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.wboc.com/news/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_4fc8e14f-33b4-5217-9019-b331038936cc.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Troyrecord",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.troyrecord.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abcnews",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://abcnews.com/Health/wireStory/rfk-jr-overrules-experts-hantavirus-cruise-ship-passenger-133940992",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mcall",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.mcall.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSAT",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.ksat.com/news/politics/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailylocal",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.dailylocal.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Twincities",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.twincities.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chicoer",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.chicoer.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Orlandosentinel",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.orlandosentinel.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mendocinobeacon",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.mendocinobeacon.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Journal-Advocate",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.journal-advocate.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timescall",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.timescall.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gjsentinel",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.gjsentinel.com/news/us/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_26c6d718-72b2-50c8-ab3b-4506dc80a5a1.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nydailynews",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.nydailynews.com/2026/06/16/hantavirus-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -493,299 +733,59 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Reviewonline",
-      "head": "County health district receives mosquito grant | News , Sports , Jobs",
-      "url": "https://www.reviewonline.com/news/local-news/2026/06/county-health-district-receives-mosquito-grant/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Charkoosta",
-      "head": "Rocky Mountain Laboratories researchers arrested as lab critics campaign against animal testing",
-      "url": "https://www.charkoosta.com/news/rocky-mountain-laboratories-researchers-arrested-as-lab-critics-campaign-against-animal-testing/article_736420c0-a022-4844-ae19-b3ee9177128c.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Insidetucsonbusiness",
-      "head": "Diseases know no borders ! ",
-      "url": "https://www.insidetucsonbusiness.com/commentary/diseases-know-no-borders/article_8b8eca16-a279-4942-a2ae-7eb4b3426b83.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Communitypress",
-      "head": "Toxins masquerading as  disease  | The Community Press",
-      "url": "https://www.communitypress.ca:443/opinion/columnists/toxins-masquerading-as-disease",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Napaneeguide",
-      "head": "Toxins masquerading as  disease  | The Napanee Guide",
-      "url": "https://www.napaneeguide.com:443/opinion/columnists/toxins-masquerading-as-disease",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kansaspublicradio",
-      "head": "Headlines for Monday , June 15 , 2026",
-      "url": "https://kansaspublicradio.org/daily-headlines/2026-06-15/headlines-for-monday-june-15-2026",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gananoquereporter",
-      "head": "Toxins masquerading as  disease  | Gananoque Reporter",
-      "url": "https://www.gananoquereporter.com:443/opinion/columnists/toxins-masquerading-as-disease",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Irishtimes",
-      "head": "Ebola risk low in Ireland , watchdog says , as WHO monitors emergency in DRC and Uganda",
-      "url": "https://www.irishtimes.com/health/2026/06/15/ebola-risk-low-in-ireland-watchdog-says-as-who-monitors-emergency-in-drc-and-uganda/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Trentonian",
-      "head": "Toxins masquerading as  disease  | Trenton Trentonian",
-      "url": "https://www.trentonian.ca:443/opinion/columnists/toxins-masquerading-as-disease",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Intelligencer",
-      "head": "Toxins masquerading as  disease  | Belleville Intelligencer",
-      "url": "https://www.intelligencer.ca:443/opinion/columnists/toxins-masquerading-as-disease",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Foxnews",
-      "head": "Deadly parasitic tapeworm detected in West Coast wildlife for first time",
-      "url": "https://www.foxnews.com/health/deadly-fox-tapeworm-linked-lethal-disease-detected-west-coast-wildlife",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Manilatimes",
-      "head": "Dyadic Highlights Accelerated Interest in C1 Biomanufacturing Platform Amid Ebola Preparedness Activities and Growing Commercial Adoption",
-      "url": "https://www.manilatimes.net/2026/06/15/tmt-newswire/globenewswire/dyadic-highlights-accelerated-interest-in-c1-biomanufacturing-platform-amid-ebola-preparedness-activities-and-growing-commercial-adoption/2365498",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nakedcapitalism",
-      "head": "Links 6 / 15 / 2026 | naked capitalism",
-      "url": "https://www.nakedcapitalism.com/2026/06/links-6-15-2026.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "115分科生物 ／ 持續往素養導向發展 ！ 師分析趨勢 「 5單元 、 2能力 」 成致勝關鍵 | 大學考招 | 文教",
-      "url": "https://udn.com/news/story/6925/9567548",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Aksam",
-      "head": "Ýstanbul kruvaziyer merkezi oluyor",
-      "url": "https://www.aksam.com.tr/ekonomi/istanbul-kruvaziyer-merkezi-oluyor/haber-1674796",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Twincities",
-      "head": "William Robiner : Are we prepared to respond to the next pandemic ? ",
-      "url": "https://www.twincities.com/2026/06/14/william-robiner-are-we-prepared-to-respond-to-the-next-pandemic/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "İstanbulu ana liman olarak kullanan kruvaziyer şirketi sayısı arttı",
-      "url": "https://www.aa.com.tr/tr/ekonomi/istanbulu-ana-liman-olarak-kullanan-kruvaziyer-sirketi-sayisi-artti/3966462",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Greatbendpost",
-      "head": "Health sleuths are watching for disease threats during the World Cup",
-      "url": "https://greatbendpost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hayspost",
-      "head": "Health sleuths are watching for disease threats during the World Cup",
-      "url": "https://hayspost.com/posts/a46d4b74-1af5-49a8-99e4-7482cc9adf95",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Aletihad",
-      "head": "كيف نمنع الجائحة القادمة قبل أن تبدأ ؟ ",
-      "url": "https://www.aletihad.ae/opinion/4672322/%D9%83%D9%8A%D9%81-%D9%86%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%82%D8%A8%D9%84-%D8%A3%D9%86-%D8%AA%D8%A8%D8%AF%D8%A3",
-      "loc": "",
+      "src": "Dostor",
+      "head": "بعد إعلان الصحة العالمية .. هل بدأ خطر فيروس هانتا في التراجع ؟ ",
+      "url": "https://www.dostor.org/5602283",
+      "loc": "Egypt",
       "lang": "Arabic",
       "tags": [
         "Arabic",
-        ""
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abcnews",
+      "head": "Tennessee pharmacies sell potent ivermectin , led by doctor who taken  bucketloads  ",
+      "url": "https://abcnews.com/US/tennessee-pharmacies-sell-potent-ivermectin-led-doctor-bucketloads/story?id=132977175",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "DW",
+      "head": "Ebola and the US patient spotlight global health  injustice  ",
+      "url": "https://www.dw.com/en/ebola-and-the-us-patient-spotlight-global-health-injustice/a-77577798",
+      "loc": "Germany",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Germany"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Edmontonjournal",
+      "head": "Opinion : Public health restructuring puts Albertans at risk",
+      "url": "https://edmontonjournal.com/opinion/columnists/opinion-public-health-restructuring-puts-albertans-at-risk",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
       ],
       "live": true
     }
