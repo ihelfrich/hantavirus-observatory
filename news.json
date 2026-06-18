@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T12:52:10.431712+00:00",
+  "generated_at": "2026-06-18T16:31:11.995836+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
@@ -279,6 +279,20 @@
       "live": true
     },
     {
+      "time": "13:37",
+      "date": "2026-06-18",
+      "ts": "2026-06-18T13:37:29+00:00",
+      "src": "CDC EID",
+      "head": "Jimmy Carter and Eradication of Guinea Worm Disease",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/ac-3207_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
       "time": "04:00",
       "date": "2026-06-17",
       "ts": "2026-06-17T04:00:00+00:00",
@@ -355,20 +369,6 @@
       "src": "CDC EID",
       "head": "Fasciolopsis buski",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/24-1403_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-17",
-      "ts": "2026-06-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Jimmy Carter and Eradication of Guinea Worm Disease",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/ac-0746_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
