@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-19T12:58:31.123010+00:00",
+  "generated_at": "2026-06-19T16:11:13.390233+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 61,
@@ -180,21 +180,6 @@
       "src": "Fox35Orlando",
       "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
       "url": "https://www.fox35orlando.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLRN",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.wlrn.org/health/2026-06-17/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -711,6 +696,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Rockymounttelegram",
+      "head": "Editorial : Growing Ebola outbreak is a warning",
+      "url": "http://www.rockymounttelegram.com/opinion/editorials/editorial-growing-ebola-outbreak-is-a-warning/article_e6ff19fc-d82a-5149-9257-104c24a679df.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailyadvance",
+      "head": "Editorial : Growing Ebola outbreak is a warning",
+      "url": "http://www.dailyadvance.com/opinion/editorials/editorial-growing-ebola-outbreak-is-a-warning/article_ea29231e-a58d-434a-be22-18239284cab3.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "DNES",
+      "head": "Круизният кораб , на който пламна хантавирус , вече не е под карантина",
+      "url": "https://www.dnes.bg/a/2-svyat/725526-kruizniyat-korab-na-koyto-plamna-hantavirus-veche-ne-e-pod-karantina",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
+      "tags": [
+        "Bulgarian",
+        "Bulgaria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Rightspeak",
       "head": "RIGHT SPEAK : Mamdani Distributes Chocolate Condoms to Fight Disease Outbreak : Monkeypox , Measles , Syphilis : the Sickest City Has Got It All",
       "url": "http://www.rightspeak.net/2026/06/mamdani-distributes-chocolate-condoms.html",
@@ -854,36 +884,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Republicanherald",
-      "head": "Editorial : Growing Ebola outbreak is a warning",
-      "url": "https://www.republicanherald.com/2026/06/17/editorial-growing-ebola-outbreak-is-a-warning/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thetimes-Tribune",
-      "head": "Editorial : Growing Ebola outbreak is a warning",
-      "url": "https://www.thetimes-tribune.com/2026/06/17/editorial-growing-ebola-outbreak-is-a-warning/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
