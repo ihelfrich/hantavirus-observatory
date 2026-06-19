@@ -1,13 +1,178 @@
 {
-  "generated_at": "2026-06-19T04:14:44.383666+00:00",
+  "generated_at": "2026-06-19T09:19:10.429306+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 61,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "444",
+      "head": "Hazatérhetnek a hantavírusos hajó utasai",
+      "url": "https://444.hu/2026/06/19/hazaterhetnek-a-hantavirusos-hajo-utasai",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nationalpost",
+      "head": "Almost all passengers , crew from hantavirus ship out of quarantine",
+      "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thejournal",
+      "head": "Quarantine over for almost all hantavirus ship passengers and crew",
+      "url": "https://www.thejournal.ie/quarantine-over-for-almost-all-hantavirus-ship-passengers-crew-7075487-Jun2026/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Windermeresun",
+      "head": "Hantavirus Is Spreading - Windermere Sun - For Healthier / Happier / More Sustainable Living",
+      "url": "https://www.windermeresun.com/2026/06/17/hantavirus-is-spreading/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "RNZ",
+      "head": "First Australian hantavirus cruise ship passenger speaks from quarantine",
+      "url": "https://www.rnz.co.nz/news/world/598575/first-australian-hantavirus-cruise-ship-passenger-speaks-from-quarantine",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox26Houston",
+      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
+      "url": "https://www.fox26houston.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "ABC",
+      "head": "First Australian hantavirus cruise ship passenger speaks from quarantine",
+      "url": "https://www.abc.net.au/news/2026-06-18/australian-hantavirus-cruise-passenger-speaks-from-quarantine/106811692",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox5Ny",
+      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
+      "url": "https://www.fox5ny.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox5Dc",
+      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
+      "url": "https://www.fox5dc.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KY3",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.ky3.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WOWT",
+      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "url": "https://www.wowt.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -30,246 +195,6 @@
       "src": "WLRN",
       "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
       "url": "https://www.wlrn.org/health/2026-06-17/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Travelwires",
-      "head": "KLM Confirms Hantavirus Patient Was Briefly on Board JNB Flight",
-      "url": "https://www.travelwires.com/klm-confirms-hantavirus-patient-was-briefly-on-board-jnb-flight/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Saglikaktuel",
-      "head": "DSÖ  den Yolcu Gemisindeki Hantavirüs Salgınına İlişkin Açıklama : Durum İstikrarlı",
-      "url": "https://www.saglikaktuel.com/haber/dsoden-yolcu-gemisindeki-hantavirus-salginina-iliskin-aciklama-durum-istikrarli-107574.htm",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Paradisepost",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.paradisepost.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Aksam",
-      "head": "DSÖ  den hantavirüs aklamasý : Durum istikrarýn koruyor",
-      "url": "https://www.aksam.com.tr/saglik/dsoden-hantavirus-aciklamasi-durum-istikrarini-koruyor/haber-1675455",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Surinenglish",
-      "head": "Madrid Gómez Ulla hospital discharges last hantavirus patient",
-      "url": "https://www.surinenglish.com/spain/madrids-gomez-ulla-hospital-discharges-last-hantavirus-20260617093535-nt.html",
-      "loc": "Spain",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Spain"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Oneidadispatch",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.oneidadispatch.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nationalmemo",
-      "head": "COVID Lockdown Critic Kennedy Orders Hanta Cruise Survivor Held In Quarantine",
-      "url": "https://www.nationalmemo.com/hantavirus-rfk-jr",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WBOC",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.wboc.com/news/national/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/article_4fc8e14f-33b4-5217-9019-b331038936cc.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Troyrecord",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.troyrecord.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abcnews",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://abcnews.com/Health/wireStory/rfk-jr-overrules-experts-hantavirus-cruise-ship-passenger-133940992",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mcall",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.mcall.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KSAT",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.ksat.com/news/politics/2026/06/16/rfk-jr-overrules-experts-to-keep-hantavirus-cruise-ship-passenger-in-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailylocal",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.dailylocal.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Twincities",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.twincities.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chicoer",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.chicoer.com/2026/06/16/hantavirus-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Orlandosentinel",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.orlandosentinel.com/2026/06/16/hantavirus-quarantine/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -786,6 +711,141 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Rightspeak",
+      "head": "RIGHT SPEAK : Mamdani Distributes Chocolate Condoms to Fight Disease Outbreak : Monkeypox , Measles , Syphilis : the Sickest City Has Got It All",
+      "url": "http://www.rightspeak.net/2026/06/mamdani-distributes-chocolate-condoms.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cidrap",
+      "head": "Episode 211 : A System Held With Duct Tape",
+      "url": "https://www.cidrap.umn.edu/public-health/episode-211-system-held-duct-tape",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "DW",
+      "head": "Surto de ebola escancara a injustiça global na saúde",
+      "url": "https://www.dw.com/pt-br/surto-de-ebola-escancara-a-injusti%C3%A7a-global-na-sa%C3%BAde/a-77616068",
+      "loc": "Germany",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Germany"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timescall",
+      "head": "Views from the nation press",
+      "url": "https://www.timescall.com/2026/06/18/views-from-the-nations-press-565/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Folha",
+      "head": "Por que nem todo surto de doença vira pandemia - 18 / 06 / 2026 - Equilíbrio e Saúde",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/especialistas-explicam-o-que-separa-surtos-locais-de-pandemias.shtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Reporterherald",
+      "head": "Views from the nation press",
+      "url": "https://www.reporterherald.com/2026/06/18/views-from-the-nations-press-565/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jamaica-Gleaner",
+      "head": "SSP Diaries | Shaping the Future Government vs Integrity Commission and others",
+      "url": "https://jamaica-gleaner.com/article/commentary/20260618/ssp-diaries-shaping-future-government-vs-integrity-commission-and",
+      "loc": "Jamaica",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Jamaica"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nashvillescene",
+      "head": "Dr . James Crowe Wants to Plan Ahead for the Next Pandemic",
+      "url": "https://www.nashvillescene.com/news/citylimits/dr-james-crowe-vumc-antibody-treatment/article_81d03357-e700-45c9-901b-b4503eca120d.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Memphisflyer",
+      "head": "Remember Ivermectin ? It Legal , Pervasive , and Sometimes Poisonous Across Tennessee",
+      "url": "https://www.memphisflyer.com/remember-ivermectin-its-legal-pervasive-and-sometimes-poisonous-across-tennessee/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Independent",
       "head": "California resident becomes just the fourth person in the world to become infencted with tick - borne illness , officials say",
       "url": "https://www.independent.co.uk/news/health/california-tick-infection-rickettsia-lanei-b2997901.html",
@@ -824,66 +884,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dostor",
-      "head": "بعد إعلان الصحة العالمية .. هل بدأ خطر فيروس هانتا في التراجع ؟ ",
-      "url": "https://www.dostor.org/5602283",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abcnews",
-      "head": "Tennessee pharmacies sell potent ivermectin , led by doctor who taken  bucketloads  ",
-      "url": "https://abcnews.com/US/tennessee-pharmacies-sell-potent-ivermectin-led-doctor-bucketloads/story?id=132977175",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "DW",
-      "head": "Ebola and the US patient spotlight global health  injustice  ",
-      "url": "https://www.dw.com/en/ebola-and-the-us-patient-spotlight-global-health-injustice/a-77577798",
-      "loc": "Germany",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Germany"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Edmontonjournal",
-      "head": "Opinion : Public health restructuring puts Albertans at risk",
-      "url": "https://edmontonjournal.com/opinion/columnists/opinion-public-health-restructuring-puts-albertans-at-risk",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
       ],
       "live": true
     }
