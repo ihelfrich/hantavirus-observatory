@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-06-20T23:08:11.743763+00:00",
+  "generated_at": "2026-06-21T01:57:55.554239+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 61,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTBB",
+      "head": "Colorado public health officials investigating hantavirus death not linked to cruise ship cluster – KTBB News , Weather , Talk",
+      "url": "https://ktbb.com/post/?p=1513754",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Felixonline",
+      "head": "How Andes virus broke the rules",
+      "url": "https://felixonline.co.uk/articles/how-andes-virus-broke-the-rules/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "  It not science , it coercion : health experts decry RFK Jr order on hantavirus quarantine | Hantavirus",
+      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Karpatalja",
+      "head": "Hazatérhetnek a hantavírus miatt Hollandiában karanténba került emberek",
+      "url": "https://karpatalja.ma/kitekinto/vilag/hantvirus_jarvany_hajo_hondius_hollandia_karanten_hazateres_utasok_szemelyzet/",
+      "loc": "Morocco",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Morocco"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nebraskapublicmedia",
+      "head": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/2-more-cruise-ship-passengers-leave-omaha-quarantine-after-deadly-hantavirus-outbreak/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "The real reason a hantavirus disaster was averted | Hantavirus",
+      "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -80,111 +170,6 @@
       "tags": [
         "English",
         ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox26Houston",
-      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
-      "url": "https://www.fox26houston.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ABC",
-      "head": "First Australian hantavirus cruise ship passenger speaks from quarantine",
-      "url": "https://www.abc.net.au/news/2026-06-18/australian-hantavirus-cruise-passenger-speaks-from-quarantine/106811692",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox5Ny",
-      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
-      "url": "https://www.fox5ny.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox5Dc",
-      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
-      "url": "https://www.fox5dc.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KY3",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.ky3.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WOWT",
-      "head": "RFK Jr . overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "url": "https://www.wowt.com/2026/06/17/rfk-jr-overrules-experts-keep-hantavirus-cruise-ship-passenger-quarantine/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox35Orlando",
-      "head": "RFK Jr . orders hantavirus cruise ship passenger to stay in quarantine",
-      "url": "https://www.fox35orlando.com/news/rjk-jr-orders-hantavirus-cruise-ship-passenger-stay-quarantine",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -696,6 +681,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "N",
+      "head": "臺南市場夜市防鼠升級 黃偉哲籲落實防鼠三不",
+      "url": "https://n.yam.com/Article/20260621119642",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Philstar",
+      "head": "38 Pinoys on virus - hit cruise ship return home",
+      "url": "https://www.philstar.com/nation/2026/06/21/2536650/38-pinoys-virus-hit-cruise-ship-return-home",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Rockymounttelegram",
       "head": "Editorial : Growing Ebola outbreak is a warning",
       "url": "http://www.rockymounttelegram.com/opinion/editorials/editorial-growing-ebola-outbreak-is-a-warning/article_e6ff19fc-d82a-5149-9257-104c24a679df.html",
@@ -869,21 +884,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Independent",
-      "head": "California resident becomes just the fourth person in the world to become infencted with tick - borne illness , officials say",
-      "url": "https://www.independent.co.uk/news/health/california-tick-infection-rickettsia-lanei-b2997901.html",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
       ],
       "live": true
     }
