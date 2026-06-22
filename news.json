@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T19:25:52.616637+00:00",
+  "generated_at": "2026-06-22T21:38:18.694554+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
@@ -8,6 +8,216 @@
   ],
   "count": 61,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thetimes-Tribune",
+      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
+      "url": "https://www.thetimes-tribune.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberaktuel",
+      "head": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
+      "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KHQA",
+      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+      "url": "https://www.khqa.com/news/nation-world/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article_0594fffb-8cdd-5754-8ae3-1480e098393f.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Canoncitydailyrecord",
+      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
+      "url": "https://www.canoncitydailyrecord.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Twincities",
+      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
+      "url": "https://www.twincities.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fortmorgantimes",
+      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
+      "url": "https://www.fortmorgantimes.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mynorthwest",
+      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+      "url": "https://mynorthwest.com/national/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/4250244",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abcnews",
+      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
+      "url": "https://abcnews.com/US/wireStory/quarantine-end-hantavirus-ship-passengers-nebraska-134107278",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mcall",
+      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
+      "url": "https://www.mcall.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Winnipegfreepress",
+      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ghtcoalition",
+      "head": "Research Roundup : mRNA flu vaccine rec , Bundibugyo virus tests support , Hantavirus test partnership",
+      "url": "https://www.ghtcoalition.org/blog/research-roundup-6-22-26",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Staradvertiser",
+      "head": "Hantavirus quarantine ends for 18 Americans exposed on a cruise ship",
+      "url": "https://www.staradvertiser.com/2026/06/21/breaking-news/hantavirus-quarantine-ends-for-18-americans-exposed-on-a-cruise-ship/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Businessday",
+      "head": "Hantavirus incident highlights hidden risks in shipping delays",
+      "url": "https://www.businessday.co.za/economy/2026-06-21-hantavirus-incident-highlights-hidden-risks-in-shipping-delays/",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nbcnews",
+      "head": "As hantavirus quarantine ends , cruise passengers and scientists share what they learned",
+      "url": "https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -95,81 +305,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "444",
-      "head": "Hazatérhetnek a hantavírusos hajó utasai",
-      "url": "https://444.hu/2026/06/19/hazaterhetnek-a-hantavirusos-hajo-utasai",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nationalpost",
-      "head": "Almost all passengers , crew from hantavirus ship out of quarantine",
-      "url": "https://nationalpost.com/news/almost-all-passengers-crew-from-hantavirus-ship-out-of-quarantine",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thejournal",
-      "head": "Quarantine over for almost all hantavirus ship passengers and crew",
-      "url": "https://www.thejournal.ie/quarantine-over-for-almost-all-hantavirus-ship-passengers-crew-7075487-Jun2026/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Windermeresun",
-      "head": "Hantavirus Is Spreading - Windermere Sun - For Healthier / Happier / More Sustainable Living",
-      "url": "https://www.windermeresun.com/2026/06/17/hantavirus-is-spreading/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "RNZ",
-      "head": "First Australian hantavirus cruise ship passenger speaks from quarantine",
-      "url": "https://www.rnz.co.nz/news/world/598575/first-australian-hantavirus-cruise-ship-passenger-speaks-from-quarantine",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
       ],
       "live": true
     },
@@ -681,6 +816,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Thelocal",
+      "head": "Today in Spain : A roundup of the latest news on Monday",
+      "url": "https://www.thelocal.es/20260622/today-in-spain-a-roundup-of-the-latest-news-on-monday-85",
+      "loc": "Spain",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Spain"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "DF",
+      "head": "El científico chileno que quiere curar el cáncer y virus con alpacas",
+      "url": "https://www.df.cl/df-lab/innovacion-y-startups/el-cientifico-chileno-que-quiere-curar-el-cancer-y-virus-con-alpacas",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bostonherald",
+      "head": "Editorial : Growing Ebola outbreak is a warning",
+      "url": "https://www.bostonherald.com/2026/06/21/editorial-growing-ebola-outbreak-is-a-warning/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "N",
       "head": "臺南市場夜市防鼠升級 黃偉哲籲落實防鼠三不",
       "url": "https://n.yam.com/Article/20260621119642",
@@ -704,186 +884,6 @@
       "tags": [
         "English",
         "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rockymounttelegram",
-      "head": "Editorial : Growing Ebola outbreak is a warning",
-      "url": "http://www.rockymounttelegram.com/opinion/editorials/editorial-growing-ebola-outbreak-is-a-warning/article_e6ff19fc-d82a-5149-9257-104c24a679df.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailyadvance",
-      "head": "Editorial : Growing Ebola outbreak is a warning",
-      "url": "http://www.dailyadvance.com/opinion/editorials/editorial-growing-ebola-outbreak-is-a-warning/article_ea29231e-a58d-434a-be22-18239284cab3.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "DNES",
-      "head": "Круизният кораб , на който пламна хантавирус , вече не е под карантина",
-      "url": "https://www.dnes.bg/a/2-svyat/725526-kruizniyat-korab-na-koyto-plamna-hantavirus-veche-ne-e-pod-karantina",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rightspeak",
-      "head": "RIGHT SPEAK : Mamdani Distributes Chocolate Condoms to Fight Disease Outbreak : Monkeypox , Measles , Syphilis : the Sickest City Has Got It All",
-      "url": "http://www.rightspeak.net/2026/06/mamdani-distributes-chocolate-condoms.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cidrap",
-      "head": "Episode 211 : A System Held With Duct Tape",
-      "url": "https://www.cidrap.umn.edu/public-health/episode-211-system-held-duct-tape",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "DW",
-      "head": "Surto de ebola escancara a injustiça global na saúde",
-      "url": "https://www.dw.com/pt-br/surto-de-ebola-escancara-a-injusti%C3%A7a-global-na-sa%C3%BAde/a-77616068",
-      "loc": "Germany",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Germany"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timescall",
-      "head": "Views from the nation press",
-      "url": "https://www.timescall.com/2026/06/18/views-from-the-nations-press-565/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Folha",
-      "head": "Por que nem todo surto de doença vira pandemia - 18 / 06 / 2026 - Equilíbrio e Saúde",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/especialistas-explicam-o-que-separa-surtos-locais-de-pandemias.shtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Reporterherald",
-      "head": "Views from the nation press",
-      "url": "https://www.reporterherald.com/2026/06/18/views-from-the-nations-press-565/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jamaica-Gleaner",
-      "head": "SSP Diaries | Shaping the Future Government vs Integrity Commission and others",
-      "url": "https://jamaica-gleaner.com/article/commentary/20260618/ssp-diaries-shaping-future-government-vs-integrity-commission-and",
-      "loc": "Jamaica",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Jamaica"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nashvillescene",
-      "head": "Dr . James Crowe Wants to Plan Ahead for the Next Pandemic",
-      "url": "https://www.nashvillescene.com/news/citylimits/dr-james-crowe-vumc-antibody-treatment/article_81d03357-e700-45c9-901b-b4503eca120d.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Memphisflyer",
-      "head": "Remember Ivermectin ? It Legal , Pervasive , and Sometimes Poisonous Across Tennessee",
-      "url": "https://www.memphisflyer.com/remember-ivermectin-its-legal-pervasive-and-sometimes-poisonous-across-tennessee/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
