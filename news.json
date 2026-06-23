@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-23T21:56:48.859700+00:00",
+  "generated_at": "2026-06-23T23:10:24.044502+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
@@ -428,6 +428,20 @@
       "date": "2026-06-23",
       "ts": "2026-06-23T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Emergence of West African Human T-Lymphotropic Virus 1aC Subgroup, Brazilian Amazon",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0372_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Ancylostoma ceylanicum Hookworm, Rural Papua New Guinea, 2020",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1657_article",
       "loc": "Atlanta",
@@ -472,6 +486,20 @@
       "src": "CDC EID",
       "head": "Neurologic Alveolar Echinococcosis in Postpartum Zoo-Housed Gorilla, the Netherlands, 2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0136_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Dracunculus sp. PantanalBr Infection in Florida Panthers and Bobcat, Florida, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0514_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -668,34 +696,6 @@
       "src": "CDC EID",
       "head": "National Surveillance of Enterovirus D68 Upsurge, France, 2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0044_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-02",
-      "ts": "2026-06-02T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Outbreak of Legionnaires’ Disease Linked to Newly Installed Residential Water Heaters, the Netherlands, 2022–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0171_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-19",
-      "ts": "2026-05-19T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Phormia regina Fly as Vector for Ignatzschineria spp. Bacteremia in Persons Experiencing Homelessness, Canada, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1914_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
