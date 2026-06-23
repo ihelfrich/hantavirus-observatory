@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-23T12:32:05.466548+00:00",
+  "generated_at": "2026-06-23T15:47:34.905028+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
-  "count": 61,
+  "count": 62,
   "items": [
     {
       "time": "—",
@@ -305,6 +305,20 @@
       "tags": [
         "English",
         "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Neurosurgical Biopsy and Resection for Diagnosis and Treatment of Balamuthia mandrillaris Amebic Encephalitis, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0725_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
