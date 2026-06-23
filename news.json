@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-23T17:54:18.933022+00:00",
+  "generated_at": "2026-06-23T20:03:51.828981+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 66,
+  "count": 69,
   "items": [
     {
       "time": "—",
@@ -327,6 +327,48 @@
       "date": "2026-06-23",
       "ts": "2026-06-23T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Discovery of Cinchona as Antimalarial, Viceroyalty of Peru, Circa 1630",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0042_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Trends in Congenital Syphilis Cases by Maternal Country of Birth, Spain, 2016–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0146_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Angiostrongylus cantonensis Rat Lungworm Detected in Rats, Madagascar, 2022–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0142_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Household Transmission of Enterovirus D68, Washington and Oregon, United States, 2022–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1733_article",
       "loc": "Atlanta",
@@ -371,6 +413,20 @@
       "src": "CDC EID",
       "head": "Molecular Confirmation of Autochthonous Taenia saginata Infection, Timor-Leste, 2019",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-2034_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-23",
+      "ts": "2026-06-23T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Neurologic Alveolar Echinococcosis in Postpartum Zoo-Housed Gorilla, the Netherlands, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0136_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -595,20 +651,6 @@
       "src": "CDC EID",
       "head": "Phormia regina Fly as Vector for Ignatzschineria spp. Bacteremia in Persons Experiencing Homelessness, Canada, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1914_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-05-12",
-      "ts": "2026-05-12T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Adeno-Associated Virus Type 2 and Human Adenovirus Species F Type 41 Co-infection Associated with Acute Severe Hepatitis in Children, California, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0284_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
