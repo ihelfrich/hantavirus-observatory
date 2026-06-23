@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-23T20:03:51.828981+00:00",
+  "generated_at": "2026-06-23T21:56:48.859700+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 69,
@@ -12,9 +12,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thetimes-Tribune",
-      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-      "url": "https://www.thetimes-tribune.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "src": "WKBW",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wkbw.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -27,24 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Haberaktuel",
-      "head": "Nebraskada Son Hantavirüs Yolcularının Karantinası Sona Erdi",
-      "url": "https://www.haberaktuel.com/nebraskada-son-hantavirus-yolcularinin-karantinasi-sona-erdi-3450835",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KHQA",
-      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-      "url": "https://www.khqa.com/news/nation-world/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/article_0594fffb-8cdd-5754-8ae3-1480e098393f.html",
+      "src": "KJRH",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.kjrh.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -57,9 +42,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Canoncitydailyrecord",
-      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-      "url": "https://www.canoncitydailyrecord.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "src": "WXYZ",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wxyz.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -72,9 +57,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Twincities",
-      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-      "url": "https://www.twincities.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "src": "WTXL",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wtxl.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -87,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Fortmorgantimes",
-      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-      "url": "https://www.fortmorgantimes.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
+      "src": "Turnto23",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.turnto23.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -102,9 +87,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Mynorthwest",
-      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-      "url": "https://mynorthwest.com/national/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska/4250244",
+      "src": "Fox17Online",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.fox17online.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -117,164 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Abcnews",
-      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-      "url": "https://abcnews.com/US/wireStory/quarantine-end-hantavirus-ship-passengers-nebraska-134107278",
+      "src": "WPTV",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wptv.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mcall",
-      "head": "Quarantine ends for last of hantavirus ship passengers in Nebraska",
-      "url": "https://www.mcall.com/2026/06/22/american-passengers-leave-nebraska-quarantine-hantavirus-outbreak/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/2026/06/22/quarantine-comes-to-an-end-for-the-last-of-the-hantavirus-ship-passengers-in-nebraska",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ghtcoalition",
-      "head": "Research Roundup : mRNA flu vaccine rec , Bundibugyo virus tests support , Hantavirus test partnership",
-      "url": "https://www.ghtcoalition.org/blog/research-roundup-6-22-26",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Staradvertiser",
-      "head": "Hantavirus quarantine ends for 18 Americans exposed on a cruise ship",
-      "url": "https://www.staradvertiser.com/2026/06/21/breaking-news/hantavirus-quarantine-ends-for-18-americans-exposed-on-a-cruise-ship/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Businessday",
-      "head": "Hantavirus incident highlights hidden risks in shipping delays",
-      "url": "https://www.businessday.co.za/economy/2026-06-21-hantavirus-incident-highlights-hidden-risks-in-shipping-delays/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nbcnews",
-      "head": "As hantavirus quarantine ends , cruise passengers and scientists share what they learned",
-      "url": "https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTBB",
-      "head": "Colorado public health officials investigating hantavirus death not linked to cruise ship cluster – KTBB News , Weather , Talk",
-      "url": "https://ktbb.com/post/?p=1513754",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Felixonline",
-      "head": "How Andes virus broke the rules",
-      "url": "https://felixonline.co.uk/articles/how-andes-virus-broke-the-rules/",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "  It not science , it coercion : health experts decry RFK Jr order on hantavirus quarantine | Hantavirus",
-      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Karpatalja",
-      "head": "Hazatérhetnek a hantavírus miatt Hollandiában karanténba került emberek",
-      "url": "https://karpatalja.ma/kitekinto/vilag/hantvirus_jarvany_hajo_hondius_hollandia_karanten_hazateres_utasok_szemelyzet/",
-      "loc": "Morocco",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Morocco"
       ],
       "live": true
     },
@@ -283,8 +118,8 @@
       "date": "",
       "ts": "",
       "src": "Nebraskapublicmedia",
-      "head": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
-      "url": "https://nebraskapublicmedia.org/en/news/news-articles/2-more-cruise-ship-passengers-leave-omaha-quarantine-after-deadly-hantavirus-outbreak/",
+      "head": "  No room for error : UNMC reflects as quarantine ends for hantavirus cruise ship passengers",
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/no-room-for-error-unmc-reflects-as-quarantine-ends-for-hantavirus-cruise-ship-passengers/",
       "loc": "",
       "lang": "English",
       "tags": [
@@ -297,14 +132,224 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "WCPO",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wcpo.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KSBY",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.ksby.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KXXV",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.kxxv.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KOAA",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.koaa.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTVR",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wtvr.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WTKR",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.wtkr.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTVH",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.ktvh.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KXLF",
+      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
+      "url": "https://www.kxlf.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Guardian",
-      "head": "The real reason a hantavirus disaster was averted | Hantavirus",
-      "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
+      "head": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
       "loc": "United Kingdom",
       "lang": "English",
       "tags": [
         "English",
         "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KETV",
+      "head": "Nebraska officials discuss hantavirus cruise ship operation",
+      "url": "https://www.ketv.com/article/nebraska-officials-to-discuss-end-of-hantavirus-monitoring-operation/71675233",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Prokerala",
+      "head": "Captain , most crew members on Hantavirus cruise ship completed quarantine : WHO chief",
+      "url": "https://www.prokerala.com/news/articles/a1779043.html",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newkerala",
+      "head": "Hantavirus Cruise Ship Crew Completes Quarantine : WHO",
+      "url": "https://www.newkerala.com/news/a/captain-most-crew-members-hantavirus-cruise-ship-completed-231.htm",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Birgun",
+      "head": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
+      "url": "https://www.birgun.net/haber/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-719921",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mymixfm",
+      "head": "All US passengers from hantavirus - hit ship return to home states",
+      "url": "https://mymixfm.com/2026/06/22/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wtvbam",
+      "head": "All US passengers from hantavirus - hit ship return to home states",
+      "url": "https://wtvbam.com/2026/06/22/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -928,14 +973,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Thelocal",
-      "head": "Today in Spain : A roundup of the latest news on Monday",
-      "url": "https://www.thelocal.es/20260622/today-in-spain-a-roundup-of-the-latest-news-on-monday-85",
-      "loc": "Spain",
-      "lang": "English",
+      "src": "Pronedra",
+      "head": "В Небраске завершили карантин пассажиров с риском хантавируса",
+      "url": "https://pronedra.ru/hantavirus-ship-passengers-quarantine-821770.html",
+      "loc": "Russia",
+      "lang": "Russian",
       "tags": [
-        "English",
-        "Spain"
+        "Russian",
+        "Russia"
       ],
       "live": true
     },
@@ -943,59 +988,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "DF",
-      "head": "El científico chileno que quiere curar el cáncer y virus con alpacas",
-      "url": "https://www.df.cl/df-lab/innovacion-y-startups/el-cientifico-chileno-que-quiere-curar-el-cancer-y-virus-con-alpacas",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bostonherald",
-      "head": "Editorial : Growing Ebola outbreak is a warning",
-      "url": "https://www.bostonherald.com/2026/06/21/editorial-growing-ebola-outbreak-is-a-warning/",
+      "src": "WOWT",
+      "head": "June 23 headlines : Oklahoma wins CWS , Blair man due in court in child sex abuse investigation , foundation wall collapses in Blackstone",
+      "url": "https://www.wowt.com/2026/06/23/6-things-you-need-know-tuesday-june-23/",
       "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "N",
-      "head": "臺南市場夜市防鼠升級 黃偉哲籲落實防鼠三不",
-      "url": "https://n.yam.com/Article/20260621119642",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Philstar",
-      "head": "38 Pinoys on virus - hit cruise ship return home",
-      "url": "https://www.philstar.com/nation/2026/06/21/2536650/38-pinoys-virus-hit-cruise-ship-return-home",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
       ],
       "live": true
     }
