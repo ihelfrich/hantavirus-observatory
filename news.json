@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24T19:12:56.096105+00:00",
+  "generated_at": "2026-06-24T21:09:53.057057+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -380,6 +380,20 @@
     },
     {
       "time": "04:00",
+      "date": "2026-06-24",
+      "ts": "2026-06-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0948_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
       "date": "2026-06-23",
       "ts": "2026-06-23T04:00:00+00:00",
       "src": "CDC EID",
@@ -651,20 +665,6 @@
       "src": "CDC EID",
       "head": "Emerging Risk for Human T-Cell Leukemia Virus Type 1 Transmission with HIV-Positive Breastfeeding Support",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1525_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-11",
-      "ts": "2026-06-11T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Prognostic Value of PCR Cycle Threshold Value in Crimean-Congo Hemorrhagic Fever, Iraq, 2022–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1284_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
