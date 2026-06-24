@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-06-24T17:27:22.893486+00:00",
+  "generated_at": "2026-06-24T19:12:56.096105+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 69,
+  "count": 70,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Globalnews",
+      "head": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
+      "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WDBO",
+      "head": "Quarantine ends for hantavirus outbreak from MV Hondius",
+      "url": "https://www.wdbo.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wsbradio",
+      "head": "Quarantine ends for hantavirus outbreak from MV Hondius",
+      "url": "https://www.wsbradio.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "1073Theeagle",
+      "head": "Quarantine ends for hantavirus outbreak from MV Hondius",
+      "url": "https://www.1073theeagle.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -249,107 +309,72 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
-      "loc": "United Kingdom",
-      "lang": "English",
+      "time": "18:18",
+      "date": "2026-06-24",
+      "ts": "2026-06-24T18:18:27+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "France Reports First Ebola Case In Doctor Returning From DRC Mission",
+      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/",
+      "loc": "Global",
+      "lang": "en",
       "tags": [
-        "English",
-        "United Kingdom"
+        "OutbreakNewsToday"
       ],
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KETV",
-      "head": "Nebraska officials discuss hantavirus cruise ship operation",
-      "url": "https://www.ketv.com/article/nebraska-officials-to-discuss-end-of-hantavirus-monitoring-operation/71675233",
-      "loc": "United States",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-06-24",
+      "ts": "2026-06-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Trichinellosis Outbreak Linked to Undercooked Bear Jerky, North Carolina, USA, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0062_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "United States"
+        "CDC EID"
       ],
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Prokerala",
-      "head": "Captain , most crew members on Hantavirus cruise ship completed quarantine : WHO chief",
-      "url": "https://www.prokerala.com/news/articles/a1779043.html",
-      "loc": "India",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-06-24",
+      "ts": "2026-06-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of and Early Genomic Insights into Chikungunya Virus, Bolivia, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0540_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "India"
+        "CDC EID"
       ],
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newkerala",
-      "head": "Hantavirus Cruise Ship Crew Completes Quarantine : WHO",
-      "url": "https://www.newkerala.com/news/a/captain-most-crew-members-hantavirus-cruise-ship-completed-231.htm",
-      "loc": "India",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-06-24",
+      "ts": "2026-06-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Ophthalmomyiasis Outbreak Caused by Oestrus ovis Infection, Algeria, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "India"
+        "CDC EID"
       ],
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Birgun",
-      "head": "DSÖ Genel Direktörü Ghebreyesus : Hantavirüs salgınını bitirmeye yaklaşıyoruz",
-      "url": "https://www.birgun.net/haber/dso-genel-direktoru-ghebreyesus-hantavirus-salginini-bitirmeye-yaklasiyoruz-719921",
-      "loc": "Turkey",
-      "lang": "Turkish",
+      "time": "04:00",
+      "date": "2026-06-24",
+      "ts": "2026-06-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Autochthonous Neurocysticercosis Brain Lesions Mimicking Metastatic Disease, Spain",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0587_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mymixfm",
-      "head": "All US passengers from hantavirus - hit ship return to home states",
-      "url": "https://mymixfm.com/2026/06/22/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wtvbam",
-      "head": "All US passengers from hantavirus - hit ship return to home states",
-      "url": "https://wtvbam.com/2026/06/22/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "CDC EID"
       ],
       "live": true
     },
@@ -648,62 +673,6 @@
       "live": true
     },
     {
-      "time": "04:00",
-      "date": "2026-06-10",
-      "ts": "2026-06-10T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Cat-Scratch Disease Associated with Acute Hearing Loss, Israel",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0592_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-09",
-      "ts": "2026-06-09T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Molecular Epidemiology of Skin-Dwelling Filariae and Risk Factors for Mansonella streptocerca Infection, Gabon",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1800_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-05",
-      "ts": "2026-06-05T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Clinical Predictors of Fatal Outcomes from Human Leptospirosis, Thailand, 2015–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0014_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-04",
-      "ts": "2026-06-04T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "National Surveillance of Enterovirus D68 Upsurge, France, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0044_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
       "time": "17:36",
       "date": "2026-03-19",
       "ts": "2026-03-19T17:36:00+00:00",
@@ -966,6 +935,51 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Observador",
+      "head": "As notícias das 18h",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2078/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dailymail",
+      "head": "Mutant sewer rats spreading through major US cities as scientists discover disturbing DNA changes",
+      "url": "https://www.dailymail.com/sciencetech/article-15926119/mutant-rats-dna-new-york-poison.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "The Hindu",
+      "head": "Health matters Continuing Medical Education for healthcare",
+      "url": "https://www.thehindu.com/sci-tech/health/health-matters-continuing-medical-education-for-healthcare/article71136897.ece",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
       ],
       "live": true
     },
