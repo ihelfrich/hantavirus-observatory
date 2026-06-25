@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T18:32:35.440725+00:00",
+  "generated_at": "2026-06-25T20:55:52.613104+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
@@ -245,6 +245,20 @@
       "tags": [
         "Portuguese",
         "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-25",
+      "ts": "2026-06-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Investigation of Donor-Transmitted Strongyloides stercoralis Infections in Solid Organ Transplant Recipients, United States, 2012–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0747_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -591,20 +605,6 @@
       "src": "CDC EID",
       "head": "Recurrent Facial Folliculitis Caused by Klebsiella aerogenes Sequence Type 117 in Men who Have Sex with Men",
       "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0572_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-17",
-      "ts": "2026-06-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Fasciolopsis buski",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/24-1403_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
