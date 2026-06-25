@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25T13:36:08.811453+00:00",
+  "generated_at": "2026-06-25T16:23:24.669716+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -245,6 +245,34 @@
       "tags": [
         "Portuguese",
         "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-25",
+      "ts": "2026-06-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Chikungunya Outbreak, Cuba, July 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0344_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-06-25",
+      "ts": "2026-06-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Human Pulmonary Dirofilariasis, North Queensland, Australia, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0280_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -585,34 +613,6 @@
       "live": true
     },
     {
-      "time": "04:00",
-      "date": "2026-06-16",
-      "ts": "2026-06-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Epidemiology and Clinical Features of Balamuthia mandrillaris Infection, China",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1771_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-12",
-      "ts": "2026-06-12T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emerging Risk for Human T-Cell Leukemia Virus Type 1 Transmission with HIV-Positive Breastfeeding Support",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1525_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
       "time": "17:36",
       "date": "2026-03-19",
       "ts": "2026-03-19T17:36:00+00:00",
@@ -882,6 +882,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Thurstontalk",
+      "head": "Pest Stop Manages Good Bugs and Bad Bugs in Western Washington",
+      "url": "https://www.thurstontalk.com/2026/06/25/pest-stop-manages-good-bugs-and-bad-bugs-in-western-washington/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Alyaoum24",
       "head": "الصحة العالمية تتوقع انتهاء تفشي فيروس هانتا رسميا في ثاني يوليوز المقبل – اليوم 24",
       "url": "https://alyaoum24.com/2030275.html",
@@ -995,21 +1010,6 @@
       "tags": [
         "Chinese",
         "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AFR",
-      "head": "Cruising in 2026 : What to do when your trip goes wrong",
-      "url": "https://www.afr.com/life-and-luxury/travel/what-to-do-when-your-cruise-goes-wrong-20260610-p605lo",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
       ],
       "live": true
     }
