@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25T08:22:15.409841+00:00",
+  "generated_at": "2026-06-25T11:15:18.357786+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -12,28 +12,13 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Globalnews",
-      "head": "Hantavirus self - isolation complete for 34 Canadians , Health Canada says - National",
-      "url": "https://globalnews.ca/news/11936372/self-isolation-complete-34-canadians-mv-hondius-health-canada/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WDBO",
-      "head": "Quarantine ends for hantavirus outbreak from MV Hondius",
-      "url": "https://www.wdbo.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
+      "src": "PT",
+      "head": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
+      "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
       "loc": "United States",
-      "lang": "English",
+      "lang": "Portuguese",
       "tags": [
-        "English",
+        "Portuguese",
         "United States"
       ],
       "live": true
@@ -42,144 +27,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Wsbradio",
-      "head": "Quarantine ends for hantavirus outbreak from MV Hondius",
-      "url": "https://www.wsbradio.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1073Theeagle",
-      "head": "Quarantine ends for hantavirus outbreak from MV Hondius",
-      "url": "https://www.1073theeagle.com/news/trending/hantavirus-quarantine-ends-no-cases-us/L4Z53QWDVNCFXF7OK2NN5UJOUM/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WKBW",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wkbw.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KJRH",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.kjrh.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WXYZ",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wxyz.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WTXL",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wtxl.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Turnto23",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.turnto23.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox17Online",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.fox17online.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WPTV",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wptv.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nebraskapublicmedia",
-      "head": "  No room for error : UNMC reflects as quarantine ends for hantavirus cruise ship passengers",
-      "url": "https://nebraskapublicmedia.org/en/news/news-articles/no-room-for-error-unmc-reflects-as-quarantine-ends-for-hantavirus-cruise-ship-passengers/",
+      "src": "English",
+      "head": "U . S . concludes Hantavirus response effort , no U . S . cases detected - Xinhua",
+      "url": "https://english.news.cn/20260625/27d3cf15586e4182bf86ed3dbb19b06c/c.html",
       "loc": "",
       "lang": "English",
       "tags": [
@@ -192,9 +42,24 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WCPO",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wcpo.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "English",
+      "head": "U . S . concludes Hantavirus response effort , no U . S . cases detected - Xinhua",
+      "url": "https://english.news.cn/northamerica/20260625/e4e5ccbf22f14238b28927655a646145/c.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Al Jazeera",
+      "head": "US public health agency concludes hantavirus response as outbreak eases",
+      "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -207,9 +72,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KSBY",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.ksby.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "Arstechnica",
+      "head": "US ends hantavirus outbreak response with no answers on draconian quarantines",
+      "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -222,9 +87,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KXXV",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.kxxv.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "HU",
+      "head": "A halálos hantavírus - járvány július 2 - án érhet véget a WHO szerint",
+      "url": "https://hu.euronews.com/egeszseg/2026/06/24/a-halalos-hantavirus-jarvany-julius-2-an-erhet-veget-a-who-szerint",
+      "loc": "United States",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cartacapital",
+      "head": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
+      "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dominicanrepublicpost",
+      "head": "US public health agency concludes hantavirus response as outbreak eases - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -237,9 +132,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KOAA",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.koaa.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "CDC",
+      "head": "Transcript - Update on CDC Hantavirus Response – 6 / 24 / 26",
+      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -252,9 +147,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTVR",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wtvr.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "Euronews",
+      "head": "Deadly Hantavirus outbreak should end on 2 July , WHO says",
+      "url": "https://www.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -267,9 +162,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WTKR",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.wtkr.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "Grenadachronicle",
+      "head": "US public health agency concludes hantavirus response as outbreak eases - Grenada Chronicle – Daily Grenada And Caribbean News",
+      "url": "https://grenadachronicle.com/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -282,9 +177,39 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KTVH",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.ktvh.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
+      "src": "Newsx",
+      "head": "WHO Issues Fresh Update On Hantavirus And Ebola Outbreaks As Cases Spread Across Borders",
+      "url": "https://www.newsx.com/world/who-issues-fresh-update-on-hantavirus-and-ebola-outbreaks-as-cases-spread-across-borders-240610/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TR",
+      "head": "DSÖ : Ölümcül Hantavirüs salgınının 2 Temmuzda biteceği açıklandı",
+      "url": "https://tr.euronews.com/saglik/2026/06/24/dso-olumcul-hantavirus-salgininin-2-temmuzda-bitecegi-aciklandi",
+      "loc": "United States",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Article",
+      "head": "Hantavirus outbreak to formally end on July 2 , says WHO",
+      "url": "https://article.wn.com/view/2026/06/24/Hantavirus_outbreak_to_formally_end_on_July_2_says_WHO/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -297,14 +222,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KXLF",
-      "head": "Hantavirus threat from cruise ship outbreak ends in US , official say",
-      "url": "https://www.kxlf.com/health/hantavirus-threat-from-cruise-ship-outbreak-ends-in-us-official-say",
-      "loc": "United States",
+      "src": "Manilatimes",
+      "head": "Hantavirus outbreak should formally end on July 2 WHO",
+      "url": "https://www.manilatimes.net/2026/06/25/world/hantavirus-outbreak-should-formally-end-on-july-2-who/2372394",
+      "loc": "Philippines",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jornaldebrasilia",
+      "head": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
+      "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
       ],
       "live": true
     },
@@ -942,14 +882,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Observador",
-      "head": "As notícias das 18h",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2078/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
+      "src": "Alyaoum24",
+      "head": "الصحة العالمية تتوقع انتهاء تفشي فيروس هانتا رسميا في ثاني يوليوز المقبل – اليوم 24",
+      "url": "https://alyaoum24.com/2030275.html",
+      "loc": "Morocco",
+      "lang": "Arabic",
       "tags": [
-        "Portuguese",
-        "Portugal"
+        "Arabic",
+        "Morocco"
       ],
       "live": true
     },
@@ -957,13 +897,58 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Dailymail",
-      "head": "Mutant sewer rats spreading through major US cities as scientists discover disturbing DNA changes",
-      "url": "https://www.dailymail.com/sciencetech/article-15926119/mutant-rats-dna-new-york-poison.html",
-      "loc": "United States",
-      "lang": "English",
+      "src": "UDN",
+      "head": "分科測驗衝刺 ／ 生物科時事留意瘦瘦針 補教師建議先寫非選題穩定心情 | 115分科倒數 | 文教",
+      "url": "https://udn.com/news/story/6925/9587123",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "English",
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UDN",
+      "head": "分科測驗衝刺 ／ 生物科時事留意瘦瘦針 補教師建議先寫非選題穩定心情 | 115分科倒數 | 文教",
+      "url": "https://udn.com/news/story/124910/9587123",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Almanar",
+      "head": "الصحة العالمية تتجه لإعلان انتهاء تفشي فيروس هانتا مطلع تموز بعد احتواء الإصابات – قناة المنار",
+      "url": "https://www.almanar.com.lb/article/975287/",
+      "loc": "Lebanon",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Lebanon"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arabic",
+      "head": "منظمة الصحة العالمية : انتهاء تفشي فيروس هانتا القاتل في 2 يوليو",
+      "url": "https://arabic.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says",
+      "loc": "United States",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
         "United States"
       ],
       "live": true
@@ -972,14 +957,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "The Hindu",
-      "head": "Health matters Continuing Medical Education for healthcare",
-      "url": "https://www.thehindu.com/sci-tech/health/health-matters-continuing-medical-education-for-healthcare/article71136897.ece",
-      "loc": "India",
+      "src": "ABC",
+      "head": "How behaviour and biology decide the outbreak equation",
+      "url": "https://www.abc.net.au/news/2026-06-25/as-ebola-spreads-australia-faces-rise-in-biblical-disease-risks/106736608",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "India"
+        "Australia"
       ],
       "live": true
     },
@@ -987,14 +972,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Pronedra",
-      "head": "В Небраске завершили карантин пассажиров с риском хантавируса",
-      "url": "https://pronedra.ru/hantavirus-ship-passengers-quarantine-821770.html",
-      "loc": "Russia",
-      "lang": "Russian",
+      "src": "NEWS",
+      "head": "世衛 ： 漢他病毒疫情若無新增病例 有望7 / 2宣告結束 - 國際",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5483107",
+      "loc": "Taiwan",
+      "lang": "Chinese",
       "tags": [
-        "Russian",
-        "Russia"
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
@@ -1002,14 +987,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "WOWT",
-      "head": "June 23 headlines : Oklahoma wins CWS , Blair man due in court in child sex abuse investigation , foundation wall collapses in Blackstone",
-      "url": "https://www.wowt.com/2026/06/23/6-things-you-need-know-tuesday-june-23/",
-      "loc": "United States",
+      "src": "SETN",
+      "head": "12人確診 、 3人死亡 ！ 漢他病毒疫情若無新增病例 世衛 ： 有望7 / 2宣告結束 | 國際",
+      "url": "https://www.setn.com/News.aspx?NewsID=1861914",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AFR",
+      "head": "Cruising in 2026 : What to do when your trip goes wrong",
+      "url": "https://www.afr.com/life-and-luxury/travel/what-to-do-when-your-cruise-goes-wrong-20260610-p605lo",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     }
