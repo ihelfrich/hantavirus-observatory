@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T23:52:29.570059+00:00",
+  "generated_at": "2026-06-26T03:37:32.483716+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
@@ -12,29 +12,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "PT",
-      "head": "Surto mortal de hantavírus deve terminar a 2 de julho , diz OMS",
-      "url": "https://pt.euronews.com/saude/2026/06/24/surto-mortal-de-hantavirus-deve-terminar-a-2-de-julho-diz-oms",
-      "loc": "United States",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "English",
-      "head": "U . S . concludes Hantavirus response effort , no U . S . cases detected - Xinhua",
-      "url": "https://english.news.cn/20260625/27d3cf15586e4182bf86ed3dbb19b06c/c.html",
-      "loc": "",
+      "src": "Thefreepress",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://thefreepress.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "Canada"
       ],
       "live": true
     },
@@ -42,14 +27,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "English",
-      "head": "U . S . concludes Hantavirus response effort , no U . S . cases detected - Xinhua",
-      "url": "https://english.news.cn/northamerica/20260625/e4e5ccbf22f14238b28927655a646145/c.html",
-      "loc": "",
+      "src": "Abbynews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://abbynews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        ""
+        "Canada"
       ],
       "live": true
     },
@@ -57,14 +42,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Al Jazeera",
-      "head": "US public health agency concludes hantavirus response as outbreak eases",
-      "url": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
-      "loc": "United States",
+      "src": "Vernonmorningstar",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://vernonmorningstar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -72,14 +57,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Arstechnica",
-      "head": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-      "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-      "loc": "United States",
+      "src": "Cranbrooktownsman",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://cranbrooktownsman.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -87,44 +72,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "HU",
-      "head": "A halálos hantavírus - járvány július 2 - án érhet véget a WHO szerint",
-      "url": "https://hu.euronews.com/egeszseg/2026/06/24/a-halalos-hantavirus-jarvany-julius-2-an-erhet-veget-a-who-szerint",
-      "loc": "United States",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cartacapital",
-      "head": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho",
-      "url": "https://www.cartacapital.com.br/saude/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dominicanrepublicpost",
-      "head": "US public health agency concludes hantavirus response as outbreak eases - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases/",
-      "loc": "United States",
+      "src": "Pqbnews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://pqbnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -132,14 +87,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "CDC",
-      "head": "Transcript - Update on CDC Hantavirus Response – 6 / 24 / 26",
-      "url": "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-hantavirus-response-6-24-26.html",
-      "loc": "United States",
+      "src": "Campbellrivermirror",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://campbellrivermirror.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -147,14 +102,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Euronews",
-      "head": "Deadly Hantavirus outbreak should end on 2 July , WHO says",
-      "url": "https://www.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says",
-      "loc": "United States",
+      "src": "Caledoniacourier",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://caledoniacourier.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -162,14 +117,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Grenadachronicle",
-      "head": "US public health agency concludes hantavirus response as outbreak eases - Grenada Chronicle – Daily Grenada And Caribbean News",
-      "url": "https://grenadachronicle.com/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases/",
-      "loc": "United States",
+      "src": "Grandforksgazette",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://grandforksgazette.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -177,14 +132,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newsx",
-      "head": "WHO Issues Fresh Update On Hantavirus And Ebola Outbreaks As Cases Spread Across Borders",
-      "url": "https://www.newsx.com/world/who-issues-fresh-update-on-hantavirus-and-ebola-outbreaks-as-cases-spread-across-borders-240610/",
-      "loc": "India",
+      "src": "Comoxvalleyrecord",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://comoxvalleyrecord.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "India"
+        "Canada"
       ],
       "live": true
     },
@@ -192,29 +147,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "TR",
-      "head": "DSÖ : Ölümcül Hantavirüs salgınının 2 Temmuzda biteceği açıklandı",
-      "url": "https://tr.euronews.com/saglik/2026/06/24/dso-olumcul-hantavirus-salgininin-2-temmuzda-bitecegi-aciklandi",
-      "loc": "United States",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Article",
-      "head": "Hantavirus outbreak to formally end on July 2 , says WHO",
-      "url": "https://article.wn.com/view/2026/06/24/Hantavirus_outbreak_to_formally_end_on_July_2_says_WHO/",
-      "loc": "United States",
+      "src": "Quesnelobserver",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://quesnelobserver.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Canada"
       ],
       "live": true
     },
@@ -222,14 +162,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manilatimes",
-      "head": "Hantavirus outbreak should formally end on July 2 WHO",
-      "url": "https://www.manilatimes.net/2026/06/25/world/hantavirus-outbreak-should-formally-end-on-july-2-who/2372394",
-      "loc": "Philippines",
+      "src": "Nanaimobulletin",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://nanaimobulletin.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
       "lang": "English",
       "tags": [
         "English",
-        "Philippines"
+        "Canada"
       ],
       "live": true
     },
@@ -237,14 +177,209 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Jornaldebrasilia",
-      "head": "Surto de hantavírus deve ser encerrado oficialmente em 2 de julho ( OMS ) ",
-      "url": "https://jornaldebrasilia.com.br/noticias/mundo/surto-de-hantavirus-deve-ser-encerrado-oficialmente-em-2-de-julho-oms/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "src": "Cowichanvalleycitizen",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://cowichanvalleycitizen.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
       "tags": [
-        "Portuguese",
-        "Brazil"
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Aldergrovestar",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://aldergrovestar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ladysmithchronicle",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://ladysmithchronicle.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Yukon-News",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://yukon-news.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering-2/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hopestandard",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://hopestandard.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mapleridgenews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://mapleridgenews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Clearwatertimes",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://clearwatertimes.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northislandgazette",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://northislandgazette.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Westerlynews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://westerlynews.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Peacearchnews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://peacearchnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wltribune",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://wltribune.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theprogress",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://theprogress.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Agassizharrisonobserver",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://agassizharrisonobserver.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Vicnews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://vicnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
       ],
       "live": true
     },
@@ -875,141 +1010,6 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thurstontalk",
-      "head": "Pest Stop Manages Good Bugs and Bad Bugs in Western Washington",
-      "url": "https://www.thurstontalk.com/2026/06/25/pest-stop-manages-good-bugs-and-bad-bugs-in-western-washington/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Alyaoum24",
-      "head": "الصحة العالمية تتوقع انتهاء تفشي فيروس هانتا رسميا في ثاني يوليوز المقبل – اليوم 24",
-      "url": "https://alyaoum24.com/2030275.html",
-      "loc": "Morocco",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Morocco"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "分科測驗衝刺 ／ 生物科時事留意瘦瘦針 補教師建議先寫非選題穩定心情 | 115分科倒數 | 文教",
-      "url": "https://udn.com/news/story/6925/9587123",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "分科測驗衝刺 ／ 生物科時事留意瘦瘦針 補教師建議先寫非選題穩定心情 | 115分科倒數 | 文教",
-      "url": "https://udn.com/news/story/124910/9587123",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Almanar",
-      "head": "الصحة العالمية تتجه لإعلان انتهاء تفشي فيروس هانتا مطلع تموز بعد احتواء الإصابات – قناة المنار",
-      "url": "https://www.almanar.com.lb/article/975287/",
-      "loc": "Lebanon",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Lebanon"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arabic",
-      "head": "منظمة الصحة العالمية : انتهاء تفشي فيروس هانتا القاتل في 2 يوليو",
-      "url": "https://arabic.euronews.com/health/2026/06/24/deadly-hantavirus-outbreak-should-end-on-2-july-who-says",
-      "loc": "United States",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ABC",
-      "head": "How behaviour and biology decide the outbreak equation",
-      "url": "https://www.abc.net.au/news/2026-06-25/as-ebola-spreads-australia-faces-rise-in-biblical-disease-risks/106736608",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "世衛 ： 漢他病毒疫情若無新增病例 有望7 / 2宣告結束 - 國際",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5483107",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SETN",
-      "head": "12人確診 、 3人死亡 ！ 漢他病毒疫情若無新增病例 世衛 ： 有望7 / 2宣告結束 | 國際",
-      "url": "https://www.setn.com/News.aspx?NewsID=1861914",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
       ],
       "live": true
     }
