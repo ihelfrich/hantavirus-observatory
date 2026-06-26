@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:46:27.001183+00:00",
+  "generated_at": "2026-06-26T21:17:57.508107+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -8,36 +8,6 @@
   ],
   "count": 70,
   "items": [
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thefreepress",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://thefreepress.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abbynews",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://abbynews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
     {
       "time": "—",
       "date": "",
@@ -75,6 +45,36 @@
       "src": "Pqbnews",
       "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
       "url": "https://pqbnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thefreepress",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://thefreepress.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Abbynews",
+      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
+      "url": "https://abbynews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -345,21 +345,6 @@
       "src": "Theprogress",
       "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
       "url": "https://theprogress.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Agassizharrisonobserver",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://agassizharrisonobserver.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -995,6 +980,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Insidetucsonbusiness",
+      "head": "The biggest summer illness threat",
+      "url": "https://www.insidetucsonbusiness.com/commentary/the-biggest-summer-illness-threat/article_cd7903e7-3d8e-486d-9499-eb2d1274ffae.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
