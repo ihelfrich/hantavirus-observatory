@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:54:04.138411+00:00",
+  "generated_at": "2026-06-27T13:41:11.101060+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -300,51 +300,6 @@
       "src": "Westerlynews",
       "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
       "url": "https://westerlynews.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Peacearchnews",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://peacearchnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wltribune",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://wltribune.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theprogress",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://theprogress.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -980,6 +935,51 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Standardmedia",
+      "head": "Kenya health system put to test amid Ebola preparedness",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001551433/kenyas-health-system-put-to-test-amid-ebola-preparedness",
+      "loc": "Kenya",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Kenya"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fox5Vegas",
+      "head": "Mice , scorpions on the move as Las Vegas construction pushes pests into neighborhoods",
+      "url": "https://www.fox5vegas.com/2026/06/26/mice-scorpions-move-las-vegas-construction-pushes-pests-into-neighborhoods/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Esquire",
+      "head": "A Miserable New Supreme Court Decision Makes It Clear That Conservative Justices Dont Think Racism Exists",
+      "url": "https://www.esquire.com/news-politics/politics/a71749934/scotus-racism-temporary-protected-status-ruling/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
