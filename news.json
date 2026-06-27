@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:02:45.902069+00:00",
+  "generated_at": "2026-06-27T22:35:46.731989+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
@@ -270,21 +270,6 @@
       "src": "Mapleridgenews",
       "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
       "url": "https://mapleridgenews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Clearwatertimes",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://clearwatertimes.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -920,6 +905,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CHIP",
+      "head": "Şehirleri saran tehlike : Zehir yedikçe daha da gleniyorlar",
+      "url": "https://www.chip.com.tr/guncel/sehirleri-saran-tehlike-zehir-yedikce-daha-da-gucleniyorlar_181376.html",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
