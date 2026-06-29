@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T06:47:11.441586+00:00",
+  "generated_at": "2026-06-29T11:58:13.721140+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -8,6 +8,66 @@
   ],
   "count": 70,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haber7",
+      "head": "DSÖ  den hantavirüs açıklaması : Son yaklaşıldı",
+      "url": "https://www.haber7.com/saglik/haber/3639329-dsoden-hantavirus-aciklamasi-son-yaklasildi",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi",
+      "url": "https://www.haberler.com/guncel/dso-hantavirus-salgini-istikrarli-sona-yaklasiyor-20000311-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Birgun",
+      "head": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
+      "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bursahakimiyet",
+      "head": "Dünya Sağlık Örgütü : Hantavirüs salgını sona ermek üzere",
+      "url": "https://www.bursahakimiyet.com.tr/dunya/dunya-saglik-orgutu-hantavirus-salgini-sona-ermek-uzere-1658786",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -195,81 +255,6 @@
       "src": "Cranbrooktownsman",
       "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
       "url": "https://cranbrooktownsman.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Pqbnews",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://pqbnews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thefreepress",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://thefreepress.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Abbynews",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://abbynews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Grandforksgazette",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://grandforksgazette.ca/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Campbellrivermirror",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://campbellrivermirror.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
@@ -905,6 +890,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Dostor",
+      "head": "  الصحة العالمية : تفشي فيروس هانتا يقترب من نهايته",
+      "url": "https://www.dostor.org/5616666",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
       ],
       "live": true
     },
