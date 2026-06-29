@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-29T11:58:13.721140+00:00",
+  "generated_at": "2026-06-29T15:59:17.705673+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 70,
+  "count": 46,
   "items": [
     {
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Haber7",
-      "head": "DSÖ  den hantavirüs açıklaması : Son yaklaşıldı",
-      "url": "https://www.haber7.com/saglik/haber/3639329-dsoden-hantavirus-aciklamasi-son-yaklasildi",
+      "src": "Odatv",
+      "head": "O kadar köpürtüldü ama ... Hantavirüste sona gelindi",
+      "url": "https://www.odatv.com/ozel/o-kadar-kopurtuldu-ama-hantaviruste-sona-gelindi-120152767",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -27,9 +27,84 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Kibrisgazetesi",
+      "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi - Kıbrıs Gazetesi - Kıbrıs Haber , KKTC Son Dakika ve Gündem Haberleri",
+      "url": "https://kibrisgazetesi.com/dso-hantavirus-salginiyla-ilgili-durumun-istikrarli-oldugunu-ve-sona-yaklasildigini-bildirdi/",
+      "loc": "Cyprus",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Cyprus"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Index",
+      "head": "Index - Külföld - WHO : a végéhez közelít a luxushajón kitört hantavírusjárvány",
+      "url": "https://index.hu/kulfold/2026/06/29/who-hantavirus-jarvany-karanten-luxushajo-oceanjaro-vege/",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Havadiskibris",
+      "head": "  Hantavirüs salgınında sona yaklaşıldı  - Havadis Gazetesi",
+      "url": "https://www.havadiskibris.com/hantavirus-salgininda-sona-yaklasildi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Anlatilaninotesi",
+      "head": "DSÖ hantavirüs salgınında sona yaklaşıldığını açıkladı",
+      "url": "https://anlatilaninotesi.com.tr/20260629/dso-hantavirus-salgininda-sona-yaklasildigini-acikladi-1106845661.html",
+      "loc": "",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Haberler",
       "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi",
       "url": "https://www.haberler.com/guncel/dso-hantavirus-salgini-istikrarli-sona-yaklasiyor-20000311-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haber7",
+      "head": "DSÖ  den hantavirüs açıklaması : Son yaklaşıldı",
+      "url": "https://www.haber7.com/saglik/haber/3639329-dsoden-hantavirus-aciklamasi-son-yaklasildi",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -234,92 +309,6 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vernonmorningstar",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://vernonmorningstar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cranbrooktownsman",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://cranbrooktownsman.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-25",
-      "ts": "2026-06-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Investigation of Donor-Transmitted Strongyloides stercoralis Infections in Solid Organ Transplant Recipients, United States, 2012–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0747_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-25",
-      "ts": "2026-06-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Human Pulmonary Dirofilariasis, North Queensland, Australia, 2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0280_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-25",
-      "ts": "2026-06-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Chikungunya Outbreak, Cuba, July 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0344_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-25",
-      "ts": "2026-06-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Inconsistent Strategies to Mitigate the Effects of Batrachochytrium salamandrivorans, Europe",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1271_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
       "time": "18:18",
       "date": "2026-06-24",
       "ts": "2026-06-24T18:18:27+00:00",
@@ -338,288 +327,8 @@
       "date": "2026-06-24",
       "ts": "2026-06-24T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Trichinellosis Outbreak Linked to Undercooked Bear Jerky, North Carolina, USA, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0062_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-24",
-      "ts": "2026-06-24T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Detection of and Early Genomic Insights into Chikungunya Virus, Bolivia, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0540_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-24",
-      "ts": "2026-06-24T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Ophthalmomyiasis Outbreak Caused by Oestrus ovis Infection, Algeria, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0552_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-24",
-      "ts": "2026-06-24T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Autochthonous Neurocysticercosis Brain Lesions Mimicking Metastatic Disease, Spain",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0587_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-24",
-      "ts": "2026-06-24T04:00:00+00:00",
-      "src": "CDC EID",
       "head": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0948_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Neurosurgical Biopsy and Resection for Diagnosis and Treatment of Balamuthia mandrillaris Amebic Encephalitis, United States",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0725_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Discovery of Cinchona as Antimalarial, Viceroyalty of Peru, Circa 1630",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0042_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Trends in Congenital Syphilis Cases by Maternal Country of Birth, Spain, 2016–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0146_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Household Transmission of Enterovirus D68, Washington and Oregon, United States, 2022–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1733_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Angiostrongylus cantonensis Rat Lungworm Detected in Rats, Madagascar, 2022–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0142_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "New World Ocular Dirofilariasis Caused by Dirofilaria repens Infection, United States",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1596_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Molecular Confirmation of Autochthonous Taenia saginata Infection, Timor-Leste, 2019",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-2034_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of West African Human T-Lymphotropic Virus 1aC Subgroup, Brazilian Amazon",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0372_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Neurologic Alveolar Echinococcosis in Postpartum Zoo-Housed Gorilla, the Netherlands, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0136_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Dracunculus sp. PantanalBr Infection in Florida Panthers and Bobcat, Florida, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0514_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-23",
-      "ts": "2026-06-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Ancylostoma ceylanicum Hookworm, Rural Papua New Guinea, 2020",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1657_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "13:37",
-      "date": "2026-06-18",
-      "ts": "2026-06-18T13:37:29+00:00",
-      "src": "CDC EID",
-      "head": "Jimmy Carter and Eradication of Guinea Worm Disease",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/ac-3207_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-17",
-      "ts": "2026-06-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Predictive Approach to Mapping Angiostrongylus cantonensis Nematode Distribution, Canary Islands, Spain",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1930_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-17",
-      "ts": "2026-06-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Cluster of Human Tanapox Cases in Wildlife Reserve, South Africa, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1961_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-17",
-      "ts": "2026-06-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Vascularized Iris Mass as Sentinel Manifestation of Syphilis in Patient with HIV Infection, Spain, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/26-0388_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-17",
-      "ts": "2026-06-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Nipah Virus Shedding in Urine from Fruit Bats, Sri Lanka, 2018–2019",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/7/25-1567_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -965,51 +674,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "A Miserable New Supreme Court Decision Makes It Clear That Conservative Justices Dont Think Racism Exists",
-      "url": "https://www.esquire.com/news-politics/politics/a71749934/scotus-racism-temporary-protected-status-ruling/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Insidetucsonbusiness",
-      "head": "The biggest summer illness threat",
-      "url": "https://www.insidetucsonbusiness.com/commentary/the-biggest-summer-illness-threat/article_cd7903e7-3d8e-486d-9499-eb2d1274ffae.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Estadao",
-      "head": "Mais tecnologias em saúde ... e mais vírus ? ",
-      "url": "https://www.estadao.com.br/opiniao/espaco-aberto/mais-tecnologias-em-saude-e-mais-virus/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
       ],
       "live": true
     }
