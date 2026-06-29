@@ -1,13 +1,163 @@
 {
-  "generated_at": "2026-06-29T01:36:30.471371+00:00",
+  "generated_at": "2026-06-29T06:47:11.441586+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Birgun",
+      "head": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
+      "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091%20target=_blank%20class=stretched-link",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hardenexpress",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.hardenexpress.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Northerndailyleader",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.northerndailyleader.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Easternriverinachronicle",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.easternriverinachronicle.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Westernadvocate",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.westernadvocate.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Macleayargus",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.macleayargus.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bordermail",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.bordermail.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sconeadvocate",
+      "head": "Hantavirus outbreak nearing its end , WHO chief says",
+      "url": "https://www.sconeadvocate.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Drudge",
+      "head": "US Ends Hantavirus Outbreak Response with No Answers",
+      "url": "https://drudge.com/news/292897/us-ends-hantavirus-outbreak-response-no",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Unionleader",
+      "head": "CDC concludes hantavirus response as outbreak eases",
+      "url": "https://www.unionleader.com/news/health/cdc-concludes-hantavirus-response-as-outbreak-eases/article_20ed9ba5-c38a-58e8-b5dd-fd6bc6d4624d.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -120,156 +270,6 @@
       "src": "Campbellrivermirror",
       "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
       "url": "https://campbellrivermirror.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Caledoniacourier",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://caledoniacourier.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Comoxvalleyrecord",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://comoxvalleyrecord.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Quesnelobserver",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://quesnelobserver.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nanaimobulletin",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://nanaimobulletin.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cowichanvalleycitizen",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://cowichanvalleycitizen.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Aldergrovestar",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://aldergrovestar.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ladysmithchronicle",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://ladysmithchronicle.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yukon-News",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://yukon-news.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering-2/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hopestandard",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://hopestandard.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mapleridgenews",
-      "head": "Yukon hantavirus cruise ship passenger discharged from B . C . hospital , still recovering",
-      "url": "https://mapleridgenews.com/2026/06/25/yukon-hantavirus-cruise-ship-passenger-discharged-from-b-c-hospital-still-recovering/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
