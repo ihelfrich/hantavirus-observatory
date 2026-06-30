@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:04:22.638013+00:00",
+  "generated_at": "2026-06-30T18:19:21.054731+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
@@ -8,6 +8,66 @@
   ],
   "count": 46,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "La Nación",
+      "head": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
+      "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cartacapital",
+      "head": "Argentina encontra hantavírus na Terra do Fogo sem ligao com surto em navio",
+      "url": "https://www.cartacapital.com.br/saude/argentina-encontra-hantavirus-na-terra-do-fogo-sem-ligacao-com-surto-em-navio/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Evrensel",
+      "head": "DSÖ : Hantavirüs salgınında sona geldik",
+      "url": "https://www.evrensel.net/haber/5990327/dso-hantavirus-salgininda-sona-geldik",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Clarín",
+      "head": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
+      "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -57,21 +117,6 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Havadiskibris",
-      "head": "  Hantavirüs salgınında sona yaklaşıldı  - Havadis Gazetesi",
-      "url": "https://www.havadiskibris.com/hantavirus-salgininda-sona-yaklasildi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
       "src": "Anlatilaninotesi",
       "head": "DSÖ hantavirüs salgınında sona yaklaşıldığını açıkladı",
       "url": "https://anlatilaninotesi.com.tr/20260629/dso-hantavirus-salgininda-sona-yaklasildigini-acikladi-1106845661.html",
@@ -87,9 +132,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Haberler",
-      "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi",
-      "url": "https://www.haberler.com/guncel/dso-hantavirus-salgini-istikrarli-sona-yaklasiyor-20000311-haberi/",
+      "src": "Havadiskibris",
+      "head": "  Hantavirüs salgınında sona yaklaşıldı  - Havadis Gazetesi",
+      "url": "https://www.havadiskibris.com/hantavirus-salgininda-sona-yaklasildi/",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -105,6 +150,21 @@
       "src": "Haber7",
       "head": "DSÖ  den hantavirüs açıklaması : Son yaklaşıldı",
       "url": "https://www.haber7.com/saglik/haber/3639329-dsoden-hantavirus-aciklamasi-son-yaklasildi",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi",
+      "url": "https://www.haberler.com/guncel/dso-hantavirus-salgini-istikrarli-sona-yaklasiyor-20000311-haberi/",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -219,92 +279,16 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Macleayargus",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.macleayargus.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
+      "time": "18:16",
+      "date": "2026-06-30",
+      "ts": "2026-06-30T18:16:08+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "Ebola Outbreak Could Cost Africa Up to $3.6bn, UN Warns",
+      "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/",
+      "loc": "Global",
+      "lang": "en",
       "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bordermail",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.bordermail.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sconeadvocate",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.sconeadvocate.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Drudge",
-      "head": "US Ends Hantavirus Outbreak Response with No Answers",
-      "url": "https://drudge.com/news/292897/us-ends-hantavirus-outbreak-response-no",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Unionleader",
-      "head": "CDC concludes hantavirus response as outbreak eases",
-      "url": "https://www.unionleader.com/news/health/cdc-concludes-hantavirus-response-as-outbreak-eases/article_20ed9ba5-c38a-58e8-b5dd-fd6bc6d4624d.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thejournal",
-      "head": "Irish woman stuck on hantavirus ship says she cant believe she escaped virus",
-      "url": "https://www.thejournal.ie/mv-hondius-hantavirus-7083657-Jun2026/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
+        "OutbreakNewsToday"
       ],
       "live": true
     },
@@ -441,20 +425,6 @@
       "src": "OutbreakNewsToday",
       "head": "Israel Reports 16th Death in Measles Outbreak as 6-Year-Old Dies",
       "url": "https://outbreaknewstoday.com/israel-reports-16th-death-in-measles-outbreak-as-6-year-old-dies/",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "20:55",
-      "date": "2026-02-22",
-      "ts": "2026-02-22T20:55:31+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Malaysia TB outbreak reaches 3,161 cases as government appeals for masks at Ramadan bazaars",
-      "url": "https://outbreaknewstoday.com/malaysia-tb-outbreak-reaches-3161-cases-as-government-appeals-for-masks-at-ramadan-bazaars/",
       "loc": "Global",
       "lang": "en",
       "tags": [
@@ -606,6 +576,96 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Echoroukonline",
+      "head": "منظمة الصحة العالمية تعلن اقتراب نهاية تفشي فيروس هانتا – الشروق أونلاين",
+      "url": "https://www.echoroukonline.com/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D9%86%D9%87%D8%A7%D9%8A",
+      "loc": "Algeria",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Algeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Oklahomastar",
+      "head": "TN Senator wants safeguards for prescription - free ivermectin",
+      "url": "http://www.oklahomastar.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Saltlakecitysun",
+      "head": "TN Senator wants safeguards for prescription - free ivermectin",
+      "url": "http://www.saltlakecitysun.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Oklahomacitysun",
+      "head": "TN Senator wants safeguards for prescription - free ivermectin",
+      "url": "http://www.oklahomacitysun.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nashvilleherald",
+      "head": "TN Senator wants safeguards for prescription - free ivermectin",
+      "url": "http://www.nashvilleherald.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mamamia",
+      "head": "Bruce Lehrmann Latest Court Defeat & Thailand Suitcase Murder Investigation",
+      "url": "https://www.mamamia.com.au/podcasts/the-quicky/thailand-murder/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Dostor",
       "head": "  الصحة العالمية : تفشي فيروس هانتا يقترب من نهايته",
       "url": "https://www.dostor.org/5616666",
@@ -614,66 +674,6 @@
       "tags": [
         "Arabic",
         "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CHIP",
-      "head": "Şehirleri saran tehlike : Zehir yedikçe daha da gleniyorlar",
-      "url": "https://www.chip.com.tr/guncel/sehirleri-saran-tehlike-zehir-yedikce-daha-da-gucleniyorlar_181376.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailykos",
-      "head": "Infectious Information 6 / 27 / 2026",
-      "url": "https://www.dailykos.com/stories/2026/6/27/800061696/community/infectious-information-6-27-2026/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Standardmedia",
-      "head": "Kenya health system put to test amid Ebola preparedness",
-      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001551433/kenyas-health-system-put-to-test-amid-ebola-preparedness",
-      "loc": "Kenya",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Kenya"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fox5Vegas",
-      "head": "Mice , scorpions on the move as Las Vegas construction pushes pests into neighborhoods",
-      "url": "https://www.fox5vegas.com/2026/06/26/mice-scorpions-move-las-vegas-construction-pushes-pests-into-neighborhoods/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
