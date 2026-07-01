@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-07-01T18:24:58.019752+00:00",
+  "generated_at": "2026-07-01T20:24:35.448845+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 46,
   "items": [
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cheknews",
+      "head": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
+      "url": "https://cheknews.ca/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship-1333475/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Niagarafallsreview",
+      "head": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
+      "url": "https://www.niagarafallsreview.ca/life/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship/article_8f837cc9-aa3e-5dbc-b2d1-ace1c43017ad.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Toronto",
+      "head": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
+      "url": "https://toronto.citynews.ca/2026/06/30/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship/",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -225,51 +270,6 @@
       "src": "Hardenexpress",
       "head": "Hantavirus outbreak nearing its end , WHO chief says",
       "url": "https://www.hardenexpress.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Northerndailyleader",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.northerndailyleader.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Easternriverinachronicle",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.easternriverinachronicle.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Westernadvocate",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.westernadvocate.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
       "loc": "Australia",
       "lang": "English",
       "tags": [
