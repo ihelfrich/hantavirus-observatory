@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T06:26:37.245403+00:00",
+  "generated_at": "2026-07-01T10:30:13.092425+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
@@ -279,6 +279,20 @@
       "live": true
     },
     {
+      "time": "09:17",
+      "date": "2026-07-01",
+      "ts": "2026-07-01T09:17:27+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "DR Congo Ebola Outbreak Becomes Third-Largest on Record as Cases Near 1,300",
+      "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
       "time": "18:16",
       "date": "2026-06-30",
       "ts": "2026-06-30T18:16:08+00:00",
@@ -411,20 +425,6 @@
       "src": "OutbreakNewsToday",
       "head": "Israel Reports Bird Flu in Jezreel Valley Turkey Flock, Second Case This Season",
       "url": "https://outbreaknewstoday.com/israel-reports-bird-flu-in-jezreel-valley-turkey-flock-second-case-this-season-490/",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "23:54",
-      "date": "2026-02-22",
-      "ts": "2026-02-22T23:54:37+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Israel Reports 16th Death in Measles Outbreak as 6-Year-Old Dies",
-      "url": "https://outbreaknewstoday.com/israel-reports-16th-death-in-measles-outbreak-as-6-year-old-dies/",
       "loc": "Global",
       "lang": "en",
       "tags": [
