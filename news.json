@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-02T21:44:21.376423+00:00",
+  "generated_at": "2026-07-02T23:05:53.281615+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 46,
   "items": [
+    {
+      "time": "22:47",
+      "date": "2026-07-02",
+      "ts": "2026-07-02T22:47:40+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "WHO Declares Hantavirus Outbreak Over, Thanks Spain for ‘Incredible Solidarity’",
+      "url": "https://outbreaknewstoday.com/who-declares-hantavirus-outbreak-over-thanks-spain-for-incredible-solidarity-720/?utm_source=rss&utm_medium=rss&utm_campaign=who-declares-hantavirus-outbreak-over-thanks-spain-for-incredible-solidarity",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
     {
       "time": "—",
       "date": "",
@@ -411,20 +425,6 @@
       "src": "OutbreakNewsToday",
       "head": "Pennsylvania Ramps Up Testing as Bird Flu Affects 7.2 Million Birds in 2026",
       "url": "https://outbreaknewstoday.com/pennsylvania-ramps-up-testing-as-bird-flu-affects-7-2-million-birds-in-2026-547/?utm_source=rss&utm_medium=rss&utm_campaign=pennsylvania-ramps-up-testing-as-bird-flu-affects-7-2-million-birds-in-2026",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "07:52",
-      "date": "2026-02-24",
-      "ts": "2026-02-24T07:52:53+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Dozens of Dead Swans in London Docklands Trigger Bird Flu Investigation",
-      "url": "https://outbreaknewstoday.com/dozens-of-dead-swans-in-london-docklands-trigger-bird-flu-investigation-520/?utm_source=rss&utm_medium=rss&utm_campaign=dozens-of-dead-swans-in-london-docklands-trigger-bird-flu-investigation",
       "loc": "Global",
       "lang": "en",
       "tags": [
