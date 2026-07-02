@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T15:20:28.512658+00:00",
+  "generated_at": "2026-07-02T17:10:40.801599+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 46,
@@ -279,6 +279,20 @@
       "live": true
     },
     {
+      "time": "16:23",
+      "date": "2026-07-02",
+      "ts": "2026-07-02T16:23:09+00:00",
+      "src": "OutbreakNewsToday",
+      "head": "DR Congo Ebola Cases Rise to 1,406; Deaths Reach 438",
+      "url": "https://outbreaknewstoday.com/dr-congo-ebola-cases-rise-to-1406-deaths-reach-438-708/?utm_source=rss&utm_medium=rss&utm_campaign=dr-congo-ebola-cases-rise-to-1406-deaths-reach-438",
+      "loc": "Global",
+      "lang": "en",
+      "tags": [
+        "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
       "time": "09:17",
       "date": "2026-07-01",
       "ts": "2026-07-01T09:17:27+00:00",
@@ -411,20 +425,6 @@
       "src": "OutbreakNewsToday",
       "head": "Dozens of Dead Swans in London Docklands Trigger Bird Flu Investigation",
       "url": "https://outbreaknewstoday.com/dozens-of-dead-swans-in-london-docklands-trigger-bird-flu-investigation-520/?utm_source=rss&utm_medium=rss&utm_campaign=dozens-of-dead-swans-in-london-docklands-trigger-bird-flu-investigation",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "23:09",
-      "date": "2026-02-23",
-      "ts": "2026-02-23T23:09:44+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Israel Reports Bird Flu in Jezreel Valley Turkey Flock, Second Case This Season",
-      "url": "https://outbreaknewstoday.com/israel-reports-bird-flu-in-jezreel-valley-turkey-flock-second-case-this-season-490/?utm_source=rss&utm_medium=rss&utm_campaign=israel-reports-bird-flu-in-jezreel-valley-turkey-flock-second-case-this-season",
       "loc": "Global",
       "lang": "en",
       "tags": [
