@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T11:34:06.201334+00:00",
+  "generated_at": "2026-07-05T13:37:06.595636+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EN",
+      "head": "Fact Check : Was Hantavirus Created for Global Elite Profits ? ",
+      "url": "https://en.tempo.co/read/2111989/fact-check-was-hantavirus-created-for-global-elite-profits",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
       ],
       "live": true
     },
@@ -274,21 +289,6 @@
       "tags": [
         "Turkish",
         "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hardenexpress",
-      "head": "Hantavirus outbreak nearing its end , WHO chief says",
-      "url": "https://www.hardenexpress.com.au/story/9301185/hantavirus-outbreak-nearing-its-end-who-chief-says/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
       ],
       "live": true
     },
