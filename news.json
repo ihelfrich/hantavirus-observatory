@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T16:33:27.315789+00:00",
+  "generated_at": "2026-07-05T18:02:09.774233+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 46,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gdnonline",
+      "head": "Health : WHO declares hantavirus outbreak linked to cruise ship over",
+      "url": "https://www.gdnonline.com:443/Details/1399714",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -269,21 +284,6 @@
       "src": "Bursahakimiyet",
       "head": "Dünya Sağlık Örgütü : Hantavirüs salgını sona ermek üzere",
       "url": "https://www.bursahakimiyet.com.tr/dunya/dunya-saglik-orgutu-hantavirus-salgini-sona-ermek-uzere-1658786",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Birgun",
-      "head": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
-      "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091%20target=_blank%20class=stretched-link",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
