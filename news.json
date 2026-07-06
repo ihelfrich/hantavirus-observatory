@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-06T15:59:22.004193+00:00",
+  "generated_at": "2026-07-06T18:17:19.299147+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 46,
+  "count": 47,
   "items": [
     {
       "time": "22:47",
@@ -274,6 +274,20 @@
       "tags": [
         "Turkish",
         "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-06",
+      "ts": "2026-07-06T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Novel Parvovirus in Pigs Associated with Exophthalmos and Erythema, the Netherlands",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1827_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
