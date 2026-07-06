@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T03:27:26.242276+00:00",
+  "generated_at": "2026-07-06T08:03:45.057045+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 46,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTBB",
+      "head": "Hantavirus doesnt linger , requires close contact : Officials – KTBB News , Weather , Talk",
+      "url": "https://ktbb.com/post/?p=1517875",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -254,36 +269,6 @@
       "src": "Haberler",
       "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi",
       "url": "https://www.haberler.com/guncel/dso-hantavirus-salgini-istikrarli-sona-yaklasiyor-20000311-haberi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Birgun",
-      "head": "DSÖ duyurdu :  Hantavirüs salgını sona ermek üzere  ",
-      "url": "https://www.birgun.net/haber/dso-duyurdu-hantavirus-salgini-sona-ermek-uzere-721091",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bursahakimiyet",
-      "head": "Dünya Sağlık Örgütü : Hantavirüs salgını sona ermek üzere",
-      "url": "https://www.bursahakimiyet.com.tr/dunya/dunya-saglik-orgutu-hantavirus-salgini-sona-ermek-uzere-1658786",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -569,6 +554,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WSWS",
+      "head": "Open letter from Lula and Tedros : Preparing the next pandemic under capitalism",
+      "url": "https://www.wsws.org/en/articles/2026/07/06/gnwv-j06.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
