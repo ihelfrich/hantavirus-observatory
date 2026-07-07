@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T21:23:05.462567+00:00",
+  "generated_at": "2026-07-07T22:36:55.558054+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 48,
@@ -454,6 +454,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Voiceofalexandria",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "https://www.voiceofalexandria.com/entertainment/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_dff5e908-aab7-5639-b1b3-400ab384d2d8.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Thedigitalcourier",
       "head": "New catalog maps all 239 RNA viruses known to infect humans",
       "url": "https://www.thedigitalcourier.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_fca6872c-7947-5e75-b74c-0f25a8af480e.html",
@@ -682,21 +697,6 @@
       "src": "Oklahomacitysun",
       "head": "TN Senator wants safeguards for prescription - free ivermectin",
       "url": "http://www.oklahomacitysun.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nashvilleherald",
-      "head": "TN Senator wants safeguards for prescription - free ivermectin",
-      "url": "http://www.nashvilleherald.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
       "loc": "United States",
       "lang": "English",
       "tags": [
