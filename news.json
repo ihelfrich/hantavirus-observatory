@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-07T19:53:43.578475+00:00",
+  "generated_at": "2026-07-07T21:23:05.462567+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 47,
+  "count": 48,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "News-Medical",
+      "head": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
+      "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -128,152 +143,16 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cartacapital",
-      "head": "Argentina encontra hantavírus na Terra do Fogo sem ligao com surto em navio",
-      "url": "https://www.cartacapital.com.br/saude/argentina-encontra-hantavirus-na-terra-do-fogo-sem-ligacao-com-surto-em-navio/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
+      "time": "04:00",
+      "date": "2026-07-07",
+      "ts": "2026-07-07T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Filovirus Surveillance in Communities Bordering Equatorial Guinea, Marburg Outbreak, Cameroon, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0117_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Evrensel",
-      "head": "DSÖ : Hantavirüs salgınında sona geldik",
-      "url": "https://www.evrensel.net/haber/5990327/dso-hantavirus-salgininda-sona-geldik",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Clarín",
-      "head": "Por primera vez encuentran hantavirus en Tierra del Fuego : por qué no lo asocian al brote del crucero",
-      "url": "https://www.clarin.com/sociedad/primera-vez-encuentran-hantavirus-tierra-fuego-asocian-brote-crucero_0_lZHrOdrH6v.html",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Odatv",
-      "head": "O kadar köpürtüldü ama ... Hantavirüste sona gelindi",
-      "url": "https://www.odatv.com/ozel/o-kadar-kopurtuldu-ama-hantaviruste-sona-gelindi-120152767",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kibrisgazetesi",
-      "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi - Kıbrıs Gazetesi - Kıbrıs Haber , KKTC Son Dakika ve Gündem Haberleri",
-      "url": "https://kibrisgazetesi.com/dso-hantavirus-salginiyla-ilgili-durumun-istikrarli-oldugunu-ve-sona-yaklasildigini-bildirdi/",
-      "loc": "Cyprus",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Cyprus"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Index",
-      "head": "Index - Külföld - WHO : a végéhez közelít a luxushajón kitört hantavírusjárvány",
-      "url": "https://index.hu/kulfold/2026/06/29/who-hantavirus-jarvany-karanten-luxushajo-oceanjaro-vege/",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Anlatilaninotesi",
-      "head": "DSÖ hantavirüs salgınında sona yaklaşıldığını açıkladı",
-      "url": "https://anlatilaninotesi.com.tr/20260629/dso-hantavirus-salgininda-sona-yaklasildigini-acikladi-1106845661.html",
-      "loc": "",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Havadiskibris",
-      "head": "  Hantavirüs salgınında sona yaklaşıldı  - Havadis Gazetesi",
-      "url": "https://www.havadiskibris.com/hantavirus-salgininda-sona-yaklasildi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haber7",
-      "head": "DSÖ  den hantavirüs açıklaması : Son yaklaşıldı",
-      "url": "https://www.haber7.com/saglik/haber/3639329-dsoden-hantavirus-aciklamasi-son-yaklasildi",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "DSÖ , hantavirüs salgınıyla ilgili durumun istikrarlı olduğunu ve sona yaklaşıldığını bildirdi",
-      "url": "https://www.haberler.com/guncel/dso-hantavirus-salgini-istikrarli-sona-yaklasiyor-20000311-haberi/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
+        "CDC EID"
       ],
       "live": true
     },
@@ -575,6 +454,171 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Thedigitalcourier",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "https://www.thedigitalcourier.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_fca6872c-7947-5e75-b74c-0f25a8af480e.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Walkermn",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "http://www.walkermn.com/around_the_web/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_04d0364b-930f-5ee7-bd62-7f06f5c83edb.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Advocateanddemocrat",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "http://www.advocateanddemocrat.com/lifestyles/health/article_ee4a881c-f2b6-5060-9ef5-77750f599366.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Lebanondemocrat",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "https://www.lebanondemocrat.com/maconcounty/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_832bcdda-2914-50dc-8ef1-e2e66e0d13cf.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Purdueexponent",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "https://www.purdueexponent.org/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_f413a89e-176c-5f96-9e4c-8d7936237762.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arstechnica",
+      "head": "New virus catalog reveals which pathogens pose the greatest threat",
+      "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Keysnews",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "https://www.keysnews.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_bd3db059-f0ff-51e7-b398-60f87016eba2.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wyomingnews",
+      "head": "New catalog maps all 239 RNA viruses known to infect humans",
+      "url": "http://www.wyomingnews.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_3d56ccdb-cc22-5d35-b896-381bfc6a8616.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "English",
+      "head": "Jolted by Ebola , Countries Try Again to Finish Pandemic Treaty",
+      "url": "https://english.aawsat.com/world/5292729-jolted-ebola-countries-try-again-finish-pandemic-treaty",
+      "loc": "Syria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Syria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "US",
+      "head": "The dream European vacation is under siege this summer . But it not all bad",
+      "url": "https://us.cnn.com/2026/07/06/travel/europe-vacation-summer-chaos-border-lines-fuel-shortages",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Allafrica",
+      "head": "Africa : New Virus Catalogue Reveals Which Pathogens Pose the Greatest Threat",
+      "url": "https://allafrica.com/stories/202607060301.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "WSWS",
       "head": "Open letter from Lula and Tedros : Preparing the next pandemic under capitalism",
       "url": "https://www.wsws.org/en/articles/2026/07/06/gnwv-j06.html",
@@ -658,36 +702,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mamamia",
-      "head": "Bruce Lehrmann Latest Court Defeat & Thailand Suitcase Murder Investigation",
-      "url": "https://www.mamamia.com.au/podcasts/the-quicky/thailand-murder/",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dostor",
-      "head": "  الصحة العالمية : تفشي فيروس هانتا يقترب من نهايته",
-      "url": "https://www.dostor.org/5616666",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
       ],
       "live": true
     }
