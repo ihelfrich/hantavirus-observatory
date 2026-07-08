@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T20:03:04.339252+00:00",
+  "generated_at": "2026-07-08T21:41:07.287437+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 49,
@@ -19,6 +19,36 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wattsupwiththat",
+      "head": "Hantavirus Outbreak Connected to Cruise Ship is Officially Over",
+      "url": "https://wattsupwiththat.com/2026/07/07/hantavirus-outbreak-connected-to-cruise-ship-is-officially-over/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Travelextra",
+      "head": "Oceanwide Expeditions CEO responds to hantavirus incident",
+      "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
       ],
       "live": true
     },
@@ -94,51 +124,6 @@
       "tags": [
         "English",
         "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Niagarafallsreview",
-      "head": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
-      "url": "https://www.niagarafallsreview.ca/life/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship/article_8f837cc9-aa3e-5dbc-b2d1-ace1c43017ad.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Toronto",
-      "head": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
-      "url": "https://toronto.citynews.ca/2026/06/30/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship/",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "La Nación",
-      "head": "Detectan la circulación de hantavirus en Ushuaia , pero la variante viral no coincide con la que causó el brote en el crucero",
-      "url": "https://www.lanacion.com.ar/sociedad/detectan-la-circulacion-de-hantavirus-en-ushuaia-pero-la-variante-viral-no-coincide-con-la-que-causo-nid29062026/",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
       ],
       "live": true
     },
@@ -468,6 +453,81 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Alwatan",
+      "head": "وقاية المسافرين إلى خارج المملكة من مخاطر الأمراض المعدية خلال موسم الصيف",
+      "url": "https://www.alwatan.com.sa/article/1182727",
+      "loc": "Saudi Arabia",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Saudi Arabia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Blueprint",
+      "head": "PABS : Finalise agreement against future pandemics , WHO tells member states",
+      "url": "https://blueprint.ng/pabs-finalise-agreement-against-future-pandemics-who-tells-member-states/",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EN",
+      "head": "Saudi Arabia calls on travelers to follow health guideline during summer – Shafaqna English",
+      "url": "https://en.shafaqna.com/462081/saudi-arabia-calls-on-travelers-to-follow-health-guideline-during-summer/",
+      "loc": "Saudi Arabia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Saudi Arabia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timeslive",
+      "head": "  A matter of time : SA hospitals are ready for Ebola cases if they arrive",
+      "url": "https://www.timeslive.co.za/news/2026-07-08-a-matter-of-time-sas-hospitals-are-ready-for-ebola-cases-if-they-arrive/",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "The Hindu",
+      "head": "Health Matters newsletter : What happens when your disease isnt simple ? ",
+      "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-what-happens-when-your-disease-isnt-simple/article71192513.ece",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Voiceofalexandria",
       "head": "New catalog maps all 239 RNA viruses known to infect humans",
       "url": "https://www.voiceofalexandria.com/entertainment/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_dff5e908-aab7-5639-b1b3-400ab384d2d8.html",
@@ -651,66 +711,6 @@
       "src": "WSWS",
       "head": "Open letter from Lula and Tedros : Preparing the next pandemic under capitalism",
       "url": "https://www.wsws.org/en/articles/2026/07/06/gnwv-j06.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Echoroukonline",
-      "head": "منظمة الصحة العالمية تعلن اقتراب نهاية تفشي فيروس هانتا – الشروق أونلاين",
-      "url": "https://www.echoroukonline.com/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D9%86%D9%87%D8%A7%D9%8A",
-      "loc": "Algeria",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Algeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Oklahomastar",
-      "head": "TN Senator wants safeguards for prescription - free ivermectin",
-      "url": "http://www.oklahomastar.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Saltlakecitysun",
-      "head": "TN Senator wants safeguards for prescription - free ivermectin",
-      "url": "http://www.saltlakecitysun.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Oklahomacitysun",
-      "head": "TN Senator wants safeguards for prescription - free ivermectin",
-      "url": "http://www.oklahomacitysun.com/news/279156434/tn-senator-wants-safeguards-for-prescription-free-ivermectin",
       "loc": "United States",
       "lang": "English",
       "tags": [
