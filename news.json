@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-08T12:21:14.012327+00:00",
+  "generated_at": "2026-07-08T14:55:52.845748+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 48,
+  "count": 49,
   "items": [
     {
       "time": "22:47",
@@ -139,6 +139,20 @@
       "tags": [
         "Spanish",
         "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-08",
+      "ts": "2026-07-08T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Helicobacter pylori",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1516_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
