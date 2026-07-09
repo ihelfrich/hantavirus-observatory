@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T01:09:54.122685+00:00",
+  "generated_at": "2026-07-09T05:37:53.534073+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -109,21 +109,6 @@
       "tags": [
         "English",
         ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cheknews",
-      "head": "Self - isolation ends for travellers exposed to hantavirus - stricken cruise ship",
-      "url": "https://cheknews.ca/self-isolation-ends-for-travellers-exposed-to-hantavirus-stricken-cruise-ship-1333475/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
       ],
       "live": true
     },
@@ -446,6 +431,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gearjunkie",
+      "head": "A Backpacking Game Changer : This Ultralight Bear Bag Keeps Out Critters",
+      "url": "https://gearjunkie.com/outdoor/adotec-ultralight-bear-locker-review",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
