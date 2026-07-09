@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-09T09:37:26.916544+00:00",
+  "generated_at": "2026-07-09T15:55:52.609362+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 49,
+  "count": 50,
   "items": [
     {
       "time": "22:47",
@@ -83,32 +83,16 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gdnonline",
-      "head": "Health : WHO declares hantavirus outbreak linked to cruise ship over",
-      "url": "https://www.gdnonline.com:443/Details/1399714",
-      "loc": "United States",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-07-09",
+      "ts": "2026-07-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Isolation of Infectious Highly Pathogenic Avian Influenza A(H5N1) Virus from Fetal Bovine Serum, United States, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0077_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "EN",
-      "head": "Fact Check : Was Hantavirus Created for Global Elite Profits ? ",
-      "url": "https://en.tempo.co/read/2111989/fact-check-was-hantavirus-created-for-global-elite-profits",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
+        "CDC EID"
       ],
       "live": true
     },
@@ -431,6 +415,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pentictonherald",
+      "head": "Letters to the Editor : July 8 , 2026",
+      "url": "https://www.pentictonherald.ca/opinion/article_ed865d88-da04-4170-8ec2-d50682b8ede8.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sowetan",
+      "head": "SA hospitals are ready for Ebola cases if detected here",
+      "url": "https://www.sowetan.co.za/news/2026-07-09-sas-hospitals-are-ready-for-ebola-cases-if-they-arrive/",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
       ],
       "live": true
     },
