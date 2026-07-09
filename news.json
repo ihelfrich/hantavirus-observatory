@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-09T19:47:26.392072+00:00",
+  "generated_at": "2026-07-09T21:22:09.956182+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 50,
+  "count": 52,
   "items": [
+    {
+      "time": "04:00",
+      "date": "2026-07-09",
+      "ts": "2026-07-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Serologic Evidence of Hantavirus Exposure in Humans, Italy, 2004–2018",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0840_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
     {
       "time": "22:47",
       "date": "2026-07-02",
@@ -79,6 +93,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-09",
+      "ts": "2026-07-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Qualitative Risk Assessment of Infectious Agents Associated with Canine Importation into Canada, 2023–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1602_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
