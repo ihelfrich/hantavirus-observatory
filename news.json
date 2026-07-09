@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T21:22:09.956182+00:00",
+  "generated_at": "2026-07-09T22:49:58.318052+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 52,
@@ -73,21 +73,6 @@
       "src": "News-Medical",
       "head": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
       "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTBB",
-      "head": "Hantavirus doesnt linger , requires close contact : Officials – KTBB News , Weather , Talk",
-      "url": "https://ktbb.com/post/?p=1517875",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -450,6 +435,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Winnipegfreepress",
+      "head": "Trial by virus – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/breakingnews/2026/07/09/trial-by-virus",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nypost",
+      "head": "Exclusive | Here how to keep NYC rats at bay",
+      "url": "https://nypost.com/2026/07/09/lifestyle/heres-how-to-keep-nyc-rats-at-bay/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Pentictonherald",
       "head": "Letters to the Editor : July 8 , 2026",
       "url": "https://www.pentictonherald.ca/opinion/article_ed865d88-da04-4170-8ec2-d50682b8ede8.html",
@@ -743,21 +758,6 @@
       "tags": [
         "English",
         "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WSWS",
-      "head": "Open letter from Lula and Tedros : Preparing the next pandemic under capitalism",
-      "url": "https://www.wsws.org/en/articles/2026/07/06/gnwv-j06.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
