@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-10T19:26:00.817838+00:00",
+  "generated_at": "2026-07-10T20:49:32.149211+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 52,
+  "count": 54,
   "items": [
     {
       "time": "04:00",
@@ -78,6 +78,34 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-10",
+      "ts": "2026-07-10T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Virulence of Burkholderia pseudomallei Strains from Western Hemisphere and Africa in Mice",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0069_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-10",
+      "ts": "2026-07-10T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Use of Salmonella enterica Serovar Typhi Hemolysin E and Lipopolysaccharide IgA to Identify Enteric Fever Cases, South Asia",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-0753_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -435,6 +463,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Dailystar",
+      "head": "Horror paralyzing mosquito - borne illness surges in US as World Cup marches on",
+      "url": "https://www.dailystar.co.uk/news/latest-news/horror-paralyzing-mosquito-borne-illness-37415529",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arabic",
+      "head": "عطلة الأحلام في أوروبا هذا الصيف قد تواجه تحديات كبيرة .. إليك نصائح الخبراء",
+      "url": "https://arabic.cnn.com/travel/article/2026/07/10/europe-vacation-summer-chaos-border-lines-fuel-shortages",
+      "loc": "United States",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Winnipegfreepress",
       "head": "Trial by virus – Winnipeg Free Press",
       "url": "https://www.winnipegfreepress.com/breakingnews/2026/07/09/trial-by-virus",
@@ -728,36 +786,6 @@
       "tags": [
         "English",
         "Syria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "US",
-      "head": "The dream European vacation is under siege this summer . But it not all bad",
-      "url": "https://us.cnn.com/2026/07/06/travel/europe-vacation-summer-chaos-border-lines-fuel-shortages",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Allafrica",
-      "head": "Africa : New Virus Catalogue Reveals Which Pathogens Pose the Greatest Threat",
-      "url": "https://allafrica.com/stories/202607060301.html",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
       ],
       "live": true
     }
