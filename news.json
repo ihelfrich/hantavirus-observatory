@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T19:07:56.250553+00:00",
+  "generated_at": "2026-07-11T20:23:00.462296+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 54,
@@ -63,21 +63,6 @@
       "tags": [
         "English",
         "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "News-Medical",
-      "head": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
-      "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -463,6 +448,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "News-Medical",
+      "head": "New viral library helps scientists study thousands of proteins",
+      "url": "https://www.news-medical.net/news/20260711/New-viral-library-helps-scientists-study-thousands-of-proteins.aspx",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Executivedigest",
+      "head": "O próximo vírus pandémico pode já estar a circular . A ciência tenta apanhá - lo antes que seja tarde",
+      "url": "https://executivedigest.sapo.pt/o-proximo-virus-pandemico-pode-ja-estar-a-circular-a-ciencia-tenta-apanha-lo-antes-que-seja-tarde/",
+      "loc": "",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theepochtimes",
+      "head": "US Citizen Tests Positive for Ebola in Africa : CDC",
+      "url": "https://www.theepochtimes.com/us/us-citizen-tests-positive-for-ebola-in-africa-cdc-6060423",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Dailystar",
       "head": "Horror paralyzing mosquito - borne illness surges in US as World Cup marches on",
       "url": "https://www.dailystar.co.uk/news/latest-news/horror-paralyzing-mosquito-borne-illness-37415529",
@@ -756,36 +786,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wyomingnews",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "http://www.wyomingnews.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_3d56ccdb-cc22-5d35-b896-381bfc6a8616.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "English",
-      "head": "Jolted by Ebola , Countries Try Again to Finish Pandemic Treaty",
-      "url": "https://english.aawsat.com/world/5292729-jolted-ebola-countries-try-again-finish-pandemic-treaty",
-      "loc": "Syria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Syria"
       ],
       "live": true
     }
