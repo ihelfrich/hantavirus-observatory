@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:46:27.088263+00:00",
+  "generated_at": "2026-07-12T14:55:23.950253+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
@@ -448,6 +448,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Rcreader",
+      "head": "The Infectious Disease Frenzy",
+      "url": "https://www.rcreader.com/commentary/the-infectious-disease-frenzy-david-bell",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Dostor",
       "head": "فهرس علمي جديد يكشف الفيروسات الأكثر تهديدا للبشر",
       "url": "https://www.dostor.org/5631683",
@@ -766,21 +781,6 @@
       "src": "Purdueexponent",
       "head": "New catalog maps all 239 RNA viruses known to infect humans",
       "url": "https://www.purdueexponent.org/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_f413a89e-176c-5f96-9e4c-8d7936237762.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arstechnica",
-      "head": "New virus catalog reveals which pathogens pose the greatest threat",
-      "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
       "loc": "United States",
       "lang": "English",
       "tags": [
