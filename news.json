@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T23:26:58.707752+00:00",
+  "generated_at": "2026-07-12T01:05:03.947276+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 54,
@@ -448,6 +448,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Dostor",
+      "head": "فهرس علمي جديد يكشف الفيروسات الأكثر تهديدا للبشر",
+      "url": "https://www.dostor.org/5631683",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "News-Medical",
       "head": "New viral library helps scientists study thousands of proteins",
       "url": "https://www.news-medical.net/news/20260711/New-viral-library-helps-scientists-study-thousands-of-proteins.aspx",
@@ -766,21 +781,6 @@
       "src": "Arstechnica",
       "head": "New virus catalog reveals which pathogens pose the greatest threat",
       "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Keysnews",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "https://www.keysnews.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_bd3db059-f0ff-51e7-b398-60f87016eba2.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
