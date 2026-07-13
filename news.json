@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-13T19:22:04.674195+00:00",
+  "generated_at": "2026-07-13T20:38:05.767143+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 58,
+  "count": 59,
   "items": [
     {
       "time": "04:00",
@@ -115,6 +115,20 @@
       "src": "CDC EID",
       "head": "Hepatitis A Outbreak in Skilled Nursing Facility, Los Angeles County, California, USA, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0202_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-13",
+      "ts": "2026-07-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Lactococcus garvieae",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0970_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
