@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-13T15:41:09.387993+00:00",
+  "generated_at": "2026-07-13T17:53:51.291384+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 54,
+  "count": 58,
   "items": [
     {
       "time": "04:00",
@@ -63,6 +63,62 @@
       "tags": [
         "English",
         "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-13",
+      "ts": "2026-07-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Rapid Expansion of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Genotype D1.1 Virus across Flyway Regions, North America, Fall 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0205_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-13",
+      "ts": "2026-07-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of Dengue Virus in Aedes aegypti Mosquitoes, Dubai, United Arab Emirates",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0324_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-13",
+      "ts": "2026-07-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Human Cases of Borrelia miyamotoi Disease, Slovenia, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0326_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-13",
+      "ts": "2026-07-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Hepatitis A Outbreak in Skilled Nursing Facility, Los Angeles County, California, USA, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0202_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
