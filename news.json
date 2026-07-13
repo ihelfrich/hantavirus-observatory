@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T22:55:49.696356+00:00",
+  "generated_at": "2026-07-13T23:54:28.102427+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
@@ -518,6 +518,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Selectscience",
+      "head": "New human - infecting viruses found every year - SelectScience news",
+      "url": "https://www.selectscience.net/article/new-human-infecting-viruses-discovered-every-year-study-finds",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Folha",
+      "head": "Vírus pandêmicos : cientistas criam lista de ameaças - 12 / 07 / 2026 - Equilíbrio e Saúde",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/cientistas-criam-catalogo-para-identificar-virus-com-potencial-pandemico.shtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radaronline",
+      "head": "Gene Hackman and Betsy Arakawa Receive Grave Plaques After Tragic Deaths",
+      "url": "https://radaronline.com/p/gene-hackman-betsy-arakawa-grave-plaques-honored-deaths/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Rcreader",
       "head": "The Infectious Disease Frenzy",
       "url": "https://www.rcreader.com/commentary/the-infectious-disease-frenzy-david-bell",
@@ -806,51 +851,6 @@
       "src": "Walkermn",
       "head": "New catalog maps all 239 RNA viruses known to infect humans",
       "url": "http://www.walkermn.com/around_the_web/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_04d0364b-930f-5ee7-bd62-7f06f5c83edb.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Advocateanddemocrat",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "http://www.advocateanddemocrat.com/lifestyles/health/article_ee4a881c-f2b6-5060-9ef5-77750f599366.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lebanondemocrat",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "https://www.lebanondemocrat.com/maconcounty/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_832bcdda-2914-50dc-8ef1-e2e66e0d13cf.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Purdueexponent",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "https://www.purdueexponent.org/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_f413a89e-176c-5f96-9e4c-8d7936237762.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
