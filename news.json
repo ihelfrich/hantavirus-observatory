@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-15T02:41:57.162532+00:00",
+  "generated_at": "2026-07-15T05:30:47.158646+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 60,
@@ -532,6 +532,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Interaksyon",
+      "head": "New virus catalogue reveals which pathogens pose the greatest threat",
+      "url": "https://interaksyon.philstar.com/politics-issues/2026/07/15/316357/new-virus-catalogue-reveals-which-pathogens-pose-the-greatest-threat/",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Americanbazaaronline",
+      "head": "Taco Bell faces investigation over diarrhea - causing parasite outbreak",
+      "url": "https://americanbazaaronline.com/2026/07/14/taco-bell-faces-investigation-over-diarrhea-causing-parasite-outbreak-484579/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "BBC",
+      "head": "Public to be told how to prepare for cyber - attack and weather emergencies",
+      "url": "https://www.bbc.co.uk/news/articles/cp3x37lw1ndo",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Selectscience",
       "head": "New human - infecting viruses found every year - SelectScience news",
       "url": "https://www.selectscience.net/article/new-human-infecting-viruses-discovered-every-year-study-finds",
@@ -825,51 +870,6 @@
       "tags": [
         "English",
         "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Voiceofalexandria",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "https://www.voiceofalexandria.com/entertainment/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_dff5e908-aab7-5639-b1b3-400ab384d2d8.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thedigitalcourier",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "https://www.thedigitalcourier.com/lifestyles/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_fca6872c-7947-5e75-b74c-0f25a8af480e.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Walkermn",
-      "head": "New catalog maps all 239 RNA viruses known to infect humans",
-      "url": "http://www.walkermn.com/around_the_web/health/new-catalog-maps-all-239-rna-viruses-known-to-infect-humans/article_04d0364b-930f-5ee7-bd62-7f06f5c83edb.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
