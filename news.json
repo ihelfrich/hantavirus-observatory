@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-15T15:25:37.350425+00:00",
+  "generated_at": "2026-07-15T16:50:59.849305+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 60,
+  "count": 62,
   "items": [
     {
       "time": "04:00",
@@ -63,6 +63,34 @@
       "tags": [
         "English",
         "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Genotype D1.2 Virus in Swine after Experimental Inoculation",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1765_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Outbreak of Salmonella enterica Serovar Reading Linked to Dried Bovine Meat, New South Wales, Australia, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1454_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
