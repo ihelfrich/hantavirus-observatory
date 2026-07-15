@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T18:06:50.525234+00:00",
+  "generated_at": "2026-07-15T19:45:27.957648+00:00",
   "sources": [
     "CIDRAP",
     "CDC EID",
@@ -48,21 +48,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Travelextra",
-      "head": "Oceanwide Expeditions CEO responds to hantavirus incident",
-      "url": "https://www.travelextra.ie/oceanwide-expeditions-ceo-responds-to-hantavirus-incident/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
       ],
       "live": true
     },
@@ -567,6 +552,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Outsideonline",
+      "head": "What It Like to Catch the Grand Canyon Mystery Illness",
+      "url": "https://www.outsideonline.com/outdoor-adventure/environment/grand-canyon-mystery-illness/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
