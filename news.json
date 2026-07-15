@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-15T16:50:59.849305+00:00",
+  "generated_at": "2026-07-15T18:06:50.525234+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 62,
+  "count": 63,
   "items": [
     {
       "time": "04:00",
@@ -87,6 +87,20 @@
       "src": "CDC EID",
       "head": "Outbreak of Salmonella enterica Serovar Reading Linked to Dried Bovine Meat, New South Wales, Australia, 2023",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1454_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Seeing Patterns—from Glass Art to Public Health",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/ac-3208_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
