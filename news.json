@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-15T22:08:58.995575+00:00",
+  "generated_at": "2026-07-15T23:27:51.489263+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 63,
+  "count": 67,
   "items": [
     {
       "time": "04:00",
@@ -56,6 +56,20 @@
       "date": "2026-07-15",
       "ts": "2026-07-15T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Targeted Wastewater Surveillance during the World Athletics Championship, Oregon, USA, 2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0537_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Genotype D1.2 Virus in Swine after Experimental Inoculation",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1765_article",
       "loc": "Atlanta",
@@ -70,8 +84,50 @@
       "date": "2026-07-15",
       "ts": "2026-07-15T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Occupationally Exposed and General Population Antibody Profiles to Influenza A Viruses Circulating in Swine as Indication of Zoonotic Risk",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1995_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Outbreak of Salmonella enterica Serovar Reading Linked to Dried Bovine Meat, New South Wales, Australia, 2023",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1454_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Emergent Vibrio parahaemolyticus Gastroenteritis Outbreaks, New Zealand, 2019–2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0097_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-15",
+      "ts": "2026-07-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "My Long Road Back to Life",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0904_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
