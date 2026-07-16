@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:59:27.077968+00:00",
+  "generated_at": "2026-07-16T15:09:03.358997+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 67,
+  "count": 69,
   "items": [
     {
       "time": "04:00",
@@ -33,6 +33,34 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-16",
+      "ts": "2026-07-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Camel Prion Disease, Tataouine, Tunisia, 2019–2021",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1474_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-16",
+      "ts": "2026-07-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Antimicrobial Resistance in Extragenital Neisseria gonorrhoeae Infections, US Military Centers, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0337_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
