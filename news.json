@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-16T11:17:03.012631+00:00",
+  "generated_at": "2026-07-16T12:59:27.077968+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 67,
@@ -600,6 +600,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Indianexpress",
+      "head": "  Amitabh Bachchan ko noch dala : Paresh Rawal | The Indian Express",
+      "url": "https://indianexpress.com/shorts/entertainment/bollywood/amitabh-bachchan-ko-noch-dala-paresh-rawal-says-big-b-was-persecuted-he-only-wants-peace-10788787/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Arkansasonline",
+      "head": "Letters | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+      "url": "https://www.arkansasonline.com/news/2026/jul/16/letters/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Guardian",
       "head": "  The minute I had success , I stopped taking drug : John Waters on 60 years of screen carnage | John Waters",
       "url": "https://www.theguardian.com/film/2026/jul/16/the-minute-i-had-success-i-stopped-taking-drugs-john-waters-on-60-years-of-screen-carnage",
@@ -938,36 +968,6 @@
       "tags": [
         "English",
         "Saudi Arabia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Timeslive",
-      "head": "  A matter of time : SA hospitals are ready for Ebola cases if they arrive",
-      "url": "https://www.timeslive.co.za/news/2026-07-08-a-matter-of-time-sas-hospitals-are-ready-for-ebola-cases-if-they-arrive/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "The Hindu",
-      "head": "Health Matters newsletter : What happens when your disease isnt simple ? ",
-      "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-what-happens-when-your-disease-isnt-simple/article71192513.ece",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
       ],
       "live": true
     }
