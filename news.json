@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-16T20:56:20.281554+00:00",
+  "generated_at": "2026-07-16T22:04:37.521494+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -71,6 +71,48 @@
       "src": "CDC EID",
       "head": "Antimicrobial Resistance in Extragenital Neisseria gonorrhoeae Infections, US Military Centers, 2022–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0337_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-16",
+      "ts": "2026-07-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Doxycycline Resistance and 16S rRNA Mutations in Treponema pallidum",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0433_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-16",
+      "ts": "2026-07-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Doxycycline Resistance and 16S rRNA Mutations in Treponema pallidum (Response)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0943_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-16",
+      "ts": "2026-07-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Correction: Vol. 32, No. 2",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/c1-3208_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -331,34 +373,6 @@
       "live": true
     },
     {
-      "time": "04:00",
-      "date": "2026-07-07",
-      "ts": "2026-07-07T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Filovirus Surveillance in Communities Bordering Equatorial Guinea, Marburg Outbreak, Cameroon, 2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0117_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-06",
-      "ts": "2026-07-06T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Novel Parvovirus in Pigs Associated with Exophthalmos and Erythema, the Netherlands",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1827_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
       "time": "16:23",
       "date": "2026-07-02",
       "ts": "2026-07-02T16:23:09+00:00",
@@ -411,20 +425,6 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-06-24",
-      "ts": "2026-06-24T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Antibodies Cross-Reactive with Bundibugyo Virus in Ferrets Vaccinated with Ebola Virus Vaccine",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0948_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
       ],
       "live": true
     },
