@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-07-17T14:43:11.486305+00:00",
+  "generated_at": "2026-07-17T16:14:53.441716+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
   "items": [
-    {
-      "time": "04:00",
-      "date": "2026-07-09",
-      "ts": "2026-07-09T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Serologic Evidence of Hantavirus Exposure in Humans, Italy, 2004–2018",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0840_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
     {
       "time": "22:47",
       "date": "2026-07-02",
@@ -33,6 +19,63 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Biobiochile",
+      "head": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-17",
+      "ts": "2026-07-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of Congenital Syphilis via Digital PCR and Next-Generation Sequencing, Colombia",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1737_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-17",
+      "ts": "2026-07-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Human Lactococcus garvieae Bloodstream Infection Complicated by Spondylodiscitis, Germany",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0334_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-17",
+      "ts": "2026-07-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Surveillance of Ticks and Tickborne Borrelia, Ehrlichia, and Rickettsia spp., Texas, USA, 2014–2021",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1104_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -337,34 +380,6 @@
       "src": "CDC EID",
       "head": "Qualitative Risk Assessment of Infectious Agents Associated with Canine Importation into Canada, 2023–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1602_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-09",
-      "ts": "2026-07-09T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Isolation of Infectious Highly Pathogenic Avian Influenza A(H5N1) Virus from Fetal Bovine Serum, United States, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0077_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-08",
-      "ts": "2026-07-08T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Helicobacter pylori",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1516_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -995,21 +1010,6 @@
       "tags": [
         "Arabic",
         "Saudi Arabia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Blueprint",
-      "head": "PABS : Finalise agreement against future pandemics , WHO tells member states",
-      "url": "https://blueprint.ng/pabs-finalise-agreement-against-future-pandemics-who-tells-member-states/",
-      "loc": "Nigeria",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Nigeria"
       ],
       "live": true
     }
