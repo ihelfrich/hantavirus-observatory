@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T01:01:06.922850+00:00",
+  "generated_at": "2026-07-17T04:40:09.492972+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
@@ -642,6 +642,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "News-Medical",
+      "head": "Fractional COVID booster doses provide strong long - lasting immunity",
+      "url": "https://www.news-medical.net/news/20260716/Fractional-COVID-booster-doses-provide-strong-long-lasting-immunity.aspx",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Indianexpress",
       "head": "  Amitabh Bachchan ko noch dala : Paresh Rawal | The Indian Express",
       "url": "https://indianexpress.com/shorts/entertainment/bollywood/amitabh-bachchan-ko-noch-dala-paresh-rawal-says-big-b-was-persecuted-he-only-wants-peace-10788787/",
@@ -995,21 +1010,6 @@
       "tags": [
         "English",
         "Nigeria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "EN",
-      "head": "Saudi Arabia calls on travelers to follow health guideline during summer – Shafaqna English",
-      "url": "https://en.shafaqna.com/462081/saudi-arabia-calls-on-travelers-to-follow-health-guideline-during-summer/",
-      "loc": "Saudi Arabia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Saudi Arabia"
       ],
       "live": true
     }
