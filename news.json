@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-07-17T16:14:53.441716+00:00",
+  "generated_at": "2026-07-17T17:38:10.100936+00:00",
   "sources": [
     "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 70,
+  "count": 60,
   "items": [
-    {
-      "time": "22:47",
-      "date": "2026-07-02",
-      "ts": "2026-07-02T22:47:40+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "WHO Declares Hantavirus Outbreak Over, Thanks Spain for ‘Incredible Solidarity’",
-      "url": "https://outbreaknewstoday.com/who-declares-hantavirus-outbreak-over-thanks-spain-for-incredible-solidarity-720/?utm_source=rss&utm_medium=rss&utm_campaign=who-declares-hantavirus-outbreak-over-thanks-spain-for-incredible-solidarity",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
     {
       "time": "—",
       "date": "",
@@ -384,132 +370,6 @@
       "lang": "en",
       "tags": [
         "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "16:23",
-      "date": "2026-07-02",
-      "ts": "2026-07-02T16:23:09+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "DR Congo Ebola Cases Rise to 1,406; Deaths Reach 438",
-      "url": "https://outbreaknewstoday.com/dr-congo-ebola-cases-rise-to-1406-deaths-reach-438-708/?utm_source=rss&utm_medium=rss&utm_campaign=dr-congo-ebola-cases-rise-to-1406-deaths-reach-438",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "09:17",
-      "date": "2026-07-01",
-      "ts": "2026-07-01T09:17:27+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "DR Congo Ebola Outbreak Becomes Third-Largest on Record as Cases Near 1,300",
-      "url": "https://outbreaknewstoday.com/dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300-692/?utm_source=rss&utm_medium=rss&utm_campaign=dr-congo-ebola-outbreak-becomes-third-largest-on-record-as-cases-near-1300",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "18:16",
-      "date": "2026-06-30",
-      "ts": "2026-06-30T18:16:08+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Ebola Outbreak Could Cost Africa Up to $3.6bn, UN Warns",
-      "url": "https://outbreaknewstoday.com/ebola-outbreak-could-cost-africa-3-6bn-un-warns-683/?utm_source=rss&utm_medium=rss&utm_campaign=ebola-outbreak-could-cost-africa-3-6bn-un-warns",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "18:18",
-      "date": "2026-06-24",
-      "ts": "2026-06-24T18:18:27+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "France Reports First Ebola Case In Doctor Returning From DRC Mission",
-      "url": "https://outbreaknewstoday.com/france-reports-first-ebola-case-in-doctor-returning-from-drc-mission-660/?utm_source=rss&utm_medium=rss&utm_campaign=france-reports-first-ebola-case-in-doctor-returning-from-drc-mission",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "17:36",
-      "date": "2026-03-19",
-      "ts": "2026-03-19T17:36:00+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "India: H5N1 Reported in Five Kozhikode Local Bodies; Culling To Follow",
-      "url": "https://outbreaknewstoday.com/india-h5n1-reported-in-five-kozhikode-local-bodies-culling-to-follow-629/?utm_source=rss&utm_medium=rss&utm_campaign=india-h5n1-reported-in-five-kozhikode-local-bodies-culling-to-follow",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "17:02",
-      "date": "2026-03-19",
-      "ts": "2026-03-19T17:02:52+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "India: Kerala To Cull 5,961 Birds in Alappuzha After Bird Flu Confirmation",
-      "url": "https://outbreaknewstoday.com/india-kerala-to-cull-5961-birds-in-muhamma-after-bird-flu-confirmation-613/?utm_source=rss&utm_medium=rss&utm_campaign=india-kerala-to-cull-5961-birds-in-muhamma-after-bird-flu-confirmation",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "13:47",
-      "date": "2026-03-19",
-      "ts": "2026-03-19T13:47:16+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "UK Meningitis Outbreak Cases Climb to 27, 2 Deaths Reported",
-      "url": "https://outbreaknewstoday.com/uk-meningitis-outbreak-cases-climb-to-27-2-deaths-reported-604/?utm_source=rss&utm_medium=rss&utm_campaign=uk-meningitis-outbreak-cases-climb-to-27-2-deaths-reported",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "10:11",
-      "date": "2026-03-11",
-      "ts": "2026-03-11T10:11:40+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Black Rain in Iran: WHO Warns of Health Risks After Airstrikes on Oil Facilities",
-      "url": "https://outbreaknewstoday.com/who-warns-health-risks-black-rain-iran-570/?utm_source=rss&utm_medium=rss&utm_campaign=who-warns-health-risks-black-rain-iran",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "21:04",
-      "date": "2026-02-24",
-      "ts": "2026-02-24T21:04:38+00:00",
-      "src": "OutbreakNewsToday",
-      "head": "Pennsylvania Ramps Up Testing as Bird Flu Affects 7.2 Million Birds in 2026",
-      "url": "https://outbreaknewstoday.com/pennsylvania-ramps-up-testing-as-bird-flu-affects-7-2-million-birds-in-2026-547/?utm_source=rss&utm_medium=rss&utm_campaign=pennsylvania-ramps-up-testing-as-bird-flu-affects-7-2-million-birds-in-2026",
-      "loc": "Global",
-      "lang": "en",
-      "tags": [
-        "OutbreakNewsToday"
       ],
       "live": true
     },
