@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18T19:41:28.140560+00:00",
+  "generated_at": "2026-07-18T20:45:37.958600+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -657,6 +657,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Super",
+      "head": "Novo catálogo de vírus revela quais patógenos representam a maior ameaça para a",
+      "url": "https://super.abril.com.br/saude/novo-catalogo-de-virus-revela-quais-patogenos-representam-a-maior-ameaca-para-a-humanidade/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "News-Medical",
       "head": "Fractional COVID booster doses provide strong long - lasting immunity",
       "url": "https://www.news-medical.net/news/20260716/Fractional-COVID-booster-doses-provide-strong-long-lasting-immunity.aspx",
@@ -995,21 +1010,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Alwatan",
-      "head": "وقاية المسافرين إلى خارج المملكة من مخاطر الأمراض المعدية خلال موسم الصيف",
-      "url": "https://www.alwatan.com.sa/article/1182727",
-      "loc": "Saudi Arabia",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Saudi Arabia"
       ],
       "live": true
     }
