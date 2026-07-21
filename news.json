@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T22:27:04.877671+00:00",
+  "generated_at": "2026-07-21T23:29:29.851874+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,51 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gercekgundem",
+      "head": "Venezuelada Hantavirüs Alarmı : Sağlık Bakanlığı Ölümleri Doğruladı",
+      "url": "https://www.gercekgundem.com/dunya/venezuelada-hantavirus-alarmi-saglik-bakanligi-olumleri-dogruladi-575395",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Malatyaguncel",
+      "head": "Venezuelada hantavirüs nedeniyle 3 kişi öldü",
+      "url": "https://www.malatyaguncel.com/venezuela-da-hantavirus-nedeniyle-3-kisi-oldu-3102552h.htm",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ensonhaber",
+      "head": "Venezuelada 3 kişi hantavirüsten öldü",
+      "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirusten-oldu-h1551559",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -777,6 +822,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Almowaten",
+      "head": "فنزويلا تعلن وفاة 3 أشخاص بسبب فيروس  هانتا  ",
+      "url": "https://www.almowaten.net/2026/07/%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-3-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%87%D8%A7/",
+      "loc": "Saudi Arabia",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Saudi Arabia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "SANA",
       "head": "فنزويلا تعلن وفاة ثلاثة أشخاص بفيروس  هانتا  وتستبعد وجود عدوى بشرية داخل البلاد",
       "url": "https://sana.sy/health/2533945/",
@@ -945,66 +1005,6 @@
       "src": "Americanbazaaronline",
       "head": "Taco Bell faces investigation over diarrhea - causing parasite outbreak",
       "url": "https://americanbazaaronline.com/2026/07/14/taco-bell-faces-investigation-over-diarrhea-causing-parasite-outbreak-484579/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "BBC",
-      "head": "Public to be told how to prepare for cyber - attack and weather emergencies",
-      "url": "https://www.bbc.co.uk/news/articles/cp3x37lw1ndo",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Selectscience",
-      "head": "New human - infecting viruses found every year - SelectScience news",
-      "url": "https://www.selectscience.net/article/new-human-infecting-viruses-discovered-every-year-study-finds",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Folha",
-      "head": "Vírus pandêmicos : cientistas criam lista de ameaças - 12 / 07 / 2026 - Equilíbrio e Saúde",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/cientistas-criam-catalogo-para-identificar-virus-com-potencial-pandemico.shtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Radaronline",
-      "head": "Gene Hackman and Betsy Arakawa Receive Grave Plaques After Tragic Deaths",
-      "url": "https://radaronline.com/p/gene-hackman-betsy-arakawa-grave-plaques-honored-deaths/",
       "loc": "United States",
       "lang": "English",
       "tags": [
