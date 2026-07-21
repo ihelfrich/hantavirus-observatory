@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T21:20:18.182740+00:00",
+  "generated_at": "2026-07-21T22:27:04.877671+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,96 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis",
+      "url": "https://aa.com.tr/en/americas/venezuela-confirms-3-hantavirus-deaths-as-medical-association-warns-of-broader-crisis/4005077",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bursadabugun",
+      "head": "Venezuelada hantavirüs kaynaklı 3 kişi yaşamını yitirdi",
+      "url": "https://www.bursadabugun.com/haber/venezuela-da-hantavirus-kaynakli-3-kisi-yasamini-yitirdi-1936635.html",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "Venezuela , hantavirüsten 3 kişinin hayatını kaybettiğini doğruladı",
+      "url": "https://www.haberler.com/guncel/venezuela-da-hantavirus-3-kisinin-olumune-yol-acti-20074751-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "Três pessoas com casos confirmados de hantavírus morreram na Venezuela",
+      "url": "https://sapo.pt/artigo/tres-pessoas-com-casos-confirmados-de-hantavirus-morreram-na-venezuela-6a5fd11d9c9f29b5ceb4398d",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Manilatimes",
+      "head": "Hantavirus kills three in Venezuela | The Manila Times",
+      "url": "https://www.manilatimes.net/2026/07/22/world/hantavirus-kills-three-in-venezuela/2388818",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jamaicaobserver",
+      "head": "Hantavirus kills three in Venezuela - Jamaica Observer",
+      "url": "https://www.jamaicaobserver.com/2026/07/21/hantavirus-kills-three-venezuela/",
+      "loc": "Jamaica",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Jamaica"
       ],
       "live": true
     },
@@ -687,6 +777,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "SANA",
+      "head": "فنزويلا تعلن وفاة ثلاثة أشخاص بفيروس  هانتا  وتستبعد وجود عدوى بشرية داخل البلاد",
+      "url": "https://sana.sy/health/2533945/",
+      "loc": "Syria",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Syria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "6000",
+      "head": "outbreak",
+      "url": "https://6000.co.za/tag/outbreak/",
+      "loc": "South Africa",
+      "lang": "English",
+      "tags": [
+        "English",
+        "South Africa"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Novinite",
+      "head": "Отново епидемия от норовирус на круизен кораб : Близо една трета от пътниците са болни",
+      "url": "https://www.novinite.bg/articles/287821/otnovo-epidemiya-ot-norovirus-na-kruizen-korab-blizo-edna-treta-ot-patnicite-sa-bolni",
+      "loc": "Bulgaria",
+      "lang": "Bulgarian",
+      "tags": [
+        "Bulgarian",
+        "Bulgaria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Nypost",
       "head": "National Geographic Sea Bird cruise ship hit with 3rd norovirus outbreak since May",
       "url": "https://nypost.com/2026/07/21/us-news/national-geographic-sea-bird-cruise-ship-hit-with-3rd-norovirus-outbreak-since-may/",
@@ -870,141 +1005,6 @@
       "src": "Radaronline",
       "head": "Gene Hackman and Betsy Arakawa Receive Grave Plaques After Tragic Deaths",
       "url": "https://radaronline.com/p/gene-hackman-betsy-arakawa-grave-plaques-honored-deaths/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rcreader",
-      "head": "The Infectious Disease Frenzy",
-      "url": "https://www.rcreader.com/commentary/the-infectious-disease-frenzy-david-bell",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dostor",
-      "head": "فهرس علمي جديد يكشف الفيروسات الأكثر تهديدا للبشر",
-      "url": "https://www.dostor.org/5631683",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "News-Medical",
-      "head": "New viral library helps scientists study thousands of proteins",
-      "url": "https://www.news-medical.net/news/20260711/New-viral-library-helps-scientists-study-thousands-of-proteins.aspx",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Executivedigest",
-      "head": "O próximo vírus pandémico pode já estar a circular . A ciência tenta apanhá - lo antes que seja tarde",
-      "url": "https://executivedigest.sapo.pt/o-proximo-virus-pandemico-pode-ja-estar-a-circular-a-ciencia-tenta-apanha-lo-antes-que-seja-tarde/",
-      "loc": "",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theepochtimes",
-      "head": "US Citizen Tests Positive for Ebola in Africa : CDC",
-      "url": "https://www.theepochtimes.com/us/us-citizen-tests-positive-for-ebola-in-africa-cdc-6060423",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailystar",
-      "head": "Horror paralyzing mosquito - borne illness surges in US as World Cup marches on",
-      "url": "https://www.dailystar.co.uk/news/latest-news/horror-paralyzing-mosquito-borne-illness-37415529",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arabic",
-      "head": "عطلة الأحلام في أوروبا هذا الصيف قد تواجه تحديات كبيرة .. إليك نصائح الخبراء",
-      "url": "https://arabic.cnn.com/travel/article/2026/07/10/europe-vacation-summer-chaos-border-lines-fuel-shortages",
-      "loc": "United States",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Winnipegfreepress",
-      "head": "Trial by virus – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/breakingnews/2026/07/09/trial-by-virus",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nypost",
-      "head": "Exclusive | Here how to keep NYC rats at bay",
-      "url": "https://nypost.com/2026/07/09/lifestyle/heres-how-to-keep-nyc-rats-at-bay/",
       "loc": "United States",
       "lang": "English",
       "tags": [
