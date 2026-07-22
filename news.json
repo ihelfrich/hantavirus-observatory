@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:53:52.376814+00:00",
+  "generated_at": "2026-07-22T13:50:32.210058+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Independent",
+      "head": "What is Hantavirus – and what are the symptoms ? All you need to know as three dead in Venezuela",
+      "url": "https://www.independent.co.uk/news/world/americas/what-is-hantavirus-symptoms-venezuela-cases-b3019290.html",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
@@ -329,21 +344,6 @@
       "src": "Mendocinobeacon",
       "head": "Venezuela reports isolated hantavirus deaths in two states",
       "url": "https://www.mendocinobeacon.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Chicoer",
-      "head": "Venezuela reports isolated hantavirus deaths in two states",
-      "url": "https://www.chicoer.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
