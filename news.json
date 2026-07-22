@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T09:58:22.710210+00:00",
+  "generated_at": "2026-07-22T11:53:52.376814+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
@@ -26,59 +26,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Gercekgundem",
-      "head": "Venezuelada Hantavirüs Alarmı : Sağlık Bakanlığı Ölümleri Doğruladı",
-      "url": "https://www.gercekgundem.com/dunya/venezuelada-hantavirus-alarmi-saglik-bakanligi-olumleri-dogruladi-575395",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Malatyaguncel",
-      "head": "Venezuelada hantavirüs nedeniyle 3 kişi öldü",
-      "url": "https://www.malatyaguncel.com/venezuela-da-hantavirus-nedeniyle-3-kisi-oldu-3102552h.htm",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ensonhaber",
-      "head": "Venezuelada 3 kişi hantavirüsten öldü",
-      "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirusten-oldu-h1551559",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis",
-      "url": "https://aa.com.tr/en/americas/venezuela-confirms-3-hantavirus-deaths-as-medical-association-warns-of-broader-crisis/4005077",
-      "loc": "Turkey",
+      "src": "Mcall",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.mcall.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
       "lang": "English",
       "tags": [
         "English",
-        "Turkey"
+        "United States"
       ],
       "live": true
     },
@@ -86,24 +41,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bursadabugun",
-      "head": "Venezuelada hantavirüs kaynaklı 3 kişi yaşamını yitirdi",
-      "url": "https://www.bursadabugun.com/haber/venezuela-da-hantavirus-kaynakli-3-kisi-yasamini-yitirdi-1936635.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "Venezuela , hantavirüsten 3 kişinin hayatını kaybettiğini doğruladı",
-      "url": "https://www.haberler.com/guncel/venezuela-da-hantavirus-3-kisinin-olumune-yol-acti-20074751-haberi/",
+      "src": "Turktime",
+      "head": "Bakanlık doğruladı : Hantavirüsten 3 kişi hayatını kaybetti – Güncel Haberler , Son Dakika Haberleri , Turktime Haber Portalı",
+      "url": "https://www.turktime.com/haber/bakanlik-dogruladi-hantavirus-ten-3-kisi-hayatini-kaybetti/750077",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -117,8 +57,8 @@
       "date": "",
       "ts": "",
       "src": "SAPO",
-      "head": "Três pessoas com casos confirmados de hantavírus morreram na Venezuela",
-      "url": "https://sapo.pt/artigo/tres-pessoas-com-casos-confirmados-de-hantavirus-morreram-na-venezuela-6a5fd11d9c9f29b5ceb4398d",
+      "head": "Venezuela confirma três mortes por hantavírus mas descarta ligao a óbitos de médicos em Barinas",
+      "url": "https://sapo.pt/artigo/venezuela-confirma-tres-mortes-por-hantavirus-mas-descarta-ligacao-a-obitos-de-medicos-em-barinas-6a607009503f077bd1d6017e",
       "loc": "Portugal",
       "lang": "Portuguese",
       "tags": [
@@ -131,14 +71,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Manilatimes",
-      "head": "Hantavirus kills three in Venezuela | The Manila Times",
-      "url": "https://www.manilatimes.net/2026/07/22/world/hantavirus-kills-three-in-venezuela/2388818",
-      "loc": "Philippines",
-      "lang": "English",
+      "src": "Yeniakit",
+      "head": "Venezuelada hantavirüs 3 can aldı",
+      "url": "https://www.yeniakit.com.tr/haber/venezuelada-hantavirus-3-can-aldi-2013664.html",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "Philippines"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -146,14 +86,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Jamaicaobserver",
-      "head": "Hantavirus kills three in Venezuela - Jamaica Observer",
-      "url": "https://www.jamaicaobserver.com/2026/07/21/hantavirus-kills-three-venezuela/",
-      "loc": "Jamaica",
-      "lang": "English",
+      "src": "Ensonhaber",
+      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
+      "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-h1551610",
+      "loc": "Turkey",
+      "lang": "Turkish",
       "tags": [
-        "English",
-        "Jamaica"
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
@@ -161,9 +101,99 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Bendsource",
-      "head": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source",
-      "url": "https://www.bendsource.com/news/localnews/doctor-on-hantavirus-cruise-is-one-of-the-top-birders-in-the-world/",
+      "src": "Yenisafak",
+      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
+      "url": "https://www.yenisafak.com/dunya/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-4842125",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bursahakimiyet",
+      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
+      "url": "https://www.bursahakimiyet.com.tr/dunya/venezuela-da-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-1674032",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Birgun",
+      "head": "Venezuelada hantavirüs tespit edildi : 3 kişi yaşamını yitirdi",
+      "url": "https://www.birgun.net/haber/venezuelada-hantavirus-tespit-edildi-3-kisi-yasamini-yitirdi-724987%20target=_blank%20class=stretched-link",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nzherald",
+      "head": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  ",
+      "url": "https://www.nzherald.co.nz/world/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/premium/ZGXVKSCTPRBKZC2LTC7G4KQBHI/",
+      "loc": "New Zealand",
+      "lang": "English",
+      "tags": [
+        "English",
+        "New Zealand"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Haberler",
+      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
+      "url": "https://www.haberler.com/dunya/venezuela-da-hantavirus-3-kisi-hayatini-kaybetti-20075091-haberi/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Gazette-News",
+      "head": "Colchester nurses helped to stop Hantavirus spread",
+      "url": "https://www.gazette-news.co.uk/news/26297084.colchester-nurses-helped-stop-hantavirus-spread/",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Orlandosentinel",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.orlandosentinel.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -176,9 +206,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Cidrap",
-      "head": "After cruise ship outbreak , review examines how hantavirus affects the brain",
-      "url": "https://www.cidrap.umn.edu/hantavirus/after-cruise-ship-outbreak-review-examines-how-hantavirus-affects-brain",
+      "src": "Capitalgazette",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.capitalgazette.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -191,14 +221,134 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Biobiochile",
-      "head": "Activan medidas por hantavirus en Corral debido a las remociones en masa por reciente sistema frontal | Nacional",
-      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/17/activan-medidas-por-hantavirus-en-corral-debido-a-las-remociones-en-masa-por-reciente-sistema-frontal.shtml",
-      "loc": "Chile",
-      "lang": "Spanish",
+      "src": "Dailylocal",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.dailylocal.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Spanish",
-        "Chile"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Advocate-News",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.advocate-news.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sitkasentinel",
+      "head": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected",
+      "url": "http://www.sitkasentinel.com/stories/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected,157969",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Click2Houston",
+      "head": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected",
+      "url": "https://www.click2houston.com/health/2026/07/21/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timescall",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.timescall.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thetimes-Tribune",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.thetimes-tribune.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fortmorgantimes",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.fortmorgantimes.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mendocinobeacon",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.mendocinobeacon.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chicoer",
+      "head": "Venezuela reports isolated hantavirus deaths in two states",
+      "url": "https://www.chicoer.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -822,14 +972,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Almowaten",
-      "head": "فنزويلا تعلن وفاة 3 أشخاص بسبب فيروس  هانتا  ",
-      "url": "https://www.almowaten.net/2026/07/%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-3-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%87%D8%A7/",
-      "loc": "Saudi Arabia",
+      "src": "Portfolio",
+      "head": "Már megint felbukkant a halálos vírus : új fertőzéseket azonosítottak , többen belehaltak",
+      "url": "https://www.portfolio.hu/global/20260722/mar-megint-felbukkant-a-halalos-virus-uj-fertozeseket-azonositottak-tobben-belehaltak-851206",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Shorouknews",
+      "head": "فنزويلا تؤكد وفاة 3 أشخاص بفيروس هانتا وتنفي انتقاله بين البشر",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=22072026&id=e5ff9ac1-54a9-4dd7-82c7-77e9b079f609",
+      "loc": "Egypt",
       "lang": "Arabic",
       "tags": [
         "Arabic",
-        "Saudi Arabia"
+        "Egypt"
       ],
       "live": true
     },
@@ -837,179 +1002,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "SANA",
-      "head": "فنزويلا تعلن وفاة ثلاثة أشخاص بفيروس  هانتا  وتستبعد وجود عدوى بشرية داخل البلاد",
-      "url": "https://sana.sy/health/2533945/",
-      "loc": "Syria",
-      "lang": "Arabic",
+      "src": "Portfolio",
+      "head": "Már megint felbukkant a a halálos vírus : új fertőzéseket azonosítottak , többen belehaltak",
+      "url": "https://www.portfolio.hu/global/20260722/mar-megint-felbukkant-a-a-halalos-virus-uj-fertozeseket-azonositottak-tobben-belehaltak-851206",
+      "loc": "Hungary",
+      "lang": "Hungarian",
       "tags": [
-        "Arabic",
-        "Syria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "6000",
-      "head": "outbreak",
-      "url": "https://6000.co.za/tag/outbreak/",
-      "loc": "South Africa",
-      "lang": "English",
-      "tags": [
-        "English",
-        "South Africa"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Novinite",
-      "head": "Отново епидемия от норовирус на круизен кораб : Близо една трета от пътниците са болни",
-      "url": "https://www.novinite.bg/articles/287821/otnovo-epidemiya-ot-norovirus-na-kruizen-korab-blizo-edna-treta-ot-patnicite-sa-bolni",
-      "loc": "Bulgaria",
-      "lang": "Bulgarian",
-      "tags": [
-        "Bulgarian",
-        "Bulgaria"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nypost",
-      "head": "National Geographic Sea Bird cruise ship hit with 3rd norovirus outbreak since May",
-      "url": "https://nypost.com/2026/07/21/us-news/national-geographic-sea-bird-cruise-ship-hit-with-3rd-norovirus-outbreak-since-may/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Super",
-      "head": "Novo catálogo de vírus revela quais patógenos representam a maior ameaça para a",
-      "url": "https://super.abril.com.br/saude/novo-catalogo-de-virus-revela-quais-patogenos-representam-a-maior-ameaca-para-a-humanidade/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "News-Medical",
-      "head": "Fractional COVID booster doses provide strong long - lasting immunity",
-      "url": "https://www.news-medical.net/news/20260716/Fractional-COVID-booster-doses-provide-strong-long-lasting-immunity.aspx",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Indianexpress",
-      "head": "  Amitabh Bachchan ko noch dala : Paresh Rawal | The Indian Express",
-      "url": "https://indianexpress.com/shorts/entertainment/bollywood/amitabh-bachchan-ko-noch-dala-paresh-rawal-says-big-b-was-persecuted-he-only-wants-peace-10788787/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Arkansasonline",
-      "head": "Letters | The Arkansas Democrat - Gazette - Arkansa Best News Source",
-      "url": "https://www.arkansasonline.com/news/2026/jul/16/letters/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Guardian",
-      "head": "  The minute I had success , I stopped taking drug : John Waters on 60 years of screen carnage | John Waters",
-      "url": "https://www.theguardian.com/film/2026/jul/16/the-minute-i-had-success-i-stopped-taking-drugs-john-waters-on-60-years-of-screen-carnage",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Outsideonline",
-      "head": "What It Like to Catch the Grand Canyon Mystery Illness",
-      "url": "https://www.outsideonline.com/outdoor-adventure/environment/grand-canyon-mystery-illness/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Interaksyon",
-      "head": "New virus catalogue reveals which pathogens pose the greatest threat",
-      "url": "https://interaksyon.philstar.com/politics-issues/2026/07/15/316357/new-virus-catalogue-reveals-which-pathogens-pose-the-greatest-threat/",
-      "loc": "Philippines",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Philippines"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Americanbazaaronline",
-      "head": "Taco Bell faces investigation over diarrhea - causing parasite outbreak",
-      "url": "https://americanbazaaronline.com/2026/07/14/taco-bell-faces-investigation-over-diarrhea-causing-parasite-outbreak-484579/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
+        "Hungarian",
+        "Hungary"
       ],
       "live": true
     }
