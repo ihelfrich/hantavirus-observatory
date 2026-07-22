@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T17:17:46.543286+00:00",
+  "generated_at": "2026-07-22T18:41:24.284221+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Latimes",
+      "head": "Venezuela confirms 3 deaths from hantavirus infections , 2 more suspected",
+      "url": "https://www.latimes.com/world-nation/story/2026-07-22/venezuela-confirms-3-deaths-from-hantavirus-infections-2-more-suspected",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -314,36 +329,6 @@
       "src": "Thetimes-Tribune",
       "head": "Venezuela reports isolated hantavirus deaths in two states",
       "url": "https://www.thetimes-tribune.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fortmorgantimes",
-      "head": "Venezuela reports isolated hantavirus deaths in two states",
-      "url": "https://www.fortmorgantimes.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mendocinobeacon",
-      "head": "Venezuela reports isolated hantavirus deaths in two states",
-      "url": "https://www.mendocinobeacon.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -965,6 +950,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Indianexpress",
+      "head": "UPSC Essentials subject - wise quiz : Science and Technology ( Week 172 ) ",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-daily-subject-wise-quiz-science-and-technology-week-172-10798937/",
+      "loc": "India",
+      "lang": "English",
+      "tags": [
+        "English",
+        "India"
       ],
       "live": true
     },
