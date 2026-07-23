@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T14:40:31.999909+00:00",
+  "generated_at": "2026-07-23T16:25:26.473341+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -274,6 +274,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-17",
+      "ts": "2026-07-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Western Equine Encephalitis Virus in Blood Donors during Outbreak, Argentina, 2023–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0078_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -606,20 +620,6 @@
       "src": "CDC EID",
       "head": "Lactococcus garvieae",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0970_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-10",
-      "ts": "2026-07-10T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Virulence of Burkholderia pseudomallei Strains from Western Hemisphere and Africa in Mice",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0069_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
