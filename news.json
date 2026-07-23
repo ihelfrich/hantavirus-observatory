@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T22:03:05.029806+00:00",
+  "generated_at": "2026-07-23T23:27:35.519450+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -259,21 +259,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Orlandosentinel",
-      "head": "Venezuela reports isolated hantavirus deaths in two states",
-      "url": "https://www.orlandosentinel.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -890,6 +875,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Aletihad",
+      "head": "السيكلوسبورا .. والأمراض المنقولة بالغذاء",
+      "url": "https://www.aletihad.ae/opinion/4680839/%D8%A7%D9%84%D8%B3%D9%8A%D9%83%D9%84%D9%88%D8%B3%D8%A8%D9%88%D8%B1%D8%A7---%D9%88%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A1",
+      "loc": "",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        ""
       ],
       "live": true
     },
