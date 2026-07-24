@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T00:56:52.487825+00:00",
+  "generated_at": "2026-07-24T04:17:08.654930+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -882,6 +882,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Vesti-Ua",
+      "head": "Во Львовской области зафиксировали случай редкой инфекции : у жителя Стрыя диагностировали хантавирус",
+      "url": "https://vesti-ua.net/novosti/obschestvo/286971-vo-lvovskoy-oblasti-zafiksirovali-sluchay-redkoy-infekcii-u-zhitelya-stryya-diagnostirovali-hantavirus.html",
+      "loc": "Ukraine",
+      "lang": "Russian",
+      "tags": [
+        "Russian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Aletihad",
       "head": "السيكلوسبورا .. والأمراض المنقولة بالغذاء",
       "url": "https://www.aletihad.ae/opinion/4680839/%D8%A7%D9%84%D8%B3%D9%8A%D9%83%D9%84%D9%88%D8%B3%D8%A8%D9%88%D8%B1%D8%A7---%D9%88%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A1",
@@ -995,21 +1010,6 @@
       "tags": [
         "Arabic",
         "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Portfolio",
-      "head": "Már megint felbukkant a a halálos vírus : új fertőzéseket azonosítottak , többen belehaltak",
-      "url": "https://www.portfolio.hu/global/20260722/mar-megint-felbukkant-a-a-halalos-virus-uj-fertozeseket-azonositottak-tobben-belehaltak-851206",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
       ],
       "live": true
     }
