@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T15:24:58.632488+00:00",
+  "generated_at": "2026-07-24T17:04:44.671728+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -248,17 +248,30 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Gazette-News",
-      "head": "Colchester nurses helped to stop Hantavirus spread",
-      "url": "https://www.gazette-news.co.uk/news/26297084.colchester-nurses-helped-stop-hantavirus-spread/",
-      "loc": "United Kingdom",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-07-24",
+      "ts": "2026-07-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Genomic and Epidemiologic Insights into Ongoing Measles Outbreak, Israel, 2025–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0625_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "United Kingdom"
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-24",
+      "ts": "2026-07-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Southern Tick–Associated Rash Illness in Pediatric Patient, New York, USA, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0871_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -585,34 +598,6 @@
       "live": true
     },
     {
-      "time": "04:00",
-      "date": "2026-07-13",
-      "ts": "2026-07-13T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Hepatitis A Outbreak in Skilled Nursing Facility, Los Angeles County, California, USA, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0202_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-13",
-      "ts": "2026-07-13T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Lactococcus garvieae",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0970_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
       "time": "16:23",
       "date": "2026-07-02",
       "ts": "2026-07-02T16:23:09+00:00",
@@ -882,6 +867,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Popsci",
+      "head": "No , cruise ships arent floating petri dishes",
+      "url": "https://www.popsci.com/science/what-diseases-on-cruise-ships/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Nydailynews",
+      "head": "The CDC needs a leader to stand up to RFK Jr . ",
+      "url": "https://www.nydailynews.com/2026/07/24/the-cdc-needs-a-leader-to-stand-up-to-rfk-jr/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Vesti-Ua",
       "head": "Во Львовской области зафиксировали случай редкой инфекции : у жителя Стрыя диагностировали хантавирус",
       "url": "https://vesti-ua.net/novosti/obschestvo/286971-vo-lvovskoy-oblasti-zafiksirovali-sluchay-redkoy-infekcii-u-zhitelya-stryya-diagnostirovali-hantavirus.html",
@@ -995,21 +1010,6 @@
       "tags": [
         "Hungarian",
         "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Shorouknews",
-      "head": "فنزويلا تؤكد وفاة 3 أشخاص بفيروس هانتا وتنفي انتقاله بين البشر",
-      "url": "https://www.shorouknews.com/news/view.aspx?cdate=22072026&id=e5ff9ac1-54a9-4dd7-82c7-77e9b079f609",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
       ],
       "live": true
     }
