@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T23:00:24.230803+00:00",
+  "generated_at": "2026-07-25T00:12:15.067161+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
@@ -209,36 +209,6 @@
       "src": "Birgun",
       "head": "Venezuelada hantavirüs tespit edildi : 3 kişi yaşamını yitirdi",
       "url": "https://www.birgun.net/haber/venezuelada-hantavirus-tespit-edildi-3-kisi-yasamini-yitirdi-724987%20target=_blank%20class=stretched-link",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nzherald",
-      "head": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  ",
-      "url": "https://www.nzherald.co.nz/world/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/premium/ZGXVKSCTPRBKZC2LTC7G4KQBHI/",
-      "loc": "New Zealand",
-      "lang": "English",
-      "tags": [
-        "English",
-        "New Zealand"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Haberler",
-      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
-      "url": "https://www.haberler.com/dunya/venezuela-da-hantavirus-3-kisi-hayatini-kaybetti-20075091-haberi/",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
@@ -860,6 +830,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Esquire",
+      "head": "I Cant Wait to Watch JD Vance Fall Flat on His Face During the 2028 Election Cycle",
+      "url": "https://www.esquire.com/news-politics/politics/a73259890/jd-vance-detractors-2028-presidential-election-cycle/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "US surpasses 2025 record number of measles infections as cases climb | MMR",
+      "url": "https://www.theguardian.com/society/2026/jul/24/us-measles-infections-record-high",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
       ],
       "live": true
     },
