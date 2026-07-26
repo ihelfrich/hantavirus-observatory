@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T23:32:14.872858+00:00",
+  "generated_at": "2026-07-26T02:41:25.028498+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -214,6 +214,76 @@
       "tags": [
         "Turkish",
         "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-25",
+      "ts": "2026-07-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Infections in Infancy and Association with Long-Term Weight Gain and Obesity in Children, Southern California, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/24-1522_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-25",
+      "ts": "2026-07-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Kudoa septempunctata Parasite–Associated Foodborne Disease Outbreaks, South Korea, 2015–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0653_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-25",
+      "ts": "2026-07-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of blaOXA-23–Positive Proteus mirabilis Isolate, United States, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0588_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-25",
+      "ts": "2026-07-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy (Response)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0828_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-25",
+      "ts": "2026-07-25T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0493_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -490,76 +560,6 @@
       "src": "CDC EID",
       "head": "My Long Road Back to Life",
       "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0904_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-15",
-      "ts": "2026-07-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Seeing Patterns—from Glass Art to Public Health",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/ac-3208_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-14",
-      "ts": "2026-07-14T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Outbreak of Hepatitis A Linked to Frozen Blueberries, the Netherlands, 2024–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1406_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-13",
-      "ts": "2026-07-13T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Rapid Expansion of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Genotype D1.1 Virus across Flyway Regions, North America, Fall 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0205_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-13",
-      "ts": "2026-07-13T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Detection of Dengue Virus in Aedes aegypti Mosquitoes, Dubai, United Arab Emirates",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0324_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-13",
-      "ts": "2026-07-13T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Human Cases of Borrelia miyamotoi Disease, Slovenia, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0326_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
