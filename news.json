@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T01:10:38.281580+00:00",
+  "generated_at": "2026-07-27T05:10:25.131108+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Adnradio",
+      "head": "Mujer de 40 años permanece grave y conectada a ventilación tras contagiarse de Hantavirus en Palena : fue trasladada a Concepción",
+      "url": "https://www.adnradio.cl/2026/07/26/mujer-de-40-anos-permanece-grave-y-conectada-a-ventilacion-tras-contagiarse-de-hantavirus-en-palena-fue-trasladada-a-concepcion/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -194,21 +209,6 @@
       "src": "Bursahakimiyet",
       "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
       "url": "https://www.bursahakimiyet.com.tr/dunya/venezuela-da-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-1674032",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Birgun",
-      "head": "Venezuelada hantavirüs tespit edildi : 3 kişi yaşamını yitirdi",
-      "url": "https://www.birgun.net/haber/venezuelada-hantavirus-tespit-edildi-3-kisi-yasamini-yitirdi-724987%20target=_blank%20class=stretched-link",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
