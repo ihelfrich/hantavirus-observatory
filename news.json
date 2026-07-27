@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T15:23:57.594828+00:00",
+  "generated_at": "2026-07-27T17:17:31.533907+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -203,21 +203,6 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bursahakimiyet",
-      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
-      "url": "https://www.bursahakimiyet.com.tr/dunya/venezuela-da-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-1674032",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
       "time": "04:00",
       "date": "2026-07-26",
       "ts": "2026-07-26T04:00:00+00:00",
@@ -278,8 +263,8 @@
       "date": "2026-07-25",
       "ts": "2026-07-25T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy (Response)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0828_article",
+      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0493_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -292,8 +277,8 @@
       "date": "2026-07-25",
       "ts": "2026-07-25T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0493_article",
+      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy (Response)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0828_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -348,8 +333,8 @@
       "date": "2026-07-17",
       "ts": "2026-07-17T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Detection of Congenital Syphilis via Digital PCR and Next-Generation Sequencing, Colombia",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1737_article",
+      "head": "Case-Fatality Risk of Norovirus, England, 2022–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0091_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -362,8 +347,8 @@
       "date": "2026-07-17",
       "ts": "2026-07-17T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Case-Fatality Risk of Norovirus, England, 2022–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0091_article",
+      "head": "Detection of Congenital Syphilis via Digital PCR and Next-Generation Sequencing, Colombia",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1737_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -830,6 +815,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Autos",
+      "head": "Junkyard Find : 1976 Chevrolet Chevy Van",
+      "url": "https://autos.yahoo.com/classic-and-collector/articles/junkyard-1976-chevrolet-chevy-van-160600809.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
