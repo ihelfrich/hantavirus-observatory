@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-07-28T09:17:14.546302+00:00",
+  "generated_at": "2026-07-28T11:35:31.919961+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 70,
+  "count": 50,
   "items": [
+    {
+      "time": "04:00",
+      "date": "2026-07-09",
+      "ts": "2026-07-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Serologic Evidence of Hantavirus Exposure in Humans, Italy, 2004–2018",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0840_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
     {
       "time": "22:47",
       "date": "2026-07-02",
@@ -207,20 +221,6 @@
       "date": "2026-07-27",
       "ts": "2026-07-27T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "A Multi-Partner Effort to Launch and Sustain Wastewater Surveillance, United States",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0221_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-27",
-      "ts": "2026-07-27T04:00:00+00:00",
-      "src": "CDC EID",
       "head": "Emergence of Rabies in Cape Fur Seals, South Africa",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0179_article",
       "loc": "Atlanta",
@@ -237,76 +237,6 @@
       "src": "CDC EID",
       "head": "In Memoriam: The Enduring Influence of Nancy J. Cox (1948–2026)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0830_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-25",
-      "ts": "2026-07-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Infections in Infancy and Association with Long-Term Weight Gain and Obesity in Children, Southern California, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/24-1522_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-25",
-      "ts": "2026-07-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Kudoa septempunctata Parasite–Associated Foodborne Disease Outbreaks, South Korea, 2015–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0653_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-25",
-      "ts": "2026-07-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Detection of blaOXA-23–Positive Proteus mirabilis Isolate, United States, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0588_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-25",
-      "ts": "2026-07-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0493_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-25",
-      "ts": "2026-07-25T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Tuberculosis after Preventive Therapy in Persons Living with HIV Initiating Antiretroviral Therapy (Response)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0828_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -335,216 +265,6 @@
       "src": "CDC EID",
       "head": "Southern Tick–Associated Rash Illness in Pediatric Patient, New York, USA, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0871_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-17",
-      "ts": "2026-07-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Western Equine Encephalitis Virus in Blood Donors during Outbreak, Argentina, 2023–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0078_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-17",
-      "ts": "2026-07-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Case-Fatality Risk of Norovirus, England, 2022–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0091_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-17",
-      "ts": "2026-07-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Detection of Congenital Syphilis via Digital PCR and Next-Generation Sequencing, Colombia",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1737_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-17",
-      "ts": "2026-07-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Human Lactococcus garvieae Bloodstream Infection Complicated by Spondylodiscitis, Germany",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0334_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-17",
-      "ts": "2026-07-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Surveillance of Ticks and Tickborne Borrelia, Ehrlichia, and Rickettsia spp., Texas, USA, 2014–2021",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1104_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-17",
-      "ts": "2026-07-17T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "The Formula for Better Health",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0497_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-16",
-      "ts": "2026-07-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Epidemiologic, Entomologic, and Virologic Findings during Reemergence of Western Equine Encephalitis Virus, Argentina",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-0829_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-16",
-      "ts": "2026-07-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Camel Prion Disease, Tataouine, Tunisia, 2019–2021",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1474_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-16",
-      "ts": "2026-07-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Antimicrobial Resistance in Extragenital Neisseria gonorrhoeae Infections, US Military Centers, 2022–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0337_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-16",
-      "ts": "2026-07-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Doxycycline Resistance and 16S rRNA Mutations in Treponema pallidum",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0433_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-16",
-      "ts": "2026-07-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Doxycycline Resistance and 16S rRNA Mutations in Treponema pallidum (Response)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/26-0943_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-16",
-      "ts": "2026-07-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Correction: Vol. 32, No. 2",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/c1-3208_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-15",
-      "ts": "2026-07-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Targeted Wastewater Surveillance during the World Athletics Championship, Oregon, USA, 2022",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0537_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-15",
-      "ts": "2026-07-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Genotype D1.2 Virus in Swine after Experimental Inoculation",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1765_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-15",
-      "ts": "2026-07-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Occupationally Exposed and General Population Antibody Profiles to Influenza A Viruses Circulating in Swine as Indication of Zoonotic Risk",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/8/25-1995_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
