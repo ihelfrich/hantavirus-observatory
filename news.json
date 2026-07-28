@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:04:09.735252+00:00",
+  "generated_at": "2026-07-28T23:30:26.868204+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
@@ -33,6 +33,51 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Vlnradio",
+      "head": "Minsal declaró Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
+      "url": "https://www.vlnradio.cl/noticias/nacional/2026/07/28/minsal-declaro-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
+      "loc": "",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "La Nación",
+      "head": "Minsal declara por primera vez Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
+      "url": "https://www.lanacion.cl/minsal-declara-por-primera-vez-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elrancaguino",
+      "head": "Alerta Sanitaria por hantavirus : OHiggins está entre las regiones con casos",
+      "url": "https://www.elrancaguino.cl/2026/07/28/alerta-sanitaria-hantavirus-region-casos-2026/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -193,36 +238,6 @@
       "src": "Yahoo",
       "head": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected",
       "url": "https://www.yahoo.com/news/world/articles/venezuela-confirms-3-people-died-232052478.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Breitbart",
-      "head": "Venezuela Confirms 3 Hantavirus - Related Deaths",
-      "url": "https://www.breitbart.com/health/2026/07/22/venezuela-confirms-3-hantavirus-related-deaths/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Latimes",
-      "head": "Venezuela confirms 3 deaths from hantavirus infections , 2 more suspected",
-      "url": "https://www.latimes.com/world-nation/story/2026-07-22/venezuela-confirms-3-deaths-from-hantavirus-infections-2-more-suspected",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -757,21 +772,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Indianexpress",
-      "head": "UPSC Essentials subject - wise quiz : Science and Technology ( Week 172 ) ",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-daily-subject-wise-quiz-science-and-technology-week-172-10798937/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
       ],
       "live": true
     }
