@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T20:43:11.896466+00:00",
+  "generated_at": "2026-07-28T22:04:09.735252+00:00",
   "sources": [
+    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
-    "CDC EID",
     "GDELT"
   ],
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "time": "04:00",
@@ -33,6 +33,126 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brisbanetimes",
+      "head": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
+      "url": "https://www.brisbanetimes.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theage",
+      "head": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
+      "url": "https://www.theage.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sydney Morning Herald",
+      "head": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
+      "url": "https://www.smh.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radioagricultura",
+      "head": "Minsal declara Alerta Sanitaria por hantavirus y refuerza medidas en gran parte del país",
+      "url": "https://www.radioagricultura.cl/noticias/nacional/minsal-declara-alerta-sanitaria-por-hantavirus-y-refuerza-medidas-en-gran-parte-del-pais_20260728/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diarioelcentro",
+      "head": "Minsal activa alerta sanitaria por hantavirus desde la región de Atacama a Magallanes",
+      "url": "https://www.diarioelcentro.cl/2026/07/28/minsal-activa-alerta-sanitaria-por-hantavirus-desde-la-region-de-atacama-a-magallanes/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pudahuel",
+      "head": "Por primera vez : Minsal declara Alerta Sanitaria por hantavirus y  multiamenaza sanitaria  hasta 2027",
+      "url": "https://www.pudahuel.cl/noticias/2026/07/por-primera-vez-minsal-declara-alerta-sanitaria-por-hantavirus-y-multiamenaza-sanitaria-hasta-2027/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Minsal declara Alerta Sanitaria en 13 regiones por virus hanta y alza de mortalidad",
+      "url": "https://www.24horas.cl/actualidad/nacional/hanta-virus-alerta-sanitaria-regiones-minsal",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Alerta sanitaria por hanta : Regiones afectadas y qué es la  multiamenaza  informada por el Minsal",
+      "url": "https://www.24horas.cl/actualidad/nacional/minsal-multiamenaza-sanitaria-13-regiones-alerta-hantavirus",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -112,107 +232,16 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Independent",
-      "head": "What is Hantavirus – and what are the symptoms ? All you need to know as three dead in Venezuela",
-      "url": "https://www.independent.co.uk/news/world/americas/what-is-hantavirus-symptoms-venezuela-cases-b3019290.html",
-      "loc": "United Kingdom",
-      "lang": "English",
+      "time": "04:00",
+      "date": "2026-07-28",
+      "ts": "2026-07-28T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Seroprevalence of Influenza A(H5N1) Virus in Domestic Cats at Epicenter of Dairy Cattle Outbreaks, California, USA, 2024–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0785_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mcall",
-      "head": "Venezuela reports isolated hantavirus deaths in two states",
-      "url": "https://www.mcall.com/2026/07/21/venezuela-investigates-isolated-hantavirus-deaths-cases/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Turktime",
-      "head": "Bakanlık doğruladı : Hantavirüsten 3 kişi hayatını kaybetti – Güncel Haberler , Son Dakika Haberleri , Turktime Haber Portalı",
-      "url": "https://www.turktime.com/haber/bakanlik-dogruladi-hantavirus-ten-3-kisi-hayatini-kaybetti/750077",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "Venezuela confirma três mortes por hantavírus mas descarta ligao a óbitos de médicos em Barinas",
-      "url": "https://sapo.pt/artigo/venezuela-confirma-tres-mortes-por-hantavirus-mas-descarta-ligacao-a-obitos-de-medicos-em-barinas-6a607009503f077bd1d6017e",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yeniakit",
-      "head": "Venezuelada hantavirüs 3 can aldı",
-      "url": "https://www.yeniakit.com.tr/haber/venezuelada-hantavirus-3-can-aldi-2013664.html",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ensonhaber",
-      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
-      "url": "https://www.ensonhaber.com/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-h1551610",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yenisafak",
-      "head": "Venezuelada 3 kişi hantavirüs nedeniyle hayatını kaybetti",
-      "url": "https://www.yenisafak.com/dunya/venezuelada-3-kisi-hantavirus-nedeniyle-hayatini-kaybetti-4842125",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
+        "CDC EID"
       ],
       "live": true
     },
@@ -743,21 +772,6 @@
       "tags": [
         "English",
         "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Portfolio",
-      "head": "Már megint felbukkant a halálos vírus : új fertőzéseket azonosítottak , többen belehaltak",
-      "url": "https://www.portfolio.hu/global/20260722/mar-megint-felbukkant-a-halalos-virus-uj-fertozeseket-azonositottak-tobben-belehaltak-851206",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
       ],
       "live": true
     }
