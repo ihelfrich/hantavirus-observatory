@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T01:02:05.843972+00:00",
+  "generated_at": "2026-07-29T04:45:57.672122+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 53,
@@ -33,6 +33,81 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Alerta por Hantavirus en Chile por  multiamenaza sanitaria : esto dicen los expertos sobre la situación epidemiológica",
+      "url": "https://www.24horas.cl/actualidad/nacional/alerta-por-hantavirus-en-chile-por-multiamenaza-sanitaria-esto-dicen-expertos",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cadena3",
+      "head": "Chile emite alerta sanitaria por hantavirus en 13 de sus 16 regiones debido al aumento de casos",
+      "url": "https://www.cadena3.com/noticia/mundo/chile-emite-alerta-sanitaria-por-hantavirus-en-13-de-sus-16-regiones-debido-al-aumento-de-casos_578003",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TVN",
+      "head": "Por virus Hanta : Minsal declara por primera vez Alerta Sanitaria en 13 regiones del país",
+      "url": "https://www.tvn.cl/noticias/actualidad/por-virus-hanta-minsal-declara-por-primera-vez-alerta-sanitaria-en-13-regiones",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theclinic",
+      "head": "Alerta sanitaria por hanta : qué dice el Minsal , cuáles son los síntomas y dónde están los focos",
+      "url": "https://www.theclinic.cl/2026/07/28/letalidad-se-duplico-todo-lo-que-tienes-que-saber-sobre-el-hanta-y-por-que-el-minsal-decidio-decretar-una-alerta-sanitaria/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eluniversal",
+      "head": "Chile declara alerta sanitaria preventiva por hantavirus",
+      "url": "https://www.eluniversal.com.mx/mundo/chile-declara-alerta-sanitaria-preventiva-por-hantavirus-autoridades-descartan-una-epidemia-en-curso/",
+      "loc": "Mexico",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Mexico"
       ],
       "live": true
     },
@@ -176,8 +251,8 @@
       "date": "",
       "ts": "",
       "src": "24Horas",
-      "head": "Minsal declara Alerta Sanitaria en 13 regiones por virus hanta y alza de mortalidad",
-      "url": "https://www.24horas.cl/actualidad/nacional/hanta-virus-alerta-sanitaria-regiones-minsal",
+      "head": "Alerta sanitaria por hanta : Regiones afectadas y qué es la  multiamenaza  informada por el Minsal",
+      "url": "https://www.24horas.cl/actualidad/nacional/minsal-multiamenaza-sanitaria-13-regiones-alerta-hantavirus",
       "loc": "Chile",
       "lang": "Spanish",
       "tags": [
@@ -191,8 +266,8 @@
       "date": "",
       "ts": "",
       "src": "24Horas",
-      "head": "Alerta sanitaria por hanta : Regiones afectadas y qué es la  multiamenaza  informada por el Minsal",
-      "url": "https://www.24horas.cl/actualidad/nacional/minsal-multiamenaza-sanitaria-13-regiones-alerta-hantavirus",
+      "head": "Minsal declara Alerta Sanitaria en 13 regiones por virus hanta y alza de mortalidad",
+      "url": "https://www.24horas.cl/actualidad/nacional/hanta-virus-alerta-sanitaria-regiones-minsal",
       "loc": "Chile",
       "lang": "Spanish",
       "tags": [
@@ -213,36 +288,6 @@
       "tags": [
         "Spanish",
         "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newswise",
-      "head": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness",
-      "url": "https://www.newswise.com/articles/cruise-ship-hantavirus-outbreak-highlights-need-for-clear-public-health-communication-and-global-disease-preparedness",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Yahoo",
-      "head": "Venezuela confirms 3 people have died of hantavirus infections , with 2 more deaths suspected",
-      "url": "https://www.yahoo.com/news/world/articles/venezuela-confirms-3-people-died-232052478.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -727,51 +772,6 @@
       "tags": [
         "Ukrainian",
         "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theshillongtimes",
-      "head": "World Watch - The Shillong Times",
-      "url": "https://theshillongtimes.com/2026/07/23/world-watch-824/",
-      "loc": "India",
-      "lang": "English",
-      "tags": [
-        "English",
-        "India"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Foxnews",
-      "head": "CDC ran disease surveillance and outbreak monitoring at FIFA World Cup",
-      "url": "https://www.foxnews.com/health/cdc-reveals-massive-behind-the-scenes-public-health-operation-kept-fifa-world-cup-fans-safe",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Journals",
-      "head": "Whose fears count ? Legitimacy , trust and viral outbreak responses after COVID - 19",
-      "url": "https://journals.plos.org:443/plosmedicine/article?id=10.1371/journal.pmed.1005184",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
