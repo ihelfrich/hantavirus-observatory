@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T15:13:26.432168+00:00",
+  "generated_at": "2026-07-29T16:49:35.922699+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -33,6 +33,51 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radioagricultura",
+      "head": "Virus hanta : infectóloga explica por qué es clave actuar rápido tras una posible exposición",
+      "url": "https://www.radioagricultura.cl/noticias/nacional/virus-hanta-infectologa-explica-por-que-es-clave-actuar-rapido-tras-una-posible-exposicion_20260729/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cadena3",
+      "head": "Chile emite alerta sanitaria por aumento de letalidad del hantavirus en todo el país",
+      "url": "https://www.cadena3.com/noticia/mundo/chile-emite-alerta-sanitaria-por-aumento-de-letalidad-del-hantavirus-en-todo-el-pais_578182",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Calibre800",
+      "head": "CHILE ACTIVA ALERTA SANITARIA POR HANTAVIRUS EN GRAN PARTE DEL PAIS ANTE AUMENTO DE CASOS Y MUERTES",
+      "url": "https://www.calibre800.com/2026/07/28/chile-activa-alerta-sanitaria-por-hantavirus-en-gran-parte-del-pais-ante-aumento-de-casos-y-muertes/",
+      "loc": "Mexico",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Mexico"
       ],
       "live": true
     },
@@ -70,9 +115,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "TVN",
-      "head": "Por virus Hanta : Minsal declara por primera vez Alerta Sanitaria en 13 regiones del país",
-      "url": "https://www.tvn.cl/noticias/actualidad/por-virus-hanta-minsal-declara-por-primera-vez-alerta-sanitaria-en-13-regiones",
+      "src": "Theclinic",
+      "head": "Alerta sanitaria por hanta : qué dice el Minsal , cuáles son los síntomas y dónde están los focos",
+      "url": "https://www.theclinic.cl/2026/07/28/letalidad-se-duplico-todo-lo-que-tienes-que-saber-sobre-el-hanta-y-por-que-el-minsal-decidio-decretar-una-alerta-sanitaria/",
       "loc": "Chile",
       "lang": "Spanish",
       "tags": [
@@ -85,9 +130,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Theclinic",
-      "head": "Alerta sanitaria por hanta : qué dice el Minsal , cuáles son los síntomas y dónde están los focos",
-      "url": "https://www.theclinic.cl/2026/07/28/letalidad-se-duplico-todo-lo-que-tienes-que-saber-sobre-el-hanta-y-por-que-el-minsal-decidio-decretar-una-alerta-sanitaria/",
+      "src": "TVN",
+      "head": "Por virus Hanta : Minsal declara por primera vez Alerta Sanitaria en 13 regiones del país",
+      "url": "https://www.tvn.cl/noticias/actualidad/por-virus-hanta-minsal-declara-por-primera-vez-alerta-sanitaria-en-13-regiones",
       "loc": "Chile",
       "lang": "Spanish",
       "tags": [
@@ -659,14 +704,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Autos",
-      "head": "Junkyard Find : 1976 Chevrolet Chevy Van",
-      "url": "https://autos.yahoo.com/classic-and-collector/articles/junkyard-1976-chevrolet-chevy-van-160600809.html",
-      "loc": "United States",
+      "src": "Indianexpress",
+      "head": "UPSC Key - 29th July 2026 : Cauvery Water Dispute , Eco - Sensitive Zones and Rupee Overvalued",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-cauvery-water-dispute-eco-sensitive-zones-and-rupee-overvalued-10809308/",
+      "loc": "India",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "India"
       ],
       "live": true
     },
@@ -674,14 +719,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Esquire",
-      "head": "I Cant Wait to Watch JD Vance Fall Flat on His Face During the 2028 Election Cycle",
-      "url": "https://www.esquire.com/news-politics/politics/a73259890/jd-vance-detractors-2028-presidential-election-cycle/",
-      "loc": "United States",
+      "src": "Sydneysun",
+      "head": "Chance discovery points to potential antiviral treatment : study",
+      "url": "http://www.sydneysun.com/news/279214533/chance-discovery-points-to-potential-antiviral-treatment-study",
+      "loc": "Australia",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Australia"
       ],
       "live": true
     },
@@ -689,73 +734,13 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Guardian",
-      "head": "US surpasses 2025 record number of measles infections as cases climb | MMR",
-      "url": "https://www.theguardian.com/society/2026/jul/24/us-measles-infections-record-high",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Popsci",
-      "head": "No , cruise ships arent floating petri dishes",
-      "url": "https://www.popsci.com/science/what-diseases-on-cruise-ships/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nydailynews",
-      "head": "The CDC needs a leader to stand up to RFK Jr . ",
-      "url": "https://www.nydailynews.com/2026/07/24/the-cdc-needs-a-leader-to-stand-up-to-rfk-jr/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vesti-Ua",
-      "head": "Во Львовской области зафиксировали случай редкой инфекции : у жителя Стрыя диагностировали хантавирус",
-      "url": "https://vesti-ua.net/novosti/obschestvo/286971-vo-lvovskoy-oblasti-zafiksirovali-sluchay-redkoy-infekcii-u-zhitelya-stryya-diagnostirovali-hantavirus.html",
-      "loc": "Ukraine",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Ukraine"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Aletihad",
-      "head": "السيكلوسبورا .. والأمراض المنقولة بالغذاء",
-      "url": "https://www.aletihad.ae/opinion/4680839/%D8%A7%D9%84%D8%B3%D9%8A%D9%83%D9%84%D9%88%D8%B3%D8%A8%D9%88%D8%B1%D8%A7---%D9%88%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A1",
+      "src": "English",
+      "head": "Chance discovery points to potential antiviral treatment : study - Xinhua",
+      "url": "https://english.news.cn/20260729/077dff96de984f61a739399be68fbfe3/c.html",
       "loc": "",
-      "lang": "Arabic",
+      "lang": "English",
       "tags": [
-        "Arabic",
+        "English",
         ""
       ],
       "live": true
@@ -764,14 +749,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Tvoemisto",
-      "head": "Хантавірус на Львівщині : у мешканця Стрия виявили небезпечне захворювання",
-      "url": "https://tvoemisto.tv/uk/news/7167-khantavirus-na-lvivshchyni-u-meshkantsya-stryya-vyyavyly-nebezpechne-zakhvoryuvannya",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
+      "src": "Bignewsnetwork",
+      "head": "Chance discovery points to potential antiviral treatment : study",
+      "url": "http://www.bignewsnetwork.com/news/279214533/chance-discovery-points-to-potential-antiviral-treatment-study",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Ukrainian",
-        "Ukraine"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Autos",
+      "head": "Junkyard Find : 1976 Chevrolet Chevy Van",
+      "url": "https://autos.yahoo.com/classic-and-collector/articles/junkyard-1976-chevrolet-chevy-van-160600809.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     }
