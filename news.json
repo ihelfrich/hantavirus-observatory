@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T03:55:58.722041+00:00",
+  "generated_at": "2026-07-30T06:28:21.461762+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 53,
@@ -33,6 +33,141 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Alerta sanitaria por Virus Hanta : expertos llaman a reconocer síntomas para un diagnóstico temprano",
+      "url": "https://www.24horas.cl/tendencias/bienestar/virus-hanta-expertos-llaman-a-reconocer-los-signos-para-un-diagnostico-temprano",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bnonews",
+      "head": "Chile declares 1st hantavirus health alert after 18 deaths this year",
+      "url": "https://bnonews.com/index.php/2026/07/chile-declares-1st-hantavirus-health-alert-after-18-deaths-this-year/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pulsoslp",
+      "head": "Alerta sanitaria en Chile por hantavirus",
+      "url": "https://pulsoslp.com.mx/mundo/alerta-sanitaria-en-chile-por-hantavirus-/2071238",
+      "loc": "Mexico",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Mexico"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Globalmedia",
+      "head": "Chile declara alerta sanitaria preventiva por aumento de casos de hantavirus",
+      "url": "https://www.globalmedia.mx/articles/chile_declara_alerta_sanitaria_preventiva_por_aumento_de_casos_de_hantavirus",
+      "loc": "Mexico",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Mexico"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Cooperativa",
+      "head": " [ Audio ] ¿ Por qué se declaró alerta por hantavirus en pleno invierno ? ",
+      "url": "https://www.cooperativa.cl/noticias/pais/salud/alertas-sanitarias/por-que-se-declaro-alerta-por-hantavirus-en-pleno-invierno/2026-07-29/193144.html",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Analisisdigital",
+      "head": "Alerta sanitaria en Chile por hantavirus : cuáles son las nuevas medidas del Ministerio de Salud",
+      "url": "https://www.analisisdigital.com.ar/interes-general/2026/07/29/alerta-sanitaria-en-chile-por-hantavirus-cuales-son-las-nuevas-medidas-del-ministerio-de-salud",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Observador",
+      "head": "COVID - 19 , hantavírus e Ébola : o que mudou ? ",
+      "url": "https://observador.pt/opiniao/covid-19-hantavirus-e-ebola-o-que-mudou/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chanarcillo",
+      "head": "Minsal declara alerta sanitaria por hantavirus desde Atacama a Magallanes – Diario Chañarcillo",
+      "url": "https://www.chanarcillo.cl/minsal-declara-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Chilevision",
+      "head": "Alerta Sanitaria por hantavirus en 13 regiones : ¿ Cómo prevenir el contagio y cuándo acudir a urgencias ? ",
+      "url": "https://www.chilevision.cl/noticias/te-ayuda/alerta-sanitaria-por-hantavirus-en-13-regiones-como-prevenir-el-contagio-y-cuando-acudir-a-urgencias/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -153,186 +288,6 @@
       "tags": [
         "Spanish",
         "Mexico"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vlnradio",
-      "head": "Minsal declaró Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
-      "url": "https://www.vlnradio.cl/noticias/nacional/2026/07/28/minsal-declaro-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
-      "loc": "",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "La Nación",
-      "head": "Minsal declara por primera vez Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
-      "url": "https://www.lanacion.cl/minsal-declara-por-primera-vez-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elrancaguino",
-      "head": "Alerta Sanitaria por hantavirus : OHiggins está entre las regiones con casos",
-      "url": "https://www.elrancaguino.cl/2026/07/28/alerta-sanitaria-hantavirus-region-casos-2026/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Brisbanetimes",
-      "head": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
-      "url": "https://www.brisbanetimes.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Theage",
-      "head": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
-      "url": "https://www.theage.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sydney Morning Herald",
-      "head": "University of Queensland viral infection treatment : How a researcher accidental discovery could stop Ebola and hantavirus",
-      "url": "https://www.smh.com.au/national/queensland/accidental-brisbane-discovery-could-disrupt-common-and-deadly-viruses-20260727-p60iwx.html",
-      "loc": "Australia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Australia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Radioagricultura",
-      "head": "Minsal declara Alerta Sanitaria por hantavirus y refuerza medidas en gran parte del país",
-      "url": "https://www.radioagricultura.cl/noticias/nacional/minsal-declara-alerta-sanitaria-por-hantavirus-y-refuerza-medidas-en-gran-parte-del-pais_20260728/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diarioelcentro",
-      "head": "Minsal activa alerta sanitaria por hantavirus desde la región de Atacama a Magallanes",
-      "url": "https://www.diarioelcentro.cl/2026/07/28/minsal-activa-alerta-sanitaria-por-hantavirus-desde-la-region-de-atacama-a-magallanes/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Pudahuel",
-      "head": "Por primera vez : Minsal declara Alerta Sanitaria por hantavirus y  multiamenaza sanitaria  hasta 2027",
-      "url": "https://www.pudahuel.cl/noticias/2026/07/por-primera-vez-minsal-declara-alerta-sanitaria-por-hantavirus-y-multiamenaza-sanitaria-hasta-2027/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "24Horas",
-      "head": "Alerta sanitaria por hanta : Regiones afectadas y qué es la  multiamenaza  informada por el Minsal",
-      "url": "https://www.24horas.cl/actualidad/nacional/minsal-multiamenaza-sanitaria-13-regiones-alerta-hantavirus",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "24Horas",
-      "head": "Minsal declara Alerta Sanitaria en 13 regiones por virus hanta y alza de mortalidad",
-      "url": "https://www.24horas.cl/actualidad/nacional/hanta-virus-alerta-sanitaria-regiones-minsal",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Adnradio",
-      "head": "Mujer de 40 años permanece grave y conectada a ventilación tras contagiarse de Hantavirus en Palena : fue trasladada a Concepción",
-      "url": "https://www.adnradio.cl/2026/07/26/mujer-de-40-anos-permanece-grave-y-conectada-a-ventilacion-tras-contagiarse-de-hantavirus-en-palena-fue-trasladada-a-concepcion/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
       ],
       "live": true
     },
@@ -704,6 +659,66 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "ABC",
+      "head": "La  multiamenaza  sanitaria que pone en alerta a Chile",
+      "url": "https://www.abc.es/sociedad/multiamenaza-sanitaria-pone-alerta-chile-20260730013937-nt.html",
+      "loc": "Spain",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Spain"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Niagarafallsreview",
+      "head": "Rand Paul , leave Dr . Anthony Fauci alone",
+      "url": "https://www.niagarafallsreview.ca/opinion/columnists/how-rand-pauls-obsession-with-dr-anthony-fauci-is-making-america-sick/article_a05675a4-1c39-5997-a0c9-cc39651c0a26.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wellandtribune",
+      "head": "Rand Paul , leave Dr . Anthony Fauci alone",
+      "url": "https://www.wellandtribune.ca/opinion/columnists/how-rand-pauls-obsession-with-dr-anthony-fauci-is-making-america-sick/article_436ab518-09e2-5d61-a024-3e9817617833.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ciudadccs",
+      "head": "Inicio | Periódico CiudadCCS",
+      "url": "http://www.ciudadccs.info/publicacion/47594-chile-emite-alerta-sanitaria-por-alza-de-contagios-de-hantavirus",
+      "loc": "Venezuela",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Venezuela"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Indianexpress",
       "head": "UPSC Key - 29th July 2026 : Cauvery Water Dispute , Eco - Sensitive Zones and Rupee Overvalued",
       "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-cauvery-water-dispute-eco-sensitive-zones-and-rupee-overvalued-10809308/",
@@ -752,21 +767,6 @@
       "src": "Bignewsnetwork",
       "head": "Chance discovery points to potential antiviral treatment : study",
       "url": "http://www.bignewsnetwork.com/news/279214533/chance-discovery-points-to-potential-antiviral-treatment-study",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Autos",
-      "head": "Junkyard Find : 1976 Chevrolet Chevy Van",
-      "url": "https://autos.yahoo.com/classic-and-collector/articles/junkyard-1976-chevrolet-chevy-van-160600809.html",
       "loc": "United States",
       "lang": "English",
       "tags": [
