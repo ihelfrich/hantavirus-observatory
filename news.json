@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T12:54:30.338150+00:00",
+  "generated_at": "2026-07-31T15:19:04.239013+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 53,
+  "count": 54,
   "items": [
     {
       "time": "04:00",
@@ -48,6 +48,20 @@
       "tags": [
         "Spanish",
         "Peru"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-07-31",
+      "ts": "2026-07-31T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Evaluation of Detection Methods for Wastewater Surveillance of Antimicrobial-Resistant Bacteria from Healthcare Facilities",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/25-1490_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
