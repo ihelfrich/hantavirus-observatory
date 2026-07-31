@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:53:16.186261+00:00",
+  "generated_at": "2026-07-31T20:19:33.484925+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
@@ -40,14 +40,89 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Larepublica",
-      "head": "Chile activa alerta sanitaria por hantavirus mientras aumentan los fallecidos y preocupa la alta letalidad",
-      "url": "https://larepublica.pe:443/mundo/2026/07/30/chile-activa-alerta-sanitaria-por-hantavirus-mientras-aumentan-los-fallecidos-y-preocupa-la-alta-letalidad-2384190",
-      "loc": "Peru",
-      "lang": "Spanish",
+      "src": "WDSU",
+      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "url": "https://www.wdsu.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+      "loc": "United States",
+      "lang": "English",
       "tags": [
-        "Spanish",
-        "Peru"
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KETV",
+      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "url": "https://www.ketv.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLWT",
+      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "url": "https://www.wlwt.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WESH",
+      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "url": "https://www.wesh.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WLKY",
+      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "url": "https://www.wlky.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wvtm13",
+      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "url": "https://www.wvtm13.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -433,6 +508,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Biobiochile",
+      "head": "Beneficios de un médico a domicilio , el formato de atención que facilita el cuidado del adulto mayor | BBCL Contigo",
+      "url": "https://www.biobiochile.cl/noticias/servicios/consejos-bbcl-contigo/2026/07/31/beneficios-de-un-medico-a-domicilio-el-formato-de-atencion-que-facilita-el-cuidado-del-adulto-mayor.shtml",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "MTPR",
+      "head": "Pediatricians and health officials are sidestepping Trump CDC on vaccine advice",
+      "url": "https://www.mtpr.org/2026-07-30/pediatricians-and-health-officials-are-sidestepping-trumps-cdc-on-vaccine-advice",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "KMXT",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.kmxt.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
@@ -676,111 +781,6 @@
       "src": "WXPR",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.wxpr.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Southcarolinapublicradio",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.southcarolinapublicradio.org/news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WGLT",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wglt.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Houstonpublicmedia",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/07/30/nx-s1-5913384/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Northcountrypublicradio",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5913384/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WVIK",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wvik.org/npr-top-stories/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kansaspublicradio",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://kansaspublicradio.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "APR",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.apr.org/politics-government/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
