@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T12:32:18.214775+00:00",
+  "generated_at": "2026-08-01T14:25:25.897903+00:00",
   "sources": [
     "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 54,
@@ -33,6 +33,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elmostrador",
+      "head": "Especialista llaman a reforzar el diagnóstico precoz ante aumento de la letalidad por Virus Hanta",
+      "url": "https://www.elmostrador.cl/agenda-pais/vida-en-linea/2026/08/01/especialista-llaman-a-reforzar-el-diagnostico-precoz-ante-aumento-de-la-letalidad-por-virus-hanta/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -766,21 +781,6 @@
       "src": "KUNR",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.kunr.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WXPR",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wxpr.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
