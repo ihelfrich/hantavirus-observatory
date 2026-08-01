@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T16:58:04.472127+00:00",
+  "generated_at": "2026-08-01T18:03:12.784934+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 54,
@@ -523,6 +523,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Cinemablend",
+      "head": "Triangle Of Sadness Isnt A Horror Movie , But It Preys Upon My Greatest Fears . Ill Explain",
+      "url": "https://www.cinemablend.com/movies/triangle-of-sadness-isnt-horror-movie-preys-upon-greatest-fears",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Biobiochile",
       "head": "Beneficios de un médico a domicilio , el formato de atención que facilita el cuidado del adulto mayor | BBCL Contigo",
       "url": "https://www.biobiochile.cl/noticias/servicios/consejos-bbcl-contigo/2026/07/31/beneficios-de-un-medico-a-domicilio-el-formato-de-atencion-que-facilita-el-cuidado-del-adulto-mayor.shtml",
@@ -766,21 +781,6 @@
       "src": "KUOW",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.kuow.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KUNR",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kunr.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
