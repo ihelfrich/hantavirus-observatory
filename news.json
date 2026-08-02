@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T12:01:55.526557+00:00",
+  "generated_at": "2026-08-02T14:07:50.664544+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
   "count": 54,
@@ -523,6 +523,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Newsweek",
+      "head": "Groundhog Decade : Why Does it Feel Like 2016 Again ? ",
+      "url": "https://www.newsweek.com/groundhog-decade-2026-2016-trump-12270006",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Cinemablend",
       "head": "Triangle Of Sadness Isnt A Horror Movie , But It Preys Upon My Greatest Fears . Ill Explain",
       "url": "https://www.cinemablend.com/movies/triangle-of-sadness-isnt-horror-movie-preys-upon-greatest-fears",
@@ -766,21 +781,6 @@
       "src": "WCBE",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.wcbe.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KUOW",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kuow.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
