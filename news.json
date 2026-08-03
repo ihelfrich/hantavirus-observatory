@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-03T16:24:25.750189+00:00",
+  "generated_at": "2026-08-03T18:16:12.463090+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 54,
@@ -33,6 +33,36 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elpinguino",
+      "head": "Dos casos de hantavirus en Coyhaique : mujer de 62 años se mantiene grave",
+      "url": "https://elpinguino.com/noticia/2026/08/03/dos-casos-de-hantavirus-en-coyhaique-mujer-de-62-anos-se-mantiene-grave",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "T13",
+      "head": "  El tiempo es crucial : Familia de pacientes con virus hanta pide reforzar traslados en Aysén",
+      "url": "https://www.t13.cl/noticia/nacional/el-tiempo-crucial-familia-pacientes-virus-hanta-pide-reforzar-traslados-aysen-2-8-2026",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -751,36 +781,6 @@
       "src": "KCCU",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.kccu.org/science/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WFDD",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wfdd.org/national/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WCBE",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wcbe.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
