@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T18:11:31.662932+00:00",
+  "generated_at": "2026-08-04T20:08:59.732945+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 55,
@@ -33,6 +33,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Biobiochile",
+      "head": "Trasladan desde Aysén al Bío Bío a abuela y nieta con sospecha de hantavirus | Nacional",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/trasladan-desde-aysen-al-bio-bio-a-abuela-y-nieta-con-sospecha-de-hantavirus.shtml",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -567,6 +582,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Mississippivalleypublishing",
+      "head": "String of outbreaks tests US public health system amid funding cuts , vaccine resistance",
+      "url": "https://www.mississippivalleypublishing.com/daily_gate/daily_gate/string-of-outbreaks-tests-us-public-health-system-amid-funding-cuts-vaccine-resistance/article_e338da5d-bf69-4c22-9aa2-b43dcf65cdf3.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Newsweek",
       "head": "Groundhog Decade : Why Does it Feel Like 2016 Again ? ",
       "url": "https://www.newsweek.com/groundhog-decade-2026-2016-trump-12270006",
@@ -765,36 +795,6 @@
       "src": "WRVO",
       "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
       "url": "https://www.wrvo.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMUW",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kmuw.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCCU",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kccu.org/science/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
