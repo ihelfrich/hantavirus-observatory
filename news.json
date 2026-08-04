@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T16:26:59.926482+00:00",
+  "generated_at": "2026-08-04T18:11:31.662932+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 54,
+  "count": 55,
   "items": [
     {
       "time": "04:00",
@@ -168,6 +168,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-04",
+      "ts": "2026-08-04T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Building National Wastewater Surveillance for Infectious Diseases in the United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0301_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
