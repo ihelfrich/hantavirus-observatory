@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T12:22:53.292468+00:00",
+  "generated_at": "2026-08-05T14:54:36.210797+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 55,
+  "count": 56,
   "items": [
     {
       "time": "04:00",
@@ -183,6 +183,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-05",
+      "ts": "2026-08-05T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Implications of Wastewater Surveillance for Clinical Care among Infectious Disease Physicians, United States, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0203_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
