@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T05:15:42.610980+00:00",
+  "generated_at": "2026-08-07T06:45:29.800860+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 60,
@@ -33,6 +33,141 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "Hantavirus detected in France tourist now isolated in Spain",
+      "url": "https://www.channelnewsasia.com/world/hantavirus-spain-france-tourist-health-ministry-6304581",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Otempo",
+      "head": "França tem novo caso de hantavírus 4 meses após surto no navio",
+      "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/franca-registra-novo-caso-de-hantavirus-4-meses-apos-surto-registrado-no-navio-de-cruzeiro",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Acorianooriental",
+      "head": "França deteta novo caso de hantavírus transmissível entre humanos",
+      "url": "https://www.acorianooriental.pt/noticia/franca-deteta-novo-caso-de-hantavirus-transmissivel-entre-humanos-379443",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jornaldebrasilia",
+      "head": "França anuncia caso de hantavírus da cepa Andes em turista franco - argentino",
+      "url": "https://jornaldebrasilia.com.br/noticias/mundo/franca-anuncia-caso-de-hantavirus-da-cepa-andes-em-turista-franco-argentino/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SAPO",
+      "head": "França confirma novo caso de hantavírus transmissível entre humanos",
+      "url": "https://sapo.pt/artigo/franca-confirma-novo-caso-de-hantavirus-transmissivel-entre-humanos-6a74c190f08268d1e0347f43",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jornaldebrasilia",
+      "head": "Turista franco - argentino testa positivo para hantavírus , anuncia governo francês",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/turista-franco-argentino-testa-positivo-para-hantavirus-anuncia-governo-frances/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Observador",
+      "head": "França deteta novo caso de hantavírus em Espanha – Observador",
+      "url": "https://observador.pt/2026/08/06/detetado-novo-caso-de-hantavirus-em-espanha-de-cidadao-franco-argentino-que-esteve-em-franca/",
+      "loc": "Portugal",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Portugal"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Virginislandsdailynews",
+      "head": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  |",
+      "url": "https://www.virginislandsdailynews.com/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/article_1b5b935b-729a-4ae5-b4e6-64ca714234e6.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eldivisadero",
+      "head": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
+      "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -118,66 +253,6 @@
       "src": "KETV",
       "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
       "url": "https://www.ketv.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLWT",
-      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-      "url": "https://www.wlwt.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WESH",
-      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-      "url": "https://www.wesh.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WLKY",
-      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-      "url": "https://www.wlky.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wvtm13",
-      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-      "url": "https://www.wvtm13.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -652,6 +727,111 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Dailykos",
+      "head": "An Epidemic of Epidemics",
+      "url": "https://www.dailykos.com/stories/2026/8/5/800080117/community/an-epidemic-of-epidemics/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Biobiochile",
+      "head": "Qué es blefaroptosis : la condición que tiene Naya Fácil",
+      "url": "https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/08/05/la-edad-no-es-la-unica-causa-de-blefaroptosis-por-que-aparece-y-cuales-son-sus-tratamientos.shtml",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Almasryalyoum",
+      "head": " « الصحة » تحذر من المضادات الحيوية : وفيات مقاومة الميكروبات قد تصل ٥٠ مليونًا فى ٢٠٥٠",
+      "url": "https://www.almasryalyoum.com/news/details/4330708",
+      "loc": "Egypt",
+      "lang": "Arabic",
+      "tags": [
+        "Arabic",
+        "Egypt"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jpost",
+      "head": "Antisemitic theories blaming Jews for European wildfires spreading",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-904605",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Jpost",
+      "head": "Antisemitic theories blaming Jews for European wildfires spreading",
+      "url": "http://www.jpost.com/diaspora/antisemitism/article-904605",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Sdjewishworld",
+      "head": "Online antisemites blame Jews for Europe wildfires – San Diego Jewish World",
+      "url": "https://www.sdjewishworld.com/2026/08/04/online-antisemites-blame-jews-for-europes-wildfires/",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eldivisadero",
+      "head": "El Divisadero - Contingencias",
+      "url": "http://www.eldivisadero.cl/_noticia/Contingencias/ODM3NTI=",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Mississippivalleypublishing",
       "head": "String of outbreaks tests US public health system amid funding cuts , vaccine resistance",
       "url": "https://www.mississippivalleypublishing.com/daily_gate/daily_gate/string-of-outbreaks-tests-us-public-health-system-amid-funding-cuts-vaccine-resistance/article_e338da5d-bf69-4c22-9aa2-b43dcf65cdf3.html",
@@ -685,186 +865,6 @@
       "src": "Cinemablend",
       "head": "Triangle Of Sadness Isnt A Horror Movie , But It Preys Upon My Greatest Fears . Ill Explain",
       "url": "https://www.cinemablend.com/movies/triangle-of-sadness-isnt-horror-movie-preys-upon-greatest-fears",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Biobiochile",
-      "head": "Beneficios de un médico a domicilio , el formato de atención que facilita el cuidado del adulto mayor | BBCL Contigo",
-      "url": "https://www.biobiochile.cl/noticias/servicios/consejos-bbcl-contigo/2026/07/31/beneficios-de-un-medico-a-domicilio-el-formato-de-atencion-que-facilita-el-cuidado-del-adulto-mayor.shtml",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "MTPR",
-      "head": "Pediatricians and health officials are sidestepping Trump CDC on vaccine advice",
-      "url": "https://www.mtpr.org/2026-07-30/pediatricians-and-health-officials-are-sidestepping-trumps-cdc-on-vaccine-advice",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KMXT",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kmxt.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WAMC",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wamc.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTEP",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.ktep.org/politics/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WNCW",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wncw.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WAER",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.waer.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://news.wfsu.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KZYX",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kzyx.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KUNM",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kunm.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KALW",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.kalw.org/npr-news/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WRVO",
-      "head": "After Fauci Senate hearing , experts worry about  chilling effect  on public health",
-      "url": "https://www.wrvo.org/2026-07-30/after-fauci-senate-hearing-experts-worry-about-chilling-effect-on-public-health",
       "loc": "United States",
       "lang": "English",
       "tags": [
