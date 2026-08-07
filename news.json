@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T14:16:35.673946+00:00",
+  "generated_at": "2026-08-07T15:25:25.022479+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
@@ -33,6 +33,51 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Rttnews",
+      "head": "Young People Remain At Risk For Hantavirus Post Cruise Ship Epidemic",
+      "url": "https://www.rttnews.com/3677963/young-people-remain-at-risk-for-hantavirus-post-cruise-ship-epidemic.aspx",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Thepeninsulaqatar",
+      "head": "France recommends home isolation for close contacts of hantavirus case , risk  low  ",
+      "url": "http://thepeninsulaqatar.com/article/07/08/2026/france-recommends-home-isolation-for-close-contacts-of-hantavirus-case-risk-low",
+      "loc": "Qatar",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Qatar"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Bssnews",
+      "head": "France recommends home isolation for close contacts of hantavirus case , risk   low  ",
+      "url": "https://www.bssnews.net/international/412526",
+      "loc": "Bangladesh",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Bangladesh"
       ],
       "live": true
     },
@@ -228,36 +273,6 @@
       "tags": [
         "Spanish",
         "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elmostrador",
-      "head": "Especialista llaman a reforzar el diagnóstico precoz ante aumento de la letalidad por Virus Hanta",
-      "url": "https://www.elmostrador.cl/agenda-pais/vida-en-linea/2026/08/01/especialista-llaman-a-reforzar-el-diagnostico-precoz-ante-aumento-de-la-letalidad-por-virus-hanta/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WDSU",
-      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-      "url": "https://www.wdsu.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -850,21 +865,6 @@
       "src": "Newsweek",
       "head": "Groundhog Decade : Why Does it Feel Like 2016 Again ? ",
       "url": "https://www.newsweek.com/groundhog-decade-2026-2016-trump-12270006",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cinemablend",
-      "head": "Triangle Of Sadness Isnt A Horror Movie , But It Preys Upon My Greatest Fears . Ill Explain",
-      "url": "https://www.cinemablend.com/movies/triangle-of-sadness-isnt-horror-movie-preys-upon-greatest-fears",
       "loc": "United States",
       "lang": "English",
       "tags": [
