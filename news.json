@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T08:12:33.665764+00:00",
+  "generated_at": "2026-08-07T09:31:31.853265+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -33,6 +33,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ujszo",
+      "head": "Hantavírus – Franciaországi tartózkodást követően pozitív lett egy turista vírustesztje",
+      "url": "https://ujszo.com/kulfold/hantavirus-franciaorszagi-tartozkodast-kovetoen-pozitiv-lett-egy-turista-virustesztje",
+      "loc": "United States",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "United States"
       ],
       "live": true
     },
@@ -238,21 +253,6 @@
       "src": "WDSU",
       "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
       "url": "https://www.wdsu.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KETV",
-      "head": "  Most scared Ive ever been : Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
-      "url": "https://www.ketv.com/article/content-creator-back-boston-after-getting-stuck-on-ship-with-hantavirus-outbreak/73319091",
       "loc": "United States",
       "lang": "English",
       "tags": [
