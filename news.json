@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T15:27:45.855519+00:00",
+  "generated_at": "2026-08-08T15:57:28.377985+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 60,
@@ -33,6 +33,96 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eldinamo",
+      "head": "Qué se sabe del fallecimiento de una estudiante que activó protocolos por virus Hanta en Rengo",
+      "url": "https://www.eldinamo.cl/pais/2026/08/07/que-se-sabe-del-fallecimiento-de-una-estudiante-que-activo-protocolos-por-virus-hanta-en-rengo/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Elrancaguino",
+      "head": "Confirman virus Hanta como causa de muerte de menor en Rengo",
+      "url": "https://www.elrancaguino.cl/2026/08/07/confirman-virus-hanta-como-causa-de-muerte-de-menor-en-rengo/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eltipografo",
+      "head": "Confirman que Virus Hanta fue la causa de muerte de menor de Rengo",
+      "url": "https://eltipografo.cl/2026/08/confirman-que-virus-hanta-fue-la-causa-de-muerte-de-menor-de-rengo",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Adnradio",
+      "head": "Alerta sanitaria en Rengo : muere estudiante y activan protocolos ante posible caso de virus Hanta",
+      "url": "https://www.adnradio.cl/2026/08/07/alerta-sanitaria-en-rengo-muere-estudiante-y-activan-protocolos-ante-posible-caso-de-virus-hanta/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Muere estudiante en Rengo y activan protocolos sanitarios por posible contagio de virus Hanta",
+      "url": "https://www.24horas.cl/regiones/zona-centro/ohiggins/muere-estudiante-en-rengo-y-activan-protocolos-sanitarios",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AA",
+      "head": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
+      "url": "https://aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
+      "loc": "Turkey",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Turkey"
       ],
       "live": true
     },
@@ -223,51 +313,6 @@
       "src": "Eldivisadero",
       "head": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
       "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Biobiochile",
-      "head": "Trasladan desde Aysén al Bío Bío a abuela y nieta con sospecha de hantavirus | Nacional",
-      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/04/trasladan-desde-aysen-al-bio-bio-a-abuela-y-nieta-con-sospecha-de-hantavirus.shtml",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elpinguino",
-      "head": "Dos casos de hantavirus en Coyhaique : mujer de 62 años se mantiene grave",
-      "url": "https://elpinguino.com/noticia/2026/08/03/dos-casos-de-hantavirus-en-coyhaique-mujer-de-62-anos-se-mantiene-grave",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "T13",
-      "head": "  El tiempo es crucial : Familia de pacientes con virus hanta pide reforzar traslados en Aysén",
-      "url": "https://www.t13.cl/noticia/nacional/el-tiempo-crucial-familia-pacientes-virus-hanta-pide-reforzar-traslados-aysen-2-8-2026",
       "loc": "Chile",
       "lang": "Spanish",
       "tags": [
@@ -742,6 +787,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "CBC",
+      "head": "Feds should devise way to reflect on COVID - 19 response , says Canada chief science adviser",
+      "url": "https://www.cbc.ca/news/politics/covid-19-response-canada-reflect-inquiry-dean-allison-chief-science-adviser-mona-nemer-9.7300026",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ladailypost",
+      "head": "McQuiston : When Rodents Move In ... What They Do To Your Car & Home ... And What Covered By Insurance",
+      "url": "https://ladailypost.com/mcquiston-when-rodents-move-in-what-they-do-to-your-car-home-and-whats-covered-by-insurance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Dailykos",
       "head": "An Epidemic of Epidemics",
       "url": "https://www.dailykos.com/stories/2026/8/5/800080117/community/an-epidemic-of-epidemics/",
@@ -795,81 +870,6 @@
       "tags": [
         "English",
         "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jpost",
-      "head": "Antisemitic theories blaming Jews for European wildfires spreading",
-      "url": "http://www.jpost.com/diaspora/antisemitism/article-904605",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Sdjewishworld",
-      "head": "Online antisemites blame Jews for Europe wildfires – San Diego Jewish World",
-      "url": "https://www.sdjewishworld.com/2026/08/04/online-antisemites-blame-jews-for-europes-wildfires/",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eldivisadero",
-      "head": "El Divisadero - Contingencias",
-      "url": "http://www.eldivisadero.cl/_noticia/Contingencias/ODM3NTI=",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mississippivalleypublishing",
-      "head": "String of outbreaks tests US public health system amid funding cuts , vaccine resistance",
-      "url": "https://www.mississippivalleypublishing.com/daily_gate/daily_gate/string-of-outbreaks-tests-us-public-health-system-amid-funding-cuts-vaccine-resistance/article_e338da5d-bf69-4c22-9aa2-b43dcf65cdf3.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsweek",
-      "head": "Groundhog Decade : Why Does it Feel Like 2016 Again ? ",
-      "url": "https://www.newsweek.com/groundhog-decade-2026-2016-trump-12270006",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
