@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T07:31:53.338983+00:00",
+  "generated_at": "2026-08-09T08:40:45.137952+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
   "count": 60,
@@ -33,6 +33,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "TVN",
+      "head": "Indagan muerte de menor por presunto hantavirus : Esta es la hipótesis",
+      "url": "https://www.tvn.cl/noticias/actualidad/indagan-muerte-de-menor-por-presunto-hantavirus-esta-es-la-hipotesis",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -787,6 +802,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Liverpoolecho",
+      "head": "Rats will avoid coming inside homes if simple £1 . 20 kitchen staple is scattered",
+      "url": "https://www.liverpoolecho.co.uk/news/property/rats-avoid-coming-inside-homes-34411127",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "CBC",
       "head": "Feds should devise way to reflect on COVID - 19 response , says Canada chief science adviser",
       "url": "https://www.cbc.ca/news/politics/covid-19-response-canada-reflect-inquiry-dean-allison-chief-science-adviser-mona-nemer-9.7300026",
@@ -840,36 +870,6 @@
       "tags": [
         "Spanish",
         "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Almasryalyoum",
-      "head": " « الصحة » تحذر من المضادات الحيوية : وفيات مقاومة الميكروبات قد تصل ٥٠ مليونًا فى ٢٠٥٠",
-      "url": "https://www.almasryalyoum.com/news/details/4330708",
-      "loc": "Egypt",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Egypt"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jpost",
-      "head": "Antisemitic theories blaming Jews for European wildfires spreading",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-904605",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
       ],
       "live": true
     }
