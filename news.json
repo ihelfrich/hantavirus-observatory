@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T21:44:29.991823+00:00",
+  "generated_at": "2026-08-11T22:39:37.712314+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 61,
@@ -198,141 +198,6 @@
       "tags": [
         "Hungarian",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CNA",
-      "head": "Hantavirus detected in France tourist now isolated in Spain",
-      "url": "https://www.channelnewsasia.com/world/hantavirus-spain-france-tourist-health-ministry-6304581",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Otempo",
-      "head": "França tem novo caso de hantavírus 4 meses após surto no navio",
-      "url": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/franca-registra-novo-caso-de-hantavirus-4-meses-apos-surto-registrado-no-navio-de-cruzeiro",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Acorianooriental",
-      "head": "França deteta novo caso de hantavírus transmissível entre humanos",
-      "url": "https://www.acorianooriental.pt/noticia/franca-deteta-novo-caso-de-hantavirus-transmissivel-entre-humanos-379443",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jornaldebrasilia",
-      "head": "França anuncia caso de hantavírus da cepa Andes em turista franco - argentino",
-      "url": "https://jornaldebrasilia.com.br/noticias/mundo/franca-anuncia-caso-de-hantavirus-da-cepa-andes-em-turista-franco-argentino/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SAPO",
-      "head": "França confirma novo caso de hantavírus transmissível entre humanos",
-      "url": "https://sapo.pt/artigo/franca-confirma-novo-caso-de-hantavirus-transmissivel-entre-humanos-6a74c190f08268d1e0347f43",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jornaldebrasilia",
-      "head": "Turista franco - argentino testa positivo para hantavírus , anuncia governo francês",
-      "url": "https://jornaldebrasilia.com.br/noticias/saude/turista-franco-argentino-testa-positivo-para-hantavirus-anuncia-governo-frances/",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Observador",
-      "head": "França deteta novo caso de hantavírus em Espanha – Observador",
-      "url": "https://observador.pt/2026/08/06/detetado-novo-caso-de-hantavirus-em-espanha-de-cidadao-franco-argentino-que-esteve-em-franca/",
-      "loc": "Portugal",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Portugal"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Virginislandsdailynews",
-      "head": "The ordeal of a 42 - day hantavirus quarantine :  I felt like a prisoner  |",
-      "url": "https://www.virginislandsdailynews.com/the-ordeal-of-a-42-day-hantavirus-quarantine-i-felt-like-a-prisoner/article_1b5b935b-729a-4ae5-b4e6-64ca714234e6.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eldivisadero",
-      "head": "El Divisadero - Seremi de Salud llama a reforzar autocuidado tras confirmar Hantavirus en pacientes trasladadas",
-      "url": "http://www.eldivisadero.cl/_noticia/-Seremi-de-Salud-llama-a-reforzar-autocuidado-tras-confirmar-Hantavirus-en-pacientes-trasladadas/ODM3NjE=",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
       ],
       "live": true
     },
@@ -809,6 +674,141 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Canoncitydailyrecord",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – Canon City Daily Record",
+      "url": "https://www.canoncitydailyrecord.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Troyrecord",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – Troy Record",
+      "url": "https://www.troyrecord.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pilotonline",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – The Virginian - Pilot",
+      "url": "https://www.pilotonline.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Republicanherald",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – Pottsville Republican Herald",
+      "url": "https://www.republicanherald.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Journal-Advocate",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – Sterling Journal - Advocate",
+      "url": "https://www.journal-advocate.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pressdemocrat",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – The Press Democrat",
+      "url": "https://www.pressdemocrat.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Orlandosentinel",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – Orlando Sentinel",
+      "url": "https://www.orlandosentinel.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Reporterherald",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – Loveland Reporter - Herald",
+      "url": "https://www.reporterherald.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fortmorgantimes",
+      "head": "Pediatricians and health departments sidestep Trump CDC on vaccine guidance – The Fort Morgan Times",
+      "url": "https://www.fortmorgantimes.com/2026/08/11/pediatricians-and-health-departments-sidestep-trumps-cdc-on-vaccine-guidance/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
