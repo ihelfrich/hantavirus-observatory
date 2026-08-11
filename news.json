@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T02:34:33.768286+00:00",
+  "generated_at": "2026-08-11T04:18:15.844747+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 61,
@@ -816,6 +816,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "News-Medical",
+      "head": "Heavy rainfall and flooding raise infectious disease risks across Europe",
+      "url": "https://www.news-medical.net/news/20260810/Heavy-rainfall-and-flooding-raise-infectious-disease-risks-across-Europe.aspx",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Progressive-Charlestown",
+      "head": "Progressive Charlestown : Pediatricians and Health Departments ( including Rhode Island ) Sidestep Trump CDC on Vaccine Guidance",
+      "url": "https://www.progressive-charlestown.com/2026/08/pediatricians-and-health-departments.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Liverpoolecho",
       "head": "Rats will avoid coming inside homes if simple £1 . 20 kitchen staple is scattered",
       "url": "https://www.liverpoolecho.co.uk/news/property/rats-avoid-coming-inside-homes-34411127",
@@ -854,36 +884,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Dailykos",
-      "head": "An Epidemic of Epidemics",
-      "url": "https://www.dailykos.com/stories/2026/8/5/800080117/community/an-epidemic-of-epidemics/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Biobiochile",
-      "head": "Qué es blefaroptosis : la condición que tiene Naya Fácil",
-      "url": "https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/08/05/la-edad-no-es-la-unica-causa-de-blefaroptosis-por-que-aparece-y-cuales-son-sus-tratamientos.shtml",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
       ],
       "live": true
     }
