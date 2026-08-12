@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T16:02:57.617106+00:00",
+  "generated_at": "2026-08-12T17:28:15.505881+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 61,
+  "count": 62,
   "items": [
     {
       "time": "04:00",
@@ -198,6 +198,20 @@
       "tags": [
         "Hungarian",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-12",
+      "ts": "2026-08-12T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Improved Case Detection of Fleaborne Typhus by PCR Testing, Los Angeles County, California, USA, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0554_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
