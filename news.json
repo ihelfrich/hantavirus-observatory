@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:34:16.966546+00:00",
+  "generated_at": "2026-08-13T20:40:33.300424+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 62,
+  "count": 63,
   "items": [
     {
       "time": "04:00",
@@ -198,6 +198,20 @@
       "tags": [
         "Hungarian",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-13",
+      "ts": "2026-08-13T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Epidemiology of and Risk Factors for Amebic Meningoencephalitis, Kerala, India, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0492_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
