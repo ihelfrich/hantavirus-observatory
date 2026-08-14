@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T16:50:50.037006+00:00",
+  "generated_at": "2026-08-14T17:51:34.867946+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 63,
@@ -63,126 +63,6 @@
       "tags": [
         "Spanish",
         "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eldinamo",
-      "head": "Qué se sabe del fallecimiento de una estudiante que activó protocolos por virus Hanta en Rengo",
-      "url": "https://www.eldinamo.cl/pais/2026/08/07/que-se-sabe-del-fallecimiento-de-una-estudiante-que-activo-protocolos-por-virus-hanta-en-rengo/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Elrancaguino",
-      "head": "Confirman virus Hanta como causa de muerte de menor en Rengo",
-      "url": "https://www.elrancaguino.cl/2026/08/07/confirman-virus-hanta-como-causa-de-muerte-de-menor-en-rengo/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eltipografo",
-      "head": "Confirman que Virus Hanta fue la causa de muerte de menor de Rengo",
-      "url": "https://eltipografo.cl/2026/08/confirman-que-virus-hanta-fue-la-causa-de-muerte-de-menor-de-rengo",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Adnradio",
-      "head": "Alerta sanitaria en Rengo : muere estudiante y activan protocolos ante posible caso de virus Hanta",
-      "url": "https://www.adnradio.cl/2026/08/07/alerta-sanitaria-en-rengo-muere-estudiante-y-activan-protocolos-ante-posible-caso-de-virus-hanta/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "24Horas",
-      "head": "Muere estudiante en Rengo y activan protocolos sanitarios por posible contagio de virus Hanta",
-      "url": "https://www.24horas.cl/regiones/zona-centro/ohiggins/muere-estudiante-en-rengo-y-activan-protocolos-sanitarios",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "AA",
-      "head": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
-      "url": "https://aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
-      "loc": "Turkey",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Rttnews",
-      "head": "Young People Remain At Risk For Hantavirus Post Cruise Ship Epidemic",
-      "url": "https://www.rttnews.com/3677963/young-people-remain-at-risk-for-hantavirus-post-cruise-ship-epidemic.aspx",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thepeninsulaqatar",
-      "head": "France recommends home isolation for close contacts of hantavirus case , risk  low  ",
-      "url": "http://thepeninsulaqatar.com/article/07/08/2026/france-recommends-home-isolation-for-close-contacts-of-hantavirus-case-risk-low",
-      "loc": "Qatar",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Qatar"
       ],
       "live": true
     },
@@ -694,6 +574,156 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Northernpublicradio",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.northernpublicradio.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WXPR",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.wxpr.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "HPPR",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.hppr.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Houstonpublicmedia",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/08/14/nx-s1-5927115/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://news.wfsu.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wcsufm",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KAZU",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.kazu.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Radiopolar",
+      "head": "PUERTO WILLIAMS FORTALECE COORDINACIÓN PARA LA RECEPCIÓN Y DESPACHO DE NAVES EXTRANJERAS DE CARA A LA TEMPORADA ESTIVAL",
+      "url": "https://www.radiopolar.com/puerto-williams-fortalece-coordinacion-recepcion-despacho-naves-extranjeras-cara-temporada-estival",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Manilatimes",
+      "head": "TOMI Environmental Solutions , Inc . Reports Second Quarter 2026 Financial Results",
+      "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/tomi-environmental-solutions-inc-reports-second-quarter-2026-financial-results/2405774",
+      "loc": "Philippines",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Philippines"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Premiumtimesng",
+      "head": "World Cup , AFCON , Blord - VeryDarkMan feud top Nigerian Google searches in 2026",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/902830-world-cup-afcon-blord-verydarkman-feud-top-nigerians-google-searches-in-2026.html",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Theeagleonline",
       "head": "Stories that had Nigeria Googling from January to July 2026",
       "url": "https://theeagleonline.com.ng/stories-that-had-nigeria-googling-from-january-to-july-2026/",
@@ -882,36 +912,6 @@
       "tags": [
         "English",
         "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CBC",
-      "head": "Feds should devise way to reflect on COVID - 19 response , says Canada chief science adviser",
-      "url": "https://www.cbc.ca/news/politics/covid-19-response-canada-reflect-inquiry-dean-allison-chief-science-adviser-mona-nemer-9.7300026",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ladailypost",
-      "head": "McQuiston : When Rodents Move In ... What They Do To Your Car & Home ... And What Covered By Insurance",
-      "url": "https://ladailypost.com/mcquiston-when-rodents-move-in-what-they-do-to-your-car-home-and-whats-covered-by-insurance/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
