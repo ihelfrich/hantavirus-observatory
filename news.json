@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T08:44:33.734192+00:00",
+  "generated_at": "2026-08-14T09:59:32.956750+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -33,6 +33,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Medscape",
+      "head": "Dermatologists Highlight Cutaneous Signs of Hantavirus",
+      "url": "https://www.medscape.com/viewarticle/dermatologists-highlight-cutaneous-signs-hantavirus-2026a1000rth",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -168,36 +183,6 @@
       "tags": [
         "English",
         "Qatar"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Bssnews",
-      "head": "France recommends home isolation for close contacts of hantavirus case , risk   low  ",
-      "url": "https://www.bssnews.net/international/412526",
-      "loc": "Bangladesh",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Bangladesh"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ujszo",
-      "head": "Hantavírus – Franciaországi tartózkodást követően pozitív lett egy turista vírustesztje",
-      "url": "https://ujszo.com/kulfold/hantavirus-franciaorszagi-tartozkodast-kovetoen-pozitiv-lett-egy-turista-virustesztje",
-      "loc": "United States",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "United States"
       ],
       "live": true
     },
@@ -702,6 +687,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Theeagleonline",
+      "head": "Stories that had Nigeria Googling from January to July 2026",
+      "url": "https://theeagleonline.com.ng/stories-that-had-nigeria-googling-from-january-to-july-2026/",
+      "loc": "Nigeria",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Nigeria"
       ],
       "live": true
     },
