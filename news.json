@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T20:29:15.548147+00:00",
+  "generated_at": "2026-08-14T20:58:22.128888+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 63,
+  "count": 64,
   "items": [
     {
       "time": "04:00",
@@ -33,6 +33,20 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-14",
+      "ts": "2026-08-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Correlations between Wastewater Concentrations of Influenza A and Respiratory Syncytial Viruses and Clinical Laboratory Testing and Hospitalization Data, California, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0306_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
