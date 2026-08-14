@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:49:31.499254+00:00",
+  "generated_at": "2026-08-14T23:20:24.128241+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
@@ -558,6 +558,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "WUNC",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.wunc.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KENW",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
+      "url": "https://www.kenw.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "KRVS",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.krvs.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
@@ -891,36 +921,6 @@
       "src": "WSIU",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.wsiu.org/science-technology/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ualrpublicradio",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.ualrpublicradio.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KACU",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.kacu.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
