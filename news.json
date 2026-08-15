@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T05:31:50.881723+00:00",
+  "generated_at": "2026-08-15T06:35:45.262452+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
   "count": 64,
@@ -588,9 +588,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KRVS",
+      "src": "Ideastream",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.krvs.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "url": "https://www.ideastream.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -603,9 +603,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Ideastream",
+      "src": "KRVS",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.ideastream.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "url": "https://www.krvs.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -693,9 +693,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "KMUW",
+      "src": "Radio",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.kmuw.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "url": "https://radio.wpsu.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -708,9 +708,9 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Radio",
+      "src": "KMUW",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://radio.wpsu.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "url": "https://www.kmuw.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
