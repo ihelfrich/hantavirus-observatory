@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T13:38:10.073284+00:00",
+  "generated_at": "2026-08-17T14:26:08.363098+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 64,
@@ -558,6 +558,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "CKOM",
+      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
+      "url": "https://www.ckom.com/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics-2/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pentictonherald",
+      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
+      "url": "https://www.pentictonherald.ca/news/national_news/article_835a3ae3-aa01-52cf-8725-c3ff5f5d0c07.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Lethbridgeherald",
       "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
       "url": "https://lethbridgeherald.com/news/national-news/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics/",
@@ -891,36 +921,6 @@
       "src": "KUNC",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.kunc.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WEMU",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.wemu.org/npr-national-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wxxinews",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.wxxinews.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
