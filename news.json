@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T14:26:08.363098+00:00",
+  "generated_at": "2026-08-17T14:54:03.994862+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 64,
+  "count": 67,
   "items": [
     {
       "time": "04:00",
@@ -33,6 +33,20 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-17",
+      "ts": "2026-08-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Outbreak of Brazilian Spotted Fever, Southeastern Brazil, 2018",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0548_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -281,6 +295,34 @@
       "src": "CDC EID",
       "head": "Southern Tick–Associated Rash Illness in Pediatric Patient, New York, USA, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0871_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "02:11",
+      "date": "2026-07-24",
+      "ts": "2026-07-24T02:11:15+00:00",
+      "src": "CDC EID",
+      "head": "Pediatric Tuberculosis Care Outcomes in a Tertiary Care Center, France, 2014–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0600_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "01:29",
+      "date": "2026-07-22",
+      "ts": "2026-07-22T01:29:44+00:00",
+      "src": "CDC EID",
+      "head": "Powassan Virus in Ixodes scapularis Tick Populations, Illinois, USA, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0812_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
