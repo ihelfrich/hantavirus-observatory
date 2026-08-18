@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:47:46.696587+00:00",
+  "generated_at": "2026-08-18T22:21:44.383912+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
@@ -642,6 +642,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Alaskapublic",
+      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again . ",
+      "url": "https://alaskapublic.org/news/health/2026-08-18/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Cheknews",
       "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
       "url": "https://cheknews.ca/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics-1342424/",
@@ -990,21 +1005,6 @@
       "src": "WKMS",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.wkms.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WRKF",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.wrkf.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
