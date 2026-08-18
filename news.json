@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T15:59:21.606654+00:00",
+  "generated_at": "2026-08-18T16:40:20.781805+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
@@ -29,6 +29,20 @@
       "src": "CDC EID",
       "head": "Dual PCR–Sanger Sequencing Assay for Simultaneous sqle-Based Identification and Resistance Detection in Trichophyton Species",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0819_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-18",
+      "ts": "2026-08-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Case Report and Retrospective Review of Acanthamoeba Encephalitis and Chronic Lymphocytic Leukemia, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0790_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -365,20 +379,6 @@
       "src": "CDC EID",
       "head": "In Memoriam: The Enduring Influence of Nancy J. Cox (1948–2026)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0830_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-24",
-      "ts": "2026-07-24T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Genomic and Epidemiologic Insights into Ongoing Measles Outbreak, Israel, 2025–2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0625_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
