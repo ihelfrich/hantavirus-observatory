@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T15:30:03.531199+00:00",
+  "generated_at": "2026-08-18T15:59:21.606654+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -43,6 +43,20 @@
       "src": "CDC EID",
       "head": "Wickerhamomyces anomalus Pseudo-Outbreak Associated with Medical Lubricating Gel, South Africa, 2023–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0608_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-18",
+      "ts": "2026-08-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Temporal Alignment of Wastewater Signals with Clinical Indicators of Respiratory Illness Postpandemic, Texas, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0141_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -365,20 +379,6 @@
       "src": "CDC EID",
       "head": "Genomic and Epidemiologic Insights into Ongoing Measles Outbreak, Israel, 2025–2026",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0625_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-24",
-      "ts": "2026-07-24T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Southern Tick–Associated Rash Illness in Pediatric Patient, New York, USA, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0871_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
