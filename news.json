@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-08-17T23:46:36.475048+00:00",
+  "generated_at": "2026-08-18T01:08:15.488028+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 67,
+  "count": 70,
   "items": [
-    {
-      "time": "04:00",
-      "date": "2026-07-09",
-      "ts": "2026-07-09T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Serologic Evidence of Hantavirus Exposure in Humans, Italy, 2004–2018",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0840_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
     {
       "time": "22:47",
       "date": "2026-07-02",
@@ -41,8 +27,78 @@
       "date": "2026-08-17",
       "ts": "2026-08-17T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Posttuberculosis Consequences on Tuberculosis Prevention Effectiveness and Cost-effectiveness among New Immigrants, Canada",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0473_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-17",
+      "ts": "2026-08-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Clustering and Source Association of Clinical and Nonclinical Listeria monocytogenes Isolates, New York, USA, 2000–2021",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0289_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-17",
+      "ts": "2026-08-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Invasive Wickerhamomyces anomalus Infections among Injecting Drug Users, France, 2012–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/25-1817_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-17",
+      "ts": "2026-08-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Global Spread of Trichophyton indotineae Tracked by Mass Spectrometry Identification Network, 2022–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0463_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-17",
+      "ts": "2026-08-17T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Outbreak of Brazilian Spotted Fever, Southeastern Brazil, 2018",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0548_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-17",
+      "ts": "2026-08-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Autochthonous Canine Pythiosis Linked with Freshwater Exposure, Italy, 2021–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0354_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -323,20 +379,6 @@
       "src": "CDC EID",
       "head": "Powassan Virus in Ixodes scapularis Tick Populations, Illinois, USA, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0812_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-15",
-      "ts": "2026-07-15T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Targeted Wastewater Surveillance during the World Athletics Championship, Oregon, USA, 2022",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0537_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
