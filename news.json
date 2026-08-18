@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T14:31:57.647557+00:00",
+  "generated_at": "2026-08-18T15:30:03.531199+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,34 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-18",
+      "ts": "2026-08-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Dual PCR–Sanger Sequencing Assay for Simultaneous sqle-Based Identification and Resistance Detection in Trichophyton Species",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0819_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-18",
+      "ts": "2026-08-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Wickerhamomyces anomalus Pseudo-Outbreak Associated with Medical Lubricating Gel, South Africa, 2023–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0608_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -351,34 +379,6 @@
       "src": "CDC EID",
       "head": "Southern Tick–Associated Rash Illness in Pediatric Patient, New York, USA, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0871_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "02:11",
-      "date": "2026-07-24",
-      "ts": "2026-07-24T02:11:15+00:00",
-      "src": "CDC EID",
-      "head": "Pediatric Tuberculosis Care Outcomes in a Tertiary Care Center, France, 2014–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0600_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "01:29",
-      "date": "2026-07-22",
-      "ts": "2026-07-22T01:29:44+00:00",
-      "src": "CDC EID",
-      "head": "Powassan Virus in Ixodes scapularis Tick Populations, Illinois, USA, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0812_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
