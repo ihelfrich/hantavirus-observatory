@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T23:20:45.800357+00:00",
+  "generated_at": "2026-08-19T23:46:38.388567+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,20 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-19",
+      "ts": "2026-08-19T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Chronic Elbow Nodules Caused by Fomitiporella Fungus in Immunocompetent Patients, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0263_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -97,7 +111,7 @@
       "date": "2026-08-19",
       "ts": "2026-08-19T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Recent Mycobacterium tuberculosis Transmission, United States, 2018–2022",
+      "head": "Recent Mycobacterium tuberculosis Transmission, United States, 2018–2022 (Response)",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-1478_article",
       "loc": "Atlanta",
       "lang": "en",
@@ -351,20 +365,6 @@
       "src": "CDC EID",
       "head": "Early-Season Detection of Influenza A(H3N2) Subclade K in Wastewater, Colorado, USA, 2025–2026",
       "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0431_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-08-05",
-      "ts": "2026-08-05T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Investigation of Mycobacterium abscessus Cluster in Hospital, Maryland, USA, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0093_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
