@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T15:31:51.348335+00:00",
+  "generated_at": "2026-08-20T16:33:23.302262+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,20 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-20",
+      "ts": "2026-08-20T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Emergence of Oropouche Virus, Venezuela, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/25-0678_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -351,20 +365,6 @@
       "src": "CDC EID",
       "head": "Gulf Coast Ticks (Amblyomma maculatum) and Rickettsia parkeri, Ohio, USA, 2020",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0632_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-08-06",
-      "ts": "2026-08-06T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Early-Season Detection of Influenza A(H3N2) Subclade K in Wastewater, Colorado, USA, 2025–2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0431_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
