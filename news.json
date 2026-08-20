@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T22:26:13.254891+00:00",
+  "generated_at": "2026-08-20T22:55:26.515583+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -29,6 +29,20 @@
       "src": "CDC EID",
       "head": "Emergence of Oropouche Virus, Venezuela, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/25-0678_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-20",
+      "ts": "2026-08-20T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Public Understanding of Wastewater Surveillance, United States, August 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0559_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -351,20 +365,6 @@
       "src": "CDC EID",
       "head": "Implementation and Early Outcomes of Laboratory Proficiency Testing Program for National Wastewater Surveillance System, United States, 2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/13/25-1612_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "17:55",
-      "date": "2026-08-07",
-      "ts": "2026-08-07T17:55:05+00:00",
-      "src": "CDC EID",
-      "head": "Gulf Coast Ticks (Amblyomma maculatum) and Rickettsia parkeri, Ohio, USA, 2020",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0632_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
