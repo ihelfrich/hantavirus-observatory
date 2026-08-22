@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T05:25:21.022637+00:00",
+  "generated_at": "2026-08-22T05:53:07.688235+00:00",
   "sources": [
+    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
-    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kotatv",
+      "head": "Hantavirus Detected on Pine Ridge Reservation",
+      "url": "https://www.kotatv.com/2026/08/21/hantavirus-detected-pine-ridge-reservation-officials-urge-precautions/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -112,8 +127,8 @@
       "date": "2026-08-19",
       "ts": "2026-08-19T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0437_article",
+      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024 (Response)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-1249_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -126,8 +141,8 @@
       "date": "2026-08-19",
       "ts": "2026-08-19T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024 (Response)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-1249_article",
+      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0437_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -657,6 +672,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Esquire",
+      "head": "Chief Justice John Roberts Must Really Want to Boogie at Trump Big , Ugly Ballroom",
+      "url": "https://www.esquire.com/news-politics/politics/a73498575/chief-justice-john-roberts-trump-ballroom-decision/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Biobiochile",
+      "head": "Muere Patricio Segura , defensor de la Patagonia : su última columna fue una carta de amor a su esposa | Nacional",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/21/muere-patricio-segura-por-hantavirusel-defensor-de-la-patagonia-dedico-su-ultima-columna-a-su-esposa.shtml",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Zerohedge",
       "head": "Medieval Diseases Have Returned To Los Angeles",
       "url": "https://www.zerohedge.com/medical/medieval-diseases-have-returned-los-angeles",
@@ -960,51 +1005,6 @@
       "src": "Ideastream",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.ideastream.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KRVS",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.krvs.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "Trump Has Found Yet Another Frivolous Way to Dump Our Tax Dollars on the Military",
-      "url": "https://www.esquire.com/news-politics/politics/a73438206/military-spending-catapults-trump-obsession/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WUWF",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.wuwf.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
