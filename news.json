@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T14:49:24.030641+00:00",
+  "generated_at": "2026-08-23T15:20:45.155856+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -672,6 +672,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "ZIV",
+      "head": "Вспышка хантавируса на круизном судне : что известно",
+      "url": "https://ziv.ru/zdorovie/71395-chto-izvestno-o-vspyshke-khantavirusa-na-kruizno-s.html",
+      "loc": "Russia",
+      "lang": "Russian",
+      "tags": [
+        "Russian",
+        "Russia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Esquire",
       "head": "Chief Justice John Roberts Must Really Want to Boogie at Trump Big , Ugly Ballroom",
       "url": "https://www.esquire.com/news-politics/politics/a73498575/chief-justice-john-roberts-trump-ballroom-decision/",
@@ -990,21 +1005,6 @@
       "src": "KENW",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.kenw.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ideastream",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.ideastream.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
