@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T09:35:07.116035+00:00",
+  "generated_at": "2026-08-23T10:21:58.708094+00:00",
   "sources": [
-    "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
@@ -127,8 +127,8 @@
       "date": "2026-08-19",
       "ts": "2026-08-19T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0437_article",
+      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024 (Response)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-1249_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -141,8 +141,8 @@
       "date": "2026-08-19",
       "ts": "2026-08-19T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024 (Response)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-1249_article",
+      "head": "Pulmonary Histoplasmosis, Taiwan, 1997–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0437_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
