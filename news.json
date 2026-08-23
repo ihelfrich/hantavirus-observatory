@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T17:45:36.346152+00:00",
+  "generated_at": "2026-08-23T18:27:13.334833+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "Patricio Segura , journalist who defended Patagonia rivers , died of hantavirus , aged 54",
+      "url": "https://news.mongabay.com/short-article/2026/08/patricio-segura-journalist-who-defended-patagonias-rivers-has-died-of-hantavirus-at-54/",
+      "loc": "Indonesia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Indonesia"
       ],
       "live": true
     },
@@ -990,21 +1005,6 @@
       "src": "WUNC",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.wunc.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KENW",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.kenw.org/npr-news/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
