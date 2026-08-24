@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T14:39:54.282078+00:00",
+  "generated_at": "2026-08-24T15:37:23.734022+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -64,6 +64,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-08-24",
+      "ts": "2026-08-24T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Wastewater Respiratory Virus Surveillance in Remote Community, Alaska, USA, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0709_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -396,20 +410,6 @@
       "src": "CDC EID",
       "head": "Improved Case Detection of Fleaborne Typhus by PCR Testing, Los Angeles County, California, USA, 2022–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/9/26-0554_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-08-10",
-      "ts": "2026-08-10T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Implementation and Early Outcomes of Laboratory Proficiency Testing Program for National Wastewater Surveillance System, United States, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/13/25-1612_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
