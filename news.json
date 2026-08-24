@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T15:37:23.734022+00:00",
+  "generated_at": "2026-08-24T16:35:26.353011+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Fundsforngos",
+      "head": "Emergency Call for Hantavirus or Ebola Virus Research Grant ( Sweden ) ",
+      "url": "https://www2.fundsforngos.org/science/emergency-call-for-hantavirus-or-ebola-virus-research-grant-sweden/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -687,6 +702,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "SEJ",
+      "head": "Rare South American Diseases Offer Clues on the Next Pandemic",
+      "url": "https://www.sej.org/headlines/rare-south-american-diseases-offer-clues-next-pandemic",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "ZIV",
       "head": "Вспышка хантавируса на круизном судне : что известно",
       "url": "https://ziv.ru/zdorovie/71395-chto-izvestno-o-vspyshke-khantavirusa-na-kruizno-s.html",
@@ -975,36 +1005,6 @@
       "src": "KCUR",
       "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
       "url": "https://www.kcur.org/health/2026-08-15/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Concordmonitor",
-      "head": "Opinion : Practicing evidence - based medicine in the era of vibes - based medicine",
-      "url": "https://www.concordmonitor.com/2026/08/15/my-turn-evidence-based-healthcare-policy/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WUNC",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.wunc.org/2026-08-14/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
