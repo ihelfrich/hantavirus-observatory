@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T22:24:19.677365+00:00",
+  "generated_at": "2026-08-24T22:53:17.645857+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
