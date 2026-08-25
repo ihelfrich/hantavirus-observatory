@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T04:37:04.068390+00:00",
+  "generated_at": "2026-08-25T05:30:29.325200+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diariolaguino",
+      "head": "Valdivia será sede de inédito encuentro nacional para investigación de hantavirus e influenza aviar",
+      "url": "https://www.diariolaguino.cl/noticia/salud/2026/08/valdivia-sera-sede-de-inedito-encuentro-nacional-para-investigacion-de-hantavirus-e-influenza-aviar",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -990,21 +1005,6 @@
       "src": "Thepeterboroughexaminer",
       "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
       "url": "https://www.thepeterboroughexaminer.com/news/canada/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics/article_3de551d8-5306-5564-9436-5ab4b56f26d0.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Brandonsun",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics – Brandon Sun",
-      "url": "https://www.brandonsun.com/lifestyles/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics",
       "loc": "Canada",
       "lang": "English",
       "tags": [
