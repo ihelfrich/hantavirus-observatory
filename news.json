@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T16:35:30.774528+00:00",
+  "generated_at": "2026-08-25T17:30:12.206195+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
   "count": 70,
@@ -732,6 +732,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Medscape",
+      "head": "Data Gaps Hinder Response to Climate - Driven Infections",
+      "url": "https://www.medscape.com/viewarticle/data-gaps-hinder-response-climate-driven-infections-2026a1000tjv",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "SEJ",
       "head": "Rare South American Diseases Offer Clues on the Next Pandemic",
       "url": "https://www.sej.org/headlines/rare-south-american-diseases-offer-clues-next-pandemic",
@@ -990,21 +1005,6 @@
       "src": "Panow",
       "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
       "url": "https://panow.com/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thepeterboroughexaminer",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
-      "url": "https://www.thepeterboroughexaminer.com/news/canada/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics/article_3de551d8-5306-5564-9436-5ab4b56f26d0.html",
       "loc": "Canada",
       "lang": "English",
       "tags": [
