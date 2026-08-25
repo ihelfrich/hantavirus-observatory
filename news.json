@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T02:38:07.364564+00:00",
+  "generated_at": "2026-08-25T03:47:29.698860+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 70,
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "24Horas",
+      "head": "Hantavirus en Chile 2026 : Minsal confirma incremento de contagios y detalla regiones afectadas",
+      "url": "https://www.24horas.cl/actualidad/nacional/minsal-confirma-aumento-casos-hantavirus-2026-",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -995,21 +1010,6 @@
       "tags": [
         "English",
         "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KCUR",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again",
-      "url": "https://www.kcur.org/health/2026-08-15/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
