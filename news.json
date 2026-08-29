@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T21:31:06.507726+00:00",
+  "generated_at": "2026-08-29T23:53:54.207917+00:00",
   "sources": [
     "CIDRAP",
     "CDC EID",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "EJU",
+      "head": "El Sedes reporta un nuevo caso de Hanta Virus en Yacuiba",
+      "url": "https://eju.tv/2026/08/el-sedes-reporta-un-nuevo-caso-de-hanta-virus-en-yacuiba/",
+      "loc": "Bolivia",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Bolivia"
       ],
       "live": true
     },
@@ -606,6 +621,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Esquire",
+      "head": "Ron DeSantis , America Favorite Meathead , Has Put Himself in Quite the Pickle",
+      "url": "https://www.esquire.com/news-politics/politics/a73556367/ron-desantis-10-million-dollars-taxpayer-funds-scandal/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Medscape",
       "head": "Data Gaps Hinder Response to Climate - Driven Infections",
       "url": "https://www.medscape.com/viewarticle/data-gaps-hinder-response-climate-driven-infections-2026a1000tjv",
@@ -849,36 +879,6 @@
       "src": "CKOM",
       "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
       "url": "https://www.ckom.com/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics-2/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Lethbridgeherald",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
-      "url": "https://lethbridgeherald.com/news/national-news/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Panow",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
-      "url": "https://panow.com/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
