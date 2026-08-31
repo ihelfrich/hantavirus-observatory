@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T10:34:37.562961+00:00",
+  "generated_at": "2026-08-31T17:54:15.153052+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 61,
+  "count": 60,
   "items": [
     {
       "time": "22:47",
@@ -621,6 +621,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Webwire",
+      "head": "As U . S . Measles Cases Rise and Biological Threats Remain Under Surveillance , Ashish Jha to Headline ConV2X New York",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=359479",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Esquire",
       "head": "Ron DeSantis , America Favorite Meathead , Has Put Himself in Quite the Pickle",
       "url": "https://www.esquire.com/news-politics/politics/a73556367/ron-desantis-10-million-dollars-taxpayer-funds-scandal/",
@@ -849,36 +864,6 @@
       "src": "Cheknews",
       "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
       "url": "https://cheknews.ca/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics-1342424/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Pentictonherald",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
-      "url": "https://www.pentictonherald.ca/news/national_news/article_835a3ae3-aa01-52cf-8725-c3ff5f5d0c07.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "CKOM",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
-      "url": "https://www.ckom.com/2026/08/17/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics-2/",
       "loc": "Canada",
       "lang": "English",
       "tags": [
