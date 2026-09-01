@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T01:22:33.412599+00:00",
+  "generated_at": "2026-09-01T06:33:48.569219+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 60,
+  "count": 59,
   "items": [
     {
       "time": "22:47",
@@ -854,21 +854,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Cheknews",
-      "head": "Inside the Montreal lab working to prepare Canada against future pandemics",
-      "url": "https://cheknews.ca/inside-the-montreal-lab-working-to-prepare-canada-against-future-pandemics-1342424/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
       ],
       "live": true
     }
