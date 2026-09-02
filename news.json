@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T09:18:44.020442+00:00",
+  "generated_at": "2026-09-02T13:46:54.820961+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 58,
+  "count": 59,
   "items": [
     {
       "time": "22:47",
@@ -124,6 +124,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-01",
+      "ts": "2026-09-01T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Early Action Review of Detection, Notification, and Response Timeliness during Cross-Border Bundibugyo Virus Disease Outbreak, Uganda, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-1411_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
