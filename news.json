@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T22:23:51.019907+00:00",
+  "generated_at": "2026-09-02T00:24:19.641654+00:00",
   "sources": [
-    "CIDRAP",
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 59,
+  "count": 58,
   "items": [
     {
       "time": "22:47",
@@ -834,21 +834,6 @@
       "src": "WOWT",
       "head": "Health Secretary Kennedy visits National Quarantine Unit in Omaha",
       "url": "https://www.wowt.com/2026/08/20/health-secretary-kennedy-visits-national-quarantine-unit-omaha/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Alaskapublic",
-      "head": "Is there a summer COVID - 19 surge this year ? Yep , it ramping up again . ",
-      "url": "https://alaskapublic.org/news/health/2026-08-18/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again",
       "loc": "United States",
       "lang": "English",
       "tags": [
