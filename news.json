@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T21:48:39.512873+00:00",
+  "generated_at": "2026-09-03T23:47:41.728350+00:00",
   "sources": [
     "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 59,
+  "count": 56,
   "items": [
     {
       "time": "22:47",
@@ -803,51 +803,6 @@
       "src": "Knopnews2",
       "head": "Health Secretary Kennedy visits National Quarantine Unit in Omaha",
       "url": "https://www.knopnews2.com/2026/08/20/health-secretary-kennedy-visits-national-quarantine-unit-omaha/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nebraska",
-      "head": "RFK Jr . praises UNMC during Nebraska visit , highlights health preparedness",
-      "url": "https://nebraska.tv/news/local/rfk-jr-praises-unmc-during-nebraska-visit-highlights-health-preparedness",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Nebraskapublicmedia",
-      "head": "  Critical to national security : Health Secretary RFK Jr . visits UNMC biocontainment unit",
-      "url": "https://nebraskapublicmedia.org/en/news/news-articles/critical-to-national-security-health-secretary-rfk-jr-visits-unmc-biocontainment-unit/",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WOWT",
-      "head": "Health Secretary Kennedy visits National Quarantine Unit in Omaha",
-      "url": "https://www.wowt.com/2026/08/20/health-secretary-kennedy-visits-national-quarantine-unit-omaha/",
       "loc": "United States",
       "lang": "English",
       "tags": [
