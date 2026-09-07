@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T06:27:09.713954+00:00",
+  "generated_at": "2026-09-07T12:56:09.050179+00:00",
   "sources": [
     "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 56,
+  "count": 53,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,36 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diariolaguino",
+      "head": "Valdivia lidera ejercicio nacional para frenar el hantavirus y la influenza aviar",
+      "url": "https://www.diariolaguino.cl/noticia/salud/2026/09/valdivia-lidera-ejercicio-nacional-para-frenar-el-hantavirus-y-la-influenza-aviar",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Diariofutrono",
+      "head": "Valdivia lidera ejercicio nacional para frenar el hantavirus y la influenza aviar",
+      "url": "https://www.diariofutrono.cl/noticia/salud/2026/09/valdivia-lidera-ejercicio-nacional-para-frenar-el-hantavirus-y-la-influenza-aviar",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -74,51 +104,6 @@
       "src": "Fundsforngos",
       "head": "Emergency Call for Hantavirus or Ebola Virus Research Grant ( Sweden ) ",
       "url": "https://www2.fundsforngos.org/science/emergency-call-for-hantavirus-or-ebola-virus-research-grant-sweden/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "NEWS",
-      "head": "Patricio Segura , journalist who defended Patagonia rivers , died of hantavirus , aged 54",
-      "url": "https://news.mongabay.com/short-article/2026/08/patricio-segura-journalist-who-defended-patagonias-rivers-has-died-of-hantavirus-at-54/",
-      "loc": "Indonesia",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Indonesia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kotatv",
-      "head": "Hantavirus Detected on Pine Ridge Reservation",
-      "url": "https://www.kotatv.com/2026/08/21/hantavirus-detected-pine-ridge-reservation-officials-urge-precautions/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KETV",
-      "head": "RFK Jr . praises UNMC Hantavirus response during Omaha visit",
-      "url": "https://www.ketv.com/article/rfk-jr-visits-unmc/73489395",
       "loc": "United States",
       "lang": "English",
       "tags": [
@@ -635,6 +620,96 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Thebeaverton",
+      "head": "Canada confirms defence strategy against invasion mainly waiting for Americans to die from preventable illnesses",
+      "url": "https://www.thebeaverton.com/2026/09/canada-confirms-defence-strategy-against-invasion-mainly-waiting-for-americans-to-die-from-preventable-illnesses/",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Esquire",
+      "head": "John Fetterman Is Making the Case for Worst Democratic Senator of All Time",
+      "url": "https://www.esquire.com/news-politics/politics/a73617613/john-fetterman-israel-fox-news/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Mirror",
+      "head": "Britain launches first terror - proof , high - security robotics lab to fight the next pandemic",
+      "url": "https://www.mirror.co.uk/news/health/robotic-laboratory-liverpool-terror-pandemic-37624557",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ksnblocal4",
+      "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
+      "url": "https://www.ksnblocal4.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Knopnews2",
+      "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
+      "url": "https://www.knopnews2.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WOWT",
+      "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
+      "url": "https://www.wowt.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Webwire",
       "head": "As U . S . Measles Cases Rise and Biological Threats Remain Under Surveillance , Ashish Jha to Headline ConV2X New York",
       "url": "https://www.webwire.com/ViewPressRel.asp?aId=359479",
@@ -683,126 +758,6 @@
       "src": "SEJ",
       "head": "Rare South American Diseases Offer Clues on the Next Pandemic",
       "url": "https://www.sej.org/headlines/rare-south-american-diseases-offer-clues-next-pandemic",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "ZIV",
-      "head": "Вспышка хантавируса на круизном судне : что известно",
-      "url": "https://ziv.ru/zdorovie/71395-chto-izvestno-o-vspyshke-khantavirusa-na-kruizno-s.html",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "Chief Justice John Roberts Must Really Want to Boogie at Trump Big , Ugly Ballroom",
-      "url": "https://www.esquire.com/news-politics/politics/a73498575/chief-justice-john-roberts-trump-ballroom-decision/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Biobiochile",
-      "head": "Muere Patricio Segura , defensor de la Patagonia : su última columna fue una carta de amor a su esposa | Nacional",
-      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/21/muere-patricio-segura-por-hantavirusel-defensor-de-la-patagonia-dedico-su-ultima-columna-a-su-esposa.shtml",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Zerohedge",
-      "head": "Medieval Diseases Have Returned To Los Angeles",
-      "url": "https://www.zerohedge.com/medical/medieval-diseases-have-returned-los-angeles",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Klkntv",
-      "head": "Secretary Robert F . Kennedy Jr . visits UNMC , praises Nebraska role in nutrition initiatives",
-      "url": "https://www.klkntv.com/secretary-robert-f-kennedy-jr-visits-unmc-praises-nebraskas-role-in-nutrition-initiatives/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTIV",
-      "head": "Health Secretary Kennedy visits National Quarantine Unit in Omaha",
-      "url": "https://www.ktiv.com/2026/08/20/health-secretary-kennedy-visits-national-quarantine-unit-omaha/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "1011Now",
-      "head": "Health Secretary Kennedy visits National Quarantine Unit in Omaha",
-      "url": "https://www.1011now.com/2026/08/20/health-secretary-kennedy-visits-national-quarantine-unit-omaha/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Knopnews2",
-      "head": "Health Secretary Kennedy visits National Quarantine Unit in Omaha",
-      "url": "https://www.knopnews2.com/2026/08/20/health-secretary-kennedy-visits-national-quarantine-unit-omaha/",
       "loc": "United States",
       "lang": "English",
       "tags": [
