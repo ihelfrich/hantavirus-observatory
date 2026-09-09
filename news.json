@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T21:49:29.777294+00:00",
+  "generated_at": "2026-09-09T23:50:36.053458+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 55,
+  "count": 51,
   "items": [
     {
       "time": "22:47",
@@ -64,51 +64,6 @@
       "tags": [
         "Spanish",
         "Bolivia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diariolaguino",
-      "head": "Valdivia será sede de inédito encuentro nacional para investigación de hantavirus e influenza aviar",
-      "url": "https://www.diariolaguino.cl/noticia/salud/2026/08/valdivia-sera-sede-de-inedito-encuentro-nacional-para-investigacion-de-hantavirus-e-influenza-aviar",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "24Horas",
-      "head": "Hantavirus en Chile 2026 : Minsal confirma incremento de contagios y detalla regiones afectadas",
-      "url": "https://www.24horas.cl/actualidad/nacional/minsal-confirma-aumento-casos-hantavirus-2026-",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Fundsforngos",
-      "head": "Emergency Call for Hantavirus or Ebola Virus Research Grant ( Sweden ) ",
-      "url": "https://www2.fundsforngos.org/science/emergency-call-for-hantavirus-or-ebola-virus-research-grant-sweden/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -648,6 +603,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Medscape",
+      "head": "Lessons From Recent Viral Outbreaks",
+      "url": "https://www.medscape.com/viewarticle/lessons-learned-recent-andes-hantavirus-and-ebola-outbreaks-2026a1000x7r",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Thebeaverton",
       "head": "Canada confirms defence strategy against invasion mainly waiting for Americans to die from preventable illnesses",
       "url": "https://www.thebeaverton.com/2026/09/canada-confirms-defence-strategy-against-invasion-mainly-waiting-for-americans-to-die-from-preventable-illnesses/",
@@ -756,36 +726,6 @@
       "src": "Esquire",
       "head": "Ron DeSantis , America Favorite Meathead , Has Put Himself in Quite the Pickle",
       "url": "https://www.esquire.com/news-politics/politics/a73556367/ron-desantis-10-million-dollars-taxpayer-funds-scandal/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medscape",
-      "head": "Data Gaps Hinder Response to Climate - Driven Infections",
-      "url": "https://www.medscape.com/viewarticle/data-gaps-hinder-response-climate-driven-infections-2026a1000tjv",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "SEJ",
-      "head": "Rare South American Diseases Offer Clues on the Next Pandemic",
-      "url": "https://www.sej.org/headlines/rare-south-american-diseases-offer-clues-next-pandemic",
       "loc": "United States",
       "lang": "English",
       "tags": [
