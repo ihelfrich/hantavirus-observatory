@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T19:11:07.150304+00:00",
+  "generated_at": "2026-09-09T21:49:29.777294+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 53,
+  "count": 55,
   "items": [
     {
       "time": "22:47",
@@ -109,6 +109,34 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-09",
+      "ts": "2026-09-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Progress and Expansion of the National Wastewater Surveillance System, United States, 2020–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-1118_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-09",
+      "ts": "2026-09-09T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Under the Iceberg",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/ac-3213_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
