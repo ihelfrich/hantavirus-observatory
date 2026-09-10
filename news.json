@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T17:04:31.556684+00:00",
+  "generated_at": "2026-09-10T19:56:48.641069+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 52,
+  "count": 53,
   "items": [
     {
       "time": "22:47",
@@ -64,6 +64,20 @@
       "tags": [
         "Spanish",
         "Bolivia"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-10",
+      "ts": "2026-09-10T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Correlation of Norovirus in Wastewater with Gastroenteritis-Related Hospitalizations, New York, USA, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0472_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
