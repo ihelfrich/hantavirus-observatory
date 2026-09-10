@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T13:01:27.954840+00:00",
+  "generated_at": "2026-09-10T17:04:31.556684+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 51,
+  "count": 52,
   "items": [
     {
       "time": "22:47",
@@ -64,6 +64,20 @@
       "tags": [
         "Spanish",
         "Bolivia"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-10",
+      "ts": "2026-09-10T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Laboratory Assessment of Wastewater as Surveillance Tool for West Nile Virus, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/13/26-0616_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
