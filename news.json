@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T17:49:17.085328+00:00",
+  "generated_at": "2026-09-11T20:29:37.617986+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 60,
+  "count": 61,
   "items": [
     {
       "time": "04:00",
@@ -652,6 +652,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "FAS",
+      "head": "When the Climate Shifts , So Do the Pathogens ( And So Should We ) ",
+      "url": "https://fas.org/publication/when-climate-shifts-pathogens/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
