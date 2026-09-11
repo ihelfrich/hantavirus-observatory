@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-11T14:04:18.457221+00:00",
+  "generated_at": "2026-09-11T17:49:17.085328+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 56,
+  "count": 60,
   "items": [
+    {
+      "time": "04:00",
+      "date": "2026-09-11",
+      "ts": "2026-09-11T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Characteristics and Superspreading Potential of Andes Virus Person-to-Person Transmission",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0908_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
     {
       "time": "22:47",
       "date": "2026-07-02",
@@ -68,17 +82,16 @@
       "live": true
     },
     {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "EJU",
-      "head": "El Sedes reporta un nuevo caso de Hanta Virus en Yacuiba",
-      "url": "https://eju.tv/2026/08/el-sedes-reporta-un-nuevo-caso-de-hanta-virus-en-yacuiba/",
-      "loc": "Bolivia",
-      "lang": "Spanish",
+      "time": "04:00",
+      "date": "2026-09-11",
+      "ts": "2026-09-11T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Fatal Infection with Dengue Virus and Avian Orthoavulavirus 1 in Traveler Returning from Saudi Arabia to France, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0736_article",
+      "loc": "Atlanta",
+      "lang": "en",
       "tags": [
-        "Spanish",
-        "Bolivia"
+        "CDC EID"
       ],
       "live": true
     },
@@ -639,6 +652,51 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wyomingnewsnow",
+      "head": "Antisemitic conspiracies , allegations resurface ahead of 25th 9 / 11 anniversary",
+      "url": "https://www.wyomingnewsnow.tv/news/national/antisemitic-conspiracies-allegations-resurface-ahead-of-25th-9-11-anniversary/article_918e6db4-ba81-527e-9d81-3cf0ea54b1b8.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newswise",
+      "head": "Kazakhstan Researchers Strengthen National Defenses Against Diseases That Spread from Animals to Humans",
+      "url": "https://www.newswise.com/articles/kazakhstan-researchers-strengthen-national-defenses-against-diseases-that-spread-from-animals-to-humans",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Vtcng",
+      "head": "Antisemitic conspiracies , allegations resurface ahead of 25th 9 / 11 anniversary",
+      "url": "https://www.vtcng.com/shelburnenews/state_and_world/world_news/antisemitic-conspiracies-allegations-resurface-ahead-of-25th-9-11-anniversary/article_2d8dd57a-d322-5c4b-83ad-ac12e511eecd.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
       ],
       "live": true
     },
