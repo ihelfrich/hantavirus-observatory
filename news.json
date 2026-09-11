@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T22:20:06.467436+00:00",
+  "generated_at": "2026-09-11T00:21:49.096838+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 53,
+  "count": 56,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Latercera",
+      "head": "Salud refuerza llamado a la prevención contra el hantavirus : 7 de cada 10 contagios ocurren en actividades domésticas",
+      "url": "https://www.latercera.com/nacional/noticia/salud-refuerza-llamado-a-la-prevencion-contra-el-hantavirus-7-de-cada-10-contagios-ocurren-en-actividades-domesticas/",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
       ],
       "live": true
     },
@@ -624,6 +639,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Hometownregister",
+      "head": "Antisemitic conspiracies , allegations resurface ahead of 25th 9 / 11 anniversary",
+      "url": "https://www.hometownregister.com/news/national/antisemitic-conspiracies-allegations-resurface-ahead-of-25th-9-11-anniversary/article_0d012558-9d0a-56f7-86ad-20aab25ce965.html",
+      "loc": "",
+      "lang": "English",
+      "tags": [
+        "English",
+        ""
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Israelnationalnews",
+      "head": "From coded emojis to old lies : 9 / 11 antisemitism persists online",
+      "url": "https://www.israelnationalnews.com/news/433025",
+      "loc": "Israel",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Israel"
       ],
       "live": true
     },
