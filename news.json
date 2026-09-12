@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T22:44:44.363472+00:00",
+  "generated_at": "2026-09-12T00:55:24.778643+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 61,
+  "count": 62,
   "items": [
     {
       "time": "04:00",
@@ -652,6 +652,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Esquire",
+      "head": "Trump Has Resorted to Openly Mocking His Supporters . So Why the Hell Do They Still Back Him ? ",
+      "url": "https://www.esquire.com/news-politics/politics/a73692979/trump-supporters-pledge-midterm-convention/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
