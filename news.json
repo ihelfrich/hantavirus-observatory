@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12T13:21:28.787783+00:00",
+  "generated_at": "2026-09-12T16:25:26.135699+00:00",
   "sources": [
     "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 62,
+  "count": 61,
   "items": [
     {
       "time": "04:00",
@@ -872,21 +872,6 @@
       "src": "Webwire",
       "head": "As U . S . Measles Cases Rise and Biological Threats Remain Under Surveillance , Ashish Jha to Headline ConV2X New York",
       "url": "https://www.webwire.com/ViewPressRel.asp?aId=359479",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "Ron DeSantis , America Favorite Meathead , Has Put Himself in Quite the Pickle",
-      "url": "https://www.esquire.com/news-politics/politics/a73556367/ron-desantis-10-million-dollars-taxpayer-funds-scandal/",
       "loc": "United States",
       "lang": "English",
       "tags": [
