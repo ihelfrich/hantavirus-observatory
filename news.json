@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-13T06:33:07.249693+00:00",
+  "generated_at": "2026-09-13T12:33:10.047657+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 61,
+  "count": 63,
   "items": [
     {
       "time": "04:00",
@@ -652,6 +652,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ettoday",
+      "head": "謝國樑談竹北破局 「 藍白應檢討 」 基隆非常順利不需要擔心 | ETtoday政治新聞",
+      "url": "https://www.ettoday.net/news/20260913/3236551.htm",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ecolounge",
+      "head": "Baglyokkal a halálos vírus ellen ? ",
+      "url": "https://ecolounge.hu/vadon/baglyokkal-a-halalos-virus-ellen",
+      "loc": "Hungary",
+      "lang": "Hungarian",
+      "tags": [
+        "Hungarian",
+        "Hungary"
       ],
       "live": true
     },
