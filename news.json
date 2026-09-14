@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T20:23:42.106109+00:00",
+  "generated_at": "2026-09-14T23:18:52.210241+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 64,
+  "count": 63,
   "items": [
     {
       "time": "04:00",
@@ -901,21 +901,6 @@
       "src": "WOWT",
       "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
       "url": "https://www.wowt.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Webwire",
-      "head": "As U . S . Measles Cases Rise and Biological Threats Remain Under Surveillance , Ashish Jha to Headline ConV2X New York",
-      "url": "https://www.webwire.com/ViewPressRel.asp?aId=359479",
       "loc": "United States",
       "lang": "English",
       "tags": [
