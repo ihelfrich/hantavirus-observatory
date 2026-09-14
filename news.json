@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T09:35:24.093623+00:00",
+  "generated_at": "2026-09-14T16:10:19.965750+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 63,
+  "count": 64,
   "items": [
     {
       "time": "04:00",
@@ -78,6 +78,20 @@
       "tags": [
         "Spanish",
         "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-14",
+      "ts": "2026-09-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Monkeypox Virus in Healthcare Settings, Sierra Leone, June 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1697_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
