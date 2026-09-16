@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T20:22:19.180636+00:00",
+  "generated_at": "2026-09-16T23:08:54.583051+00:00",
   "sources": [
     "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 51,
+  "count": 55,
   "items": [
     {
       "time": "04:00",
@@ -86,6 +86,20 @@
       "date": "2026-09-16",
       "ts": "2026-09-16T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Meta-analysis of Asymptomatic Monkeypox Virus Prevalence in Nonendemic Regions, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0305_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-16",
+      "ts": "2026-09-16T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Detection of Anaplasma capra in Patients with Suspected Crimean-Congo Hemorrhagic Fever, Turkey, 2022",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1049_article",
       "loc": "Atlanta",
@@ -114,8 +128,50 @@
       "date": "2026-09-16",
       "ts": "2026-09-16T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Multiple Introductions and Cross-Sector Transmission of Salmonella enterica Serovar Infantis Carrying blaCTX-M-65 Gene, South Korea, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1758_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-16",
+      "ts": "2026-09-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of Divergent Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus, São Paulo, Brazil, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0723_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-16",
+      "ts": "2026-09-16T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Emergence of Macrolide-Resistant Bordetella pertussis, Peru, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1477_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-16",
+      "ts": "2026-09-16T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Clinical Characterization of Invasive Meningococcal Disease Epidemic, Uzbekistan, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-1144_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
