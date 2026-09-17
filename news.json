@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T20:30:35.173370+00:00",
+  "generated_at": "2026-09-17T23:02:17.840735+00:00",
   "sources": [
     "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 58,
+  "count": 59,
   "items": [
     {
       "time": "04:00",
@@ -116,6 +116,20 @@
       "src": "CDC EID",
       "head": "Genomic Epidemiology of Salmonella enterica Serovar Hadar Strain Linked to Poultry-Associated Salmonellosis Outbreaks, United States",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0501_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-17",
+      "ts": "2026-09-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Variolation Techniques, Medical Explanations, and Dissemination in Late Imperial China",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0729_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
