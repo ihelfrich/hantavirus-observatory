@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T17:28:39.580213+00:00",
+  "generated_at": "2026-09-17T20:30:35.173370+00:00",
   "sources": [
+    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
-    "CDC EID",
     "GDELT"
   ],
-  "count": 57,
+  "count": 58,
   "items": [
     {
       "time": "04:00",
@@ -88,6 +88,20 @@
       "src": "CDC EID",
       "head": "Systematic Review and Meta-analysis of Group B Streptococcus Rectovaginal Colonization Rates and Serotype Distribution among Pregnant Women, Asia-Pacific Region, 2014–2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0687_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-17",
+      "ts": "2026-09-17T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Persistent Bartonella quintana Infection in Macaques at Primate Research Institute, Japan",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0771_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
