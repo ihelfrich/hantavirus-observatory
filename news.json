@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T11:37:14.420477+00:00",
+  "generated_at": "2026-09-18T15:53:19.059702+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 59,
+  "count": 62,
   "items": [
     {
       "time": "04:00",
@@ -78,6 +78,48 @@
       "tags": [
         "Spanish",
         "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-18",
+      "ts": "2026-09-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Multisectoral Emergence of Multidrug-Resistant Campylobacter coli Sequence Type 10042 Lineage, Europe, 2018–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0512_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-18",
+      "ts": "2026-09-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Emergence of Plasmodium malariae and Co-endemicity of 3 Plasmodium Species Parasites, Khanh Hoa Province, Vietnam, 2023–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0751_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-18",
+      "ts": "2026-09-18T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Virus in Cat and Rats during Outbreak in Backyard Poultry, United States, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0418_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
