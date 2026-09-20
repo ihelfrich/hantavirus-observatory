@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T00:15:33.775654+00:00",
+  "generated_at": "2026-09-20T05:12:07.316526+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 62,
+  "count": 54,
   "items": [
     {
       "time": "04:00",
@@ -43,36 +43,6 @@
       "src": "Latercera",
       "head": "Salud refuerza llamado a la prevención contra el hantavirus : 7 de cada 10 contagios ocurren en actividades domésticas",
       "url": "https://www.latercera.com/nacional/noticia/salud-refuerza-llamado-a-la-prevencion-contra-el-hantavirus-7-de-cada-10-contagios-ocurren-en-actividades-domesticas/",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diariolaguino",
-      "head": "Valdivia lidera ejercicio nacional para frenar el hantavirus y la influenza aviar",
-      "url": "https://www.diariolaguino.cl/noticia/salud/2026/09/valdivia-lidera-ejercicio-nacional-para-frenar-el-hantavirus-y-la-influenza-aviar",
-      "loc": "Chile",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Chile"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Diariofutrono",
-      "head": "Valdivia lidera ejercicio nacional para frenar el hantavirus y la influenza aviar",
-      "url": "https://www.diariofutrono.cl/noticia/salud/2026/09/valdivia-lidera-ejercicio-nacional-para-frenar-el-hantavirus-y-la-influenza-aviar",
       "loc": "Chile",
       "lang": "Spanish",
       "tags": [
@@ -797,96 +767,6 @@
       "src": "Medscape",
       "head": "Lessons From Recent Viral Outbreaks",
       "url": "https://www.medscape.com/viewarticle/lessons-learned-recent-andes-hantavirus-and-ebola-outbreaks-2026a1000x7r",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Thebeaverton",
-      "head": "Canada confirms defence strategy against invasion mainly waiting for Americans to die from preventable illnesses",
-      "url": "https://www.thebeaverton.com/2026/09/canada-confirms-defence-strategy-against-invasion-mainly-waiting-for-americans-to-die-from-preventable-illnesses/",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "John Fetterman Is Making the Case for Worst Democratic Senator of All Time",
-      "url": "https://www.esquire.com/news-politics/politics/a73617613/john-fetterman-israel-fox-news/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Mirror",
-      "head": "Britain launches first terror - proof , high - security robotics lab to fight the next pandemic",
-      "url": "https://www.mirror.co.uk/news/health/robotic-laboratory-liverpool-terror-pandemic-37624557",
-      "loc": "United Kingdom",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United Kingdom"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ksnblocal4",
-      "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
-      "url": "https://www.ksnblocal4.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Knopnews2",
-      "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
-      "url": "https://www.knopnews2.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "WOWT",
-      "head": "University of Nebraska president says investment is critical to Nebraska future during State of the University Address",
-      "url": "https://www.wowt.com/2026/09/03/university-nebraska-president-says-investment-is-critical-nebraskas-future-during-state-university-address/",
       "loc": "United States",
       "lang": "English",
       "tags": [
