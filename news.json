@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T12:05:38.773632+00:00",
+  "generated_at": "2026-09-21T18:16:25.228570+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 54,
+  "count": 56,
   "items": [
     {
       "time": "04:00",
@@ -48,6 +48,62 @@
       "tags": [
         "Spanish",
         "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-21",
+      "ts": "2026-09-21T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Chlamydia psittaci Meningitis, Chile, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1985_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-21",
+      "ts": "2026-09-21T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Evaluation of Trichodysplasia Spinulosa Polyomavirus in Skin Biopsies, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-1264_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-21",
+      "ts": "2026-09-21T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Haemophilus ducreyi Bacteria Causing Cutaneous Ulcer Outbreak in Children, Sierra Leone, December 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0727_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-21",
+      "ts": "2026-09-21T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Smallpox Military Policy and Decisive Actions of George Washington",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/ac-3210_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -342,34 +398,6 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-27",
-      "ts": "2026-07-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of Rabies in Cape Fur Seals, South Africa",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0179_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-07-26",
-      "ts": "2026-07-26T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "In Memoriam: The Enduring Influence of Nancy J. Cox (1948–2026)",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0830_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
       ],
       "live": true
     },
