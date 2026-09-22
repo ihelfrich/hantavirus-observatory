@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T17:08:39.299270+00:00",
+  "generated_at": "2026-09-22T20:21:45.281827+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
+    "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
@@ -336,8 +336,8 @@
       "date": "2026-09-16",
       "ts": "2026-09-16T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Meta-analysis of Asymptomatic Monkeypox Virus Prevalence in Nonendemic Regions, 2022–2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0305_article",
+      "head": "Detection of Anaplasma capra in Patients with Suspected Crimean-Congo Hemorrhagic Fever, Turkey, 2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1049_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -350,8 +350,8 @@
       "date": "2026-09-16",
       "ts": "2026-09-16T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Detection of Anaplasma capra in Patients with Suspected Crimean-Congo Hemorrhagic Fever, Turkey, 2022",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1049_article",
+      "head": "Meta-analysis of Asymptomatic Monkeypox Virus Prevalence in Nonendemic Regions, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0305_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
