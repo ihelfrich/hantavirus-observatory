@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-22T12:22:00.352130+00:00",
+  "generated_at": "2026-09-22T17:08:39.299270+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 56,
@@ -34,6 +34,34 @@
       "tags": [
         "Spanish",
         "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-22",
+      "ts": "2026-09-22T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Wastewater Surveillance to Track Resurgent Measles Outbreak, Ontario, Canada, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0092_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-22",
+      "ts": "2026-09-22T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Age Differences in Pertussis Epidemics, New South Wales, Australia, 2015 and 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0332_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -352,34 +380,6 @@
       "src": "CDC EID",
       "head": "Multiple Introductions and Cross-Sector Transmission of Salmonella enterica Serovar Infantis Carrying blaCTX-M-65 Gene, South Korea, 2022–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1758_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-09-16",
-      "ts": "2026-09-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Detection of Divergent Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus, São Paulo, Brazil, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0723_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-09-16",
-      "ts": "2026-09-16T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of Macrolide-Resistant Bordetella pertussis, Peru, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1477_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
