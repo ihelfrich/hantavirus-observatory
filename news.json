@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T22:39:59.218307+00:00",
+  "generated_at": "2026-09-26T01:12:25.033705+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
   "count": 56,
@@ -26,14 +26,29 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Latercera",
-      "head": "Salud refuerza llamado a la prevención contra el hantavirus : 7 de cada 10 contagios ocurren en actividades domésticas",
-      "url": "https://www.latercera.com/nacional/noticia/salud-refuerza-llamado-a-la-prevencion-contra-el-hantavirus-7-de-cada-10-contagios-ocurren-en-actividades-domesticas/",
-      "loc": "Chile",
-      "lang": "Spanish",
+      "src": "G1",
+      "head": "SC registra segunda morte por hantavirose em 2026",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/sc-segunda-morte-hantavirose-2026-doenca-transmitida-ratos-silvestres.ghtml",
+      "loc": "Brazil",
+      "lang": "Portuguese",
       "tags": [
-        "Spanish",
-        "Chile"
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Kotatv",
+      "head": "CDC Confirms No Hantavirus in Pine Ridge Public Health Check",
+      "url": "https://www.kotatv.com/2026/09/23/cdc-testing-finds-no-confirmed-hantavirus-infection-pine-ridge/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -657,6 +672,111 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Newsroomamerica",
+      "head": "Tag : gaza newsroomamerica . com",
+      "url": "https://newsroomamerica.com/tag/gaza",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsroomamerica",
+      "head": "Tag : cuba newsroomamerica . com",
+      "url": "https://newsroomamerica.com/tag/cuba",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brandonsun",
+      "head": "  This is torture : Lives of Congolese people disrupted by Canada Ebola travel ban – Brandon Sun",
+      "url": "https://www.brandonsun.com/lifestyles/2026/09/22/this-is-torture-lives-of-congolese-people-disrupted-by-canadas-ebola-travel-ban",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Stcatharinesstandard",
+      "head": "  This is torture : Lives of Congolese people disrupted by Canada Ebola travel ban",
+      "url": "https://www.stcatharinesstandard.ca/news/canada/this-is-torture-lives-of-congolese-people-disrupted-by-canada-s-ebola-travel-ban/article_899a9281-9565-58eb-a3ae-b397cd0728bc.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Torontosun",
+      "head": "Cruise passengers put in lockdown after man jumps overboard",
+      "url": "https://torontosun.com/news/world/carnival-cruise-passengers-lockdown-man-jumps-overboard",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsroomamerica",
+      "head": "Tag : ebola newsroomamerica . com",
+      "url": "https://newsroomamerica.com/tag/ebola",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsroomamerica",
+      "head": "Tag : measles",
+      "url": "https://newsroomamerica.com/tag/measles",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Ettoday",
       "head": "謝國樑談竹北破局 「 藍白應檢討 」 基隆非常順利不需要擔心 | ETtoday政治新聞",
       "url": "https://www.ettoday.net/news/20260913/3236551.htm",
@@ -680,126 +800,6 @@
       "tags": [
         "Hungarian",
         "Hungary"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Esquire",
-      "head": "Trump Has Resorted to Openly Mocking His Supporters . So Why the Hell Do They Still Back Him ? ",
-      "url": "https://www.esquire.com/news-politics/politics/a73692979/trump-supporters-pledge-midterm-convention/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "FAS",
-      "head": "When the Climate Shifts , So Do the Pathogens ( And So Should We ) ",
-      "url": "https://fas.org/publication/when-climate-shifts-pathogens/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Wyomingnewsnow",
-      "head": "Antisemitic conspiracies , allegations resurface ahead of 25th 9 / 11 anniversary",
-      "url": "https://www.wyomingnewsnow.tv/news/national/antisemitic-conspiracies-allegations-resurface-ahead-of-25th-9-11-anniversary/article_918e6db4-ba81-527e-9d81-3cf0ea54b1b8.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newswise",
-      "head": "Kazakhstan Researchers Strengthen National Defenses Against Diseases That Spread from Animals to Humans",
-      "url": "https://www.newswise.com/articles/kazakhstan-researchers-strengthen-national-defenses-against-diseases-that-spread-from-animals-to-humans",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vtcng",
-      "head": "Antisemitic conspiracies , allegations resurface ahead of 25th 9 / 11 anniversary",
-      "url": "https://www.vtcng.com/shelburnenews/state_and_world/world_news/antisemitic-conspiracies-allegations-resurface-ahead-of-25th-9-11-anniversary/article_2d8dd57a-d322-5c4b-83ad-ac12e511eecd.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Hometownregister",
-      "head": "Antisemitic conspiracies , allegations resurface ahead of 25th 9 / 11 anniversary",
-      "url": "https://www.hometownregister.com/news/national/antisemitic-conspiracies-allegations-resurface-ahead-of-25th-9-11-anniversary/article_0d012558-9d0a-56f7-86ad-20aab25ce965.html",
-      "loc": "",
-      "lang": "English",
-      "tags": [
-        "English",
-        ""
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Israelnationalnews",
-      "head": "From coded emojis to old lies : 9 / 11 antisemitism persists online",
-      "url": "https://www.israelnationalnews.com/news/433025",
-      "loc": "Israel",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Israel"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Medscape",
-      "head": "Lessons From Recent Viral Outbreaks",
-      "url": "https://www.medscape.com/viewarticle/lessons-learned-recent-andes-hantavirus-and-ebola-outbreaks-2026a1000x7r",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
