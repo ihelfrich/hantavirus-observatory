@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T16:53:21.498546+00:00",
+  "generated_at": "2026-09-28T22:24:26.407376+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
@@ -113,22 +113,8 @@
       "date": "2026-09-21",
       "ts": "2026-09-21T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Isothermal Detection of Influenza D Virus using Reverse Transcription Loop-Mediated Isothermal Amplification",
+      "head": "Detection of Influenza D Virus using Reverse Transcription Loop-Mediated Isothermal Amplification",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0499_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-09-21",
-      "ts": "2026-09-21T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of Genotype 2.3.1 Multidrug-Resistant Salmonella enterica Serovar Typhi Strain, West Africa, 2021–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0813_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -169,6 +155,20 @@
       "date": "2026-09-21",
       "ts": "2026-09-21T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Emergence of Genotype 2.3.1 Multidrug-Resistant Salmonella enterica Serovar Typhi Strain, West Africa, 2021–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0813_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-21",
+      "ts": "2026-09-21T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Highly Pathogenic Avian Influenza Virus Subtype 5 in Cetaceans, Brazil",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0051_article",
       "loc": "Atlanta",
@@ -185,20 +185,6 @@
       "src": "CDC EID",
       "head": "Evaluation of Trichodysplasia Spinulosa Polyomavirus in Skin Biopsies, United States",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-1264_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-09-21",
-      "ts": "2026-09-21T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Cocirculation of Human Monkeypox Virus Clade 1b with Varicella Zoster Virus, Uganda",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1264_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -239,6 +225,20 @@
       "date": "2026-09-21",
       "ts": "2026-09-21T04:00:00+00:00",
       "src": "CDC EID",
+      "head": "Cocirculation of Human Monkeypox Virus Clade 1b with Varicella Zoster Virus, Uganda",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1264_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-21",
+      "ts": "2026-09-21T04:00:00+00:00",
+      "src": "CDC EID",
       "head": "Haemophilus ducreyi Bacteria Causing Cutaneous Ulcer Outbreak in Children, Sierra Leone, December 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0727_article",
       "loc": "Atlanta",
@@ -253,7 +253,7 @@
       "date": "2026-09-21",
       "ts": "2026-09-21T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Smallpox Military Policy and Decisive Actions of George Washington",
+      "head": "Smallpox History and Decisive Actions of George Washington",
       "url": "https://wwwnc.cdc.gov/eid/article/32/10/ac-3210_article",
       "loc": "Atlanta",
       "lang": "en",
@@ -281,8 +281,8 @@
       "date": "2026-09-18",
       "ts": "2026-09-18T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Emergence of Plasmodium malariae and Co-endemicity of 3 Plasmodium Species Parasites, Khanh Hoa Province, Vietnam, 2023–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0751_article",
+      "head": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Virus in Cat and Rats during Outbreak in Backyard Poultry, United States, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0418_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -295,8 +295,8 @@
       "date": "2026-09-18",
       "ts": "2026-09-18T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Detection of Highly Pathogenic Avian Influenza A(H5N1) Virus in Cat and Rats during Outbreak in Backyard Poultry, United States, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0418_article",
+      "head": "Emergence of Plasmodium malariae and Co-endemicity of 3 Plasmodium Species Parasites, Khanh Hoa Province, Vietnam, 2023–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0751_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -323,8 +323,8 @@
       "date": "2026-09-17",
       "ts": "2026-09-17T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Persistent Bartonella quintana Infection in Macaques at Primate Research Institute, Japan",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0771_article",
+      "head": "Genomic Epidemiology of Salmonella enterica Serovar Hadar Strain Linked to Poultry-Associated Salmonellosis Outbreaks, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0501_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -337,8 +337,8 @@
       "date": "2026-09-17",
       "ts": "2026-09-17T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Genomic Epidemiology of Salmonella enterica Serovar Hadar Strain Linked to Poultry-Associated Salmonellosis Outbreaks, United States",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0501_article",
+      "head": "Persistent Bartonella quintana Infection in Macaques at Primate Research Institute, Japan",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0771_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -393,8 +393,8 @@
       "date": "2026-09-16",
       "ts": "2026-09-16T04:00:00+00:00",
       "src": "CDC EID",
-      "head": "Experimental Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Alpacas, 2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0491_article",
+      "head": "Multiple Introductions and Cross-Sector Transmission of Salmonella enterica Serovar Infantis Carrying blaCTX-M-65 Gene, South Korea, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/10/25-1758_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
