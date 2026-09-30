@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T04:07:42.951912+00:00",
+  "generated_at": "2026-09-30T10:38:32.363105+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
@@ -336,6 +336,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Jezebel",
+      "head": "Thanks to RFK Jr ., the CDC Is a Husk of What It Once Was , New Report Says",
+      "url": "https://www.jezebel.com/thanks-to-rfk-jr-the-cdc-is-a-husk-of-what-it-once-was-new-report-says",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Irishtimes",
+      "head": "Irish Army next big mission : California , Orlando and New York – The Irish Times",
+      "url": "https://www.irishtimes.com/ireland/2026/09/27/irish-armys-next-big-mission-california-orlando-and-new-york/",
+      "loc": "Ireland",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Ireland"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Newsroomamerica",
       "head": "Tag : gaza newsroomamerica . com",
       "url": "https://newsroomamerica.com/tag/gaza",
@@ -434,36 +464,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ettoday",
-      "head": "謝國樑談竹北破局 「 藍白應檢討 」 基隆非常順利不需要擔心 | ETtoday政治新聞",
-      "url": "https://www.ettoday.net/news/20260913/3236551.htm",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ecolounge",
-      "head": "Baglyokkal a halálos vírus ellen ? ",
-      "url": "https://ecolounge.hu/vadon/baglyokkal-a-halalos-virus-ellen",
-      "loc": "Hungary",
-      "lang": "Hungarian",
-      "tags": [
-        "Hungarian",
-        "Hungary"
       ],
       "live": true
     }
