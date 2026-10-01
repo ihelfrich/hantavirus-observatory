@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T14:12:07.009297+00:00",
+  "generated_at": "2026-10-01T19:41:09.052206+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 33,
+  "count": 34,
   "items": [
     {
       "time": "22:47",
@@ -343,6 +343,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Newsroomamerica",
+      "head": "Tag : kamala _ harris",
+      "url": "https://newsroomamerica.com/tag/kamala_harris",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
