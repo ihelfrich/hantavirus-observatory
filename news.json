@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T21:12:52.808861+00:00",
+  "generated_at": "2026-10-01T00:41:07.498636+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 32,
+  "count": 33,
   "items": [
     {
       "time": "22:47",
@@ -49,6 +49,20 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-09-30",
+      "ts": "2026-09-30T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Pediatric Deaths during Measles Outbreak, Jerusalem, Israel, 2025–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1397_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
