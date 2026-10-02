@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T16:29:51.393411+00:00",
+  "generated_at": "2026-10-02T20:54:49.456270+00:00",
   "sources": [
-    "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 34,
+  "count": 37,
   "items": [
     {
       "time": "22:47",
@@ -49,6 +49,48 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-02",
+      "ts": "2026-10-02T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "The Impermanence of Public Health Gains—Lessons Learned from Measles Resurgence, Bangladesh, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1019_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-02",
+      "ts": "2026-10-02T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Serologic Assessment of Public Health Action Needed for Trachoma, Coastal Ecuador, 2021–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1024_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-02",
+      "ts": "2026-10-02T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Nationwide Surveillance and Control Measures during Large Measles Outbreak, Bangladesh, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0996_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
