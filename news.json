@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T22:45:40.646297+00:00",
+  "generated_at": "2026-10-08T02:32:29.805496+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 37,
+  "count": 28,
   "items": [
     {
       "time": "22:47",
@@ -19,36 +19,6 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "G1",
-      "head": "SC registra segunda morte por hantavirose em 2026",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/sc-segunda-morte-hantavirose-2026-doenca-transmitida-ratos-silvestres.ghtml",
-      "loc": "Brazil",
-      "lang": "Portuguese",
-      "tags": [
-        "Portuguese",
-        "Brazil"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Kotatv",
-      "head": "CDC Confirms No Hantavirus in Pine Ridge Public Health Check",
-      "url": "https://www.kotatv.com/2026/09/23/cdc-testing-finds-no-confirmed-hantavirus-infection-pine-ridge/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -430,111 +400,6 @@
       "tags": [
         "English",
         "Ireland"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsroomamerica",
-      "head": "Tag : gaza newsroomamerica . com",
-      "url": "https://newsroomamerica.com/tag/gaza",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsroomamerica",
-      "head": "Tag : cuba newsroomamerica . com",
-      "url": "https://newsroomamerica.com/tag/cuba",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Brandonsun",
-      "head": "  This is torture : Lives of Congolese people disrupted by Canada Ebola travel ban – Brandon Sun",
-      "url": "https://www.brandonsun.com/lifestyles/2026/09/22/this-is-torture-lives-of-congolese-people-disrupted-by-canadas-ebola-travel-ban",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Stcatharinesstandard",
-      "head": "  This is torture : Lives of Congolese people disrupted by Canada Ebola travel ban",
-      "url": "https://www.stcatharinesstandard.ca/news/canada/this-is-torture-lives-of-congolese-people-disrupted-by-canada-s-ebola-travel-ban/article_899a9281-9565-58eb-a3ae-b397cd0728bc.html",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Torontosun",
-      "head": "Cruise passengers put in lockdown after man jumps overboard",
-      "url": "https://torontosun.com/news/world/carnival-cruise-passengers-lockdown-man-jumps-overboard",
-      "loc": "Canada",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Canada"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsroomamerica",
-      "head": "Tag : ebola newsroomamerica . com",
-      "url": "https://newsroomamerica.com/tag/ebola",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Newsroomamerica",
-      "head": "Tag : measles",
-      "url": "https://newsroomamerica.com/tag/measles",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     }
