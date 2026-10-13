@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T19:56:12.713180+00:00",
+  "generated_at": "2026-10-13T01:51:41.580152+00:00",
   "sources": [
-    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 28,
+  "count": 26,
   "items": [
     {
       "time": "22:47",
@@ -370,36 +370,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Jezebel",
-      "head": "Thanks to RFK Jr ., the CDC Is a Husk of What It Once Was , New Report Says",
-      "url": "https://www.jezebel.com/thanks-to-rfk-jr-the-cdc-is-a-husk-of-what-it-once-was-new-report-says",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Irishtimes",
-      "head": "Irish Army next big mission : California , Orlando and New York – The Irish Times",
-      "url": "https://www.irishtimes.com/ireland/2026/09/27/irish-armys-next-big-mission-california-orlando-and-new-york/",
-      "loc": "Ireland",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Ireland"
       ],
       "live": true
     }
