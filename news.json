@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T15:53:58.027504+00:00",
+  "generated_at": "2026-10-14T19:59:10.387186+00:00",
   "sources": [
-    "CDC EID",
     "OutbreakNewsToday",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 31,
+  "count": 35,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,62 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-14",
+      "ts": "2026-10-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Predictors and Patterns of Metastatic Candidozyma auris Infection, Spain, 2016–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0984_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-14",
+      "ts": "2026-10-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Emergence of Novel Macrolide-Resistant Mycoplasma pneumoniae Sequence Type 3 Subclades in Children after COVID-19 Pandemic, Taiwan",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0439_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-14",
+      "ts": "2026-10-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Five-Biomarker Definition for Hypervirulent Klebsiella pneumoniae Bloodstream Infection and Abscess Complications, Japan, 2022–2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0825_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-14",
+      "ts": "2026-10-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Microbial Etiology of Postoperative Spinal Fusion Infections and Factors Associated with Gram-Negative Infections, United States, 2021–2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0662_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
