@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T17:36:52.472953+00:00",
+  "generated_at": "2026-10-15T20:57:44.135337+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 36,
+  "count": 41,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,76 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-15",
+      "ts": "2026-10-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Transmission Dynamics of Dengue Virus, Ceará State, Brazil, 2010–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0609_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-15",
+      "ts": "2026-10-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Differentiating Avian and Seasonal Influenza Viruses in Wastewater by Digital PCR",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1234_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-15",
+      "ts": "2026-10-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Community Transmission of Pneumonic Plague, Fenoarivobe, Madagascar, 2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0549_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-15",
+      "ts": "2026-10-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Disseminated Trimethoprim/Sulfamethoxazole–Resistant Nocardiosis in Renal Transplant Recipient, India",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0963_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-15",
+      "ts": "2026-10-15T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Systemic Spiroplasma turonicum Infection Manifested as Knee Arthritis, France, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1001_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -502,14 +572,14 @@
       "time": "—",
       "date": "",
       "ts": "",
-      "src": "Newsroomamerica",
-      "head": "Tag : kamala _ harris",
-      "url": "https://newsroomamerica.com/tag/kamala_harris",
-      "loc": "United States",
+      "src": "Riotimesonline",
+      "head": "Torres del Paine O Circuit Could Reopen 1 November 2026",
+      "url": "https://www.riotimesonline.com/torres-del-paine-o-circuit-reopening-november-2026/",
+      "loc": "Brazil",
       "lang": "English",
       "tags": [
         "English",
-        "United States"
+        "Brazil"
       ],
       "live": true
     }
