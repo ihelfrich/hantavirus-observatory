@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T23:07:05.396588+00:00",
+  "generated_at": "2026-10-15T01:39:41.842140+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 35,
+  "count": 36,
   "items": [
     {
       "time": "22:47",
@@ -43,6 +43,20 @@
       "src": "CDC EID",
       "head": "Emergence of Novel Macrolide-Resistant Mycoplasma pneumoniae Sequence Type 3 Subclades in Children after COVID-19 Pandemic, Taiwan",
       "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0439_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-14",
+      "ts": "2026-10-14T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Invasive Enterovirus and Parechovirus Infections in Adults, Alberta, Canada, 2023–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0941_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
