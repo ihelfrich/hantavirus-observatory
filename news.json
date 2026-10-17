@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T23:15:37.988384+00:00",
+  "generated_at": "2026-10-17T01:24:49.660230+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 46,
+  "count": 48,
   "items": [
     {
       "time": "22:47",
@@ -635,6 +635,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Esquire",
+      "head": "Another Tragic Reminder : Too . Many . Damn . Guns . ",
+      "url": "https://www.esquire.com/news-politics/politics/a74163781/bend-oregon-school-shooting/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 829 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/829/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
