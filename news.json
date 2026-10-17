@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T16:51:11.275990+00:00",
+  "generated_at": "2026-10-17T19:01:47.368387+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
     "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 48,
+  "count": 53,
   "items": [
     {
       "time": "22:47",
@@ -635,6 +635,81 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 833 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/833/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Brasilpost",
+      "head": "Cocô de Rato , Gambá ou Lagartixa : Como Reconhecer",
+      "url": "https://brasilpost.com.br/coco-de-rato-gamba-ou-lagartixa/",
+      "loc": "Brazil",
+      "lang": "Portuguese",
+      "tags": [
+        "Portuguese",
+        "Brazil"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 832 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/832/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "T13",
+      "head": "Habla mujer que fue mordida por una culebra en Putaendo :  Se suponía que la culebra chilena no es peligrosa  ",
+      "url": "https://www.t13.cl/noticia/nacional/habla-mujer-fue-mordida-por-una-culebra-putaendo-se-suponia-culebra-chilena-no-17-10-2026",
+      "loc": "Chile",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Chile"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Timesleader",
+      "head": "Commentary : Vote to protect public health",
+      "url": "https://www.timesleader.com/opinion/1762679/commentary-vote-to-protect-public-health",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
