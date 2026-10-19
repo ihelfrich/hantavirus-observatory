@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T20:22:37.348443+00:00",
+  "generated_at": "2026-10-19T23:51:40.812312+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 53,
+  "count": 58,
   "items": [
     {
       "time": "22:47",
@@ -635,6 +635,81 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CJR",
+      "head": "What Is a White House Press Secretary For ? - Columbia Journalism Review",
+      "url": "https://www.cjr.org/the_media_today/what-is-a-white-house-press-secretary-for-katie-zacharia-five-days-correspondents-association-future.php",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 838 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/838/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 836 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/836/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Guardian",
+      "head": "The Guardian view on plague in Russia : what is most worrying is the lack of information | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information",
+      "loc": "United Kingdom",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United Kingdom"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 835 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/835/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
       ],
       "live": true
     },
