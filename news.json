@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T18:36:31.549796+00:00",
+  "generated_at": "2026-10-20T22:07:42.083226+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 58,
+  "count": 65,
   "items": [
     {
       "time": "22:47",
@@ -635,6 +635,111 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Epochtimes",
+      "head": "涉散布疫情假訊息 藍營議員助理獲緩起訴 | 高雄 | 漢他病毒 | 造謠",
+      "url": "http://www.epochtimes.com.tw/n516294/%E6%B6%89%E6%95%A3%E5%B8%83%E7%96%AB%E6%83%85%E5%81%87%E8%A8%8A%E6%81%AF-%E8%97%8D%E7%87%9F%E8%AD%B0%E5%93%A1%E5%8A%A9%E7%90%86%E7%8D%B2%E7%B7%A9%E8%B5%B7%E8%A8%B4.html",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Insideottawavalley",
+      "head": "How to rid your Ontario home of rodents this fall and winter",
+      "url": "https://www.insideottawavalley.com/news/how-to-keep-rats-mice-out-in-ontario/article_cd9f19ba-d1aa-59d4-bb1e-d257e010376f.html",
+      "loc": "Canada",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Canada"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Ettoday",
+      "head": "造謠高雄漢他病毒病例 「 雙北5倍 」 藍營議員助理緩起訴罰3萬",
+      "url": "https://www.ettoday.net/news/20261020/3257889.htm",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "男涉散布高雄漢他病毒病例為雙北5倍 坦承犯行獲緩起訴 | 社會",
+      "url": "https://www.cna.com.tw/news/asoc/202610200140.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "SETN",
+      "head": "爆高雄有20例漢他病毒 ！ 造謠者竟是 「 藍營議員助理 」 下場曝光 | 社會 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1925434",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "CNA",
+      "head": "男涉散布高雄漢他病毒病例為雙北5倍 坦承犯行獲緩起訴 | 社會",
+      "url": "https://www.cna.com.tw:443/news/asoc/202610200140.aspx",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "NEWS",
+      "head": "粉專造謠高雄漢他病毒病例雙北5倍 幕後黑手是藍營議員助理 - 社會",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5612154",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
       ],
       "live": true
     },
