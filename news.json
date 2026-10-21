@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T20:17:53.221623+00:00",
+  "generated_at": "2026-10-21T23:31:27.670550+00:00",
   "sources": [
+    "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 65,
+  "count": 66,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Eurasiareview",
+      "head": "Scientists Reveal How Deadly Andes Hantavirus Attaches To Human Cells",
+      "url": "https://www.eurasiareview.com/21102026-scientists-reveal-how-deadly-andes-hantavirus-attaches-to-human-cells/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
