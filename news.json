@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T23:31:27.670550+00:00",
+  "generated_at": "2026-10-22T03:25:12.983813+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 66,
+  "count": 67,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KTBS",
+      "head": "LSU Health Shreveport researchers unlock how hantavirus infects humans",
+      "url": "https://www.ktbs.com/news/incaseyoumissedit/lsu-health-shreveport-researchers-unlock-how-hantavirus-infects-humans/article_5cff8203-8f71-4230-bba4-389386e56bff.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
