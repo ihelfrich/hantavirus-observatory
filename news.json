@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T00:49:01.657782+00:00",
+  "generated_at": "2026-10-23T05:45:04.542999+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 67,
+  "count": 70,
   "items": [
     {
       "time": "22:47",
@@ -19,6 +19,36 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Econotimes",
+      "head": "Andes Virus Study Reveals How Its Spike Binds a Human Cell Receptor",
+      "url": "https://econotimes.com/Andes-Virus-Study-Reveals-How-Its-Spike-Binds-a-Human-Cell-Receptor-1759782",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Westcentralsbest",
+      "head": "LSU Health Shreveport researchers unlock how hantavirus infects humans",
+      "url": "https://www.westcentralsbest.com/news/state/lsu-health-shreveport-researchers-unlock-how-hantavirus-infects-humans/article_68ef554a-5c9a-502d-8257-2184c19a3a01.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
@@ -672,6 +702,51 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Singtaousa",
+      "head": "美國CDC以其他優先事項為由 拒絕驗證高通量麻疹檢測引發西岸四州衛生官員施壓",
+      "url": "https://www.singtaousa.com/2026/10/22/news/usa/cdc-denies-approval-for-high-volume-measles-test-citing-other-priorities/",
+      "loc": "China",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "China"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 848 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/848/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Pravda",
+      "head": "На Франківщині зафіксовано випадок хантавірусної інфекції - Новини Івано - Франківська",
+      "url": "https://pravda.if.ua/na-frankivshhyni-zafiksovano-vypadok-hantavirusnoyi-infekcziyi/",
+      "loc": "Ukraine",
+      "lang": "Ukrainian",
+      "tags": [
+        "Ukrainian",
+        "Ukraine"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Epochtimes",
       "head": "涉散布疫情假訊息 藍營議員助理獲緩起訴 | 高雄 | 漢他病毒 | 造謠",
       "url": "http://www.epochtimes.com.tw/n516294/%E6%B6%89%E6%95%A3%E5%B8%83%E7%96%AB%E6%83%85%E5%81%87%E8%A8%8A%E6%81%AF-%E8%97%8D%E7%87%9F%E8%AD%B0%E5%93%A1%E5%8A%A9%E7%90%86%E7%8D%B2%E7%B7%A9%E8%B5%B7%E8%A8%B4.html",
@@ -935,36 +1010,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Sayfa 829 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/page/829/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Riotimesonline",
-      "head": "Torres del Paine O Circuit Could Reopen 1 November 2026",
-      "url": "https://www.riotimesonline.com/torres-del-paine-o-circuit-reopening-november-2026/",
-      "loc": "Brazil",
-      "lang": "English",
-      "tags": [
-        "English",
-        "Brazil"
       ],
       "live": true
     }
