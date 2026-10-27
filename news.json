@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T15:57:04.746348+00:00",
+  "generated_at": "2026-10-27T20:29:54.095728+00:00",
   "sources": [
     "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 50,
+  "count": 55,
   "items": [
     {
       "time": "22:47",
@@ -79,6 +79,76 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-27",
+      "ts": "2026-10-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Estimated Illness Linked to Animal Contact for 7 Pathogens, United States, 2019",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0787_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-27",
+      "ts": "2026-10-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Wild Mice and Shrews as Natural Reservoirs of Emerging Tickborne Yezo Virus, Hokkaido, Japan, 2023–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0298_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-27",
+      "ts": "2026-10-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Mayaro Virus Emergence and Genetic Dynamics, Peru",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/25-1211_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-27",
+      "ts": "2026-10-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Natural Occurrence of Primate SLAM-Adapted Canine Distemper Virus, Brazil, 2018",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0946_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-27",
+      "ts": "2026-10-27T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Oropouche Fever Outbreak, Havana, Cuba, June–September 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/25-1334_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
