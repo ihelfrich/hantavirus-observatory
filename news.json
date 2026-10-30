@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T18:44:04.537450+00:00",
+  "generated_at": "2026-10-30T22:47:50.815964+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 55,
+  "count": 58,
   "items": [
     {
       "time": "22:47",
@@ -79,6 +79,48 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-30",
+      "ts": "2026-10-30T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Leptospira Exposure in Urban River Surfers, Germany, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0879_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-30",
+      "ts": "2026-10-30T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Molecular Surveillance for Oropouche, Mayaro, West Nile, and Saint Louis EncephalitisViruses, Brazil, 2019–2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0870_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "04:00",
+      "date": "2026-10-30",
+      "ts": "2026-10-30T04:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Human Armillifer armillatus Infection Mimicking Strangulated Umbilical Hernia, France, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1471_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
