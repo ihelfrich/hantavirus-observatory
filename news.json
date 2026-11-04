@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T15:06:32.347722+00:00",
+  "generated_at": "2026-11-04T21:24:29.830649+00:00",
   "sources": [
     "OutbreakNewsToday",
     "CIDRAP",
     "CDC EID",
     "GDELT"
   ],
-  "count": 53,
+  "count": 57,
   "items": [
     {
       "time": "22:47",
@@ -79,6 +79,62 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-04",
+      "ts": "2026-11-04T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Monkeypox Virus Seroprevalence among Adults Assessed at Roadside Wellness Centers along Major Transportation Corridor, Kenya, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0957_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-04",
+      "ts": "2026-11-04T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Livestock-Associated Methicillin-Susceptible Staphylococcus aureus Bacteremia, Denmark, 2007–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1261_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-04",
+      "ts": "2026-11-04T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Indirect Healthcare-Associated Canine Sporotrichosis Caused by Sporothrix brasiliensis, Argentina, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1410_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-04",
+      "ts": "2026-11-04T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Serologic Evidence of Avian Influenza Virus Exposure in Livestock, Egypt, 2024–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0869_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
