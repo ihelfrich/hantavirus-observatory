@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T08:59:09.351435+00:00",
+  "generated_at": "2026-11-05T17:17:08.814889+00:00",
   "sources": [
-    "CIDRAP",
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 57,
@@ -79,6 +79,48 @@
       "tags": [
         "English",
         "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-05",
+      "ts": "2026-11-05T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Detection of Mycobacterium ulcerans DNA in African Fruit Bats, Cameroon, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1277_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-05",
+      "ts": "2026-11-05T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Osteomyelitis Caused by Metamycoplasma gateae after Cat Bite, Japan, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0515_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-05",
+      "ts": "2026-11-05T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Characteristics of and Clinical Criteria for Oropouche Virus Disease, United States, May 2024–January 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/14/25-1322_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
       ],
       "live": true
     },
@@ -383,48 +425,6 @@
       "src": "CDC EID",
       "head": "Typhoid Fever–Like Manifestation of Scrub Typhus in Patient with Myelodysplastic Syndrome, China, 2025",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0686_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-22",
-      "ts": "2026-10-22T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Isolation of Orientia tsutsugamushi from Bat-Associated Chiggers, Japan",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1156_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-19",
-      "ts": "2026-10-19T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Infectious African Swine Fever Virus in Spray-Dried Porcine Plasma Used as Feed Ingredient, South Korea, 2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1380_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-19",
-      "ts": "2026-10-19T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Emergence of Shamonda Orthobunyavirus, Central Europe, 2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1496_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
