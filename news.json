@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-06T11:19:32.715747+00:00",
+  "generated_at": "2026-11-06T18:14:06.607484+00:00",
   "sources": [
-    "CDC EID",
-    "OutbreakNewsToday",
     "CIDRAP",
+    "OutbreakNewsToday",
+    "CDC EID",
     "GDELT"
   ],
-  "count": 57,
+  "count": 52,
   "items": [
     {
       "time": "22:47",
@@ -19,66 +19,6 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Econotimes",
-      "head": "Andes Virus Study Reveals How Its Spike Binds a Human Cell Receptor",
-      "url": "https://econotimes.com/Andes-Virus-Study-Reveals-How-Its-Spike-Binds-a-Human-Cell-Receptor-1759782",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Westcentralsbest",
-      "head": "LSU Health Shreveport researchers unlock how hantavirus infects humans",
-      "url": "https://www.westcentralsbest.com/news/state/lsu-health-shreveport-researchers-unlock-how-hantavirus-infects-humans/article_68ef554a-5c9a-502d-8257-2184c19a3a01.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "KTBS",
-      "head": "LSU Health Shreveport researchers unlock how hantavirus infects humans",
-      "url": "https://www.ktbs.com/news/incaseyoumissedit/lsu-health-shreveport-researchers-unlock-how-hantavirus-infects-humans/article_5cff8203-8f71-4230-bba4-389386e56bff.html",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Eurasiareview",
-      "head": "Scientists Reveal How Deadly Andes Hantavirus Attaches To Human Cells",
-      "url": "https://www.eurasiareview.com/21102026-scientists-reveal-how-deadly-andes-hantavirus-attaches-to-human-cells/",
-      "loc": "United States",
-      "lang": "English",
-      "tags": [
-        "English",
-        "United States"
       ],
       "live": true
     },
@@ -702,6 +642,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 901 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/901/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "UDN",
+      "head": "台北鼠患曾引話題 桃園廚餘處理機補助今放寬 | 桃竹苗 | 地方",
+      "url": "https://udn.com/news/story/7324/9861378",
+      "loc": "Taiwan",
+      "lang": "Chinese",
+      "tags": [
+        "Chinese",
+        "Taiwan"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Ammonnews",
       "head": "أكاديمي روسي : فيروس  هانتا  قد يجتاح العالم | صحة وبيئة",
       "url": "https://www.ammonnews.net/article/1039272",
@@ -770,51 +740,6 @@
       "tags": [
         "Russian",
         "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Singtaousa",
-      "head": "美國CDC以其他優先事項為由 拒絕驗證高通量麻疹檢測引發西岸四州衛生官員施壓",
-      "url": "https://www.singtaousa.com/2026/10/22/news/usa/cdc-denies-approval-for-high-volume-measles-test-citing-other-priorities/",
-      "loc": "China",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "China"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Sayfa 848 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/page/848/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Pravda",
-      "head": "На Франківщині зафіксовано випадок хантавірусної інфекції - Новини Івано - Франківська",
-      "url": "https://pravda.if.ua/na-frankivshhyni-zafiksovano-vypadok-hantavirusnoyi-infekcziyi/",
-      "loc": "Ukraine",
-      "lang": "Ukrainian",
-      "tags": [
-        "Ukrainian",
-        "Ukraine"
       ],
       "live": true
     }
