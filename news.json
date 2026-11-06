@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T03:11:44.542932+00:00",
+  "generated_at": "2026-11-06T11:19:32.715747+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 57,
@@ -87,6 +87,34 @@
       "date": "2026-11-05",
       "ts": "2026-11-05T05:00:00+00:00",
       "src": "CDC EID",
+      "head": "Cryptic Invasion and Transmission Dynamics of Peste des Petits Ruminants Virus, Europe, 2024–2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1012_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-05",
+      "ts": "2026-11-05T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Rat Hepatitis E Virus Circulation in Brown Rats from 8 Cities, France, 2021–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0926_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-05",
+      "ts": "2026-11-05T05:00:00+00:00",
+      "src": "CDC EID",
       "head": "Detection of Mycobacterium ulcerans DNA in African Fruit Bats, Cameroon, 2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1277_article",
       "loc": "Atlanta",
@@ -103,6 +131,20 @@
       "src": "CDC EID",
       "head": "Osteomyelitis Caused by Metamycoplasma gateae after Cat Bite, Japan, 2026",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0515_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-05",
+      "ts": "2026-11-05T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Using Cover Art from Emerging Infectious Diseases to Inspire Microbiological Education",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0532_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -383,48 +425,6 @@
       "src": "CDC EID",
       "head": "Natural Occurrence of Primate SLAM-Adapted Canine Distemper Virus, Brazil, 2018",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0946_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-27",
-      "ts": "2026-10-27T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Oropouche Fever Outbreak, Havana, Cuba, June–September 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/25-1334_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-23",
-      "ts": "2026-10-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Identification of Zoonotic Pteropine orthoreovirus in Rousettus amplexicaudatus Fruit Bats, Indonesia",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/25-1991_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-23",
-      "ts": "2026-10-23T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Typhoid Fever–Like Manifestation of Scrub Typhus in Patient with Myelodysplastic Syndrome, China, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0686_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
