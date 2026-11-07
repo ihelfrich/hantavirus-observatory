@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T16:44:35.207809+00:00",
+  "generated_at": "2026-11-07T20:40:17.951128+00:00",
   "sources": [
+    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
-    "CIDRAP",
     "GDELT"
   ],
-  "count": 52,
+  "count": 48,
   "items": [
     {
       "time": "22:47",
@@ -643,6 +643,21 @@
       "date": "",
       "ts": "",
       "src": "Habersefi",
+      "head": "Sayfa 904 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/904/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
       "head": "Sayfa 901 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
       "url": "https://habersefi.com/page/901/",
       "loc": "Turkey",
@@ -665,81 +680,6 @@
       "tags": [
         "Chinese",
         "Taiwan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Ammonnews",
-      "head": "أكاديمي روسي : فيروس  هانتا  قد يجتاح العالم | صحة وبيئة",
-      "url": "https://www.ammonnews.net/article/1039272",
-      "loc": "Jordan",
-      "lang": "Arabic",
-      "tags": [
-        "Arabic",
-        "Jordan"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "URA",
-      "head": "Опасен ли хантавирус : дойдет ли до России , мнение вирусолога",
-      "url": "https://ura.news/news/1053138668",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Sayfa 856 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/page/856/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Tvzvezda",
-      "head": "Вирусолог предупредил , что хантавирус Андес может разлететься по миру",
-      "url": "https://tvzvezda.ru/news/202610241116-RernM.html",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Vesti",
-      "head": "Хантавирус Андес может распространиться по миру - Новости на Вести . ru",
-      "url": "https://www.vesti.ru/ns/khantavirus-andes-mozhet-rasprostranitsya-po-miru",
-      "loc": "Russia",
-      "lang": "Russian",
-      "tags": [
-        "Russian",
-        "Russia"
       ],
       "live": true
     }
