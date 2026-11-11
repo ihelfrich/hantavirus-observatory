@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:20:59.071000+00:00",
+  "generated_at": "2026-11-11T00:09:44.784764+00:00",
   "sources": [
     "CIDRAP",
     "CDC EID",
@@ -8,6 +8,20 @@
   ],
   "count": 49,
   "items": [
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Rat Hepatitis E Virus and Seoul Hantavirus in Pet Rats, Germany",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1208_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
     {
       "time": "22:47",
       "date": "2026-07-02",
@@ -55,6 +69,34 @@
       "date": "2026-11-10",
       "ts": "2026-11-10T05:00:00+00:00",
       "src": "CDC EID",
+      "head": "Emerging Protoparvovirus in Pigs and Wildlife, Denmark",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1184_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Natural Trichuris trichiura Infections in Endemic Hydromyini Rodents, Papua New Guinea, 2019–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1101_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
       "head": "Heartland Virus in Lone Star Ticks, South Carolina, USA, 2021–2024",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0320_article",
       "loc": "Atlanta",
@@ -71,6 +113,34 @@
       "src": "CDC EID",
       "head": "Cross-Protection against Influenza A(H5) Clade 2.3.4.4b Viruses after A(H1N1)pdm09 Infection",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1032_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "New World Ocular Dirofilariasis Caused by Dirofilaria repens Infection, United States",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1388_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Lazarus and the Dogs—from Healing Symbol to Zoonotic Risk",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/ac-3212_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -295,76 +365,6 @@
       "src": "CDC EID",
       "head": "Zoonotic Exposure to Porcine Deltacoronavirus, United States, 2019–2021",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0303_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "05:00",
-      "date": "2026-11-02",
-      "ts": "2026-11-02T05:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Neoehrlichia mikurensis Infection in Immunocompromised Patient, the Netherlands, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1316_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "05:00",
-      "date": "2026-11-02",
-      "ts": "2026-11-02T05:00:00+00:00",
-      "src": "CDC EID",
-      "head": "An Old Enemy Returns",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1043_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-30",
-      "ts": "2026-10-30T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Leptospira Exposure in Urban River Surfers, Germany, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0879_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-30",
-      "ts": "2026-10-30T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Molecular Surveillance for Oropouche, Mayaro, West Nile, and Saint Louis EncephalitisViruses, Brazil, 2019–2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0870_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "04:00",
-      "date": "2026-10-30",
-      "ts": "2026-10-30T04:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Human Armillifer armillatus Infection Mimicking Strangulated Umbilical Hernia, France, 2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1471_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
