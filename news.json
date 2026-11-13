@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T23:58:04.101393+00:00",
+  "generated_at": "2026-11-13T06:05:02.864756+00:00",
   "sources": [
-    "OutbreakNewsToday",
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 49,
+  "count": 50,
   "items": [
     {
       "time": "05:00",
@@ -33,6 +33,21 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "La Nación",
+      "head": "Exhaustiva investigación internacional : el  caso 13 ″, clave del brote de hantavirus en un crucero que impactó al mundo",
+      "url": "https://www.lanacion.com.ar/sociedad/exhaustiva-investigacion-internacional-el-caso-13-clave-en-el-brote-de-hantavirus-en-un-crucero-que-nid12112026/",
+      "loc": "Argentina",
+      "lang": "Spanish",
+      "tags": [
+        "Spanish",
+        "Argentina"
       ],
       "live": true
     },
