@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T01:08:05.239745+00:00",
+  "generated_at": "2026-11-18T08:52:50.359412+00:00",
   "sources": [
     "CDC EID",
-    "CIDRAP",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
   "count": 50,
@@ -70,36 +70,8 @@
       "date": "2026-11-10",
       "ts": "2026-11-10T05:00:00+00:00",
       "src": "CDC EID",
-      "head": "Human Discovertebral Infection Caused by Camelimonas Species Bacteria, France, 2025",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0924_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "05:00",
-      "date": "2026-11-10",
-      "ts": "2026-11-10T05:00:00+00:00",
-      "src": "CDC EID",
       "head": "Emerging Protoparvovirus in Pigs and Wildlife, Denmark",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1184_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
-      ],
-      "live": true
-    },
-    {
-      "time": "05:00",
-      "date": "2026-11-10",
-      "ts": "2026-11-10T05:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Natural Trichuris trichiura Infections in Endemic Hydromyini Rodents, Papua New Guinea, 2019–2023",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1101_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -128,6 +100,34 @@
       "src": "CDC EID",
       "head": "Cross-Protection against Influenza A(H5) Clade 2.3.4.4b Viruses after A(H1N1)pdm09 Infection",
       "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1032_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Natural Trichuris trichiura Infections in Endemic Hydromyini Rodents, Papua New Guinea, 2019–2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1101_article",
+      "loc": "Atlanta",
+      "lang": "en",
+      "tags": [
+        "CDC EID"
+      ],
+      "live": true
+    },
+    {
+      "time": "05:00",
+      "date": "2026-11-10",
+      "ts": "2026-11-10T05:00:00+00:00",
+      "src": "CDC EID",
+      "head": "Human Discovertebral Infection Caused by Camelimonas Species Bacteria, France, 2025",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0924_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -196,8 +196,8 @@
       "date": "2026-11-05",
       "ts": "2026-11-05T05:00:00+00:00",
       "src": "CDC EID",
-      "head": "Detection of Mycobacterium ulcerans DNA in African Fruit Bats, Cameroon, 2024",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1277_article",
+      "head": "Osteomyelitis Caused by Metamycoplasma gateae after Cat Bite, Japan, 2026",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0515_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
@@ -210,8 +210,8 @@
       "date": "2026-11-05",
       "ts": "2026-11-05T05:00:00+00:00",
       "src": "CDC EID",
-      "head": "Osteomyelitis Caused by Metamycoplasma gateae after Cat Bite, Japan, 2026",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-0515_article",
+      "head": "Detection of Mycobacterium ulcerans DNA in African Fruit Bats, Cameroon, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/12/26-1277_article",
       "loc": "Atlanta",
       "lang": "en",
       "tags": [
