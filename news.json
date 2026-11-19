@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T15:38:34.753638+00:00",
+  "generated_at": "2026-11-19T22:54:39.646817+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
+    "OutbreakNewsToday",
     "CIDRAP",
     "GDELT"
   ],
-  "count": 28,
+  "count": 27,
   "items": [
     {
       "time": "22:47",
@@ -34,20 +34,6 @@
       "tags": [
         "Spanish",
         "Argentina"
-      ],
-      "live": true
-    },
-    {
-      "time": "05:00",
-      "date": "2026-11-19",
-      "ts": "2026-11-19T05:00:00+00:00",
-      "src": "CDC EID",
-      "head": "Borrelia duttonii",
-      "url": "https://wwwnc.cdc.gov/eid/article/32/14/26-0269_article",
-      "loc": "Atlanta",
-      "lang": "en",
-      "tags": [
-        "CDC EID"
       ],
       "live": true
     },
