@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T03:52:16.473907+00:00",
+  "generated_at": "2026-11-20T12:30:39.326336+00:00",
   "sources": [
+    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
-    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 27,
+  "count": 26,
   "items": [
     {
       "time": "22:47",
@@ -335,6 +335,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Webwire",
+      "head": "National Geographic Greenlights Three Documentary Projects With Extraordinary Access to the People at the Center of Turning Points in Modern History",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=364440",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Habersefi",
       "head": "Sayfa 906 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
       "url": "https://habersefi.com/page/906/",
@@ -358,36 +373,6 @@
       "tags": [
         "Turkish",
         "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Sayfa 901 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/page/901/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "UDN",
-      "head": "台北鼠患曾引話題 桃園廚餘處理機補助今放寬 | 桃竹苗 | 地方",
-      "url": "https://udn.com/news/story/7324/9861378",
-      "loc": "Taiwan",
-      "lang": "Chinese",
-      "tags": [
-        "Chinese",
-        "Taiwan"
       ],
       "live": true
     }
