@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T09:31:35.504601+00:00",
+  "generated_at": "2026-11-21T17:06:54.198831+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
+    "CIDRAP",
     "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 26,
+  "count": 27,
   "items": [
     {
       "time": "22:47",
@@ -335,6 +335,36 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Sciencenews",
+      "head": "Unknown territory",
+      "url": "https://www.sciencenews.org/article/unknown-territory-science-of-2026",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 952 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/952/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Webwire",
       "head": "National Geographic Greenlights Three Documentary Projects With Extraordinary Access to the People at the Center of Turning Points in Modern History",
       "url": "https://www.webwire.com/ViewPressRel.asp?aId=364440",
@@ -353,21 +383,6 @@
       "src": "Habersefi",
       "head": "Sayfa 906 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
       "url": "https://habersefi.com/page/906/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Sayfa 904 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/page/904/",
       "loc": "Turkey",
       "lang": "Turkish",
       "tags": [
