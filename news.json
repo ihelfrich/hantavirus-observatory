@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T22:16:25.596366+00:00",
+  "generated_at": "2026-11-22T02:29:16.297765+00:00",
   "sources": [
-    "OutbreakNewsToday",
     "CDC EID",
     "CIDRAP",
+    "OutbreakNewsToday",
     "GDELT"
   ],
-  "count": 27,
+  "count": 29,
   "items": [
     {
       "time": "22:47",
@@ -328,6 +328,36 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Maitlandmercury",
+      "head": "Bo Derek and John Corbett adopted Gene Hackman dog",
+      "url": "https://www.maitlandmercury.com.au/story/9395844/bo-derek-and-john-corbett-adopted-gene-hackmans-dog/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Illawarramercury",
+      "head": "Bo Derek and John Corbett adopted Gene Hackman dog",
+      "url": "https://www.illawarramercury.com.au/story/9395844/bo-derek-and-john-corbett-adopted-gene-hackmans-dog/",
+      "loc": "Australia",
+      "lang": "English",
+      "tags": [
+        "English",
+        "Australia"
       ],
       "live": true
     },
