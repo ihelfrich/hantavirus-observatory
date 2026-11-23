@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T23:28:31.487022+00:00",
+  "generated_at": "2026-11-23T03:55:34.822126+00:00",
   "sources": [
-    "CDC EID",
     "CIDRAP",
+    "CDC EID",
     "OutbreakNewsToday",
     "GDELT"
   ],
@@ -335,6 +335,21 @@
       "time": "—",
       "date": "",
       "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 953 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/953/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
       "src": "Maitlandmercury",
       "head": "Bo Derek and John Corbett adopted Gene Hackman dog",
       "url": "https://www.maitlandmercury.com.au/story/9395844/bo-derek-and-john-corbett-adopted-gene-hackmans-dog/",
@@ -403,21 +418,6 @@
       "tags": [
         "English",
         "United States"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "Habersefi",
-      "head": "Sayfa 906 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
-      "url": "https://habersefi.com/page/906/",
-      "loc": "Turkey",
-      "lang": "Turkish",
-      "tags": [
-        "Turkish",
-        "Turkey"
       ],
       "live": true
     }
