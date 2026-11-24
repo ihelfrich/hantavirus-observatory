@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-24T01:47:13.449828+00:00",
+  "generated_at": "2026-11-24T12:01:28.955932+00:00",
   "source": "WHO Disease Outbreak News API",
   "count": 50,
   "items": [
+    {
+      "date": "2026-11-23",
+      "ts": "2026-11-23T19:00:00+00:00",
+      "title": "Circulating vaccine-derived poliovirus type 1 – Syrian Arab Republic",
+      "url": "https://www.who.int/2026-DON628",
+      "summary": "In October 2026, a cluster of four cases of acute flaccid paralysis (AFP) was identified in Al-Mayadin District, Deir Ez Zor Governorate, Syrian Arab Republic. As of 13 November 2026, three confirmed cases of circulating vaccine-derived poliovirus type 1 (cVDPV1) have been reported. Vaccine-derived poliovirus type 1 (VDPV1) was also detected in three contacts who did not present with AFP and are t"
+    },
     {
       "date": "2025-02-01",
       "ts": "2025-02-01T07:00:00+00:00",
@@ -86,13 +93,6 @@
       "title": "Enterovirus D68 in the United States of America",
       "url": "https://www.who.int/17-september-2014-enterovirus-en",
       "summary": "On 10 September 2014, the United States of America informed the Pan American Health Organization/World Health Organization (PAHO/WHO) about an outbreak of severe respiratory illness associated with Enterovirus D68 (EV-D68)."
-    },
-    {
-      "date": "2014-08-30",
-      "ts": "2014-08-30T00:00:00+00:00",
-      "title": "Ebola virus disease update - Senegal",
-      "url": "https://www.who.int/2014_08_30_ebola-en",
-      "summary": "On 30 August 2014, Senegal’s Ministry of Public Health and Social Affairs provided WHO with details about a case of Ebola virus disease (EVD) announced in that country on 29 August."
     },
     {
       "date": "2014-08-06",
