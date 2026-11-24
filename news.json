@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-23T14:03:24.821892+00:00",
+  "generated_at": "2026-11-24T01:47:13.362640+00:00",
   "sources": [
     "CIDRAP",
     "OutbreakNewsToday",
     "CDC EID",
     "GDELT"
   ],
-  "count": 29,
+  "count": 30,
   "items": [
     {
       "time": "22:47",
@@ -328,6 +328,21 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Spokesman",
+      "head": "Bo Derek adopted dog found standing guard over body of Gene Hackman wife",
+      "url": "https://www.spokesman.com/stories/2026/nov/23/bo-derek-adopted-dog-found-standing-guard-over-bod/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
