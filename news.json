@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T10:33:06.080200+00:00",
+  "generated_at": "2026-11-27T19:47:48.714615+00:00",
   "sources": [
-    "CIDRAP",
     "CDC EID",
     "OutbreakNewsToday",
+    "CIDRAP",
     "GDELT"
   ],
-  "count": 30,
+  "count": 38,
   "items": [
     {
       "time": "22:47",
@@ -19,21 +19,6 @@
       "lang": "en",
       "tags": [
         "OutbreakNewsToday"
-      ],
-      "live": true
-    },
-    {
-      "time": "—",
-      "date": "",
-      "ts": "",
-      "src": "La Nación",
-      "head": "Exhaustiva investigación internacional : el  caso 13 ″, clave del brote de hantavirus en un crucero que impactó al mundo",
-      "url": "https://www.lanacion.com.ar/sociedad/exhaustiva-investigacion-internacional-el-caso-13-clave-en-el-brote-de-hantavirus-en-un-crucero-que-nid12112026/",
-      "loc": "Argentina",
-      "lang": "Spanish",
-      "tags": [
-        "Spanish",
-        "Argentina"
       ],
       "live": true
     },
@@ -328,6 +313,141 @@
       "lang": "en",
       "tags": [
         "CIDRAP"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WHEC",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.whec.com/ap-top-news/takeaways-from-ap-interview-with-cdc-director-erica-schwartz/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Habersefi",
+      "head": "Sayfa 967 – Haber Şefi – Haberler – Güncel Haberler – Haber Sitesi",
+      "url": "https://habersefi.com/page/967/",
+      "loc": "Turkey",
+      "lang": "Turkish",
+      "tags": [
+        "Turkish",
+        "Turkey"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "WBOC",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.wboc.com/news/national/takeaways-from-ap-interview-with-cdc-director-erica-schwartz/article_b3926b82-1107-5e2b-a287-de3be0c34890.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "News4Jax",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.news4jax.com/health/2026/11/24/takeaways-from-ap-interview-with-cdc-director-erica-schwartz/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KHQA",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.khqa.com/news/nation-world/takeaways-from-ap-interview-with-cdc-director-erica-schwartz/article_d1de36c3-01e3-56c1-9299-8ec459ffb329.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "AOL",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.aol.com/articles/takeaways-ap-interview-cdc-director-211951000.html",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Clickorlando",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.clickorlando.com/health/2026/11/24/takeaways-from-ap-interview-with-cdc-director-erica-schwartz/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "KXL",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.kxl.com/takeaways-from-ap-interview-with-cdc-director-erica-schwartz/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
+      ],
+      "live": true
+    },
+    {
+      "time": "—",
+      "date": "",
+      "ts": "",
+      "src": "Wgauradio",
+      "head": "Takeaways from AP interview with CDC Director Erica Schwartz",
+      "url": "https://www.wgauradio.com/news/health/takeaways-ap/GKZ6F3UZ3Y7VPO7C6OZ6QTXDPQ/",
+      "loc": "United States",
+      "lang": "English",
+      "tags": [
+        "English",
+        "United States"
       ],
       "live": true
     },
